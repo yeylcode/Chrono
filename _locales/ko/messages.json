@@ -1,0 +1,1028 @@
+{
+  "btnAbout": {
+    "message": "\uc815\ubcf4"
+  },
+  "btnAddPaused": {
+    "message": "\uc911\uc9c0\ub41c \uc0c1\ud0dc\ub85c \ucd94\uac00"
+  },
+  "btnApply": {
+    "message": "\uc801\uc6a9"
+  },
+  "btnBackToManager": {
+    "message": "\ub3cc\uc544\uac00\uae30"
+  },
+  "btnCancel": {
+    "message": "\ucde8\uc18c"
+  },
+  "btnClearAll": {
+    "message": "\ubaa8\ub450 \uc9c0\uc6b0\uae30"
+  },
+  "btnClearFailed": {
+    "message": "\uc911\ub2e8\ub41c \uc791\uc5c5 \uc9c0\uc6b0\uae30"
+  },
+  "btnClearFinished": {
+    "message": "\uc644\ub8cc\ub41c \ud560 \uc77c \uc9c0\uc6b0\uae30"
+  },
+  "btnClearRemoved": {
+    "message": "\ub204\ub77d\ub41c \ud30c\uc77c \uc9c0\uc6b0\uae30"
+  },
+  "btnFAQ": {
+    "message": "\uc790\uc8fc \ubb3b\ub294 \uc9c8\ubb38"
+  },
+  "btnGotIt": {
+    "message": "\ud655\uc778"
+  },
+  "btnImportChromeHistory": {
+    "message": "\uac00\uc838\uc624\uae30 \ub0b4\uc5ed"
+  },
+  "btnLater": {
+    "message": "\ub098\uc911\uc5d0"
+  },
+  "btnLoadPreview": {
+    "message": "\ubbf8\ub9ac\ubcf4\uae30 \ub85c\ub4dc"
+  },
+  "btnOpenManager": {
+    "message": "\uad00\ub9ac\uc790 \uc5f4\uae30"
+  },
+  "btnPopRemoveFile": {
+    "message": "\ud30c\uc77c\ub3c4 \uc0ad\uc81c"
+  },
+  "btnPopRemoveList": {
+    "message": "\ubaa9\ub85d\uc5d0\uc11c \uc0ad\uc81c"
+  },
+  "btnRate": {
+    "message": "\ud3c9\uac00"
+  },
+  "btnShareDone": {
+    "message": "\uc774\ubbf8 \ud574\ub0c8\uc5b4"
+  },
+  "btnStart": {
+    "message": "\uc2dc\uc791"
+  },
+  "btnStartAll": {
+    "message": "\ubaa8\ub450 \ub2e4\uc6b4\ub85c\ub4dc"
+  },
+  "btnTakeMeThere": {
+    "message": "YouTube \ubba4\uc9c1\uc73c\ub85c \uc774\ub3d9"
+  },
+  "btnUpdateReload": {
+    "message": "\uc9c0\uae08 \uc0c8\ub85c\uace0\uce68"
+  },
+  "chromesysAllowFileAccess": {
+    "message": "\ud30c\uc77c URL\uc5d0 \ub300\ud55c \uc561\uc138\uc2a4 \ud5c8\uc6a9"
+  },
+  "chromesysChange": {
+    "message": "\ubcc0\uacbd..."
+  },
+  "chromesysDownloadLocation": {
+    "message": "\ub2e4\uc6b4\ub85c\ub4dc \uc704\uce58"
+  },
+  "chromesysDownloadSaveAsPrompt": {
+    "message": "\ub2e4\uc6b4\ub85c\ub4dc \uc804\uc5d0 \uac01 \ud30c\uc77c\uc758 \uc800\uc7a5 \uc704\uce58 \ud655\uc778"
+  },
+  "chromesysDownloadsSection": {
+    "message": "\ub2e4\uc6b4\ub85c\ub4dc"
+  },
+  "chromesysFailedGenericDownloadError": {
+    "message": "\ub2e4\uc6b4\ub85c\ub4dc \uc624\ub958"
+  },
+  "chromesysFailedGenericNetworkError": {
+    "message": "\ub124\ud2b8\uc6cc\ud06c \uc624\ub958"
+  },
+  "chromesysFailed_CRASH": {
+    "message": "\ube44\uc815\uc0c1 \uc885\ub8cc"
+  },
+  "chromesysFailed_FILE_ACCESS_DENIED": {
+    "message": "\uad8c\ud55c \ubd80\uc871"
+  },
+  "chromesysFailed_FILE_BLOCKED": {
+    "message": "\ucc28\ub2e8\ub428"
+  },
+  "chromesysFailed_FILE_NAME_TOO_LONG": {
+    "message": "\uacbd\ub85c\uac00 \ub108\ubb34 \uae40"
+  },
+  "chromesysFailed_FILE_NO_SPACE": {
+    "message": "\ub514\uc2a4\ud06c\uac00 \uac00\ub4dd \ucc38"
+  },
+  "chromesysFailed_FILE_SAME_AS_SOURCE": {
+    "message": "\uc774\ubbf8 \ub2e4\uc6b4\ub85c\ub4dc\ub428"
+  },
+  "chromesysFailed_FILE_SECURITY_CHECK_FAILED": {
+    "message": "\ubc14\uc774\ub7ec\uc2a4 \uac80\uc0ac \uc2e4\ud328"
+  },
+  "chromesysFailed_FILE_TOO_LARGE": {
+    "message": "\ud30c\uc77c\uc774 \ub108\ubb34 \ud07c"
+  },
+  "chromesysFailed_FILE_TOO_SHORT": {
+    "message": "\ud30c\uc77c\uc774 \uc798\ub9bc"
+  },
+  "chromesysFailed_FILE_TRANSIENT_ERROR": {
+    "message": "\uc2dc\uc2a4\ud15c \uc0ac\uc6a9 \uc911"
+  },
+  "chromesysFailed_FILE_VIRUS_INFECTED": {
+    "message": "\ubc14\uc774\ub7ec\uc2a4\uac00 \ubc1c\uacac\ub428"
+  },
+  "chromesysFailed_NETWORK_TIMEOUT": {
+    "message": "\ub124\ud2b8\uc6cc\ud06c \uc2dc\uac04 \ucd08\uacfc"
+  },
+  "chromesysFailed_SERVER_BAD_CONTENT": {
+    "message": "\ud30c\uc77c \uc5c6\uc74c"
+  },
+  "chromesysFailed_SERVER_CERT_PROBLEM": {
+    "message": "\uc798\ubabb\ub41c \uc778\uc99d\uc11c"
+  },
+  "chromesysFailed_SERVER_CONTENT_LENGTH_MISMATCH": {
+    "message": "\ud30c\uc77c \ub2e4\uc6b4\ub85c\ub4dc\uac00 \uc644\ub8cc\ub418\uc9c0 \uc54a\uc74c"
+  },
+  "chromesysFailed_SERVER_FAILED": {
+    "message": "\uc11c\ubc84 \ubb38\uc81c"
+  },
+  "chromesysFailed_SERVER_FORBIDDEN": {
+    "message": "\uae08\uc9c0\ub428"
+  },
+  "chromesysFailed_SERVER_UNAUTHORIZED": {
+    "message": "\uc2b9\uc778 \ud544\uc694"
+  },
+  "chromesysFailed_SERVER_UNREACHABLE": {
+    "message": "\uc11c\ubc84\uc5d0 \uc5f0\uacb0\ud560 \uc218 \uc5c6\uc74c"
+  },
+  "chromesysFailed_USER_CANCELED": {
+    "message": "\ucde8\uc18c\ub428"
+  },
+  "chromesysFailed_USER_SHUTDOWN": {
+    "message": "\uc885\ub8cc"
+  },
+  "chromesysFontSize": {
+    "message": "\uae00\uaf34 \ud06c\uae30"
+  },
+  "chromesysLanguageSection": {
+    "message": "\uc5b8\uc5b4"
+  },
+  "chromesysShowAdvSettings": {
+    "message": "\uace0\uae09 \uc124\uc815 \ud45c\uc2dc"
+  },
+  "chromesysWebStore": {
+    "message": "Chrome \uc6f9 \uc2a4\ud1a0\uc5b4"
+  },
+  "confirmBatchDownload": {
+    "message": "\ub2f9\uc2e0\uc774 \uc77c\uad04 \ub2e4\uc6b4\ub85c\ub4dc\ub97c \uc2dc\uc791\ud558\ub824\ub294\uac83\uc73c\ub85c \ubcf4\uc785\ub2c8\ub2e4, \uc5ec\uae30\uc5d0 \uba87\uac00\uc9c0 \uc0d8\ud50c\uc774 \uc788\uc2b5\ub2c8\ub2e4:"
+  },
+  "confirmBatchDownloadNaming": {
+    "message": "\uc77c\uad04 \ub2e4\uc6b4\ub85c\ub4dc\uc758 \uacbd\uc6b0, \ubc18\ub4dc\uc2dc \uc0dd\uc131\ub41c \ub124\uc774\ubc0d \ub9c8\uc2a4\ud06c\uc758 \ud30c\uc77c \uc774\ub984\uc774 \ub2ec\ub77c\uc57c \ud569\ub2c8\ub2e4. \uc9c4\ud589\ud560\uae4c\uc694?"
+  },
+  "confirmBtnYes": {
+    "message": "\uc608"
+  },
+  "confirmBtnYesFile": {
+    "message": "\ud30c\uc77c \uc0ad\uc81c"
+  },
+  "confirmCantResumeRestart": {
+    "message": "$1\uac1c\uc758 \uc791\uc5c5\uc774 \uc7ac\uc2dc\uc791 \ub418\uc9c0 \ubabb\ud588\uc2b5\ub2c8\ub2e4. \ub2e4\uc2dc \uc2dc\uc791 \ud560\uae4c\uc694?"
+  },
+  "confirmClearTask": {
+    "message": "\ud56d\ubaa9 $1\uac1c\ub97c \uc0ad\uc81c\ud558\uc2dc\uaca0\uc2b5\ub2c8\uae4c?"
+  },
+  "confirmProceed": {
+    "message": "\uacc4\uc18d\ud558\uc2dc\uaca0\uc2b5\ub2c8\uae4c?"
+  },
+  "confirmRecycleRunning": {
+    "message": "\uc2e4\ud589\uc911\uc778 \uc791\uc5c5\ub4e4\uc744 \ud734\uc9c0\ud1b5\uc5d0 \ubc84\ub9b4\uae4c\uc694?"
+  },
+  "confirmRemoveExtFilter": {
+    "message": "\uc120\ud0dd\ud55c \ud56d\ubaa9\uc744 \uc0ad\uc81c\ud558\uc2dc\uaca0\uc2b5\ub2c8\uae4c?"
+  },
+  "confirmRemoveRule": {
+    "message": "\uc120\ud0dd\ud55c \ud56d\ubaa9\uc744 \uc0ad\uc81c\ud558\uc2dc\uaca0\uc2b5\ub2c8\uae4c?"
+  },
+  "confirmRemoveTask": {
+    "message": "\uc120\ud0dd\ud55c \uc791\uc5c5\ub4e4\uc744 \uc601\uad6c\uc801\uc73c\ub85c \uc81c\uac70\ud560\uae4c\uc694?"
+  },
+  "confirmReset": {
+    "message": "\uc791\uc5c5\uc744 \uc2e4\ud589\ucde8\uc18c\ud560 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4. \uacc4\uc18d\ud558\uc2dc\uaca0\uc2b5\ub2c8\uae4c?"
+  },
+  "errorFNameConflict": {
+    "message": "\uc774\ub984 \ucda9\ub3cc"
+  },
+  "errorFileNotExist": {
+    "message": "\ud30c\uc77c\uc744 \ucc3e\uc744 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4"
+  },
+  "errorInvalidNamingMask": {
+    "message": "\uc798\ubabb\ub41c \uc774\ub984\uc785\ub2c8\ub2e4."
+  },
+  "errorInvalidURLs": {
+    "message": "URL\uc774 \uc62c\ubc14\ub974\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4."
+  },
+  "errorNoID": {
+    "message": "\ub9e4\ub2c8\uc800\uc5d0 \ub108\ubb34 \ub9ce\uc740 \uc791\uc5c5\uc774 \uc788\uc5b4\uc11c Chrono\uc5d0 \uc0c8 \uc791\uc5c5\uc744 \ucd94\uac00\ud558\ub294 \ub370 \uc2e4\ud328\ud588\uc2b5\ub2c8\ub2e4. \uc0ac\uc6a9\ud558\uc9c0 \uc54a\ub294 \uc791\uc5c5\uc744 \uc9c0\uc6b0\uace0 \ub2e4\uc2dc \uc2dc\ub3c4\ud574 \uc8fc\uc138\uc694."
+  },
+  "errorNone": {
+    "message": "\uc624\ub958\uac00 \uc5c6\uc2b5\ub2c8\ub2e4."
+  },
+  "errorRemovedFromChrome": {
+    "message": "\uc774 \uc791\uc5c5\uc740 \ud06c\ub86c\uc5d0\uc11c \uc81c\uac70 \ub418\uc5c8\uc744 \uc218 \uc788\uc2b5\ub2c8\ub2e4."
+  },
+  "everyXDays": {
+    "message": "$1\uc77c\ub9c8\ub2e4"
+  },
+  "everyXHours": {
+    "message": "$1\uc2dc\uac04\ub9c8\ub2e4"
+  },
+  "everyXMinutes": {
+    "message": "$1\ubd84\ub9c8\ub2e4"
+  },
+  "extDesc": {
+    "message": "\ub2e4\uc6b4\ub85c\ub4dc \uad00\ub9ac\uc790 | \ube44\ub514\uc624 \ub2e4\uc6b4\ub85c\ub354 | \ub2e4\uc911 \uc774\ubbf8\uc9c0 \ub2e4\uc6b4\ub85c\ub354"
+  },
+  "extDescBest": {
+    "message": "\ud06c\ub86c \ucd5c\uace0\uc758 \ub2e4\uc6b4\ub85c\ub4dc \uad00\ub9ac\uc790"
+  },
+  "extDescSlogan": {
+    "message": "\ub2e4\uc6b4\ub85c\ub4dc \ubc0f \uc6f9 \ucee8\ud150\uce20 \uad00\ub9ac"
+  },
+  "extName": {
+    "message": "Chrono \ub2e4\uc6b4\ub85c\ub4dc \ub9e4\ub2c8\uc800"
+  },
+  "extsAll": {
+    "message": "\ubaa8\ub450"
+  },
+  "extsApp": {
+    "message": "\uc560\ud50c\ub9ac\ucf00\uc774\uc158"
+  },
+  "extsArchive": {
+    "message": "\uc555\ucd95 \ud30c\uc77c"
+  },
+  "extsAudio": {
+    "message": "\uc624\ub514\uc624"
+  },
+  "extsDocument": {
+    "message": "\ubb38\uc11c"
+  },
+  "extsImage": {
+    "message": "\uc774\ubbf8\uc9c0"
+  },
+  "extsNew": {
+    "message": "\uc0c8 \ud544\ud130"
+  },
+  "extsOthers": {
+    "message": "\uae30\ud0c0"
+  },
+  "extsVideo": {
+    "message": "\ub3d9\uc601\uc0c1"
+  },
+  "fieldAddTime": {
+    "message": "\ucd94\uac00\ub41c \uc2dc\uac04"
+  },
+  "fieldAvgSpeed": {
+    "message": "\ud3c9\uade0 \uc18d\ub3c4"
+  },
+  "fieldDownloadedSize": {
+    "message": "\ub2e4\uc6b4\ub85c\ub4dc\ub428"
+  },
+  "fieldElapsedTime": {
+    "message": "\uacbd\uacfc \uc2dc\uac04"
+  },
+  "fieldFileName": {
+    "message": "\ud30c\uc77c \uc774\ub984"
+  },
+  "fieldFileSize": {
+    "message": "\ud30c\uc77c\ud06c\uae30"
+  },
+  "fieldFinishTime": {
+    "message": "\uc644\ub8cc \uc2dc\uac04"
+  },
+  "fieldFolder": {
+    "message": "\ud3f4\ub354"
+  },
+  "fieldNaming": {
+    "message": "\ub124\uc774\ubc0d \ub9c8\uc2a4\ud06c"
+  },
+  "fieldProgress": {
+    "message": "\uc9c4\ud589"
+  },
+  "fieldRedirection": {
+    "message": "\ub9ac\ub514\ub809\uc158"
+  },
+  "fieldReferer": {
+    "message": "\ucc38\uc870 \ud398\uc774\uc9c0"
+  },
+  "fieldRemainingTime": {
+    "message": "\ub0a8\uc740 \uc2dc\uac04"
+  },
+  "fieldRemarks": {
+    "message": "\ube44\uace0"
+  },
+  "fieldSpeed": {
+    "message": "\uc18d\ub3c4"
+  },
+  "fieldState": {
+    "message": "\uc0c1\ud0dc"
+  },
+  "fieldThreads": {
+    "message": "\uc4f0\ub808\ub4dc"
+  },
+  "fieldType": {
+    "message": "\uc720\ud615"
+  },
+  "fieldURL": {
+    "message": "URL"
+  },
+  "headExtFilterCaption": {
+    "message": "\ud45c\uc2dc \uc774\ub984"
+  },
+  "headExtFilterExts": {
+    "message": "\ud30c\uc77c \ud655\uc7a5\uc790"
+  },
+  "headExtFilterRefName": {
+    "message": "\ub0b4\ubd80 \uc774\ub984"
+  },
+  "headRulesActive": {
+    "message": "\ud65c\uc131"
+  },
+  "headRulesAsFilter": {
+    "message": "\uc791\uc5c5 \ud544\ud130\ub85c"
+  },
+  "headRulesCaption": {
+    "message": "\ud45c\uc2dc \uc774\ub984"
+  },
+  "headRulesCondition": {
+    "message": "\uc870\uac74"
+  },
+  "headRulesRefName": {
+    "message": "\ub0b4\ubd80 \uc774\ub984"
+  },
+  "helpExtFilter": {
+    "message": "* \ub450 \ubc88 \ud074\ub9ad\uc73c\ub85c \ubcc0\uacbd\n* \ube48 \ud589\uc5d0\ub2e4 \uc785\ub825\uc2dc \uc0c8\ub85c\uc6b4 \ud544\ud130\ub97c \ucd94\uac00\n* \ud589\uc744 \uc120\ud0dd\ud558\uace0 'DELETE' \ubc84\ud2bc\uc744 \ud074\ub9ad\uc2dc \uc81c\uac70"
+  },
+  "helpRules": {
+    "message": "* \ub450 \ubc88 \ud074\ub9ad\uc73c\ub85c \ubcc0\uacbd\n* \ube48 \ud589\uc5d0\ub2e4 \uc785\ub825\uc2dc \uc0c8\ub85c\uc6b4 \ud544\ud130\ub97c \ucd94\uac00\n* \ud589\uc744 \uc120\ud0dd\ud558\uace0 'DELETE' \ubc84\ud2bc\uc744 \ud074\ub9ad\uc2dc \uc81c\uac70\n* \ub9cc\uc57d \ub8f0\uc791\uc131\uc5d0 \ubb38\uc81c\uac00 \uc788\uc744 \ub54c \ub3c4\uc6c0\ub9d0\uc744 \ucc38\uace0\ud574 \uc8fc\uc138\uc694"
+  },
+  "hintSearchDownloads": {
+    "message": "\ub2e4\uc6b4\ub85c\ub4dc \uac80\uc0c9"
+  },
+  "labelAutoClear": {
+    "message": "\uc608\uc57d"
+  },
+  "labelBGBlur": {
+    "message": "\ube14\ub7ec"
+  },
+  "labelBGChooseFrom": {
+    "message": "\uc774\ubbf8\uc9c0 \uc120\ud0dd"
+  },
+  "labelBGConstantColor": {
+    "message": "\ub2e8\uc0c9"
+  },
+  "labelBGImageURL": {
+    "message": "\ub9de\ucda4 \uc774\ubbf8\uc9c0 URL"
+  },
+  "labelBGOpacity": {
+    "message": "\ubd88\ud22c\uba85\ub3c4"
+  },
+  "labelCustomFilter": {
+    "message": "\ub9de\ucda4 \ud544\ud130"
+  },
+  "menuDAudio": {
+    "message": "\uc624\ub514\uc624\ub97c \ub2e4\ub978 \uc774\ub984\uc73c\ub85c \uc800\uc7a5..."
+  },
+  "menuDAudioOneClick": {
+    "message": "\uc624\ub514\uc624\ub97c \ud55c \ubc88\uc758 \ud074\ub9ad\uc73c\ub85c \ub2e4\uc6b4\ub85c\ub4dc"
+  },
+  "menuDImage": {
+    "message": "\uc774\ubbf8\uc9c0\ub97c \ub2e4\ub978 \uc774\ub984\uc73c\ub85c \uc800\uc7a5..."
+  },
+  "menuDImageOneClick": {
+    "message": "\uc774\ubbf8\uc9c0\ub97c \ud55c \ubc88\uc758 \ud074\ub9ad\uc73c\ub85c \ub2e4\uc6b4\ub85c\ub4dc"
+  },
+  "menuDLink": {
+    "message": "\ub2e4\ub978 \uc774\ub984\uc73c\ub85c \ub9c1\ud06c \uc800\uc7a5..."
+  },
+  "menuDLinkOneClick": {
+    "message": "\ub9c1\ud06c\ub97c \ud55c \ubc88\uc758 \ud074\ub9ad\uc73c\ub85c \ub2e4\uc6b4\ub85c\ub4dc"
+  },
+  "menuDVideo": {
+    "message": "\ub3d9\uc601\uc0c1\uc744 \ub2e4\ub978 \uc774\ub984\uc73c\ub85c \uc800\uc7a5..."
+  },
+  "menuDVideoOneClick": {
+    "message": "\ub3d9\uc601\uc0c1\uc744 \ud55c \ubc88\uc758 \ud074\ub9ad\uc73c\ub85c \ub2e4\uc6b4\ub85c\ub4dc"
+  },
+  "menuGetHelp": {
+    "message": "\ub3c4\uc6c0\ub9d0 \ubcf4\uae30"
+  },
+  "menuOpenManager": {
+    "message": "\ub2e4\uc6b4\ub85c\ub4dc \uad00\ub9ac\uc790 \uc5f4\uae30"
+  },
+  "menuReportIssue": {
+    "message": "\ubb38\uc81c \uc2e0\uace0"
+  },
+  "msgCannotScanResources": {
+    "message": "\uc774 \ud398\uc774\uc9c0\uc5d0\uc11c \ub9ac\uc18c\uc2a4\ub97c \ucc3e\uc744 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4"
+  },
+  "msgChromeI18nLanguage": {
+    "message": "\ud06c\ub86c \ube0c\ub77c\uc6b0\uc800\uc640 \uac19\uc740 \uc5b8\uc5b4\ub85c Chrono\ub97c \uc0ac\uc6a9\ud569\ub2c8\ub2e4."
+  },
+  "msgEmptyDownloadsList": {
+    "message": "\ube44\uc5b4\uc788\ub294 \ubaa9\ub85d"
+  },
+  "msgPreviewErrorReadFile": {
+    "message": "\ud30c\uc77c\uc744 \uc77d\ub294 \ub3d9\uc548 \uc624\ub958\uac00 \ubc1c\uc0dd\ud588\uc2b5\ub2c8\ub2e4."
+  },
+  "msgPreviewFailed": {
+    "message": "\ud30c\uc77c \ubbf8\ub9ac\ubcf4\uae30\ub97c \ub85c\ub4dc\ud558\uc9c0 \ubabb\ud588\uc2b5\ub2c8\ub2e4."
+  },
+  "msgPreviewFileAccess": {
+    "message": "\ubbf8\ub9ac\ubcf4\uae30\ub97c \uc704\ud574 \ub85c\uceec \ud30c\uc77c\uc744\ub85c\ub4dc \ud560 \uc218 \uc5c6\uc73c\ubbc0\ub85c chrome://extensions \ud398\uc774\uc9c0\uc758 $2 \uc544\ub798\uc5d0\uc788\ub294 $1 \uccb4\ud06c \ubc15\uc2a4\ub97c \uc120\ud0dd\ud558\uc5ec\uc774 \uae30\ub2a5\uc744 \ucf24 \uc218 \uc788\uc2b5\ub2c8\ub2e4."
+  },
+  "msgPreviewLargeFile": {
+    "message": "\ubbf8\ub9ac\ubcf4\uae30\ub97c\ub85c\ub4dc\ud558\ub294 \ub370 \uc2dc\uac04\uc774 \uac78\ub9b4 \uc218 \uc788\uc2b5\ub2c8\ub2e4."
+  },
+  "msgPreviewPdfViewer": {
+    "message": "Chrome PDF \ubdf0\uc5b4\uac00 \ubbf8\ub9ac\ubcf4\uae30\uc5d0 \ud544\uc694\ud569\ub2c8\ub2e4. \uc9c0\uce68\uc5d0 \ub530\ub77c Chrome PDF \ubdf0\uc5b4\ub97c \uc0ac\uc6a9\ud558\ub3c4\ub85d \uc124\uc815\ud558\uc138\uc694."
+  },
+  "msgRateShare": {
+    "message": "\ub2f9\uc2e0\uc774 $1 \uc720\uc6a9\ud558\ub2e4\uace0 \uc0dd\uac01\ud558\uc2e0\ub2e4\uba74, $2 \ud3c9\uac00\ud558\uc2dc\uace0 \uce5c\uad6c\ub4e4\uacfc \uacf5\uc720\ud558\uc138\uc694!"
+  },
+  "msgSearchNoResults": {
+    "message": "\uac80\uc0c9\uacb0\uacfc \uc5c6\uc74c"
+  },
+  "msgSelectTaskInfo": {
+    "message": "\uc120\ud0dd\ub41c \ud56d\ubaa9\uc774 \uc5c6\uc2b5\ub2c8\ub2e4."
+  },
+  "msgTaskAddPaused": {
+    "message": "\uc791\uc5c5\uc774 \ucd94\uac00\ub418\uace0 \uc77c\uc2dc\uc815\uc9c0\ub428"
+  },
+  "msgTaskFinish": {
+    "message": "\ub2e4\uc6b4\ub85c\ub4dc\uac00 \uc644\ub8cc\ub418\uc5c8\uc2b5\ub2c8\ub2e4."
+  },
+  "msgTaskInterrupt": {
+    "message": "\ub2e4\uc6b4\ub85c\ub4dc\ud558\uc9c0 \ubabb\ud588\uc2b5\ub2c8\ub2e4."
+  },
+  "msgTaskStart": {
+    "message": "\ub300\uae30\uc5f4\uc5d0 \uc791\uc5c5\uc774 \ucd94\uac00\ub428"
+  },
+  "msgTextUpdateAvail": {
+    "message": "\uc5c5\ub370\uc774\ud2b8\ub97c \uc801\uc6a9\ud558\ub824\uba74 \ud655\uc7a5 \ud504\ub85c\uadf8\ub7a8\uc744 \uc7ac\uc2dc\uc791\ud558\uc2ed\uc2dc\uc624."
+  },
+  "msgTextWelcome": {
+    "message": "\uc2dc\uc791\ud558\uae30 \uc804\uc5d0, \ud06c\ub86c\uc758 '\ub2e4\uc6b4\ub85c\ub4dc \uc804\uc5d0 \uc800\uc7a5 \uc704\uce58 \ud655\uc778' \uae30\ub2a5\uc744 \ub044\uc2dc\ub294\uac78 \uad8c\ud574\ub4dc\ub9bd\ub2c8\ub2e4.\n($1)\n\ub610\ud55c, Chrono \uac00 \ud30c\uc77c URL\uc744 \uc811\uadfc \ud560 \uc218 \uc788\uac8c \ud5c8\uc6a9\ud558\uba74 \uc880\ub354 \uc720\uc6a9\ud569\ub2c8\ub2e4.\n($3 \uc5d0\uc11c $2 \uccb4\ud06c \ud574\uc81c)\n\ub9cc\uc57d, \uc9c8\ubb38\uc774 \uc788\uc73c\uba74 \ub3c4\uc6c0\ub9d0 \ud398\uc774\uc9c0\uc640 \uc790\uc8fc \ubb3b\ub294 \uc9c8\ubb38 \ud398\uc774\uc9c0\ub97c \ucc38\uc870\ud558\uc2dc\uac70\ub098, dev@chronodownloader.net \uc73c\ub85c \uba54\uc77c\uc744 \ubcf4\ub0b4\uc8fc\uc154\ub3c4 \ub429\ub2c8\ub2e4.\n\uc990\uac81\uac8c \uc0ac\uc6a9\ud558\uc2dc\uae38 \ubc14\ub798\uc694!"
+  },
+  "msgTitleUpdateAvail": {
+    "message": "\uc0c8 \ubc84\uc804 \uc774\uc6a9 \uac00\ub2a5"
+  },
+  "msgTitleWelcome": {
+    "message": "\ud658\uc601\ud569\ub2c8\ub2e4."
+  },
+  "msgUpdated": {
+    "message": "$1\uc774(\uac00) \uc5c5\ub370\uc774\ud2b8\ub418\uc5c8\uc2b5\ub2c8\ub2e4."
+  },
+  "optItemBadgeDownloadNum": {
+    "message": "\ud234\ubc14 \uc0c1\ub2e8\uc758 \uc544\uc774\ucf58\uc5d0 \ub2e4\uc6b4\ub85c\ub4dc \uc791\uc5c5 \uc218 \ud45c\uc2dc"
+  },
+  "optItemClearRemoveFile": {
+    "message": "\ub514\uc2a4\ud06c\uc5d0\uc11c \uc0ad\uc81c"
+  },
+  "optItemClearSearch": {
+    "message": "\ud544\ud130\uac00 \ubcc0\uacbd\ub420 \uc2dc \uac80\uc0c9 \ucc3d\uc744 \ube44\uc6c0"
+  },
+  "optItemClickNotify": {
+    "message": "\uc54c\ub9bc \ud074\ub9ad"
+  },
+  "optItemConcurrentDownloads": {
+    "message": "\ub3d9\uc2dc \ub2e4\uc6b4\ub85c\ub4dc"
+  },
+  "optItemDblClickAction": {
+    "message": "\uc791\uc5c5\uc744 \ub354\ube14 \ud074\ub9ad"
+  },
+  "optItemDefAddPaused": {
+    "message": "\uc77c\uc2dc \uc815\uc9c0\ub41c \uc0c1\ud0dc\ub85c \ucd94\uac00"
+  },
+  "optItemDefFolder": {
+    "message": "\uae30\ubcf8 \ud3f4\ub354"
+  },
+  "optItemDefNaming": {
+    "message": "\uae30\ubcf8 \ub124\uc774\ubc0d \ub9c8\uc2a4\ud06c"
+  },
+  "optItemDownloadClipboard": {
+    "message": "\ud074\ub9bd\ubcf4\ub4dc\uc5d0 \uc788\ub294 \ub9c1\ud06c \ub2e4\uc6b4\ub85c\ub4dc"
+  },
+  "optItemDownloadsPerServer": {
+    "message": "\uc11c\ubc84 \ub2f9 \ub2e4\uc6b4\ub85c\ub4dc \uc218"
+  },
+  "optItemHideShelf": {
+    "message": "\ud06c\ub86c \ube0c\ub77c\uc6b0\uc800\uc758 \ub2e4\uc6b4\ub85c\ub4dc \uc0c1\ud0dc \ubc14\ub97c \uc228\uae40"
+  },
+  "optItemMenuDialog": {
+    "message": "\ub2e4\ub978 \uc774\ub984\uc73c\ub85c \ub9c1\ud06c \uc800\uc7a5..."
+  },
+  "optItemMenuOneClick": {
+    "message": "\ub9c1\ud06c/\uc774\ubbf8\uc9c0 \uc6d0\ud074\ub9ad \ub2e4\uc6b4\ub85c\ub4dc"
+  },
+  "optItemNameConflict": {
+    "message": "\ub3d9\uc77c\ud55c \ud30c\uc77c \uc774\ub984\uc774 \uc874\uc7ac \ud560 \ub54c"
+  },
+  "optItemNotifyError": {
+    "message": "\uc624\ub958 \ubc1c\uc0dd \uc2dc \uc54c\ub9bc \ud45c\uc2dc"
+  },
+  "optItemNotifyFinish": {
+    "message": "\ub2e4\uc6b4\ub85c\ub4dc \uc644\ub8cc \uc2dc \uc54c\ub9bc \ud45c\uc2dc"
+  },
+  "optItemNotifyLargePreview": {
+    "message": "\uc774\ubbf8\uc9c0 \ud070 \ubbf8\ub9ac\ubcf4\uae30 \ud45c\uc2dc"
+  },
+  "optItemNotifyOneClick": {
+    "message": "\uc6d0\ud074\ub9ad \ub2e4\uc6b4\ub85c\ub4dc \ucd94\uac00 \uc2dc \uc54c\ub9bc \ud45c\uc2dc"
+  },
+  "optItemNotifyProgress": {
+    "message": "\ub2e4\uc6b4\ub85c\ub4dc \uc0c1\ud0dc \ud45c\uc2dc"
+  },
+  "optItemOverrideChrome": {
+    "message": "\ud06c\ub86c\uc758 \uae30\ubcf8 \ub2e4\uc6b4\ub85c\ub4dc \ud398\uc774\uc9c0\ub97c \ub300\uccb4\ud558\uace0, \ub2e8\ucd95\ud0a4\ub97c $1 \ub85c \uc124\uc815\ud569\ub2c8\ub2e4"
+  },
+  "optItemPopClearClose": {
+    "message": "\uc791\uc5c5\uc744 \ubaa8\ub450 \ube44\uc6b4 \ud6c4 \ud31d\uc5c5 \ucc3d\uc744 \ub2eb\uc74c"
+  },
+  "optItemPopDeleteAction": {
+    "message": "'\uc0ad\uc81c'\ubc84\ud2bc \ud074\ub9ad"
+  },
+  "optItemPopLikeButtons": {
+    "message": "\uc18c\uc15c \ubbf8\ub514\uc5b4 \ubc84\ud2bc \ubcf4\uc774\uae30"
+  },
+  "optItemPopMaxItems": {
+    "message": "\ub2e4\uc6b4\ub85c\ub4dc \ubaa9\ub85d\uc5d0 \ud45c\uc2dc\ud560 \ucd5c\ub300 \ud56d\ubaa9 \uc218"
+  },
+  "optItemPopShowDLFirst": {
+    "message": "\ub2e4\uc6b4\ub85c\ub4dc \uc911\uc778 \uc791\uc5c5\uc744 \uba3c\uc800 \ud45c\uc2dc"
+  },
+  "optItemPreviewAutoplay": {
+    "message": "\uc790\ub3d9\uc7ac\uc0dd"
+  },
+  "optItemRecycleCancel": {
+    "message": "\ud734\uc9c0\ud1b5\uc5d0 \ubc84\ub9b4 \uacbd\uc6b0 \uc791\uc5c5 \ucde8\uc18c"
+  },
+  "optItemRuleMatchMode": {
+    "message": "\uc77c\uce58 \ubaa8\ub4dc"
+  },
+  "optItemSlideDetailsPanel": {
+    "message": "\uc791\uc5c5 \ubaa9\ub85d\uc744 \ud074\ub9ad\ud558\uba74  \uc0c1\uc138\uc815\ubcf4 \ucc3d\uc774 \ub098\ud0c0\ub0a9\ub2c8\ub2e4"
+  },
+  "optItemSoundError": {
+    "message": "\uc624\ub958\uac00 \ubc1c\uc0dd\ud560 \ub54c \uc18c\ub9ac \uc7ac\uc0dd"
+  },
+  "optItemSoundFinish": {
+    "message": "\ub2e4\uc6b4\ub85c\ub4dc \uc644\ub8cc \uc2dc \uc18c\ub9ac \uc7ac\uc0dd"
+  },
+  "optItemStartInterrupted": {
+    "message": "\uc2dc\uc791\ubc84\ud2bc\uc73c\ub85c \uc911\ub2e8\ub41c \uc791\uc5c5\ub4e4\uc744 \uc2dc\uc791 \ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4"
+  },
+  "optOptionClearAllNotify": {
+    "message": "\ubaa8\ub4e0 \uc54c\ub9bc \uc9c0\uc6b0\uae30"
+  },
+  "optOptionClearNotify": {
+    "message": "\uc54c\ub9bc \uc9c0\uc6b0\uae30"
+  },
+  "optOptionDoNothing": {
+    "message": "\uae30\ub2a5 \uc5c6\uc74c"
+  },
+  "optOptionFirstMatch": {
+    "message": "\uccab \ubc88\uc5d0 \ub9e4\uce58"
+  },
+  "optOptionOpenFile": {
+    "message": "\ud30c\uc77c \uc5f4\uae30"
+  },
+  "optOptionOpenFolder": {
+    "message": "\ud3f4\ub354 \uc5f4\uae30"
+  },
+  "optOptionOverwrite": {
+    "message": "\ub36e\uc5b4\uc4f0\uae30"
+  },
+  "optOptionPrompt": {
+    "message": "\ud655\uc778"
+  },
+  "optOptionRemAsk": {
+    "message": "\ubb3c\uc5b4\ubcf4\uae30"
+  },
+  "optOptionRemFile": {
+    "message": "\ubaa9\ub85d\uacfc \ub514\uc2a4\ud06c\uc5d0\uc11c \uc81c\uac70"
+  },
+  "optOptionRemList": {
+    "message": "\ubaa9\ub85d\uc5d0\uc11c \uc81c\uac70"
+  },
+  "optOptionReplace": {
+    "message": "\ubc14\uafb8\uae30"
+  },
+  "optOptionSkipCancel": {
+    "message": "\ub2e4\uc6b4\ub85c\ub4dc \ucde8\uc18c"
+  },
+  "optOptionSkipPause": {
+    "message": "\ub2e4\uc6b4\ub85c\ub4dc \uc77c\uc2dc\uc911\uc9c0"
+  },
+  "optOptionStartPause": {
+    "message": "\uc2dc\uc791/\uc77c\uc2dc\uc815\uc9c0"
+  },
+  "optOptionUniquify": {
+    "message": "\uc54c\uc544\uc11c \ub2e4\ub978 \uc774\ub984\uc73c\ub85c \uc800\uc7a5"
+  },
+  "optSectionBehaviors": {
+    "message": "\ub3d9\uc791"
+  },
+  "optSectionMenu": {
+    "message": "\uba54\ub274"
+  },
+  "optSectionMisc": {
+    "message": "\uae30\ud0c0"
+  },
+  "optSectionNetwork": {
+    "message": "\ub124\ud2b8\uc6cc\ud06c"
+  },
+  "optSectionNotifications": {
+    "message": "\uc54c\ub9bc"
+  },
+  "optSectionOneClick": {
+    "message": "\uc6d0 \ud074\ub9ad \ub2e4\uc6b4\ub85c\ub4dc"
+  },
+  "optSectionPopup": {
+    "message": "\ud31d\uc5c5"
+  },
+  "optSectionPreview": {
+    "message": "\ubbf8\ub9ac\ubcf4\uae30"
+  },
+  "optSectionTaskDefaults": {
+    "message": "\uc0c8 \uc791\uc5c5 \uae30\ubcf8\uac12"
+  },
+  "optionAddTop": {
+    "message": "\uc791\uc5c5 \ubaa9\ub85d\uc758 \ucd5c\uc0c1\ub2e8\uc5d0 \ucd94\uac00"
+  },
+  "optionDisableExtFilters": {
+    "message": "\ud655\uc7a5\uc790 \ud544\ud130 \uc0ac\uc6a9\ud558\uc9c0 \uc54a\uc74c"
+  },
+  "optionDontAsk": {
+    "message": "\ub0b4 \uc120\ud0dd\uc0ac\ud56d \uae30\uc5b5"
+  },
+  "optionSearchCaseSensitive": {
+    "message": "\ub300\uc18c\ubb38\uc790\ub97c \uad6c\ubd84\ud569\ub2c8\ub2e4"
+  },
+  "optionSearchFuzzyMatch": {
+    "message": "\ud37c\uc9c0 \uc77c\uce58"
+  },
+  "optionShowSize": {
+    "message": "\ud30c\uc77c \ud06c\uae30 \ud45c\uc2dc"
+  },
+  "optionTableAutoResize": {
+    "message": "\uac15\uc81c \uc5f4 \ub9de\ucda4"
+  },
+  "optionTableSyncResize": {
+    "message": "\uceec\ub7fc \ud06c\uae30 \ub3d9\uae30\ud654"
+  },
+  "phraseAutomatic": {
+    "message": "\uc790\ub3d9"
+  },
+  "phraseEnable": {
+    "message": "\uc0ac\uc6a9 \uc124\uc815"
+  },
+  "phraseMultiValues": {
+    "message": "\ub2e4\uc911 \uac12"
+  },
+  "phraseNever": {
+    "message": "\uc548\ud568"
+  },
+  "phrasePreview": {
+    "message": "\ubbf8\ub9ac\ubcf4\uae30"
+  },
+  "phraseRegex": {
+    "message": "\uc815\uaddc \ud45c\ud604\uc2dd"
+  },
+  "phraseToday": {
+    "message": "\uc624\ub298"
+  },
+  "phraseUnknown": {
+    "message": "\uc54c \uc218 \uc5c6\uc74c"
+  },
+  "phraseUnknownSize": {
+    "message": "\uc54c \uc218 \uc5c6\ub294 \uc0ac\uc774\uc988"
+  },
+  "phraseVersion": {
+    "message": "\ubc84\uc804"
+  },
+  "phraseYesterday": {
+    "message": "\uc5b4\uc81c"
+  },
+  "ruleAllTasks": {
+    "message": "\ubaa8\ub4e0 \uc791\uc5c5"
+  },
+  "ruleAudio": {
+    "message": "\uc624\ub514\uc624"
+  },
+  "ruleDocument": {
+    "message": "\ubb38\uc11c"
+  },
+  "ruleDownloading": {
+    "message": "\ub2e4\uc6b4\ub85c\ub4dc \uc911"
+  },
+  "ruleFinished": {
+    "message": "\uc644\ub8cc"
+  },
+  "ruleImage": {
+    "message": "\uc774\ubbf8\uc9c0"
+  },
+  "ruleInterrupted": {
+    "message": "\uc2e4\ud328"
+  },
+  "ruleNew": {
+    "message": "\uc0c8 \uaddc\uce59"
+  },
+  "ruleOther": {
+    "message": "\uae30\ud0c0"
+  },
+  "ruleRecent": {
+    "message": "\ucd5c\uadfc"
+  },
+  "ruleRecycled": {
+    "message": "\ud734\uc9c0\ud1b5"
+  },
+  "ruleSmallFiles": {
+    "message": "\uc791\uc740 \ud30c\uc77c"
+  },
+  "ruleVideo": {
+    "message": "\ub3d9\uc601\uc0c1"
+  },
+  "stateDownloading": {
+    "message": "\ub2e4\uc6b4\ub85c\ub4dc \uc911"
+  },
+  "stateError": {
+    "message": "\uc2e4\ud328"
+  },
+  "stateFileMiss": {
+    "message": "\ud30c\uc77c\uc774 \uc5c6\uc2b5\ub2c8\ub2e4"
+  },
+  "stateFinished": {
+    "message": "\uc644\ub8cc"
+  },
+  "statePaused": {
+    "message": "\uc77c\uc2dc\uc911\uc9c0\ub428"
+  },
+  "stateQueue": {
+    "message": "\ub300\uae30 \uc911"
+  },
+  "statusCopyURL": {
+    "message": "URL \ubcf5\uc0ac \uc911..."
+  },
+  "statusCopyURLDone": {
+    "message": "URL\uc774 \ud074\ub9bd\ubcf4\ub4dc\uc5d0 \ubcf5\uc0ac\ub428"
+  },
+  "statusDownloadedSize": {
+    "message": "$2\uc911 $1"
+  },
+  "statusImportDone": {
+    "message": "\uac00\uc838\uc624\uae30 \uc644\ub8cc"
+  },
+  "statusImporting": {
+    "message": "\uac00\uc838\uc624\ub294 \uc911..."
+  },
+  "statusNumDownloading": {
+    "message": "$1 \ub2e4\uc6b4\ub85c\ub4dc \uc911"
+  },
+  "statusNumItems": {
+    "message": "\ud56d\ubaa9 $1\uac1c"
+  },
+  "statusReadClipboard": {
+    "message": "\ud074\ub9bd\ubcf4\ub4dc \uc77d\ub294 \uc911..."
+  },
+  "statusScheduledAutoClear": {
+    "message": "\uc790\ub3d9 \uc9c0\uc6b0\uae30 \uc791\uc5c5\uc774 $1 \ucd08 \ud6c4\uc5d0 \uc2e4\ud589\ub420 \uac83\uc785\ub2c8\ub2e4"
+  },
+  "statusSelectedOf": {
+    "message": "\ud56d\ubaa9 $1\uac1c \uc120\ud0dd\ub428"
+  },
+  "statusTasksCleared": {
+    "message": "\ud56d\ubaa9 $1\uac1c\ub97c \uc0ad\uc81c\ud568"
+  },
+  "statusTimeLeft": {
+    "message": "$1 \ub0a8\uc74c"
+  },
+  "tipAutoClear": {
+    "message": "\ubaa9\ub85d\uc5d0\uc11c \ub2e4\uc6b4\ub85c\ub4dc \uc791\uc5c5\uc744 \uc790\ub3d9\uc73c\ub85c \uccad\uc18c\ud569\ub2c8\ub2e4. (\uc2e4\uc81c \ud30c\uc77c\uc740 \uc0ad\uc81c\ud558\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.)"
+  },
+  "tipBGBlur": {
+    "message": "\ube14\ub7ec \ud6a8\uacfc\ub97c \uc0ac\uc6a9\ud558\uba74 GUI \uc751\ub2f5 \uc131\ub2a5 \uc800\ud558\ub420\uc218\ub3c4 \uc788\uc5b4\uc694"
+  },
+  "tipBGEnable": {
+    "message": "\ud06c\ub86c\uc758 \ud2b9\uc815 \ubb38\uc81c \ub54c\ubb38\uc5d0 \ubc30\uacbd\uc744 \ud65c\uc131\ud654\ud558\uba74 \uba54\ubaa8\ub9ac \uc0ac\uc6a9\ub7c9\uc774 \ub9ce\uc774 \uc99d\uac00\ud569\ub2c8\ub2e4, \uc774 \uae30\ub2a5\uc744 \uc0ac\uc6a9\ud558\uae30 \uc804\uc5d0 \uba85\uc2ec\ud574 \uc8fc\uc138\uc694."
+  },
+  "tipBGURLHasFileAccess": {
+    "message": "\uc6f9 URL\uc744 \ubc14\ub85c \uc785\ub825\ud558\uac70\ub098 \ucef4\ud4e8\ud130 \ub0b4\uc758 \ub85c\uceec \ud30c\uc77c\uc744 \uc0ac\uc6a9 \ud558\ub824\uba74 'file:///'\ub85c \uc2dc\uc791\ud558\ub294 \uc804\uccb4 \uacbd\ub85c\ub97c \uc785\ub825\ud558\uc138\uc694. (\ube0c\ub77c\uc6b0\uc800\ub85c \uc774\ubbf8\uc9c0\ub97c \uc5f4\uace0 \uc8fc\uc18c\ub97c \ubcf5\uc0ac\ud558\uac70\ub098, \ub610\ub294 \ud0d0\uc0c9\uae30\uc5d0\uc11c \ud30c\uc77c \uacbd\ub85c \uc55e\uc5d0 file:/// \ub97c \ubd99\uc785\ub2c8\ub2e4. \uc608: file:///d:/image.jpg)"
+  },
+  "tipBGURLNoFileAccess": {
+    "message": "\uc6f9 URL\uc744 \uc785\ub825\ud558\uc138\uc694, \ub610\ub294 \uc774\ubbf8\uc9c0\uac00 \ucef4\ud4e8\ud130 \uc800\uc7a5\ub41c \uc804\uccb4 \uacbd\ub85c\ub97c \uc785\ub825\ud558\uc138\uc694. (\ub85c\uceec \ud30c\uc77c, \ubc29\ubc95\uc744 \ubcf4\ub824\uba74 \ud30c\uc77c \uc811\uadfc \uad8c\ud55c\uc744 Chrono\uc5d0 \uba3c\uc800 \uc8fc\uc2dc\uace0 \uc9c8\ubb38\ub9c8\ud06c\ub97c \ud074\ub9ad\ud574\uc8fc\uc138\uc694.)"
+  },
+  "tipBrowserAction": {
+    "message": "\uc774 \ud398\uc774\uc9c0\uc758 \ubaa8\ub4e0 \ub9ac\uc18c\uc2a4\ub97c \ub2e4\uc6b4\ub85c\ub4dc"
+  },
+  "tipBtnBackToManager": {
+    "message": "\uad00\ub9ac\uc790\ub85c \ub3cc\uc544\uac00\uae30"
+  },
+  "tipBtnChangeDefaultLocation": {
+    "message": "\ub300\uc0c1 \ud3f4\ub354 \ubcc0\uacbd..."
+  },
+  "tipBtnClear": {
+    "message": "\uc791\uc5c5 \uc9c0\uc6b0\uae30"
+  },
+  "tipBtnConfigExtFilters": {
+    "message": "\ud544\ud130 \uc218\uc815"
+  },
+  "tipBtnCopyLink": {
+    "message": "\ub9c1\ud06c \ubcf5\uc0ac"
+  },
+  "tipBtnDelete": {
+    "message": "\uc0ad\uc81c"
+  },
+  "tipBtnHelp": {
+    "message": "\ub3c4\uc6c0\ub9d0"
+  },
+  "tipBtnNewTask": {
+    "message": "\uc0c8 \uc791\uc5c5"
+  },
+  "tipBtnOpenDefaultLocation": {
+    "message": "\ub2e4\uc6b4\ub85c\ub4dc \ud3f4\ub354 \uc5f4\uae30"
+  },
+  "tipBtnOpenFile": {
+    "message": "\ud30c\uc77c \uc5f4\uae30"
+  },
+  "tipBtnOpenFolder": {
+    "message": "\ud3f4\ub354 \uc5f4\uae30"
+  },
+  "tipBtnOptions": {
+    "message": "\uc635\uc158"
+  },
+  "tipBtnPause": {
+    "message": "\uc77c\uc2dc\uc815\uc9c0"
+  },
+  "tipBtnPauseAll": {
+    "message": "\ubaa8\ub450 \uc77c\uc2dc\uc815\uc9c0"
+  },
+  "tipBtnPopList": {
+    "message": "\ub2e4\uc6b4\ub85c\ub4dc \ub9ac\uc2a4\ud2b8\ub85c \uc804\ud658"
+  },
+  "tipBtnPopSniffer": {
+    "message": "\uc2a4\ub2c8\ud37c\ub85c \uc804\ud658"
+  },
+  "tipBtnRecycle": {
+    "message": "\ud734\uc9c0\ud1b5\uc73c\ub85c \uc774\ub3d9"
+  },
+  "tipBtnRestart": {
+    "message": "\ub2e4\uc2dc \uc2dc\uc791"
+  },
+  "tipBtnRestore": {
+    "message": "\ubcf5\uc6d0"
+  },
+  "tipBtnSort": {
+    "message": "\uc815\ub82c"
+  },
+  "tipBtnStart": {
+    "message": "\uc2dc\uc791"
+  },
+  "tipBtnStartAll": {
+    "message": "\ubaa8\ub450 \uc2dc\uc791"
+  },
+  "tipExtFilterEnable": {
+    "message": "Chrono \uc2a4\ub2c8\ud37c\uc5d0\uc11c \ud655\uc7a5\uc790 \ud544\ud130\ub97c \ud65c\uc131"
+  },
+  "tipExtFilterRefName": {
+    "message": "\ub2e4\ub978 \ud45c\ud604\ub4e4\uc5d0 \ucc38\uc870\ub41c \ud544\ud130\ub97c \uc704\ud55c \ub0b4\ubd80\uc801\uc73c\ub85c \uc0ac\uc6a9\ud558\ub294 \uc774\ub984"
+  },
+  "tipNaming": {
+    "message": "\ub124\uc774\ubc0d \ub9c8\uc2a4\ud06c \uc0ac\uc6a9\ubc95\uc740 \ub3c4\uc6c0\ub9d0 \ud398\uc774\uc9c0\ub97c \ucc38\uace0\ud558\uc138\uc694."
+  },
+  "tipOptItemRuleMatchMode": {
+    "message": "\ud65c\uc131\ud654\ub41c \ub8f0\ub9cc \ub9e4\uce6d\ub41c\ub2e4\ub294 \uac83\uc744 \uc5fc\ub450\uc5d0 \ub450\uc138\uc694. \ubcc0\uacbd\ubaa8\ub4dc\uc5d0\uc11c\ub294 \ub9e4\uce58\ub41c \ubaa8\ub4e0 \ub8f0\uc774 \uc801\uc6a9\ub418\uc9c0\ub9cc \ud6c4\uc790\uc758 \uaddc\uce59\uc774 \uc774\uc804\uac83\uc744 \ub36e\uc5b4\uc4f0\uac8c \ub429\ub2c8\ub2e4."
+  },
+  "tipOptItemSlideDetailsPanel": {
+    "message": "\uc791\uc5c5\uc5d0\uc11c Alt-\ud074\ub9ad \uc73c\ub85c \uc138\ubd80 \uc815\ubcf4 \ud328\ub110\uc744 \uc5f4 \uc218 \uc788\uc74c"
+  },
+  "tipOptNoRuleMatch": {
+    "message": "\uc5b4\ub5a4 \uaddc\uce59\ub3c4 \uc77c\uce58\ud558\uc9c0 \uc54a\uc744 \ub54c \uc801\uc6a9"
+  },
+  "tipOptSectionOneClick": {
+    "message": "\uc774 \uc635\uc158\uc744 \ud65c\uc131\ud654\ud558\uba74 \ub9c1\ud06c\ub97c \ud074\ub9ad\ud588\uc744 \uc2dc\uc5d0 \ub124\uc774\ubc0d \ub9c8\uc2a4\ud06c \ub4f1\uc744 \uc124\uc815\ud558\ub294 \ub300\ud654\uc0c1\uc790\ub97c \uc0ac\uc6a9\ud558\uc9c0 \uc54a\uace0 \uae30\ubcf8 \uc791\uc5c5 \uc124\uc815(\uc704 \uc635\uc158\uc744 \ucc38\uc870)\uc5d0 \ub530\ub77c \ub2e4\uc6b4\ub85c\ub4dc\uac00 \uc989\uac01\uc801\uc73c\ub85c \uc2dc\uc791\ub429\ub2c8\ub2e4."
+  },
+  "tipOptSectionTaskDefaults": {
+    "message": "\uc0c8 \uc791\uc5c5\uc744 \ucd94\uac00 \ud560 \ub54c, \uae30\ubcf8\uac12 \uc124\uc815\uc774 \uc801\uc6a9\ub428 (\uc6d0\ud074\ub9ad \ub2e4\uc6b4\ub85c\ub4dc\uc2dc \uc801\uc6a9)"
+  },
+  "tipRulesActive": {
+    "message": "\ud65c\uc131\ud654\ub41c \ub8f0\ub9cc \ub8f0 \ub9e4\uce6d\uc5d0 \uc801\uc6a9\ub428"
+  },
+  "tipRulesAsFilter": {
+    "message": "\ub2e4\uc6b4\ub85c\ub4dc \uad00\ub9ac\uc790\uc5d0\uc11c \uc791\uc5c5 \ud544\ud130\ub85c \ubcf4\uae30"
+  },
+  "tipRulesRefName": {
+    "message": "\ub2e4\ub978 \ud45c\ud604\uc5d0 \ud544\ud130\ub97c \ucc38\uc870\ud558\uae30 \uc704\ud574 \ub0b4\ubd80\uc801\uc73c\ub85c \uc0ac\uc6a9\ud558\ub294 \uc774\ub984"
+  },
+  "tipURL": {
+    "message": "\ub2e4\uc74c \uc0c8 \ub77c\uc778\uc5d0\uc11c \uc5ec\ub7ec URL\uc744 \uc785\ub825\ud560\uc218 \uc788\uc5b4\uc694; \ubc30\uce58 \ub514\uc2a4\ud06c\ub9bd\ud130\ub97c \uc0ac\uc6a9\ud574 \uc77c\uad04 \ub2e4\uc6b4\ub85c\ub4dc\uac00 \uac00\ub2a5\ud574\uc694."
+  },
+  "tipmsgCopySelectedURLs": {
+    "message": "\uc120\ud0dd\ub41c \uc791\uc5c5\uc758 URL\uc744 $1\ub97c \ub204\ub984\uc73c\ub85c \uac04\ud3b8\ud558\uac8c \ubcf5\uc0ac\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4"
+  },
+  "tipmsgDoubleClick": {
+    "message": "\ub450\ubc88 \ud074\ub9ad \ub3d9\uc791\uc744 \uc544\ub798 $1\ub85c \ubcc0\uacbd\ud560\uc218 \uc788\uc5b4\uc694"
+  },
+  "tipmsgFitColumnWidth": {
+    "message": "\uc790\ub3d9\uc73c\ub85c \uc5f4 \ub108\ube44\ub97c \uc870\uc815\ud558\ub824\uba74 \uc5f4 \ud06c\uae30 \uc870\uc808\uae30\ub97c \ub450 \ubc88 \ud074\ub9ad\ud558\uc138\uc694"
+  },
+  "tipmsgGridSelection": {
+    "message": "Ctrl/Shift\ud0a4\ub85c \uc5ec\ub7ec \ud589\uc744 \uc120\ud0dd\ud558\uc2dc\uac70\ub098, $1\ud0a4\ub85c \uc804\uccb4 \ud589\uc744 \uc120\ud0dd\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4"
+  },
+  "tipmsgNotifications": {
+    "message": "\uc544\ub798 $1 \uc124\uc815\uc5d0\uc11c \uc54c\ub9bc/\uc18c\ub9ac\ub97c \ubcc0\uacbd\ud560 \uc218 \uc788\uc5b4\uc694"
+  },
+  "tipmsgOpenShortcut": {
+    "message": "\uac04\ub2e8\ud558\uac8c $2\ud0a4\ub97c \ub20c\ub7ec $1\ub97c \uc5f4\uc218 \uc788\uc5b4\uc694"
+  },
+  "tipmsgSlideDetailsPanel": {
+    "message": "\uc2ac\ub77c\uc774\ub529 \uc138\ubd80 \uc0ac\ud56d \ud328\ub110\uc740 $1\uc5d0\uc11c \ud574\uc81c \ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4"
+  },
+  "tipmsgTaskFilter": {
+    "message": "\ub4dc\ub798\uadf8 \ud558\uc5ec \uc791\uc5c5 \ud544\ud130\ub97c \uc815\ub82c\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4; \ub610\ud55c $1 \uc544\ub798\uc5d0 \uc0ac\uc6a9\uc790 \uc9c0\uc815  \ud544\ud130\ub97c \ucd94\uac00\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4."
+  },
+  "titleChangeBG": {
+    "message": "\ubc30\uacbd \ubcc0\uacbd"
+  },
+  "titleNewTaskDialog": {
+    "message": "\uc0c8 \uc791\uc5c5"
+  },
+  "titleOptions": {
+    "message": "\uc635\uc158"
+  },
+  "titleOptionsAbout": {
+    "message": "\uc815\ubcf4"
+  },
+  "titleOptionsFilter": {
+    "message": "\ud655\uc7a5\uc790 \ud544\ud130"
+  },
+  "titleOptionsGeneral": {
+    "message": "\uc77c\ubc18"
+  },
+  "titleOptionsHelp": {
+    "message": "\ub3c4\uc6c0\ub9d0"
+  },
+  "titleOptionsInterface": {
+    "message": "\uc778\ud130\ud398\uc774\uc2a4"
+  },
+  "titleOptionsRules": {
+    "message": "\uaddc\uce59 \uc2dc\uc2a4\ud15c"
+  },
+  "titleQuickSelection": {
+    "message": "\ube60\ub978 \uc120\ud0dd"
+  },
+  "titleRateShare": {
+    "message": "\ud3c9\uac00\ud558\uc2dc\uace0 \uacf5\uc720\ud574\uc8fc\uc138\uc694!"
+  },
+  "titleSniffer": {
+    "message": "\uc2a4\ub2c8\ud37c"
+  },
+  "titleSwitchUI": {
+    "message": "\ud45c\uc2dc \ubaa8\ub4dc"
+  },
+  "titleTaskProps": {
+    "message": "\uc791\uc5c5 \uc18d\uc131"
+  },
+  "titleTips": {
+    "message": "\ub3c4\uc6c0\ub9d0"
+  },
+  "titleUpdateLog": {
+    "message": "\ubcc0\uacbd \ub85c\uadf8"
+  },
+  "translateContributors": {
+    "message": "Kang Dongwoo, Jeongjoon Kim, ohoneman, expectraon, HeeJae Sim, hgs0311, s.leesg, chrominium97, inyun2u etc."
+  },
+  "uilang": {
+    "message": "ko"
+  },
+  "uilangName": {
+    "message": "Korean"
+  },
+  "unitBytes": {
+    "message": "$1\ubc14\uc774\ud2b8"
+  },
+  "unitDay": {
+    "message": "$1\uc77c"
+  },
+  "unitDays": {
+    "message": "$1\uc77c"
+  },
+  "unitHour": {
+    "message": "$1\uc2dc\uac04"
+  },
+  "unitHours": {
+    "message": "$1\uc2dc\uac04"
+  },
+  "unitMinute": {
+    "message": "$1\ubd84"
+  },
+  "unitMinutes": {
+    "message": "$1\ubd84"
+  },
+  "unitSecond": {
+    "message": "$1\ucd08"
+  },
+  "unitSeconds": {
+    "message": "$1\ucd08"
+  }
+}

@@ -1,0 +1,1365 @@
+{
+	"extName": {
+		"message": "Chrono Download Manager",
+		"description": "Extension name"
+	},
+	"extDesc": {
+		"message": "Download Manager | Video Downloader | Bulk Image Downloader",
+		"description": "Short description for the extension"
+	},
+	"extDescBest": {
+		"message": "Best download manager for Chrome",
+		"description": "Short description for the extension"
+	},
+	"extDescSlogan": {
+		"message": "Download and manage the Web!",
+		"description": "Short description for the extension"
+	},
+	"tipBrowserAction": {
+		"message": "Download all resources on this page",
+		"description": "Tool-tip for the extension button (Chrono Sniffer) on Chrome's Tool-bar"
+	},	
+	
+	"titleUpdateLog": {
+		"message": "Change log",
+		"description": "Update log for history versions"
+	},
+	"titleNewTaskDialog": {
+		"message": "New Task",
+		"description": "Title for New Task Dialog"
+	},
+	"titleSniffer": {
+		"message": "Sniffer",
+		"description": "Title for Chrono Sniffer (resources sniffer/detector), please omit 'Chrono'"
+	},
+	"msgCannotScanResources": {
+		"message": "Cannot scan resources for this page.",
+		"description": "Message shown in Chrono Sniffer, when it fails to scan resources for a webpage"
+	},
+	"labelCustomFilter": {
+		"message": "Custom filter",
+		"description": "Custome Filter in Chrono Sniffer, which uses Regular Expression to construct a filter"
+	},
+	"titleQuickSelection": {
+		"message": "Quick Selection",
+		"description": "Title for the Quick Selection section in Chrono Sniffer"
+	},
+	"titleTaskProps": {
+		"message": "Task Properties",
+		"description": "Title for the Task Properties section in Chrono Sniffer"
+	},
+	"optionShowSize": {
+		"message": "Show file size",
+		"description": "Option of showing file size for URLs in Chrono Sniffer"
+	},
+	"optionDisableExtFilters": {
+		"message": "Disable extension filters",
+		"description": "Option in the Quick Selection section, which disables extension filters and applies custom filter exclusively"
+	},
+	
+	"msgEmptyDownloadsList": {
+		"message": "Empty List",
+		"description": "Message shown in popup downloads list, when task list is empty"
+	},
+	"btnPopRemoveList": {
+		"message": "Remove from list",
+		"description": "Option button for removing task in popup downloads list: only remove from list"
+	},
+	"btnPopRemoveFile": {
+		"message": "And delete file",
+		"description": "Option button for removing task in popup downloads list: remove from list and disk"
+	},
+	"optionDontAsk": {
+		"message": "Remember my choice",
+		"description": "Remember task removing option: remove from list or from disk"
+	},
+
+	"stateDownloading": {
+		"message": "Downloading",
+		"description": "Task state"
+	},
+	"stateQueue": {
+		"message": "Waiting",
+		"description": "Task state"
+	},
+	"statePaused": {
+		"message": "Paused",
+		"description": "Task state"
+	},
+	"stateFinished": {
+		"message": "Finished",
+		"description": "Task state"
+	},
+	"stateError": {
+		"message": "Failed",
+		"description": "Task state"
+	},
+	"stateFileMiss": {
+		"message": "File missing",
+		"description": "Task state"
+	},
+	
+	"menuOpenManager": {
+		"message": "Open manager",
+		"description": "Menu item, click to open Download Manager page"
+	},
+	"menuGetHelp": {
+		"message": "Get help",
+		"description": "Menu item, click to open Help page"
+	},
+	"menuReportIssue": {
+		"message": "Report an issue",
+		"description": "Menu item, click to open Bug Tracking System"
+	},
+	
+	"menuDLink": {
+		"message": "Save link as...",
+		"description": "Context-menu item for links, '...' indicates New Task Dialog will show after clicking"
+	},
+	"menuDImage": {
+		"message": "Save image as...",
+		"description": "Context-menu item for images, '...' indicates New Task Dialog will show after clicking"
+	},
+	"menuDVideo": {
+		"message": "Save video as...",
+		"description": "Context-menu item for videos, '...' indicates New Task Dialog will show after clicking"
+	},
+	"menuDAudio": {
+		"message": "Save audio as...",
+		"description": "Context-menu item for audio, '...' indicates New Task Dialog will show after clicking"
+	},
+	"menuDLinkOneClick": {
+		"message": "One-click download the link",
+		"description": "Context-menu item for links, New Task Dialog won't show after clicking"
+	},
+	"menuDImageOneClick": {
+		"message": "One-click download the image",
+		"description": "Context-menu item for images, New Task Dialog won't show after clicking"
+	},
+	"menuDVideoOneClick": {
+		"message": "One-click download the video",
+		"description": "Context-menu item for videos, New Task Dialog won't show after clicking"
+	},
+	"menuDAudioOneClick": {
+		"message": "One-click download the audio",
+		"description": "Context-menu item for audio, New Task Dialog won't show after clicking"
+	},
+
+	"unitBytes": {
+		"message": "$1 bytes",
+		"description": "how many bytes, plural form, $1 is a placeholder that will be replaced by a number, please leave it as is"
+	},
+	"unitSecond": {
+		"message": "$1 sec",
+		"description": "how many second(s), singular form, $1 will be replaced by a number"
+	},
+	"unitMinute": {
+		"message": "$1 min",
+		"description": "how many minute(s), singular form, $1 will be replaced by a number"
+	},
+	"unitHour": {
+		"message": "$1 hour",
+		"description": "how many hour(s), singular form, $1 will be replaced by a number"
+	},
+	"unitDay": {
+		"message": "$1 day",
+		"description": "how many day(s), singular form, $1 will be replaced by a number"
+	},
+	"unitSeconds": {
+		"message": "$1 secs",
+		"description": "how many second(s), plural form, $1 will be replaced by a number"
+	},
+	"unitMinutes": {
+		"message": "$1 mins",
+		"description": "how many minute(s), plural form, $1 will be replaced by a number"
+	},
+	"unitHours": {
+		"message": "$1 hours",
+		"description": "how many hour(s), plural form, $1 will be replaced by a number"
+	},
+	"unitDays": {
+		"message": "$1 days",
+		"description": "how many day(s), plural form, $1 will be replaced by a number"
+	},	
+	
+	"fieldURL": {
+		"message": "URL",
+		"description": "Task property"
+	},
+	"fieldNaming": {
+		"message": "Naming mask",
+		"description": "Task property"
+	},
+	"fieldFolder": {
+		"message": "Folder",
+		"description": "Task property"
+	},
+	"fieldThreads": {
+		"message": "Threads",
+		"description": "Task property: for multi-threaded downloading"
+	},
+	"fieldReferer": {
+		"message": "Referer",
+		"description": "Task property: referring page"
+	},
+	"fieldRemarks": {
+		"message": "Remarks",
+		"description": "Task property: any comments or extra information for the task"
+	},
+	"fieldRedirection": {
+		"message": "Redirection",
+		"description": "Task property: the final effective URL after redirections"
+	},
+	"fieldFileSize": {
+		"message": "File size",
+		"description": "Task property"
+	},
+	"fieldDownloadedSize": {
+		"message": "Downloaded",
+		"description": "Task property: downloaded file size"
+	},
+	"fieldState": {
+		"message": "State",
+		"description": "Task property"
+	},
+	"fieldAvgSpeed": {
+		"message": "Average speed",
+		"description": "Task property"
+	},
+	"fieldAddTime": {
+		"message": "Create time",
+		"description": "Task property: the time when task was added"
+	},
+	"fieldElapsedTime": {
+		"message": "Time elapsed",
+		"description": "Task property: elapsed time since the task started"
+	},
+	"fieldFinishTime": {
+		"message": "Finish time",
+		"description": "Task property"
+	},
+	"fieldFileName": {
+		"message": "Filename",
+		"description": "Task property"
+	},
+	"fieldProgress": {
+		"message": "Progress",
+		"description": "Task property"
+	},
+	"fieldSpeed": {
+		"message": "Speed",
+		"description": "Task property"
+	},
+	"fieldRemainingTime": {
+		"message": "Time remaining",
+		"description": "Task property: estimated time for download completion"
+	},
+	"fieldType": {
+		"message": "Type",
+		"description": "File type, a column of the URL table in Chrono Sniffer"
+	},
+	
+	"optionTableAutoResize": {
+		"message": "Force fit columns",
+		"description": "Whether to adjust table columns' widths to make table as wide as screen, displayed as an option in column header's context-menu"
+	},
+	"optionTableSyncResize": {
+		"message": "Synchronous resize",
+		"description": "Whether to resize column's content synchronously as column header is being resized, displayed as an option in column header's context-menu"
+	},
+
+	"optionSearchFuzzyMatch": {
+		"message": "Fuzzy match",
+		"description": "Search option, whether to apply fuzzy matching"
+	},
+	"optionSearchCaseSensitive": {
+		"message": "Case sensitive",
+		"description": "Search option, whether to perform case-sensitive search"
+	},
+	
+	"btnOpenManager": {
+		"message": "Open Manager"
+	},
+	"btnBackToManager": {
+		"message": "Back",
+		"description": "Top-left button on Options page, click to go back to Manager page"
+	},
+	"tipBtnBackToManager": {
+		"message": "Back to Manager",
+		"description": "Tool-tip for the Back button"
+	},
+	"btnCancel": {
+		"message": "Cancel"
+	},
+	"btnRate": {
+		"message": "Rate",
+		"description": "Button: rate extension on Chrome web store"
+	},
+	"btnApply": {
+		"message": "Apply",
+		"description": "Button: apply actions/changes"
+	},
+	"btnImportChromeHistory": {
+		"message": "Import downloads history from Chrome",
+		"description": "Button: import downloads history from Chrome, shown on welcome screen after installation"
+	},
+	
+	"btnAbout": {
+		"message": "About",
+		"description": "Dropdown menu item: about Chrono"
+	},
+	"btnFAQ": {
+		"message": "FAQ",
+		"description": "Dropdown-menu item"
+	},
+	
+	"btnClearFinished": {
+		"message": "Clear completed tasks",
+		"description": "Dropdown-menu item for clearing finished tasks"
+	},
+	"btnClearRemoved": {
+		"message": "Clear tasks with missing files",
+		"description": "Dropdown-menu item for clearing tasks with missing files"
+	},
+	"btnClearFailed": {
+		"message": "Clear failed tasks",
+		"description": "Dropdown-menu item for clearing failed tasks"
+	},
+	"btnClearAll": {
+		"message": "Clear all",
+		"description": "Dropdown-menu item for clearing all completed tasks and failed tasks"
+	},
+	
+	"btnStart": {
+		"message": "Start!",
+		"description": "Start button on New Task Dialog"
+	},
+	"btnStartAll": {
+		"message": "Download All!",
+		"description": "Start All button on the bottom of popup Chrono Sniffer"
+	},
+	"btnAddPaused": {
+		"message": "Add Paused",
+		"description": "Add Paused button on New Task Dialog"
+	},
+	"optionAddTop": {
+		"message": "Add to front of the queue",
+		"description": "Whether to add new task to the front of the queue, displayed as an option on New Task Dialog"
+	},
+		
+	"statusDownloadedSize": {
+		"message": "$1 of $2",
+		"description": "Downloaded file size of total file size, $1 and $2 will be replaced by file size,  e.g. 2.5MB of 10MB"
+	},	
+	"statusTimeLeft": {
+		"message": "$1 left",
+		"description": "How much time remaining, $1 will be replaced by estimated time, e.g. 15 seconds left"
+	},
+	"statusSelectedOf": {
+		"message": "$1 items selected",
+		"description": "Status-bar message(on the bottom of Manager page): indicates how many tasks(rows) are being selected, $1 will be replaced by numbers, e.g. '15 items selected'"
+	},
+	"statusNumItems": {
+		"message": "$1 items",
+		"description": "Status-bar message: indicates the number of tasks in current view, $1 will be replaced by a number, e.g. '15 item(s)'"
+	},
+	"statusScheduledAutoClear": {
+		"message": "Automatic task clearing will run in $1 seconds",
+		"description": "Status-bar message: informs user that automatic task clearing will start shortly, $1 will be replaced by a number"
+	},
+	"statusTasksCleared": {
+		"message": "$1 tasks removed",
+		"description": "Status-bar message: indicates the number of tasks that were successfully removed, $1 will be replaced by a number"
+	},
+	"statusNumDownloading": {
+		"message": "$1 downloading",
+		"description": "Status-bar message: indicates the number of downloading tasks, $1 will be replaced by a number, e.g. '5 downloading'"
+	},
+	"statusImporting": {
+		"message": "Importing...",
+		"description": "Status-bar message: importing downloads history from Chrome"
+	},
+	"statusImportDone": {
+		"message": "Imported successfully",
+		"description": "Status-bar message: finished importing"
+	},
+	"statusCopyURL": {
+		"message": "Copying URL...",
+		"description": "Status-bar message: copying selected tasks' URLs"
+	},
+	"statusCopyURLDone": {
+		"message": "URL copied to clipboard",
+		"description": "Status-bar message: finished copying"
+	},
+	"statusReadClipboard": {
+		"message": "Reading clipboard...",
+		"description": "Status-bar message: reading & analyzing contents of clipboard"
+	},
+		
+	"extsAudio": {
+		"message": "Audio",
+		"description": "File type, displayed as tab in Chrono Sniffer"
+	},
+	"extsVideo": {
+		"message": "Video",
+		"description": "File type, displayed as tab in Chrono Sniffer"
+	},
+	"extsImage": {
+		"message": "Image",
+		"description": "File type, displayed as tab in Chrono Sniffer"
+	},
+	"extsDocument": {
+		"message": "Document",
+		"description": "File type, displayed as tab in Chrono Sniffer"
+	},
+	"extsArchive": {
+		"message": "Archive",
+		"description": "File type, displayed as tab in Chrono Sniffer"
+	},
+	"extsApp": {
+		"message": "Application",
+		"description": "File type, displayed as tab in Chrono Sniffer"
+	},
+	"extsAll": {
+		"message": "All",
+		"description": "File type, displayed as tab in Chrono Sniffer"
+	},
+	"extsOthers": {
+		"message": "Other",
+		"description": "File type, displayed as tab in Chrono Sniffer"
+	},
+	
+	"ruleAllTasks": {
+		"message": "All Tasks",
+		"description": "Rule caption, displayed as tasks filter on the left panel of Manager page"
+	},
+	"ruleRecycled": {
+		"message": "Trash",
+		"description": "Rule caption, displayed as tasks filter on the left panel of Manager page"
+	},
+	"ruleAudio": {
+		"message": "Audio",
+		"description": "Rule caption, displayed as tasks filter on the left panel of Manager page"
+	},
+	"ruleVideo": {
+		"message": "Video",
+		"description": "Rule caption, displayed as tasks filter on the left panel of Manager page"
+	},
+	"ruleImage": {
+		"message": "Image",
+		"description": "Rule caption, displayed as tasks filter on the left panel of Manager page"
+	},
+	"ruleDocument": {
+		"message": "Document",
+		"description": "Rule caption, displayed as tasks filter on the left panel of Manager page"
+	},
+	"ruleOther": {
+		"message": "Other",
+		"description": "Rule caption, displayed as tasks filter on the left panel of Manager page"
+	},
+	"ruleRecent": {
+		"message": "Recent",
+		"description": "Rule caption, displayed as tasks filter on the left panel of Manager page"
+	},
+	"ruleDownloading": {
+		"message": "Downloading",
+		"description": "Rule caption, displayed as tasks filter on the left panel of Manager page"
+	},
+	"ruleFinished": {
+		"message": "Finished",
+		"description": "Rule caption, displayed as tasks filter on the left panel of Manager page"
+	},
+	"ruleInterrupted": {
+		"message": "Failed",
+		"description": "Rule caption, displayed as tasks filter on the left panel of Manager page"
+	},
+	"ruleSmallFiles": {
+		"message": "Small Files",
+		"description": "Rule caption, displayed as tasks filter on the left panel of Manager page"
+	},
+	
+	"extsNew": {
+		"message": "New Filter",
+		"description": "Default caption for new filter in Extension Filter"
+	},
+	"ruleNew": {
+		"message": "New Rule",
+		"description": "Default caption for new rule in Rule System"
+	},
+	
+	"hintSearchDownloads": {
+		"message": "Search downloads",
+		"description": "Placeholder for the search box on the left panel of Manager page"
+	},
+	"msgSearchNoResults": {
+		"message": "No results found",
+		"description": "Message shown when no results found in search"
+	},
+	
+	"titleOptions": {
+		"message": "Options",
+		"description": "Title for Options page"
+	},
+	"titleOptionsGeneral": {
+		"message": "General",
+		"description": "Title for Options section: general settings"
+	},
+	"titleOptionsInterface": {
+		"message": "Interface",
+		"description": "Title for Options section: user interface"
+	},
+	"titleOptionsFilter": {
+		"message": "Extension Filter",
+		"description": "Title for Options section: extension filters editor"
+	},
+	"titleOptionsRules": {
+		"message": "Rule System",
+		"description": "Title for Options section: rules editor"
+	},
+	"titleOptionsHelp": {
+		"message": "Help",
+		"description": "Title for Options section: help page"
+	},
+	"titleOptionsAbout": {
+		"message": "About",
+		"description": "Title for Options section: about page"
+	},
+		
+	"tipBtnNewTask": {
+		"message": "New task",
+		"description": "Tool-tip for the 'New Task' toolbar button on the top of Manager page"
+	},
+	"tipBtnStart": {
+		"message": "Start",
+		"description": "Tool-tip for the 'Start' toolbar button on the top of Manager page"
+	},
+	"tipBtnStartAll": {
+		"message": "Start all",
+		"description": "Tool-tip for the 'Start All' toolbar button on the top of Manager page"
+	},
+	"tipBtnRestart": {
+		"message": "Restart",
+		"description": "Tool-tip for the 'Restart' toolbar button on the top of Manager page"
+	},
+	"tipBtnPause": {
+		"message": "Pause",
+		"description": "Tool-tip for the 'Pause' toolbar button on the top of Manager page"
+	},
+	"tipBtnPauseAll": {
+		"message": "Pause all",
+		"description": "Tool-tip for the 'Pause All' toolbar button on the top of Manager page"
+	},
+	"tipBtnRecycle": {
+		"message": "Move to trash",
+		"description": "Tool-tip for the 'Recycle' toolbar button on the top of Manager page"
+	},
+	"tipBtnRestore": {
+		"message": "Restore",
+		"description": "Tool-tip for the 'Restore' toolbar button on the top of Manager page"
+	},
+	"tipBtnDelete": {
+		"message": "Delete",
+		"description": "Tool-tip for the 'Delete' toolbar button on the top of Manager page"
+	},
+	"tipBtnOptions": {
+		"message": "Options",
+		"description": "Tool-tip for the 'Options' toolbar button on the top of Manager page"
+	},
+	"tipBtnHelp": {
+		"message": "Help",
+		"description": "Tool-tip for the 'Help' toolbar button on the top of Manager page"
+	},
+	"tipBtnSort": {
+		"message": "Sort tasks",
+		"description": "Tool-tip for status-bar button: sort"
+	},
+	"tipBtnClear": {
+		"message": "Clear tasks",
+		"description": "Tool-tip for status-bar button: clear"
+	},
+	"tipBtnCopyLink": {
+		"message": "Copy link",
+		"description": "Tool-tip for button: copy link URL"
+	},
+	"tipBtnOpenFolder": {
+		"message": "Open containing folder",
+		"description": "Tool-tip for button: open folder for task"
+	},
+	"tipBtnOpenFile": {
+		"message": "Open file",
+		"description": "Tool-tip for button: open file for task"
+	},
+	"tipBtnOpenDefaultLocation": {
+		"message": "Open downloads folder",
+		"description": "Tool-tip for status-bar button: open Chrome's default downloads folder"
+	},
+	"tipBtnChangeDefaultLocation": {
+		"message": "Change downloads folder...",
+		"description": "Tool-tip for status-bar button: change Chrome's default downloads folder"
+	},
+	"tipBtnConfigExtFilters": {
+		"message": "Edit extension filters",
+		"description": "Tool-tip for the green (pencil) tab button in Chrono Sniffer, which opens Extension Filters editing page"
+	},
+	"tipBtnPopList": {
+		"message": "Switch to downloads list",
+		"description": "Button for switching between Downloads List and Sniffer in popup window"
+	},
+	"tipBtnPopSniffer": {
+		"message": "Switch to Sniffer",
+		"description": "Button for switching between Downloads List and Sniffer in popup window"
+	},
+	
+	"optSectionTaskDefaults": {
+		"message": "New Task Defaults",
+		"description": "Title for Options section"
+	},
+	"tipOptSectionTaskDefaults": {
+		"message": "Default settings to be applied when adding new tasks, e.g. applied for one-click downloads",
+		"description": "Explaining 'New Task Defaults'"
+	},
+	"optSectionOneClick": {
+		"message": "One-click Download",
+		"description": "Title for Options section"
+	},
+	"tipOptSectionOneClick": {
+		"message": "If enabled, download will start immediately when you click on a link, using default task settings (see above), without prompting a dialog for setting Naming Mask etc. Note that Chrome's Save As dialog may still show up, click on the tip to see how to disable it.",
+		"description": "Explaining one-click download"
+	},
+	"optSectionNetwork": {
+		"message": "Network",
+		"description": "Title for Options section"
+	},
+	"optSectionMisc": {
+		"message": "Miscellaneous",
+		"description": "Title for Options section"
+	},
+	"optSectionBehaviors": {
+		"message": "Behavior",
+		"description": "Title for Options section"
+	},
+	"optSectionMenu": {
+		"message": "Menu",
+		"description": "Title for Options section"
+	},
+	"optSectionPopup": {
+		"message": "Pop-up",
+		"description": "Title for Options section: popup window"
+	},
+	"optSectionNotifications": {
+		"message": "Notifications",
+		"description": "Title for Options section"
+	},
+	"optSectionPreview" : {
+		"message": "File preview",
+		"description": "Title for file preview in the preview panel of main UI"
+	},
+	
+	"optItemDefAddPaused": {
+		"message": "Add paused",
+		"description": "Start right away or add paused, default option for adding new task"
+	},
+	"optItemNameConflict": {
+		"message": "When filename conflicts",
+		"description": "Title for Options section"
+	},
+	"optOptionUniquify": {
+		"message": "Uniquify",
+		"description": "Filename conflict action: make filename unique"
+	},
+	"optOptionOverwrite": {
+		"message": "Overwrite",
+		"description": "Filename conflict action: overwrite existing file"
+	},
+	"optOptionPrompt": {
+		"message": "Prompt",
+		"description": "Filename conflict action: prompt Save As dialog"
+	},
+	"optOptionSkipPause": {
+		"message": "Skip and pause",
+		"description": "Filename conflict action: skip and pause the task"
+	},
+	"optOptionSkipCancel": {
+		"message": "Cancel download",
+		"description": "Filename conflict action: skip and cancel the task"
+	},
+	"optItemDownloadClipboard": {
+		"message": "Download URL from clipboard",
+		"description": "Options item: fill the textbox in New Task Dialog with URL from clipboard"
+	},
+	"optItemStartInterrupted": {
+		"message": "Start button can start failed tasks",
+		"description": "Options item"
+	},
+	"optItemOverrideChrome": {
+		"message": "Override Chrome's original downloads page and enable $1 keyboard shortcut",
+		"description": "Options item, $1 will be replaced by the actual shortcut, e.g 'Ctrl+J', please leave it unchanged"
+	},
+	"optItemHideShelf": {
+		"message": "Hide Chrome's downloads shelf/bar",
+		"description": "Options item: hide Chrome's downloads status bar on the bottom of browser window"
+	},
+	"optItemSlideDetailsPanel": {
+		"message": "Slide in Details Panel when clicking on task",
+		"description": "Options item"
+	},
+	"optItemRecycleCancel": {
+		"message": "Cancel the task when it's moved to trash",
+		"description": "Options item"
+	},
+	"optItemClearSearch": {
+		"message": "Clear search box when filter changes",
+		"description": "Options item: exit searching when left panel task filter changes"
+	},
+	"optItemMenuDialog": {
+		"message": "Save link/image as...",
+		"description": "Options item: enable context-menu items for links/images/audios/videos, see menuDLink, menuDImage, menuDAudio, menuDVideo"
+	},
+	"optItemMenuOneClick": {
+		"message": "One-click download the link/image",
+		"description": "Options item: enable context-menu items(one-click version) for links/images/audios/videos, see menuDLinkOneClick, menuDImageOneClick, menuDAudioOneClick, menuDVideoOneClick"
+	},
+	"optItemNotifyError": {
+		"message": "Show notification when error occurs",
+		"description": "Options item"
+	},
+	"optItemNotifyFinish": {
+		"message": "Show notification when download completes",
+		"description": "Options item"
+	},
+	"optItemNotifyOneClick": {
+		"message": "Show notification when adding one-click download",
+		"description": "Options item"
+	},
+	"optItemNotifyProgress": {
+		"message": "Show download progress",
+		"description": "Options item"
+	},
+	"optItemNotifyLargePreview": {
+		"message": "Show large preview for images",
+		"description": "Options item: use large preview size for images in notifications"
+	},
+	"optItemSoundFinish": {
+		"message": "Play sound when download completes",
+		"description": "Options item"
+	},
+	"optItemSoundError": {
+		"message": "Play sound when error occurs",
+		"description": "Options item"
+	},
+	"optItemClickNotify": {
+		"message": "Clicking on a notification",
+		"description": "Options item: action on clicking"
+	},
+	"optOptionClearNotify": {
+		"message": "Clear that notification",
+		"description": "Action after clicking notification"
+	},
+	"optOptionClearAllNotify": {
+		"message": "Clear all notifications",
+		"description": "Action after clicking notification"
+	},
+	"optItemBadgeDownloadNum": {
+		"message": "Show number of downloading tasks over toolbar icon",
+		"description": "Options item"
+	},
+	"optItemDblClickAction": {
+		"message": "Double-click on task",
+		"description": "Options item: action for double-click"
+	},
+	"optOptionDoNothing": {
+		"message": "Do nothing",
+		"description": "Action for double-click"
+	},
+	"optOptionStartPause": {
+		"message": "Start or pause",
+		"description": "Action for double-click"
+	},
+	"optOptionOpenFile": {
+		"message": "Open file",
+		"description": "Action for double-click"
+	},
+	"optOptionOpenFolder": {
+		"message": "Open folder",
+		"description": "Action for double-click"
+	},
+	"optItemConcurrentDownloads": {
+		"message": "Concurrent downloads",
+		"description": "Options item: maximum number of concurrent downloads"
+	},
+	"optItemDownloadsPerServer": {
+		"message": "Downloads per server",
+		"description": "Options item: maximum connections from same server"
+	},
+	"optItemPopDeleteAction": {
+		"message": "Click 'Delete' button",
+		"description": "Options item: action after clicking the 'Delete' button in popup downloads list"
+	},
+	"optOptionRemList": {
+		"message": "Remove from list",
+		"description": "Action after clicking the 'Delete' button: remove from downloads list"
+	},
+	"optOptionRemFile": {
+		"message": "Remove from list and disk",
+		"description": "Action after clicking the 'Delete' button: remove from downloads list and also remove the file"
+	},
+	"optOptionRemAsk": {
+		"message": "Ask",
+		"description": "Action after clicking the 'Delete' button: ask user"
+	},
+	"optItemPopMaxItems": {
+		"message": "Maximum items in downloads list",
+		"description": "Options item: maximum items to show in popup downloads list"
+	},
+	"optItemPopShowDLFirst": {
+		"message": "Show downloading tasks first",
+		"description": "Options item: show downloading tasks first in the popup downloads list"
+	},
+	"optItemPopClearClose": {
+		"message": "Close popup after clearing tasks",
+		"description": "Options item: close popup downloads list"
+	},
+	"optItemPopLikeButtons": {
+		"message": "Show social media buttons",
+		"description": "Options item: show social media buttons, e.g. facebook like button"
+	},
+	"optItemPreviewAutoplay": {
+		"message": "Autoplay audio/video",
+		"description": "Options item: whether to autoplay audio/video in file preview"
+	},
+	"optItemDefFolder": {
+		"message": "Default folder",
+		"description": "Options item"
+	},
+	"optItemDefNaming": {
+		"message": "Default naming mask",
+		"description": "Options item"
+	},
+	"optItemRuleMatchMode": {
+		"message": "Match mode",
+		"description": "Options item: how to match rules"
+	},
+	"optOptionFirstMatch": {
+		"message": "First match",
+		"description": "Rule matching mode: use first matched rule"
+	},
+	"optOptionReplace": {
+		"message": "Replace",
+		"description": "Rule matching mode: latter matched rule overwrites previous ones"
+	},
+	"optItemClearRemoveFile": {
+		"message": "Delete from disk",
+		"description": "Checkbox option shown on Clear Tasks dropdown-menu, whether to remove files as tasks are cleared"
+	},
+	
+	"tipExtFilterEnable": {
+		"message": "Enabled as extensions filter in Chrono Sniffer",
+		"description": "Tool-tip for column header in Options>Extension Filter table, explaining what corresponding column means"
+	},
+	"headExtFilterCaption": {
+		"message": "Display name",
+		"description": "Column header name in Options>Extension Filter table: caption of the filter for displaying"
+	},
+	"headExtFilterRefName": {
+		"message": "Internal name",
+		"description": "Column header name in Options>Extension Filter table: internal name for referencing filter in other expressions"
+	},
+	"tipExtFilterRefName": {
+		"message": "Internal name for referencing filter in other expressions",
+		"description": "Tool-tip for column header in Options>Extension Filter table"
+	},
+	"headExtFilterExts": {
+		"message": "File extensions",
+		"description": "Column header name in Options>Extension Filter table: file extensions expression"
+	},
+	"helpExtFilter": {
+		"message": "* Double-click to edit.\n* Type on empty row to add a new filter.\n* Select rows and press DELETE to remove them.",
+		"description": "Brief help shown under Options>Extension Filter table, please separate lines when necessary"
+	},
+	
+	"headRulesActive": {
+		"message": "Active",
+		"description": "Column header name in Options>Rule System table: whether to activate the rule"
+	},
+	"tipRulesActive": {
+		"message": "Only active Rules will be used for Rule matching",
+		"description": "Tool-tip for column header in Options>Rule System table, explaining what corresponding column means"
+	},
+	"headRulesAsFilter": {
+		"message": "As Tasks Filter",
+		"description": "Column header name in Options>Rule System table: whether to use the rule as task filter in Manager"
+	},
+	"tipRulesAsFilter": {
+		"message": "Show as tasks filter in Download Manager",
+		"description": "Tool-tip for column header in Options>Rule System table"
+	},
+	"headRulesCaption": {
+		"message": "Display name",
+		"description": "Column header name in Options>Rule System table: caption of the rule for displaying"
+	},
+	"headRulesRefName": {
+		"message": "Internal name",
+		"description": "Column header name in Options>Rule System table: internal name for referencing the rule in other expressions"
+	},
+	"tipRulesRefName": {
+		"message": "Internal name for referencing rule in other expressions",
+		"description": "Tool-tip for column header in Options>Rule System table"
+	},
+	"headRulesCondition": {
+		"message": "Condition",
+		"description": "Column header name in Options>Rule System table: rule condition expression"
+	},
+	"helpRules": {
+		"message": "* Double-click to edit.\n* Type on empty row to add a new rule.\n* Select rows and press DELETE to remove them.\n* If you have problems in writing the Rules, please refer to the Help section.",
+		"description": "Brief help shown under Options>Rule System table, please separate lines when necessary"
+	},
+	
+	"tipOptItemSlideDetailsPanel": {
+		"message": "You can still Alt+click a task to open Details Panel",
+		"description": "Tips explaining sliding details panel"
+	},
+	"tipOptItemRuleMatchMode": {
+		"message": "Please note that only active Rules are tested for matching. In the Replace mode, all matched Rules are applied, but latter Rules will overwrite former ones.",
+		"description": "Tips explaining rule matching mode"
+	},
+	"tipOptNoRuleMatch": {
+		"message": "Applied when no Rule matches",
+		"description": "Tips explaining when the default naming mask and default folder will be used, as set in Rule System"
+	},
+	"tipURL": {
+		"message": "You can enter multiple URLs separated by new lines; you can start batch downloads by using the Batch Descriptors.",
+		"description": "Tips on entering URLs in New Task Dialog"
+	},
+	"tipNaming": {
+		"message": "Please refer to Help page for usage of naming masks.",
+		"description": "Tips on naming mask in New Task Dialog"
+	},
+	"titleSwitchUI": {
+		"message": "Switch display mode",
+		"description": "Tool-tip for UI-mode switching button: list or table"
+	},
+	"titleChangeBG": {
+		"message": "Change background",
+		"description": "Title for background configuration panel"
+	},
+	"labelBGConstantColor": {
+		"message": "Solid color",
+		"description": "Set background to constant color"
+	},
+	"labelBGChooseFrom": {
+		"message": "Choose image",
+		"description": "Choose from provided background images"
+	},
+	"labelBGImageURL": {
+		"message": "Custom image URL",
+		"description": "Set background image by file URL"
+	},
+	"labelBGOpacity": {
+		"message": "Opacity",
+		"description": "Background opacity/transparency"
+	},
+	"labelBGBlur": {
+		"message": "Blur",
+		"description": "Extent of background blurring"
+	},
+	"tipBGEnable": {
+		"message": "This feature is experimental. Due to certain issue of Chrome, enabling background may increase memory usage dramatically.",
+		"description": "Informing users about the risk of enabling background feature"
+	},
+	"tipBGURLHasFileAccess": {
+		"message": "Enter a web URL, or full path of an image on your computer prefixed with 'file:///'",
+		"description": "Explaining how to set background image by file URL"
+	},
+	"tipBGURLNoFileAccess": {
+		"message": "Enter a web URL, or full path of an image on your computer (for local file, you need to enable file access for Chrono first, click the question mark to see how)",
+		"description": "Explaining how to set background image by file URL, in the case that Chrono hasn't got file access permission"
+	},
+	"tipBGBlur": {
+		"message": "Blurring effect may decrease GUI responsiveness",
+		"description": "Informing users the downside of enabling background blurring"
+	},
+	"tipAutoClear": {
+		"message": "Automatically clear tasks from the list, but keep files on disk",
+		"description": "Tips on automatic tasks clearing"
+	},
+	"labelAutoClear": {
+		"message": "Schedule",
+		"description": "schedule clearing tasks, either 'schedule' or 'automatically' can be used here"
+	},
+	"everyXMinutes": {
+		"message": "Every $1 minutes"
+	},
+	"everyXHours": {
+		"message": "Every $1 hours"
+	},
+	"everyXDays": {
+		"message": "Every $1 days"
+	},
+	
+	"confirmClearTask": {
+		"message": "Are you sure you want to remove $1 items?",
+		"description": "Confirm removing tasks from Chrono after user clicks on `Clear` menu, $1 will be replaced with a number"
+	},
+	"confirmRecycleRunning": {
+		"message": "Move running task(s) to trash?",
+		"description": "Confirm recycling tasks that are currently running"
+	},
+	"confirmRemoveTask": {
+		"message": "Permanently remove selected task(s)?"
+	},
+	"confirmBtnYes": {
+		"message": "Yes"
+	},
+	"confirmBtnYesFile": {
+		"message": "Yes, and delete file(s)",
+		"description": "Remove tasks from list as well as files from disk"
+	},
+	"confirmBatchDownload": {
+		"message": "It seems that you're going to start batch downloads, here are some examples:",
+		"description": "Batch download information"
+	},
+	"confirmBatchDownloadNaming": {
+		"message": "For batch download, please make sure naming mask generate different filenames. Proceed anyway?",
+		"description": "Proceed regardless of warnings?"
+	},
+	"confirmProceed": {
+		"message": "Would you like to continue?"
+	},
+	"confirmCantResumeRestart": {
+		"message": "Task $1 fails to resume, restart it?",
+		"description": "$1 will be replaced by name of task"
+	},
+	"confirmRemoveExtFilter": {
+		"message": "Remove selected filter(s)?"
+	},
+	"confirmRemoveRule": {
+		"message": "Remove selected rule(s)?",
+		"description": "Remove rows in Rule System"
+	},
+	"confirmReset": {
+		"message": "Operation cannot be undone. Do you want to proceed?",
+		"description": "Confirmation message shown after clicking panic button"
+	},
+	
+	"msgTitleWelcome": {
+		"message": "Welcome!",
+		"description": "Title of welcome screen"
+	},
+	"msgTextWelcome": {
+		"message": "Before you start, please take these two extra steps to ensure better experience with Chrono.\n1. Turn off Chrome's Save As dialog so that you won't be asked where to save file for every download. This can be done by clearing the checkbox before $1.\n2. Allow Chrono to access file URLs for fast file preview, by ticking the checkbox $2 on $3.\nIf you have any question, please visit our Help page and FAQ page.",
+		"description": "Welcome message, \n are used to separate lines, $1 and $2 will be replaced by the labels of checkbox, $3 will be replaced by the link to Chrome Extensions page, please leave all of them unchanged."
+	},
+	"msgUpdated": {
+		"message": "$1 has been updated.",
+		"description": "Update message, $1 will be replaced by translation of 'Chrono Download Manager', please leave it unchanged"
+	},
+	"msgTitleUpdateAvail": {
+		"message": "New version $1 available!",
+		"description": "Update available message, $1 will be replaced by version number"
+	},
+	"msgTextUpdateAvail": {
+		"message": "Please reload extension to apply the update.",
+		"description": "Update available message"
+	},
+	"btnUpdateReload": {
+		"message": "Reload now",
+		"description": "Click to reload extension and apply update"
+	},
+	
+	"msgTaskStart": {
+		"message": "Task added to queue",
+		"description": "Notification: task added to queue, ready to start"
+	},
+	"msgTaskAddPaused": {
+		"message": "Task added and paused",
+		"description": "Notification: task added and paused, wait to start"
+	},
+	"msgTaskFinish": {
+		"message": "Download completed",
+		"description": "Notification: download completes"
+	},
+	"msgTaskInterrupt": {
+		"message": "Download failed",
+		"description": "Notification"
+	},
+	"msgSingleDownloadCanceledFilenameConflict": {
+		"message": "Download $1 was canceled due to filename conflict.",
+		"description": "$1 will be replaced by the filename"
+	},
+	"msgMultiDownloadsCanceledFilenameConflict": {
+		"message": "$1 downloads were canceled due to filename conflict.",
+		"description": "$1 will be replaced by a number"
+	},
+	
+	"msgSelectTaskInfo": {
+		"message": "Select a task to see its details.",
+		"description": "In the details panel, this message shows up if no task is selected"
+	},
+	"msgPreviewFailed": {
+		"message": "Failed to load file preview",
+		"description": "Error message in file preview panel"
+	},
+	"msgPreviewLargeFile": {
+		"message": "It may take a while to load the preview.",
+		"description": "Warning message in file preview panel"
+	},
+	"msgPreviewFileAccess": {
+		"message": "Cannot load local file for preview, you can turn on this feature by checking the checkbox $1 under $2 on chrome://extensions page.",
+		"description": "Error message for preview failure due to the lack of file access permission; $1 will be replaced by the translated text of 'Allow access to file URLs', and $2 will be replaced by the translated text of 'Chrono Download Manager', please leave them unchanged"
+	},
+	"msgPreviewPdfViewer": {
+		"message": "Chrome PDF Viewer is required for the preview, please configure it in chrome://settings.",
+		"description": "Error message for PDF file preview failure; instructions will follow after this message"
+	},
+	"msgPreviewErrorReadFile": {
+		"message": "Error reading file",
+		"description": "Error message for preview"
+	},
+	"btnLoadPreview": {
+		"message": "Load preview",
+		"description": "Button for loading file preview"
+	},
+
+	"titleTips": {
+		"message": "Tips",
+		"description": "Title for tips boxes, which show some useful tips of using the Download Manager"
+	},
+	"tipmsgDoubleClick": {
+		"message": "Double-click action can be changed under $1",
+		"description": "Tips on changing action for double-clicking on task, $1 will be replaced by corresponding Options section"
+	},
+	"tipmsgNotifications": {
+		"message": "Notification and sound settings can be changed under $1",
+		"description": "Tips on configuring notifications, $1 will be replaced by corresponding Options section"
+	},
+	"tipmsgSlideDetailsPanel": {
+		"message": "The sliding details panel can be turned off under $1",
+		"description": "Tips on disabling the auto-slide details panel, $1 will be replaced by corresponding Options section"
+	},
+	"tipmsgTaskFilter": {
+		"message": "Drag to reorder Task Filters; you can also add custom Task Filters under $1",
+		"description": "Tips on using Task Filters, $1 will be replaced by corresponding Options section"
+	},
+	"tipmsgOpenShortcut": {
+		"message": "You can open $1 with keyboard shortcut $2",
+		"description": "Tips on using keyboard shortcut. $1 will replaced by the translated text of 'Chrono Download Manager', and $2 will be replaced by the actual shortcut, e.g 'Ctrl+J', please leave them unchanged"
+	},
+	"tipmsgGridSelection": {
+		"message": "Hold Ctrl/Shift to select multiple rows, or press $1 to select all rows",
+		"description": "Tips on quick selection in task manager. $1 will be replaced by the actual shortcut, e.g 'Ctrl+A', please leave it unchanged"
+	},
+	"tipmsgCopySelectedURLs": {
+		"message": "Simply press $1 to copy URLs of selected task(s)",
+		"description": "Tips on copying selected tasks' URLs in task manager. $1 will be replaced by the actual shortcut, e.g 'Ctrl+C', please leave it unchanged"
+	},
+	"tipmsgFitColumnWidth": {
+		"message": "Double-click on the column resizer to adjust column width automatically",
+		"description": "Tips on fitting column width regarding its contents"
+	},
+	"btnGotIt": {
+		"message": "Got it!",
+		"description": "Button shown under tip message, 'I got it, don't show again'"
+	},
+	"btnTakeMeThere": {
+		"message": "Take me there",
+		"description": "Button shown under tip message, click to open corresponding Options section and change settings"
+	},
+	
+	"titleRateShare": {
+		"message": "Rate and share!",
+		"description": "Title for the Rate/Share box"
+	},
+	"msgRateShare": {
+		"message": "If you find $1 useful, please give us a Five Star review on $2 and share with your friends!",
+		"description": "$1 will be replaced by translation of 'Chrono Download Manager', $2 will be replaced by translation of 'Chrome Web Store', please leave them unchanged"
+	},
+	"btnShareDone": {
+		"message": "I already did it",
+		"description": "Button on the Rate/Share box, already rated or shared"
+	},
+	"btnLater": {
+		"message": "Later",
+		"description": "Button: will do it later"
+	},	
+	
+	"phraseNever": {
+		"message": "Never"
+	},
+	"phraseVersion": {
+		"message": "Version",
+		"description": "Word/Phrase: version of the extension"
+	},
+	"phraseToday": {
+		"message": "Today"
+	},
+	"phraseYesterday": {
+		"message": "Yesterday"
+	},
+	"phraseEnable": {
+		"message": "Enable",
+		"description": "Word/Phrase: enable feature"
+	},
+	"phraseAutomatic": {
+		"message": "Automatic",
+		"description": "Word/Phrase: automatic naming mask, i.e. determine naming mask automatically from rules"
+	},
+	"phraseMultiValues": {
+		"message": "Multi-value",
+		"description": "Word/Phrase: when displaying a property with different values for multiple tasks"
+	},
+	"phraseRegex": {
+		"message": "Regular Expression",
+		"description": "Word/Phrase: regular expression for custom filter"
+	},
+	"phrasePreview": {
+		"message": "Preview",
+		"description": "Word/Phrase: preview image/audio"
+	},
+	"phraseUnknown": {
+		"message": "Unknown"
+	},
+	"phraseUnknownSize": {
+		"message": "Unknown size",
+		"description": "Message shown for tasks with unknown file size"
+	},	
+	
+	"errorNone": {
+		"message": "No error",
+		"description": "Error message"
+	},
+	"errorNoID": {
+		"message": "Fail to add new task to Chrono because there are too many tasks in the manager, clean up some unused tasks and try again.",
+		"description": "Error message"
+	},
+	"errorFNameConflict": {
+		"message": "Filename conflict",
+		"description": "Error message, preferably no period here"
+	},
+	"errorFileNotExist": {
+		"message": "File not found",
+		"description": "Fail to open file because it does not exist"
+	},
+	"errorRemovedFromChrome": {
+		"message": "The task may have been removed from Chrome.",
+		"description": "Fail to open file/folder, the task may have been removed in chrome://downloads"
+	},
+	"errorInvalidNamingMask": {
+		"message": "Invalid naming mask",
+		"description": "User provided naming mask is invalid"
+	},
+	"errorInvalidURLs": {
+		"message": "Invalid URL",
+		"description": "User provided URLs are invalid"
+	},
+
+	"chromesysWebStore": {
+		"message": "Chrome Web Store"
+	},
+	
+	"chromesysShowAdvSettings": {
+		"message": "Show advanced settings..."
+	},
+	"chromesysDownloadsSection": {
+		"message": "Downloads"
+	},
+	"chromesysDownloadLocation": {
+		"message": "Download location"
+	},
+	"chromesysDownloadSaveAsPrompt": {
+		"message": "Ask where to save each file before downloading"
+	},
+	"chromesysAllowFileAccess": {
+		"message": "Allow access to file URLs"
+	},
+	"chromesysChange": {
+		"message": "Change..."
+	},
+	"chromesysLanguageSection": {
+		"message": "Language"
+	},
+	"chromesysFontSize": {
+		"message": "Font size"
+	},
+	"chromesysFailedGenericDownloadError": {
+		"message": "Download error"
+	},
+	"chromesysFailedGenericNetworkError": {
+		"message": "Network error"
+	},
+	"chromesysFailed_CRASH": {
+		"message": "Crash"
+	},
+	"chromesysFailed_FILE_ACCESS_DENIED": {
+		"message": "Insufficient permissions"
+	},
+	"chromesysFailed_FILE_BLOCKED": {
+		"message": "Blocked"
+	},
+	"chromesysFailed_FILE_NAME_TOO_LONG": {
+		"message": "Path too long"
+	},
+	"chromesysFailed_FILE_NO_SPACE": {
+		"message": "Disk full"
+	},
+	"chromesysFailed_FILE_SAME_AS_SOURCE": {
+		"message": "Already downloaded"
+	},
+	"chromesysFailed_FILE_SECURITY_CHECK_FAILED": {
+		"message": "Virus scan failed"
+	},
+	"chromesysFailed_FILE_TOO_LARGE": {
+		"message": "File too large"
+	},
+	"chromesysFailed_FILE_TOO_SHORT": {
+		"message": "File truncated"
+	},
+	"chromesysFailed_FILE_TRANSIENT_ERROR": {
+		"message": "System busy"
+	},
+	"chromesysFailed_FILE_VIRUS_INFECTED": {
+		"message": "Virus detected"
+	},
+	"chromesysFailed_NETWORK_TIMEOUT": {
+		"message": "Network timeout"
+	},
+	"chromesysFailed_SERVER_BAD_CONTENT": {
+		"message": "No file"
+	},
+	"chromesysFailed_SERVER_CERT_PROBLEM": {
+		"message": "Bad certificate"
+	},
+	"chromesysFailed_SERVER_CONTENT_LENGTH_MISMATCH": {
+		"message": "File incomplete"
+	},
+	"chromesysFailed_SERVER_FAILED": {
+		"message": "Server problem"
+	},
+	"chromesysFailed_SERVER_FORBIDDEN": {
+		"message": "Forbidden"
+	},
+	"chromesysFailed_SERVER_UNAUTHORIZED": {
+		"message": "Needs authorization"
+	},
+	"chromesysFailed_SERVER_UNREACHABLE": {
+		"message": "Server unreachable"
+	},
+	"chromesysFailed_USER_CANCELED": {
+		"message": "Canceled"
+	},
+	"chromesysFailed_USER_SHUTDOWN": {
+		"message": "Shutdown"
+	},
+	"msgChromeI18nLanguage": {
+		"message": "Chrono uses the same language as your Chrome browser."
+	},
+	
+	"helpFile": {
+		"message": "../help/en.htm"
+	},
+	"aboutFile": {
+		"message": "../about/en.htm"
+	},
+	"uilang": {
+		"message": "en"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"extName":{"message": "Chrono Download Manager"},
+    "uilangName":{"message": "Estonian"},
+
+    "chromesysDownloadLocation":{"message": "Allalaadimise asukoht"},
+    "chromesysShowAdvSettings":{"message": "Kuva t\u00e4psemad seaded ..."},
+    "chromesysDownloadsSection":{"message": "Allalaadimised"},
+    "chromesysAllowFileAccess":{"message": "Luba juurdep\u00e4\u00e4s failide URL-idele"}
+}

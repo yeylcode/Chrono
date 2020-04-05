@@ -1,0 +1,1028 @@
+{
+  "btnAbout": {
+    "message": "Hakk\u0131nda"
+  },
+  "btnAddPaused": {
+    "message": "Duraklat\u0131lm\u0131\u015f ekle"
+  },
+  "btnApply": {
+    "message": "Uygula"
+  },
+  "btnBackToManager": {
+    "message": "Geri"
+  },
+  "btnCancel": {
+    "message": "\u0130ptal"
+  },
+  "btnClearAll": {
+    "message": "T\u00fcm\u00fcn\u00fc temizle"
+  },
+  "btnClearFailed": {
+    "message": "Yar\u0131da kalan g\u00f6revleri temizle"
+  },
+  "btnClearFinished": {
+    "message": "Tamamlanm\u0131\u015f g\u00f6revleri temizle"
+  },
+  "btnClearRemoved": {
+    "message": "Kay\u0131p dosyalar\u0131 temizle"
+  },
+  "btnFAQ": {
+    "message": "SSS"
+  },
+  "btnGotIt": {
+    "message": "Anla\u015f\u0131ld\u0131!"
+  },
+  "btnImportChromeHistory": {
+    "message": "Chrome'dan indirme ge\u00e7mi\u015fini i\u00e7e aktar"
+  },
+  "btnLater": {
+    "message": "Daha sonra"
+  },
+  "btnLoadPreview": {
+    "message": "\u00d6nizlemeyi Y\u00fckle"
+  },
+  "btnOpenManager": {
+    "message": "Y\u00f6neticiyi a\u00e7"
+  },
+  "btnPopRemoveFile": {
+    "message": "Dosyay\u0131 sil"
+  },
+  "btnPopRemoveList": {
+    "message": "Listeden kald\u0131r"
+  },
+  "btnRate": {
+    "message": "Oyla"
+  },
+  "btnShareDone": {
+    "message": "Zaten yapt\u0131m"
+  },
+  "btnStart": {
+    "message": "Ba\u015flat!"
+  },
+  "btnStartAll": {
+    "message": "T\u00fcm\u00fcn\u00fc indir"
+  },
+  "btnTakeMeThere": {
+    "message": "Oraya gitmek istiyorum"
+  },
+  "btnUpdateReload": {
+    "message": "\u015eimdi yeniden y\u00fckle"
+  },
+  "chromesysAllowFileAccess": {
+    "message": "Dosya URL'lerine eri\u015fime izin ver"
+  },
+  "chromesysChange": {
+    "message": "De\u011fi\u015ftir..."
+  },
+  "chromesysDownloadLocation": {
+    "message": "\u0130ndirme konumu"
+  },
+  "chromesysDownloadSaveAsPrompt": {
+    "message": "\u0130ndirmeden \u00f6nce her dosyan\u0131n nereye kaydedilece\u011fini sor"
+  },
+  "chromesysDownloadsSection": {
+    "message": "\u0130ndirilenler"
+  },
+  "chromesysFailedGenericDownloadError": {
+    "message": "\u0130ndirme hatas\u0131"
+  },
+  "chromesysFailedGenericNetworkError": {
+    "message": "A\u011f hatas\u0131"
+  },
+  "chromesysFailed_CRASH": {
+    "message": "Kilitlenme"
+  },
+  "chromesysFailed_FILE_ACCESS_DENIED": {
+    "message": "\u0130zinler yetersiz"
+  },
+  "chromesysFailed_FILE_BLOCKED": {
+    "message": "Engellendi"
+  },
+  "chromesysFailed_FILE_NAME_TOO_LONG": {
+    "message": "Yol \u00e7ok uzun"
+  },
+  "chromesysFailed_FILE_NO_SPACE": {
+    "message": "Disk dolu"
+  },
+  "chromesysFailed_FILE_SAME_AS_SOURCE": {
+    "message": "Zaten indirildi"
+  },
+  "chromesysFailed_FILE_SECURITY_CHECK_FAILED": {
+    "message": "Vir\u00fcs taramas\u0131 ba\u015far\u0131s\u0131z oldu"
+  },
+  "chromesysFailed_FILE_TOO_LARGE": {
+    "message": "Dosya \u00e7ok b\u00fcy\u00fck"
+  },
+  "chromesysFailed_FILE_TOO_SHORT": {
+    "message": "Dosya kesilmi\u015f"
+  },
+  "chromesysFailed_FILE_TRANSIENT_ERROR": {
+    "message": "Sistem me\u015fgul"
+  },
+  "chromesysFailed_FILE_VIRUS_INFECTED": {
+    "message": "Vir\u00fcs alg\u0131land\u0131"
+  },
+  "chromesysFailed_NETWORK_TIMEOUT": {
+    "message": "A\u011f zaman a\u015f\u0131m\u0131"
+  },
+  "chromesysFailed_SERVER_BAD_CONTENT": {
+    "message": "Dosya yok"
+  },
+  "chromesysFailed_SERVER_CERT_PROBLEM": {
+    "message": "Bozuk sertifika"
+  },
+  "chromesysFailed_SERVER_CONTENT_LENGTH_MISMATCH": {
+    "message": "Dosya eksik"
+  },
+  "chromesysFailed_SERVER_FAILED": {
+    "message": "Sunucu sorunu"
+  },
+  "chromesysFailed_SERVER_FORBIDDEN": {
+    "message": "Yasak"
+  },
+  "chromesysFailed_SERVER_UNAUTHORIZED": {
+    "message": "Yetkilendirme gerektiriyor"
+  },
+  "chromesysFailed_SERVER_UNREACHABLE": {
+    "message": "Sunucuya ula\u015f\u0131lam\u0131yor"
+  },
+  "chromesysFailed_USER_CANCELED": {
+    "message": "\u0130ptal Edildi"
+  },
+  "chromesysFailed_USER_SHUTDOWN": {
+    "message": "Kapat"
+  },
+  "chromesysFontSize": {
+    "message": "Yaz\u0131 tipi boyutu"
+  },
+  "chromesysLanguageSection": {
+    "message": "Dil"
+  },
+  "chromesysShowAdvSettings": {
+    "message": "Geli\u015fmi\u015f ayarlar\u0131 g\u00f6ster..."
+  },
+  "chromesysWebStore": {
+    "message": "Chrome Web Ma\u011fazas\u0131"
+  },
+  "confirmBatchDownload": {
+    "message": "Toplu indirmeyi ba\u015flatmak \u00fczere oldu\u011funuz anla\u015f\u0131l\u0131yor. \u0130\u015fte size birka\u00e7 \u00f6rnek:"
+  },
+  "confirmBatchDownloadNaming": {
+    "message": "Toplu indirmeler i\u00e7in, l\u00fctfen adland\u0131rma maskesinin farkl\u0131 dosya isimleri \u00fcretti\u011finden emin olun. Yine de devam edilsin mi?"
+  },
+  "confirmBtnYes": {
+    "message": "Evet"
+  },
+  "confirmBtnYesFile": {
+    "message": "Evet, dosyay\u0131 sil"
+  },
+  "confirmCantResumeRestart": {
+    "message": "$1 g\u00f6revine devam edilemiyor, yeniden ba\u015flat\u0131ls\u0131n m\u0131?"
+  },
+  "confirmClearTask": {
+    "message": "$1 \u00f6\u011feyi kald\u0131rmak istedi\u011finizden emin misiniz?"
+  },
+  "confirmProceed": {
+    "message": "Devam edilsin mi?"
+  },
+  "confirmRecycleRunning": {
+    "message": "\u00c7al\u0131\u015fan g\u00f6rev(ler) \u00e7\u00f6p kutusuna g\u00f6nderilsin mi?"
+  },
+  "confirmRemoveExtFilter": {
+    "message": "Se\u00e7ili \u00f6\u011feler kald\u0131r\u0131ls\u0131n m\u0131?"
+  },
+  "confirmRemoveRule": {
+    "message": "Se\u00e7ili \u00f6\u011feler kald\u0131r\u0131ls\u0131n m\u0131?"
+  },
+  "confirmRemoveTask": {
+    "message": "Se\u00e7ilen g\u00f6rev(ler) kal\u0131c\u0131 olarak kald\u0131r\u0131ls\u0131n m\u0131?"
+  },
+  "confirmReset": {
+    "message": "\u0130\u015flem geri al\u0131namaz. Devam etmek istiyor musunuz?"
+  },
+  "errorFNameConflict": {
+    "message": "Ad \u00c7ak\u0131\u015fmas\u0131"
+  },
+  "errorFileNotExist": {
+    "message": "Dosya bulunamad\u0131"
+  },
+  "errorInvalidNamingMask": {
+    "message": "Ge\u00e7ersiz ad"
+  },
+  "errorInvalidURLs": {
+    "message": "Ge\u00e7ersiz URL"
+  },
+  "errorNoID": {
+    "message": "Chrono'ya yeni g\u00f6rev ekleme ba\u015far\u0131s\u0131z oldu. \u00c7\u00fcnk\u00fc y\u00f6neticide \u00e7ok fazla g\u00f6rev var. Kullan\u0131lmayan baz\u0131 g\u00f6revleri temizleyin ve yeniden deneyin."
+  },
+  "errorNone": {
+    "message": "Hata yok"
+  },
+  "errorRemovedFromChrome": {
+    "message": "G\u00f6rev, Chrome'dan kald\u0131r\u0131lm\u0131\u015f olabilir."
+  },
+  "everyXDays": {
+    "message": "$1 g\u00fcnde bir"
+  },
+  "everyXHours": {
+    "message": "$1 saatte bir"
+  },
+  "everyXMinutes": {
+    "message": "$1 dakikada bir"
+  },
+  "extDesc": {
+    "message": "\u0130ndirme Y\u00f6neticisi | Video \u0130ndiricisi | Toplu Resim \u0130ndiricisi"
+  },
+  "extDescBest": {
+    "message": "Chrome i\u00e7in en iyi indirme y\u00f6neticisi"
+  },
+  "extDescSlogan": {
+    "message": "Dosya indir ve \u0130nternet'i y\u00f6net!"
+  },
+  "extName": {
+    "message": "Chrono \u0130ndirme Y\u00f6neticisi"
+  },
+  "extsAll": {
+    "message": "T\u00fcm\u00fc"
+  },
+  "extsApp": {
+    "message": "Uygulama"
+  },
+  "extsArchive": {
+    "message": "Ar\u015fiv"
+  },
+  "extsAudio": {
+    "message": "Ses"
+  },
+  "extsDocument": {
+    "message": "Dok\u00fcman"
+  },
+  "extsImage": {
+    "message": "Resim"
+  },
+  "extsNew": {
+    "message": "Yeni Filtre"
+  },
+  "extsOthers": {
+    "message": "Di\u011fer"
+  },
+  "extsVideo": {
+    "message": "Video"
+  },
+  "fieldAddTime": {
+    "message": "Olu\u015fturulma zaman\u0131"
+  },
+  "fieldAvgSpeed": {
+    "message": "Ortalama h\u0131z"
+  },
+  "fieldDownloadedSize": {
+    "message": "\u0130ndirilen"
+  },
+  "fieldElapsedTime": {
+    "message": "Ge\u00e7en s\u00fcre"
+  },
+  "fieldFileName": {
+    "message": "Dosya ad\u0131"
+  },
+  "fieldFileSize": {
+    "message": "Dosya boyutu"
+  },
+  "fieldFinishTime": {
+    "message": "Biti\u015f Saati"
+  },
+  "fieldFolder": {
+    "message": "Klas\u00f6r"
+  },
+  "fieldNaming": {
+    "message": "\u0130simlendirme maskesi"
+  },
+  "fieldProgress": {
+    "message": "\u0130lerleme durumu"
+  },
+  "fieldRedirection": {
+    "message": "Yeniden Y\u00f6nlendirme"
+  },
+  "fieldReferer": {
+    "message": "Y\u00f6nlendiren"
+  },
+  "fieldRemainingTime": {
+    "message": "Kalan s\u00fcre"
+  },
+  "fieldRemarks": {
+    "message": "Notlar"
+  },
+  "fieldSpeed": {
+    "message": "H\u0131z"
+  },
+  "fieldState": {
+    "message": "Durum"
+  },
+  "fieldThreads": {
+    "message": "\u00c7oklu ba\u011flant\u0131"
+  },
+  "fieldType": {
+    "message": "Dosya t\u00fcr\u00fc"
+  },
+  "fieldURL": {
+    "message": "URL"
+  },
+  "headExtFilterCaption": {
+    "message": "G\u00f6r\u00fcnt\u00fclenen ad"
+  },
+  "headExtFilterExts": {
+    "message": "Dosya Uzant\u0131s\u0131"
+  },
+  "headExtFilterRefName": {
+    "message": "Dahili ad"
+  },
+  "headRulesActive": {
+    "message": "Etkin"
+  },
+  "headRulesAsFilter": {
+    "message": "G\u00f6rev S\u00fczgeci"
+  },
+  "headRulesCaption": {
+    "message": "G\u00f6r\u00fcnt\u00fclenen ad"
+  },
+  "headRulesCondition": {
+    "message": "\u0130fade"
+  },
+  "headRulesRefName": {
+    "message": "Dahili ad"
+  },
+  "helpExtFilter": {
+    "message": "* D\u00fczenlemek i\u00e7in \u00e7ift t\u0131klay\u0131n.\n* Yeni s\u00fczge\u00e7 eklemek i\u00e7in bo\u015f sat\u0131ra yaz\u0131n.\n* Silinecek sat\u0131rlar\u0131 se\u00e7in ve S\u0130L tu\u015funa bas\u0131n."
+  },
+  "helpRules": {
+    "message": "* D\u00fczenlemek i\u00e7in \u00e7ift t\u0131klay\u0131n.\n* Yeni kural eklemek i\u00e7in bo\u015f sat\u0131ra yaz\u0131n.\n* Silinecek sat\u0131rlar\u0131 se\u00e7in ve S\u0130L tu\u015funa bas\u0131n.\n* Kural yazma ile ilgili sorunlar\u0131n\u0131z i\u00e7in l\u00fctfen Yard\u0131m b\u00f6l\u00fcm\u00fcne bak\u0131n."
+  },
+  "hintSearchDownloads": {
+    "message": "\u0130ndirilenlerde ara"
+  },
+  "labelAutoClear": {
+    "message": "Program"
+  },
+  "labelBGBlur": {
+    "message": "Bulan\u0131kl\u0131k"
+  },
+  "labelBGChooseFrom": {
+    "message": "Resim se\u00e7"
+  },
+  "labelBGConstantColor": {
+    "message": "D\u00fcz renk"
+  },
+  "labelBGImageURL": {
+    "message": "\u00d6zel Resim URL'si"
+  },
+  "labelBGOpacity": {
+    "message": "Saydaml\u0131k"
+  },
+  "labelCustomFilter": {
+    "message": "\u00d6zel filtre"
+  },
+  "menuDAudio": {
+    "message": "Sesi farkl\u0131 kaydet..."
+  },
+  "menuDAudioOneClick": {
+    "message": "Tek-t\u0131kla ses dosyas\u0131n\u0131 indir"
+  },
+  "menuDImage": {
+    "message": "Resmi farkl\u0131 kaydet..."
+  },
+  "menuDImageOneClick": {
+    "message": "Tek-t\u0131kla resmi indir"
+  },
+  "menuDLink": {
+    "message": "Ba\u011flant\u0131y\u0131 farkl\u0131 kaydet..."
+  },
+  "menuDLinkOneClick": {
+    "message": "Tek-t\u0131kla ba\u011flant\u0131y\u0131 indir"
+  },
+  "menuDVideo": {
+    "message": "Video olarak kaydet..."
+  },
+  "menuDVideoOneClick": {
+    "message": "Tek-t\u0131kla videoyu indir"
+  },
+  "menuGetHelp": {
+    "message": "Yard\u0131m al\u0131n"
+  },
+  "menuOpenManager": {
+    "message": "Y\u00f6neticiyi a\u00e7"
+  },
+  "menuReportIssue": {
+    "message": "Sorun bildir"
+  },
+  "msgCannotScanResources": {
+    "message": "Bu sayfadaki kaynaklar taranam\u0131yor."
+  },
+  "msgChromeI18nLanguage": {
+    "message": "Chrono, Chrome taray\u0131c\u0131n\u0131z ile ayn\u0131 dili kullan\u0131r."
+  },
+  "msgEmptyDownloadsList": {
+    "message": "Bo\u015f Liste"
+  },
+  "msgPreviewErrorReadFile": {
+    "message": "Dosya okumada hata"
+  },
+  "msgPreviewFailed": {
+    "message": "Dosya \u00f6nizlemesi y\u00fcklenemedi"
+  },
+  "msgPreviewFileAccess": {
+    "message": "\u00d6nizleme i\u00e7in yerel dosya y\u00fcklenemez, bu \u00f6zelli\u011fi chrome://extensions sayfas\u0131ndaki $2 alt\u0131nda $1 \u00f6zelli\u011fini i\u015faretleyerek a\u00e7abilirsiniz."
+  },
+  "msgPreviewLargeFile": {
+    "message": "\u00d6nizlemeyi y\u00fcklemek biraz zaman alabilir."
+  },
+  "msgPreviewPdfViewer": {
+    "message": "\u00d6nizleme i\u00e7in Chrome PDF G\u00f6sterici gerekiyor, l\u00fctfen y\u00f6nergeleri izleyerek bu \u00f6zelli\u011fi a\u00e7\u0131n"
+  },
+  "msgRateShare": {
+    "message": "E\u011fer $1 uygulamam\u0131z\u0131 yararl\u0131 bulursan\u0131z, l\u00fctfen $2 platformunda Be\u015f Y\u0131ld\u0131zl\u0131 yorumda bulunun ve arkada\u015flar\u0131n\u0131zla payla\u015f\u0131n."
+  },
+  "msgSearchNoResults": {
+    "message": "Sonu\u00e7 bulunamad\u0131"
+  },
+  "msgSelectTaskInfo": {
+    "message": "Se\u00e7ili \u00f6\u011fe yok."
+  },
+  "msgTaskAddPaused": {
+    "message": "G\u00f6rev eklendi ve duraklat\u0131ld\u0131"
+  },
+  "msgTaskFinish": {
+    "message": "\u0130ndirme i\u015flemi tamamland\u0131"
+  },
+  "msgTaskInterrupt": {
+    "message": "\u0130ndirme ba\u015far\u0131s\u0131z"
+  },
+  "msgTaskStart": {
+    "message": "G\u00f6rev s\u0131raya eklendi"
+  },
+  "msgTextUpdateAvail": {
+    "message": "G\u00fcncellemeyi uygulamak i\u00e7in l\u00fctfen uzant\u0131y\u0131 yeniden y\u00fckleyin."
+  },
+  "msgTextWelcome": {
+    "message": "Ba\u015flamadan \u00f6nce, Chrono'nun daha iyi bir performans sunabilmesi i\u00e7in l\u00fctfen fazladan bu iki ad\u0131m\u0131 dikkate al\u0131n.\n1. Chrome'un kendi Farkl\u0131 Kaydet iletisini kapat\u0131n ki her bir indirme g\u00f6revinde dosyan\u0131n nereye kaydedilece\u011fi size sorulmas\u0131n. Bu i\u015flem , $1 onay kutusunun temizlenmesiyle yap\u0131labilir. \n2. $3 alt\u0131nda $2 onay kutusunu i\u015faretleyerek h\u0131zl\u0131 dosya \u00f6nizlemesi i\u00e7in Chrono'ya dosya URL'lerine eri\u015fim izni verin.\nHerhangi bir sorunuz varsa, l\u00fctfen \u0130ngilizce Yard\u0131m sayfas\u0131n\u0131 ve SSS (S\u0131k\u00e7a Sorulan Sorular) sayfas\u0131n\u0131 kontrol edin."
+  },
+  "msgTitleUpdateAvail": {
+    "message": "Yeni s\u00fcr\u00fcm mevcut"
+  },
+  "msgTitleWelcome": {
+    "message": "Ho\u015f geldiniz!"
+  },
+  "msgUpdated": {
+    "message": "$1 g\u00fcncellendi."
+  },
+  "optItemBadgeDownloadNum": {
+    "message": "Ara\u00e7 \u00e7ubu\u011fu simgesinin \u00fcst\u00fcnde indirme g\u00f6revi say\u0131s\u0131n\u0131 g\u00f6ster"
+  },
+  "optItemClearRemoveFile": {
+    "message": "Diskten Sil"
+  },
+  "optItemClearSearch": {
+    "message": "S\u00fczge\u00e7 de\u011fi\u015fti\u011finde arama kutusunu temizle"
+  },
+  "optItemClickNotify": {
+    "message": "Bir bildirime t\u0131klay\u0131nca"
+  },
+  "optItemConcurrentDownloads": {
+    "message": "E\u015fzamanl\u0131 indirme say\u0131s\u0131"
+  },
+  "optItemDblClickAction": {
+    "message": "G\u00f6rev \u00e7ift t\u0131klan\u0131nca"
+  },
+  "optItemDefAddPaused": {
+    "message": "Duraklat\u0131lm\u0131\u015f ekle"
+  },
+  "optItemDefFolder": {
+    "message": "Varsay\u0131lan klas\u00f6r"
+  },
+  "optItemDefNaming": {
+    "message": "Varsay\u0131lan isimlendirme maskesi"
+  },
+  "optItemDownloadClipboard": {
+    "message": "Panodaki URL'yi indir"
+  },
+  "optItemDownloadsPerServer": {
+    "message": "Sunucu ba\u015f\u0131na indirme say\u0131s\u0131"
+  },
+  "optItemHideShelf": {
+    "message": "Chrome'un indirme tepsisini/\u00e7ubu\u011funu gizle"
+  },
+  "optItemMenuDialog": {
+    "message": "Ba\u011flant\u0131y\u0131 farkl\u0131 kaydet..."
+  },
+  "optItemMenuOneClick": {
+    "message": "Ba\u011flant\u0131y\u0131/resmi Tek-t\u0131kla indir"
+  },
+  "optItemNameConflict": {
+    "message": "Dosya ismi \u00e7ak\u0131\u015ft\u0131\u011f\u0131nda"
+  },
+  "optItemNotifyError": {
+    "message": "Hata olu\u015ftu\u011funda bildirim g\u00f6ster"
+  },
+  "optItemNotifyFinish": {
+    "message": "Indirme tamamland\u0131\u011f\u0131nda bildirim g\u00f6ster"
+  },
+  "optItemNotifyLargePreview": {
+    "message": "Resimler i\u00e7in b\u00fcy\u00fck \u00f6nizleme g\u00f6ster"
+  },
+  "optItemNotifyOneClick": {
+    "message": "Tek-t\u0131kla indirme eklerken bildirim g\u00f6ster"
+  },
+  "optItemNotifyProgress": {
+    "message": "\u0130ndirme ilerleme durumunu g\u00f6ster"
+  },
+  "optItemOverrideChrome": {
+    "message": "Chrome'un orijinal indirme sayfas\u0131n\u0131 ge\u00e7ersiz k\u0131l ve $1 klavye k\u0131sayolunu etkinle\u015ftir"
+  },
+  "optItemPopClearClose": {
+    "message": "G\u00f6revleri temizledikten sonra a\u00e7\u0131l\u0131r pencereleri kapat"
+  },
+  "optItemPopDeleteAction": {
+    "message": "'Sil' tu\u015fu t\u0131klan\u0131nca"
+  },
+  "optItemPopLikeButtons": {
+    "message": "Sosyal medya tu\u015flar\u0131n\u0131 g\u00f6ster"
+  },
+  "optItemPopMaxItems": {
+    "message": "Indirme listesindeki en fazla g\u00f6rev say\u0131s\u0131"
+  },
+  "optItemPopShowDLFirst": {
+    "message": "\u00d6nce indirilmekte olan g\u00f6revleri g\u00f6ster"
+  },
+  "optItemPreviewAutoplay": {
+    "message": "Otomatik oynatma"
+  },
+  "optItemRecycleCancel": {
+    "message": "G\u00f6rev \u00e7\u00f6p kutusuna g\u00f6nderilince iptal et"
+  },
+  "optItemRuleMatchMode": {
+    "message": "E\u015fle\u015fme modu"
+  },
+  "optItemSlideDetailsPanel": {
+    "message": "G\u00f6reve t\u0131klay\u0131nca Ayr\u0131nt\u0131lar Paneline ge\u00e7"
+  },
+  "optItemSoundError": {
+    "message": "Hata olu\u015ftu\u011funda sesli uyar\u0131 ver"
+  },
+  "optItemSoundFinish": {
+    "message": "\u0130ndirme tamamland\u0131\u011f\u0131nda sesli uyar\u0131 ver"
+  },
+  "optItemStartInterrupted": {
+    "message": "Ba\u015flat tu\u015fu yar\u0131da kalan g\u00f6revleri ba\u015flatabilir."
+  },
+  "optOptionClearAllNotify": {
+    "message": "T\u00fcm bildirimleri temizle"
+  },
+  "optOptionClearNotify": {
+    "message": "Bu bildirimi temizle"
+  },
+  "optOptionDoNothing": {
+    "message": "Hi\u00e7bir \u015fey yapma"
+  },
+  "optOptionFirstMatch": {
+    "message": "\u0130lk e\u015fle\u015fme"
+  },
+  "optOptionOpenFile": {
+    "message": "Dosya a\u00e7"
+  },
+  "optOptionOpenFolder": {
+    "message": "Klas\u00f6r\u00fc a\u00e7"
+  },
+  "optOptionOverwrite": {
+    "message": "\u00dczerine yaz"
+  },
+  "optOptionPrompt": {
+    "message": "Sor"
+  },
+  "optOptionRemAsk": {
+    "message": "Sor"
+  },
+  "optOptionRemFile": {
+    "message": "Onaylama olmadan diskten sil"
+  },
+  "optOptionRemList": {
+    "message": "Listeden kald\u0131r"
+  },
+  "optOptionReplace": {
+    "message": "De\u011fi\u015ftir"
+  },
+  "optOptionSkipCancel": {
+    "message": "\u0130ndirmeyi iptal et"
+  },
+  "optOptionSkipPause": {
+    "message": "\u0130ndirmeyi duraklat"
+  },
+  "optOptionStartPause": {
+    "message": "Ba\u015flat\u0131n veya duraklat\u0131n"
+  },
+  "optOptionUniquify": {
+    "message": "Benzersiz isim ver"
+  },
+  "optSectionBehaviors": {
+    "message": "Davran\u0131\u015f"
+  },
+  "optSectionMenu": {
+    "message": "Men\u00fc"
+  },
+  "optSectionMisc": {
+    "message": "\u00c7e\u015fitli"
+  },
+  "optSectionNetwork": {
+    "message": "A\u011f"
+  },
+  "optSectionNotifications": {
+    "message": "Bildirimler"
+  },
+  "optSectionOneClick": {
+    "message": "Tek-t\u0131kla \u0130ndir"
+  },
+  "optSectionPopup": {
+    "message": "Pop-up"
+  },
+  "optSectionPreview": {
+    "message": "\u00d6nizleme"
+  },
+  "optSectionTaskDefaults": {
+    "message": "Yeni G\u00f6rev Varsay\u0131lanlar\u0131"
+  },
+  "optionAddTop": {
+    "message": "S\u0131ran\u0131n ba\u015f\u0131na ekle"
+  },
+  "optionDisableExtFilters": {
+    "message": "Eklenti s\u00fczge\u00e7lerini devre d\u0131\u015f\u0131 b\u0131rak"
+  },
+  "optionDontAsk": {
+    "message": "Se\u00e7imimi hat\u0131rla"
+  },
+  "optionSearchCaseSensitive": {
+    "message": "B\u00fcy\u00fck/k\u00fc\u00e7\u00fck harfe duyarl\u0131"
+  },
+  "optionSearchFuzzyMatch": {
+    "message": "Benzer e\u015fle\u015fme"
+  },
+  "optionShowSize": {
+    "message": "Dosya boyutunu g\u00f6ster"
+  },
+  "optionTableAutoResize": {
+    "message": "S\u00fct\u00fcnlara zorla s\u0131\u011fd\u0131r"
+  },
+  "optionTableSyncResize": {
+    "message": "E\u015f zamanl\u0131 yeniden boyutland\u0131r"
+  },
+  "phraseAutomatic": {
+    "message": "Otomatik"
+  },
+  "phraseEnable": {
+    "message": "Etkinle\u015ftir"
+  },
+  "phraseMultiValues": {
+    "message": "Birden \u00e7ok de\u011ferli"
+  },
+  "phraseNever": {
+    "message": "Hi\u00e7bir zaman"
+  },
+  "phrasePreview": {
+    "message": "\u00d6nizle"
+  },
+  "phraseRegex": {
+    "message": "Normal ifade"
+  },
+  "phraseToday": {
+    "message": "Bug\u00fcn"
+  },
+  "phraseUnknown": {
+    "message": "Bilinmiyor"
+  },
+  "phraseUnknownSize": {
+    "message": "Bilinmeyen boyut"
+  },
+  "phraseVersion": {
+    "message": "S\u00fcr\u00fcm"
+  },
+  "phraseYesterday": {
+    "message": "D\u00fcn"
+  },
+  "ruleAllTasks": {
+    "message": "T\u00fcm G\u00f6revler"
+  },
+  "ruleAudio": {
+    "message": "Ses"
+  },
+  "ruleDocument": {
+    "message": "Dok\u00fcman"
+  },
+  "ruleDownloading": {
+    "message": "\u0130ndiriliyor"
+  },
+  "ruleFinished": {
+    "message": "Tamamland\u0131"
+  },
+  "ruleImage": {
+    "message": "Resim"
+  },
+  "ruleInterrupted": {
+    "message": "Ba\u015far\u0131s\u0131z oldu"
+  },
+  "ruleNew": {
+    "message": "Yeni Kural"
+  },
+  "ruleOther": {
+    "message": "Di\u011fer"
+  },
+  "ruleRecent": {
+    "message": "Son"
+  },
+  "ruleRecycled": {
+    "message": "\u00c7\u00f6p kutusu"
+  },
+  "ruleSmallFiles": {
+    "message": "K\u00fc\u00e7\u00fck Dosyalar"
+  },
+  "ruleVideo": {
+    "message": "Video"
+  },
+  "stateDownloading": {
+    "message": "\u0130ndiriliyor"
+  },
+  "stateError": {
+    "message": "Ba\u015far\u0131s\u0131z oldu"
+  },
+  "stateFileMiss": {
+    "message": "Dosya eksik"
+  },
+  "stateFinished": {
+    "message": "Tamamland\u0131"
+  },
+  "statePaused": {
+    "message": "Duraklat\u0131ld\u0131"
+  },
+  "stateQueue": {
+    "message": "Bekleniyor"
+  },
+  "statusCopyURL": {
+    "message": "URL kopyalan\u0131yor..."
+  },
+  "statusCopyURLDone": {
+    "message": "URL panoya kopyaland\u0131"
+  },
+  "statusDownloadedSize": {
+    "message": "$1 / $2"
+  },
+  "statusImportDone": {
+    "message": "Ba\u015far\u0131yla i\u00e7e aktar\u0131ld\u0131"
+  },
+  "statusImporting": {
+    "message": "\u0130\u00e7e aktar\u0131l\u0131yor..."
+  },
+  "statusNumDownloading": {
+    "message": "$1 indiriliyor"
+  },
+  "statusNumItems": {
+    "message": "$1 \u00f6\u011fe"
+  },
+  "statusReadClipboard": {
+    "message": "Pano okunuyor..."
+  },
+  "statusScheduledAutoClear": {
+    "message": "Kendili\u011finden g\u00f6rev temizleme i\u015flemi $1 saniye i\u00e7inde ba\u015flayacak"
+  },
+  "statusSelectedOf": {
+    "message": "$1 \u00f6\u011fe se\u00e7ildi"
+  },
+  "statusTasksCleared": {
+    "message": "$1 \u00f6\u011fe kald\u0131r\u0131ld\u0131"
+  },
+  "statusTimeLeft": {
+    "message": "$1 kald\u0131"
+  },
+  "tipAutoClear": {
+    "message": "G\u00f6revleri listeden kendili\u011finden temizle, ancak dosyalar\u0131 diskte tut"
+  },
+  "tipBGBlur": {
+    "message": "Bulan\u0131kl\u0131k etkisi kullan\u0131c\u0131 arabiriminin tepki s\u00fcresini artt\u0131rabilir"
+  },
+  "tipBGEnable": {
+    "message": "Bu, deneysel bir \u00f6zelliktir. Chrome'dan kaynakl\u0131 bir nedenden \u00f6t\u00fcr\u00fc, arka plan\u0131 etkinle\u015ftirmek bellek kullan\u0131m\u0131 \u00e7ok yo\u011fun bir \u015fekilde artt\u0131rabilir."
+  },
+  "tipBGURLHasFileAccess": {
+    "message": "Bir \u0130nternet URL'si veya bilgisayar\u0131n\u0131zdaki bir resmin  'file:///' ile ba\u015flayan tam dosya yolunu girin"
+  },
+  "tipBGURLNoFileAccess": {
+    "message": "Bir web URL'si veya bilgisayar\u0131n\u0131zdaki bir resmin tam dosya yolunu girin (yerel dosyalar i\u00e7in, \u00f6ncelikle Chrono i\u00e7in dosya eri\u015fimini etkinle\u015ftirmeniz gerekir, nas\u0131l yap\u0131ld\u0131\u011f\u0131n\u0131 g\u00f6rmek i\u00e7in soru i\u015faretini t\u0131klay\u0131n)"
+  },
+  "tipBrowserAction": {
+    "message": "Bu sayfadaki t\u00fcm kaynaklar\u0131 indir"
+  },
+  "tipBtnBackToManager": {
+    "message": "Y\u00f6neticiye d\u00f6n"
+  },
+  "tipBtnChangeDefaultLocation": {
+    "message": "Hedef klas\u00f6r\u00fc de\u011fi\u015ftir..."
+  },
+  "tipBtnClear": {
+    "message": "G\u00f6revleri temizle"
+  },
+  "tipBtnConfigExtFilters": {
+    "message": "Filtreleri D\u00fczenle"
+  },
+  "tipBtnCopyLink": {
+    "message": "Ba\u011flant\u0131y\u0131 kopyala"
+  },
+  "tipBtnDelete": {
+    "message": "Sil"
+  },
+  "tipBtnHelp": {
+    "message": "Yard\u0131m"
+  },
+  "tipBtnNewTask": {
+    "message": "Yeni g\u00f6rev"
+  },
+  "tipBtnOpenDefaultLocation": {
+    "message": "\u0130ndirilenler klas\u00f6r\u00fcn\u00fc a\u00e7"
+  },
+  "tipBtnOpenFile": {
+    "message": "Dosya a\u00e7"
+  },
+  "tipBtnOpenFolder": {
+    "message": "Klas\u00f6r\u00fc a\u00e7"
+  },
+  "tipBtnOptions": {
+    "message": "Se\u00e7enekler"
+  },
+  "tipBtnPause": {
+    "message": "Duraklat"
+  },
+  "tipBtnPauseAll": {
+    "message": "T\u00fcm\u00fcn\u00fc duraklat"
+  },
+  "tipBtnPopList": {
+    "message": "Liste G\u00f6r\u00fcn\u00fcm\u00fc"
+  },
+  "tipBtnPopSniffer": {
+    "message": "Alg\u0131lay\u0131c\u0131ya ge\u00e7"
+  },
+  "tipBtnRecycle": {
+    "message": "\u00c7\u00f6p kutusuna ta\u015f\u0131"
+  },
+  "tipBtnRestart": {
+    "message": "Yeniden ba\u015flat"
+  },
+  "tipBtnRestore": {
+    "message": "Geri Y\u00fckle"
+  },
+  "tipBtnSort": {
+    "message": "G\u00f6revleri s\u0131rala"
+  },
+  "tipBtnStart": {
+    "message": "Ba\u015flat"
+  },
+  "tipBtnStartAll": {
+    "message": "T\u00fcm\u00fcn\u00fc ba\u015flat"
+  },
+  "tipExtFilterEnable": {
+    "message": "Chrono Alg\u0131lay\u0131c\u0131'da uzant\u0131 filtresi olarak etkinle\u015ftirildi"
+  },
+  "tipExtFilterRefName": {
+    "message": "Di\u011fer ifadelerdeki referans filtreleme i\u00e7in dahili isim"
+  },
+  "tipNaming": {
+    "message": "\u0130simlendirme maskelerinin kullan\u0131m\u0131 i\u00e7in l\u00fctfen Yard\u0131m sayfas\u0131na bak\u0131n\u0131z."
+  },
+  "tipOptItemRuleMatchMode": {
+    "message": "Sadece etkin Kurallar'\u0131n e\u015fle\u015ftirme i\u00e7in test edildi\u011fini unutmay\u0131n\u0131z. De\u011fi\u015ftirme kipinde iken, t\u00fcm e\u015fle\u015fen Kurallar uygulan\u0131r, ancak sonraki Kurallar \u00f6ncekilerini ge\u00e7ersiz k\u0131lacakt\u0131r."
+  },
+  "tipOptItemSlideDetailsPanel": {
+    "message": "Ayr\u0131nt\u0131lar Panelini a\u00e7mak i\u00e7in Alt tu\u015fu ile beraber g\u00f6reve t\u0131klayabilirsiniz"
+  },
+  "tipOptNoRuleMatch": {
+    "message": "Hi\u00e7bir Kural e\u015fle\u015fmedi\u011finde uygulan\u0131r"
+  },
+  "tipOptSectionOneClick": {
+    "message": "Etkinse, bir ba\u011flant\u0131ya t\u0131klad\u0131\u011f\u0131n\u0131zda, varsay\u0131lan g\u00f6rev ayarlar\u0131 kullan\u0131larak (yukar\u0131ya bknz.), Adland\u0131rma Maskesi vb. ayarlar\u0131n\u0131 sormadan, indirme hemen ba\u015flayacakt\u0131r. Unutmay\u0131n; Chrome'un Farkl\u0131 Kaydet ekran\u0131 hala \u00e7\u0131kabilir, onun nas\u0131l devre d\u0131\u015f\u0131 b\u0131rak\u0131laca\u011f\u0131n\u0131 g\u00f6rmek i\u00e7in ipucuna t\u0131klay\u0131n."
+  },
+  "tipOptSectionTaskDefaults": {
+    "message": "Yeni g\u00f6rev eklendi\u011finde uygulanacak olan varsay\u0131lan ayarlar, \u00f6rne\u011fin tek-t\u0131kla indirmeler i\u00e7in uygulanacak ayarlar"
+  },
+  "tipRulesActive": {
+    "message": "Kural e\u015fle\u015fmesi i\u00e7in sadece etkin kurallar kullan\u0131lacak"
+  },
+  "tipRulesAsFilter": {
+    "message": "\u0130ndirme Y\u00f6neticisinde g\u00f6rev s\u00fczgeci olarak g\u00f6ster"
+  },
+  "tipRulesRefName": {
+    "message": "Di\u011fer ifadelerdeki referans kural\u0131 i\u00e7in dahili isim"
+  },
+  "tipURL": {
+    "message": "Birden fazla URL'yi yeni sat\u0131rla ay\u0131rarak girebilirsiniz; Toplu Tan\u0131t\u0131c\u0131lar kullanarak toplu indirmeler ba\u015flatabilirsiniz."
+  },
+  "tipmsgCopySelectedURLs": {
+    "message": "Se\u00e7ili g\u00f6rev(ler)in URL'sini kopyalamak i\u00e7in sadece $1 tu\u015flar\u0131na bas\u0131n"
+  },
+  "tipmsgDoubleClick": {
+    "message": "$1 alt\u0131nda \u00e7ift-t\u0131klama davran\u0131\u015f\u0131 de\u011fi\u015ftirebilir"
+  },
+  "tipmsgFitColumnWidth": {
+    "message": "S\u00fctun geni\u015fli\u011fini otomatik ayarlamak i\u00e7in s\u00fctun boyutland\u0131r\u0131c\u0131ya \u00e7ift t\u0131klay\u0131n"
+  },
+  "tipmsgGridSelection": {
+    "message": "Birden \u00e7ok sat\u0131r se\u00e7mek i\u00e7in Ctrl/Shift tu\u015flar\u0131n\u0131 bas\u0131l\u0131 tutun veya t\u00fcm sat\u0131rlar\u0131 se\u00e7mek i\u00e7in $1 tu\u015flar\u0131na bas\u0131n"
+  },
+  "tipmsgNotifications": {
+    "message": "$1 alt\u0131nda bildirim ve ses ayarlar\u0131 de\u011fi\u015ftirebilir"
+  },
+  "tipmsgOpenShortcut": {
+    "message": "$1 uygulamas\u0131n\u0131 $2 klavye k\u0131sayolu ile a\u00e7abilirsiniz"
+  },
+  "tipmsgSlideDetailsPanel": {
+    "message": "Kayan ayr\u0131nt\u0131lar paneli $1 alt\u0131nda kapat\u0131labilir"
+  },
+  "tipmsgTaskFilter": {
+    "message": "G\u00f6rev S\u00fczge\u00e7lerini yeniden s\u0131ralamak i\u00e7in s\u00fcr\u00fckleyin; ayr\u0131ca $1 alt\u0131nda \u00f6zel G\u00f6rev S\u00fczge\u00e7leri ekleyebilirsiniz"
+  },
+  "titleChangeBG": {
+    "message": "Arka plan\u0131 de\u011fi\u015ftir"
+  },
+  "titleNewTaskDialog": {
+    "message": "Yeni g\u00f6rev"
+  },
+  "titleOptions": {
+    "message": "Se\u00e7enekler"
+  },
+  "titleOptionsAbout": {
+    "message": "Hakk\u0131nda"
+  },
+  "titleOptionsFilter": {
+    "message": "Filtreler"
+  },
+  "titleOptionsGeneral": {
+    "message": "Genel"
+  },
+  "titleOptionsHelp": {
+    "message": "Yard\u0131m"
+  },
+  "titleOptionsInterface": {
+    "message": "Aray\u00fcz"
+  },
+  "titleOptionsRules": {
+    "message": "Kural Sistemi"
+  },
+  "titleQuickSelection": {
+    "message": "H\u0131zl\u0131 Se\u00e7im"
+  },
+  "titleRateShare": {
+    "message": "Derecelendir ve payla\u015f!"
+  },
+  "titleSniffer": {
+    "message": "Alg\u0131lay\u0131c\u0131"
+  },
+  "titleSwitchUI": {
+    "message": "G\u00f6r\u00fcnt\u00fc kipini de\u011fi\u015ftir"
+  },
+  "titleTaskProps": {
+    "message": "G\u00f6rev \u00d6zellikleri"
+  },
+  "titleTips": {
+    "message": "\u0130pu\u00e7lar\u0131"
+  },
+  "titleUpdateLog": {
+    "message": "De\u011fi\u015fiklik g\u00fcnl\u00fc\u011f\u00fc"
+  },
+  "translateContributors": {
+    "message": "Arif G\u00fcler, Emin Bakan, G\u00fcrol Canbek and Y\u0131lmaz Durmaz"
+  },
+  "uilang": {
+    "message": "tr"
+  },
+  "uilangName": {
+    "message": "Turkish"
+  },
+  "unitBytes": {
+    "message": "$1 bayt"
+  },
+  "unitDay": {
+    "message": "$1 g\u00fcn"
+  },
+  "unitDays": {
+    "message": "$1 g\u00fcn"
+  },
+  "unitHour": {
+    "message": "$1 saat"
+  },
+  "unitHours": {
+    "message": "$1 saat"
+  },
+  "unitMinute": {
+    "message": "$1 dk."
+  },
+  "unitMinutes": {
+    "message": "$1 dakika"
+  },
+  "unitSecond": {
+    "message": "$1 saniye"
+  },
+  "unitSeconds": {
+    "message": "$1 saniye"
+  }
+}

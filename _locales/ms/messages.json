@@ -1,0 +1,9 @@
+{
+	"extName":{"message": "Chrono Download Manager"},
+    "uilangName":{"message": "Malay"},
+
+    "chromesysDownloadLocation":{"message": "Lokasi muat turun"},
+    "chromesysShowAdvSettings":{"message": "Paparkan tetapan lanjutan..."},
+    "chromesysDownloadsSection":{"message": "Muat turun"},
+    "chromesysAllowFileAccess":{"message": "Membenarkan akses ke URL fail"}
+}

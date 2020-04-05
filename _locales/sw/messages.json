@@ -1,0 +1,9 @@
+{
+	"extName":{"message": "Chrono Download Manager"},
+    "uilangName":{"message": "Swahili"},
+
+    "chromesysDownloadLocation":{"message": "Mahali pa vipakuliwa"},
+    "chromesysShowAdvSettings":{"message": "Onyesha mipangilio ya kina..."},
+    "chromesysDownloadsSection":{"message": "Vipakuliwa"},
+    "chromesysAllowFileAccess":{"message": "Ruhusu kufikia URL za faili"}
+}

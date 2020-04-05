@@ -1,0 +1,9 @@
+{
+	"extName":{"message": "Chrono Download Manager"},
+    "uilangName":{"message": "Filipino"},
+
+    "chromesysDownloadLocation":{"message": "Lokasyon sa pag-download"},
+    "chromesysShowAdvSettings":{"message": "Ipakita ang mga advanced na setting..."},
+    "chromesysDownloadsSection":{"message": "Mga Download"},
+    "chromesysAllowFileAccess":{"message": "Payagan ang access na mag-file ng mga URL"}
+}

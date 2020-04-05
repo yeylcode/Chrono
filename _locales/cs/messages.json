@@ -1,0 +1,1028 @@
+{
+  "btnAbout": {
+    "message": "O"
+  },
+  "btnAddPaused": {
+    "message": "P\u0159idat a pozastavit"
+  },
+  "btnApply": {
+    "message": "Pou\u017e\u00edt"
+  },
+  "btnBackToManager": {
+    "message": "Zp\u011bt"
+  },
+  "btnCancel": {
+    "message": "Zru\u0161it"
+  },
+  "btnClearAll": {
+    "message": "Vymazat v\u0161e"
+  },
+  "btnClearFailed": {
+    "message": "Vymazat p\u0159eru\u0161en\u00e9 \u00falohy"
+  },
+  "btnClearFinished": {
+    "message": "Vymazat dokon\u010den\u00e9 \u00fakoly"
+  },
+  "btnClearRemoved": {
+    "message": "Vymazat \u00falohy, jejich\u017e soubor byl smaz\u00e1n"
+  },
+  "btnFAQ": {
+    "message": "Nej\u010dast\u011bj\u0161\u00ed dotazy"
+  },
+  "btnGotIt": {
+    "message": "M\u00e1m to!"
+  },
+  "btnImportChromeHistory": {
+    "message": "Historie import\u016f"
+  },
+  "btnLater": {
+    "message": "Pozd\u011bji"
+  },
+  "btnLoadPreview": {
+    "message": "Na\u010d\u00edst n\u00e1hled"
+  },
+  "btnOpenManager": {
+    "message": "Otev\u0159\u00edt spr\u00e1vce stahov\u00e1n\u00ed"
+  },
+  "btnPopRemoveFile": {
+    "message": "A smazat soubor"
+  },
+  "btnPopRemoveList": {
+    "message": "Odebrat ze seznamu"
+  },
+  "btnRate": {
+    "message": "Ohodnotit"
+  },
+  "btnShareDone": {
+    "message": "U\u017e jsem to ud\u011blal"
+  },
+  "btnStart": {
+    "message": "Spustit"
+  },
+  "btnStartAll": {
+    "message": "St\u00e1hnout v\u0161e"
+  },
+  "btnTakeMeThere": {
+    "message": "P\u0159ej\u00edt na str\u00e1nku"
+  },
+  "btnUpdateReload": {
+    "message": "Na\u010d\u00edst znovu"
+  },
+  "chromesysAllowFileAccess": {
+    "message": "Umo\u017enit p\u0159\u00edstup k adres\u00e1m URL soubor\u016f"
+  },
+  "chromesysChange": {
+    "message": "Zm\u011bnit..."
+  },
+  "chromesysDownloadLocation": {
+    "message": "St\u00e1hnout do"
+  },
+  "chromesysDownloadSaveAsPrompt": {
+    "message": "P\u0159ed sta\u017een\u00edm se v\u017edy zeptat na m\u00edsto ulo\u017een\u00ed ka\u017ed\u00e9ho souboru"
+  },
+  "chromesysDownloadsSection": {
+    "message": "Sta\u017een\u00e9 soubory"
+  },
+  "chromesysFailedGenericDownloadError": {
+    "message": "Chyba p\u0159i stahov\u00e1n\u00ed"
+  },
+  "chromesysFailedGenericNetworkError": {
+    "message": "Chyba s\u00edt\u011b"
+  },
+  "chromesysFailed_CRASH": {
+    "message": "Selh\u00e1n\u00ed"
+  },
+  "chromesysFailed_FILE_ACCESS_DENIED": {
+    "message": "Nedostate\u010dn\u00e1 opr\u00e1vn\u011bn\u00ed"
+  },
+  "chromesysFailed_FILE_BLOCKED": {
+    "message": "Zablokov\u00e1no"
+  },
+  "chromesysFailed_FILE_NAME_TOO_LONG": {
+    "message": "Cesta je p\u0159\u00edli\u0161 dlouh\u00e1"
+  },
+  "chromesysFailed_FILE_NO_SPACE": {
+    "message": "Disk je pln\u00fd"
+  },
+  "chromesysFailed_FILE_SAME_AS_SOURCE": {
+    "message": "Ji\u017e sta\u017eeno"
+  },
+  "chromesysFailed_FILE_SECURITY_CHECK_FAILED": {
+    "message": "P\u0159i vyhled\u00e1v\u00e1n\u00ed vir\u016f do\u0161lo k chyb\u011b"
+  },
+  "chromesysFailed_FILE_TOO_LARGE": {
+    "message": "Soubor je p\u0159\u00edli\u0161 velk\u00fd"
+  },
+  "chromesysFailed_FILE_TOO_SHORT": {
+    "message": "Soubor byl zkr\u00e1cen"
+  },
+  "chromesysFailed_FILE_TRANSIENT_ERROR": {
+    "message": "Syst\u00e9m je zanepr\u00e1zd\u011bn\u00fd"
+  },
+  "chromesysFailed_FILE_VIRUS_INFECTED": {
+    "message": "Byl nalezen virus"
+  },
+  "chromesysFailed_NETWORK_TIMEOUT": {
+    "message": "Vypr\u0161el \u010dasov\u00fd limit s\u00edt\u011b"
+  },
+  "chromesysFailed_SERVER_BAD_CONTENT": {
+    "message": "\u017d\u00e1dn\u00fd soubor"
+  },
+  "chromesysFailed_SERVER_CERT_PROBLEM": {
+    "message": "Nespr\u00e1vn\u00fd certifik\u00e1t"
+  },
+  "chromesysFailed_SERVER_CONTENT_LENGTH_MISMATCH": {
+    "message": "Soubor je ne\u00fapln\u00fd"
+  },
+  "chromesysFailed_SERVER_FAILED": {
+    "message": "Probl\u00e9m se serverem"
+  },
+  "chromesysFailed_SERVER_FORBIDDEN": {
+    "message": "Zak\u00e1zan\u00e9"
+  },
+  "chromesysFailed_SERVER_UNAUTHORIZED": {
+    "message": "Vy\u017eaduje opr\u00e1vn\u011bn\u00ed"
+  },
+  "chromesysFailed_SERVER_UNREACHABLE": {
+    "message": "Server je nedostupn\u00fd"
+  },
+  "chromesysFailed_USER_CANCELED": {
+    "message": "Zru\u0161eno"
+  },
+  "chromesysFailed_USER_SHUTDOWN": {
+    "message": "Vypnout po\u010d\u00edta\u010d"
+  },
+  "chromesysFontSize": {
+    "message": "Velikost p\u00edsma"
+  },
+  "chromesysLanguageSection": {
+    "message": "Jazyk"
+  },
+  "chromesysShowAdvSettings": {
+    "message": "Zobrazit roz\u0161\u00ed\u0159en\u00e1 nastaven\u00ed..."
+  },
+  "chromesysWebStore": {
+    "message": "Internetov\u00fd obchod Chrome"
+  },
+  "confirmBatchDownload": {
+    "message": "Zd\u00e1 se, \u017ee se chyst\u00e1te ke spu\u0161t\u011bn\u00ed d\u00e1vkov\u00e9ho stahov\u00e1n\u00ed. Zde jsou n\u011bkter\u00e9 p\u0159\u00edklady:"
+  },
+  "confirmBatchDownloadNaming": {
+    "message": "D\u00e1vkov\u00e9 stahov\u00e1n\u00ed, ujist\u011bte se, \u017ee masky pojmenov\u00e1n\u00ed generuj\u00ed r\u016fzn\u00e9 n\u00e1zvy soubor\u016f. P\u0159esto pokra\u010dovat?"
+  },
+  "confirmBtnYes": {
+    "message": "Ano"
+  },
+  "confirmBtnYesFile": {
+    "message": "Smazat soubor"
+  },
+  "confirmCantResumeRestart": {
+    "message": "Obnoven\u00ed $1 procesu(\u016f) selhalo. Restartovat?"
+  },
+  "confirmClearTask": {
+    "message": "Opravdu chcete $1 polo\u017eek odstranit?"
+  },
+  "confirmProceed": {
+    "message": "Chcete pokra\u010dovat?"
+  },
+  "confirmRecycleRunning": {
+    "message": "Smazat b\u011b\u017e\u00edc\u00ed \u00falohu(y)?"
+  },
+  "confirmRemoveExtFilter": {
+    "message": "Odebrat vybran\u00e9 polo\u017eky?"
+  },
+  "confirmRemoveRule": {
+    "message": "Odebrat vybran\u00e9 polo\u017eky?"
+  },
+  "confirmRemoveTask": {
+    "message": "Trvale smazat vybranou(\u00e9) \u00falohu(y)?"
+  },
+  "confirmReset": {
+    "message": "Operaci nelze vr\u00e1tit zp\u011bt. Chcete pokra\u010dovat?"
+  },
+  "errorFNameConflict": {
+    "message": "Konflikt n\u00e1zv\u016f"
+  },
+  "errorFileNotExist": {
+    "message": "Soubor nebyl nalezen"
+  },
+  "errorInvalidNamingMask": {
+    "message": "Neplatn\u00fd n\u00e1zev"
+  },
+  "errorInvalidURLs": {
+    "message": "Neplatn\u00e1 adresa URL"
+  },
+  "errorNoID": {
+    "message": "Nepoda\u0159ila se p\u0159idat nov\u00e1 \u00faloha do Chrono, proto\u017ee ve front\u011b je p\u0159\u00edli\u0161 mnoho \u00faloh. Vy\u010dist\u011bte n\u011bkter\u00e9 nepou\u017e\u00edvan\u00e9 \u00falohy a zkuste to znovu."
+  },
+  "errorNone": {
+    "message": "\u017d\u00e1dn\u00e1 chyba"
+  },
+  "errorRemovedFromChrome": {
+    "message": "\u00daloha byla z\u0159ejm\u011b odstran\u011bna z Chromu."
+  },
+  "everyXDays": {
+    "message": "Ka\u017ed\u00fdch $1 dn\u016f"
+  },
+  "everyXHours": {
+    "message": "Ka\u017ed\u00fdch $1 hodin"
+  },
+  "everyXMinutes": {
+    "message": "Ka\u017ed\u00fdch $1 minut"
+  },
+  "extDesc": {
+    "message": "Spr\u00e1vce stahov\u00e1n\u00ed | Stahov\u00e1n\u00ed vide\u00ed | Hromadn\u00e9 sta\u017een\u00ed obr\u00e1zk\u016f"
+  },
+  "extDescBest": {
+    "message": "Nejlep\u0161\u00ed spr\u00e1vce stahov\u00e1n\u00ed pro Chrome"
+  },
+  "extDescSlogan": {
+    "message": "Stahuj a spravuj web!"
+  },
+  "extName": {
+    "message": "Chrono spr\u00e1vce stahov\u00e1n\u00ed"
+  },
+  "extsAll": {
+    "message": "V\u0161e"
+  },
+  "extsApp": {
+    "message": "Aplikace"
+  },
+  "extsArchive": {
+    "message": "Archiv"
+  },
+  "extsAudio": {
+    "message": "Audio"
+  },
+  "extsDocument": {
+    "message": "Dokument"
+  },
+  "extsImage": {
+    "message": "Obr\u00e1zek"
+  },
+  "extsNew": {
+    "message": "Nov\u00fd Filtr"
+  },
+  "extsOthers": {
+    "message": "Jin\u00fd typ"
+  },
+  "extsVideo": {
+    "message": "Video"
+  },
+  "fieldAddTime": {
+    "message": "\u010cas vytvo\u0159en\u00ed"
+  },
+  "fieldAvgSpeed": {
+    "message": "Pr\u016fm\u011brn\u00e1 rychlost"
+  },
+  "fieldDownloadedSize": {
+    "message": "Sta\u017eeno"
+  },
+  "fieldElapsedTime": {
+    "message": "Uplynul\u00fd \u010das"
+  },
+  "fieldFileName": {
+    "message": "N\u00e1zev souboru"
+  },
+  "fieldFileSize": {
+    "message": "Velikost souboru"
+  },
+  "fieldFinishTime": {
+    "message": "\u010cas dokon\u010den\u00ed"
+  },
+  "fieldFolder": {
+    "message": "Slo\u017eka"
+  },
+  "fieldNaming": {
+    "message": "Maska pojmenov\u00e1n\u00ed"
+  },
+  "fieldProgress": {
+    "message": "Pr\u016fb\u011bh"
+  },
+  "fieldRedirection": {
+    "message": "P\u0159esm\u011brov\u00e1n\u00ed"
+  },
+  "fieldReferer": {
+    "message": "Referrer"
+  },
+  "fieldRemainingTime": {
+    "message": "Zb\u00fdvaj\u00edc\u00ed \u010das"
+  },
+  "fieldRemarks": {
+    "message": "Pozn\u00e1mky"
+  },
+  "fieldSpeed": {
+    "message": "Rychlost"
+  },
+  "fieldState": {
+    "message": "Stav"
+  },
+  "fieldThreads": {
+    "message": "Vl\u00e1kna"
+  },
+  "fieldType": {
+    "message": "Typ souboru"
+  },
+  "fieldURL": {
+    "message": "URL"
+  },
+  "headExtFilterCaption": {
+    "message": "Zobrazovan\u00e9 jm\u00e9no"
+  },
+  "headExtFilterExts": {
+    "message": "P\u0159\u00edpona souboru"
+  },
+  "headExtFilterRefName": {
+    "message": "Intern\u00ed n\u00e1zev"
+  },
+  "headRulesActive": {
+    "message": "Aktivn\u00ed"
+  },
+  "headRulesAsFilter": {
+    "message": "Jako filtr \u00faloh"
+  },
+  "headRulesCaption": {
+    "message": "Zobrazovan\u00e9 jm\u00e9no"
+  },
+  "headRulesCondition": {
+    "message": "V\u00fdraz"
+  },
+  "headRulesRefName": {
+    "message": "Intern\u00ed n\u00e1zev"
+  },
+  "helpExtFilter": {
+    "message": "* Dvojklikem m\u016f\u017eete editovat\n* Vlo\u017ete nov\u00fd filtr do pr\u00e1zdn\u00e9ho \u0159\u00e1dku\n* Vyberte \u0159\u00e1dky a stiskn\u011bte Smazat pro odstran\u011bn\u00ed"
+  },
+  "helpRules": {
+    "message": "* Editujte dvojit\u00fdm kliknut\u00edm.\n* Nov\u00e9 pravidlo pi\u0161te na pr\u00e1zdn\u00fd \u0159\u00e1dek.\n* Pro smaz\u00e1n\u00ed ozna\u010dte \u0159\u00e1dky a stiskn\u011bte Delete.\n* P\u0159i probl\u00e9mech se psan\u00edm pravidel p\u0159ejd\u011bte k sekci N\u00e1pov\u011bda."
+  },
+  "hintSearchDownloads": {
+    "message": "Hledat sta\u017een\u00e9 soubory"
+  },
+  "labelAutoClear": {
+    "message": "Pl\u00e1n"
+  },
+  "labelBGBlur": {
+    "message": "Rozmaz\u00e1n\u00ed"
+  },
+  "labelBGChooseFrom": {
+    "message": "Vybrat obr\u00e1zek"
+  },
+  "labelBGConstantColor": {
+    "message": "Jednobarevn\u00e9"
+  },
+  "labelBGImageURL": {
+    "message": "URL vlastn\u00edho obr\u00e1zku"
+  },
+  "labelBGOpacity": {
+    "message": "Nepr\u016fhlednost"
+  },
+  "labelCustomFilter": {
+    "message": "Vlastn\u00ed filtr"
+  },
+  "menuDAudio": {
+    "message": "Ulo\u017eit zvuk jako..."
+  },
+  "menuDAudioOneClick": {
+    "message": "St\u00e1hnout zvukovou stopu jedn\u00edm kliknut\u00edm"
+  },
+  "menuDImage": {
+    "message": "Ulo\u017eit obr\u00e1zek jako..."
+  },
+  "menuDImageOneClick": {
+    "message": "St\u00e1hnout obr\u00e1zek jedn\u00edm kliknut\u00edm"
+  },
+  "menuDLink": {
+    "message": "Ulo\u017eit odkaz jako..."
+  },
+  "menuDLinkOneClick": {
+    "message": "St\u00e1hnout odkaz jedn\u00edm kliknut\u00edm"
+  },
+  "menuDVideo": {
+    "message": "Ulo\u017eit video jako..."
+  },
+  "menuDVideoOneClick": {
+    "message": "St\u00e1hnout video jedn\u00edm kliknut\u00edm"
+  },
+  "menuGetHelp": {
+    "message": "Z\u00edskat n\u00e1pov\u011bdu"
+  },
+  "menuOpenManager": {
+    "message": "Otev\u0159\u00edt spr\u00e1vce"
+  },
+  "menuReportIssue": {
+    "message": "Nahl\u00e1sit probl\u00e9m"
+  },
+  "msgCannotScanResources": {
+    "message": "Na t\u00e9to str\u00e1nce nelze vyhledat odkazy."
+  },
+  "msgChromeI18nLanguage": {
+    "message": "Chrono pou\u017e\u00edv\u00e1 stejn\u00fd jazyk jako v\u00e1\u0161 prohl\u00ed\u017ee\u010d Chrome."
+  },
+  "msgEmptyDownloadsList": {
+    "message": "Pr\u00e1zdn\u00fd seznam"
+  },
+  "msgPreviewErrorReadFile": {
+    "message": "Chyba p\u0159i \u010dten\u00ed souboru"
+  },
+  "msgPreviewFailed": {
+    "message": "Nepoda\u0159ilo se na\u010d\u00edst n\u00e1hled souboru"
+  },
+  "msgPreviewFileAccess": {
+    "message": "N\u00e1hled m\u00edstn\u00edho souboru nelze zobrazit. Tuto funkci m\u016f\u017eete zapnout za\u0161krtnut\u00edm pole $1 v $2 na str\u00e1nce chrome://extensions."
+  },
+  "msgPreviewLargeFile": {
+    "message": "Nahr\u00e1v\u00e1n\u00ed n\u00e1hledu m\u016f\u017ee chvilku trvat."
+  },
+  "msgPreviewPdfViewer": {
+    "message": "Pro zobrazen\u00ed n\u00e1hledu je nutn\u00fd Chrome PDF Viewer. Pros\u00edm, zapn\u011bte jej dle n\u00e1sleduj\u00edc\u00edch instrukc\u00ed"
+  },
+  "msgRateShare": {
+    "message": "Pokud si mysl\u00edte, \u017ee je $1 u\u017eite\u010dn\u00fd, ohodno\u0165te ho pros\u00edm na $2 a sd\u00edlejte ho s p\u0159\u00e1teli!"
+  },
+  "msgSearchNoResults": {
+    "message": "Nebyly nalezeny \u017e\u00e1dn\u00e9 v\u00fdsledky"
+  },
+  "msgSelectTaskInfo": {
+    "message": "Nevybrali jste \u017e\u00e1dnou polo\u017eku."
+  },
+  "msgTaskAddPaused": {
+    "message": "\u00daloha p\u0159id\u00e1na a pozastavena"
+  },
+  "msgTaskFinish": {
+    "message": "Stahov\u00e1n\u00ed bylo dokon\u010deno"
+  },
+  "msgTaskInterrupt": {
+    "message": "Stahov\u00e1n\u00ed selhalo"
+  },
+  "msgTaskStart": {
+    "message": "\u00daloha p\u0159id\u00e1na do fronty"
+  },
+  "msgTextUpdateAvail": {
+    "message": "Na\u010dt\u011bte pros\u00edm znovu roz\u0161\u00ed\u0159en\u00ed pro jeho aktualizaci."
+  },
+  "msgTextWelcome": {
+    "message": "Ne\u017e za\u010dnete, je doporu\u010deno vypnout dialog \"Ulo\u017eit jako\" zru\u0161en\u00edm za\u0161krtnut\u00ed pol\u00ed\u010dka v $1.\nM\u016f\u017eete tak\u00e9 povolit Chrono p\u0159\u00edstup k URL adres\u00e1m soubor\u016f pro dosa\u017een\u00ed lep\u0161\u00edho u\u017eivatelsk\u00e9ho z\u00e1\u017eitku. Pro povolen\u00ed pou\u017eijte za\u0161krt\u00e1vac\u00ed pol\u00ed\u010dko $2 v $3.\nPokud m\u00e1te jak\u00e9koliv ot\u00e1zky, pros\u00edm p\u0159ejd\u011bte na str\u00e1nku N\u00e1pov\u011bdy. M\u016f\u017eete tak\u00e9 poslat e-mail na dev@chronodownloader.net\nP\u0159\u00edjemnou z\u00e1bavu!"
+  },
+  "msgTitleUpdateAvail": {
+    "message": "Je k dispozici nov\u00e1 verze"
+  },
+  "msgTitleWelcome": {
+    "message": "V\u00edtejte!"
+  },
+  "msgUpdated": {
+    "message": "$1 byla aktualizov\u00e1na."
+  },
+  "optItemBadgeDownloadNum": {
+    "message": "Zobrazit po\u010det \u00faloh na ikon\u011b v panelu n\u00e1stroj\u016f"
+  },
+  "optItemClearRemoveFile": {
+    "message": "Smazat z disku"
+  },
+  "optItemClearSearch": {
+    "message": "Vy\u010distit panel hled\u00e1n\u00ed p\u0159i zm\u011bn\u011b filtru"
+  },
+  "optItemClickNotify": {
+    "message": "Kliknut\u00ed na ozn\u00e1men\u00ed"
+  },
+  "optItemConcurrentDownloads": {
+    "message": "Soub\u011b\u017en\u00e1 stahov\u00e1n\u00ed"
+  },
+  "optItemDblClickAction": {
+    "message": "Dvojklik na \u00falohu"
+  },
+  "optItemDefAddPaused": {
+    "message": "P\u0159idat pozastaven\u00e9"
+  },
+  "optItemDefFolder": {
+    "message": "V\u00fdchoz\u00ed um\u00edst\u011bn\u00ed"
+  },
+  "optItemDefNaming": {
+    "message": "V\u00fdchoz\u00ed maska pojmenov\u00e1n\u00ed"
+  },
+  "optItemDownloadClipboard": {
+    "message": "Stahovat URL ze schr\u00e1nky"
+  },
+  "optItemDownloadsPerServer": {
+    "message": "Stahov\u00e1n\u00ed ze serveru"
+  },
+  "optItemHideShelf": {
+    "message": "Skr\u00fdt p\u016fvodn\u00ed ikonu stahov\u00e1n\u00ed v prohl\u00ed\u017ee\u010di Chrome"
+  },
+  "optItemMenuDialog": {
+    "message": "Ulo\u017eit odkaz jako..."
+  },
+  "optItemMenuOneClick": {
+    "message": "St\u00e1hnout odkaz/obr\u00e1zek jedn\u00edm kliknut\u00edm"
+  },
+  "optItemNameConflict": {
+    "message": "V p\u0159\u00edpad\u011b konfliktu n\u00e1zv\u016f"
+  },
+  "optItemNotifyError": {
+    "message": "Uk\u00e1zat ozn\u00e1men\u00ed v p\u0159\u00edpad\u011b chyby"
+  },
+  "optItemNotifyFinish": {
+    "message": "Uk\u00e1zat ozn\u00e1men\u00ed po dokon\u010den\u00ed stahov\u00e1n\u00ed"
+  },
+  "optItemNotifyLargePreview": {
+    "message": "Uk\u00e1zat velk\u00fd n\u00e1hled pro obr\u00e1zky"
+  },
+  "optItemNotifyOneClick": {
+    "message": "Uk\u00e1zat ozn\u00e1men\u00ed p\u0159i p\u0159id\u00e1n\u00ed stahov\u00e1n\u00ed na Jedno kliknut\u00ed"
+  },
+  "optItemNotifyProgress": {
+    "message": "Uk\u00e1zat pr\u016fb\u011bh stahov\u00e1n\u00ed"
+  },
+  "optItemOverrideChrome": {
+    "message": "P\u0159epsat p\u016fvodn\u00ed str\u00e1nku stahov\u00e1n\u00ed Chrome a povolit kl\u00e1vesovou zkratku $1"
+  },
+  "optItemPopClearClose": {
+    "message": "Zav\u0159\u00edt vyskakovac\u00ed okno po odstran\u011bn\u00ed \u00falohy"
+  },
+  "optItemPopDeleteAction": {
+    "message": "Kliknut\u00ed na tla\u010d\u00edtko \"smazat\""
+  },
+  "optItemPopLikeButtons": {
+    "message": "Uk\u00e1zat tla\u010d\u00edtka soci\u00e1ln\u00edch medi\u00ed"
+  },
+  "optItemPopMaxItems": {
+    "message": "Maxim\u00e1ln\u00ed po\u010det \u00faloh v seznamu stahov\u00e1n\u00ed"
+  },
+  "optItemPopShowDLFirst": {
+    "message": "Uk\u00e1zat nejd\u0159\u00edve \u00falohy stahov\u00e1n\u00ed"
+  },
+  "optItemPreviewAutoplay": {
+    "message": "Automatick\u00e9 p\u0159ehr\u00e1v\u00e1n\u00ed"
+  },
+  "optItemRecycleCancel": {
+    "message": "Zru\u0161it \u00falohu kdy\u017e je recyklovan\u00e1"
+  },
+  "optItemRuleMatchMode": {
+    "message": "Re\u017eim shody"
+  },
+  "optItemSlideDetailsPanel": {
+    "message": "Zobrazit informa\u010dn\u00ed panel p\u0159i kliknut\u00ed na \u00falohu"
+  },
+  "optItemSoundError": {
+    "message": "P\u0159ehr\u00e1t zvuk v p\u0159\u00edpad\u011b chyby"
+  },
+  "optItemSoundFinish": {
+    "message": "P\u0159ehr\u00e1t zvuk p\u0159i dokon\u010den\u00ed stahov\u00e1n\u00ed"
+  },
+  "optItemStartInterrupted": {
+    "message": "Tla\u010d\u00edtko Start m\u016f\u017ee zapo\u010d\u00edt p\u0159eru\u0161en\u00e9 \u00falohy"
+  },
+  "optOptionClearAllNotify": {
+    "message": "Smazat v\u0161echna ozn\u00e1men\u00ed"
+  },
+  "optOptionClearNotify": {
+    "message": "Smazat ozn\u00e1men\u00ed"
+  },
+  "optOptionDoNothing": {
+    "message": "Bez funkce"
+  },
+  "optOptionFirstMatch": {
+    "message": "Prvn\u00ed shoda"
+  },
+  "optOptionOpenFile": {
+    "message": "Otev\u0159\u00edt soubor"
+  },
+  "optOptionOpenFolder": {
+    "message": "Otev\u0159\u00edt slo\u017eku"
+  },
+  "optOptionOverwrite": {
+    "message": "P\u0159epsat"
+  },
+  "optOptionPrompt": {
+    "message": "Zeptat se"
+  },
+  "optOptionRemAsk": {
+    "message": "Zeptat se"
+  },
+  "optOptionRemFile": {
+    "message": "Smazat z disku bez potvrzen\u00ed"
+  },
+  "optOptionRemList": {
+    "message": "Odebrat ze seznamu"
+  },
+  "optOptionReplace": {
+    "message": "Nahradit"
+  },
+  "optOptionSkipCancel": {
+    "message": "Zru\u0161it stahov\u00e1n\u00ed"
+  },
+  "optOptionSkipPause": {
+    "message": "Pozastavit stahov\u00e1n\u00ed"
+  },
+  "optOptionStartPause": {
+    "message": "Spustit nebo pozastavit"
+  },
+  "optOptionUniquify": {
+    "message": "Unik\u00e1tn\u00ed n\u00e1zev"
+  },
+  "optSectionBehaviors": {
+    "message": "Chov\u00e1n\u00ed"
+  },
+  "optSectionMenu": {
+    "message": "Nab\u00eddka"
+  },
+  "optSectionMisc": {
+    "message": "R\u016fzn\u00e9"
+  },
+  "optSectionNetwork": {
+    "message": "S\u00ed\u0165"
+  },
+  "optSectionNotifications": {
+    "message": "Ozn\u00e1men\u00ed"
+  },
+  "optSectionOneClick": {
+    "message": "St\u00e1hnout jedn\u00edm kliknut\u00edm"
+  },
+  "optSectionPopup": {
+    "message": "Vyskakovac\u00ed okno"
+  },
+  "optSectionPreview": {
+    "message": "N\u00e1hled"
+  },
+  "optSectionTaskDefaults": {
+    "message": "V\u00fdchoz\u00ed nastaven\u00ed nov\u00e9 \u00falohy"
+  },
+  "optionAddTop": {
+    "message": "P\u0159idat na za\u010d\u00e1tek fronty"
+  },
+  "optionDisableExtFilters": {
+    "message": "Zak\u00e1zat filtrov\u00e1n\u00ed soubor\u016f"
+  },
+  "optionDontAsk": {
+    "message": "Zapamatovat moji volbu"
+  },
+  "optionSearchCaseSensitive": {
+    "message": "Rozli\u0161uj\u00ed se velk\u00e1 a mal\u00e1 p\u00edsmena"
+  },
+  "optionSearchFuzzyMatch": {
+    "message": "P\u0159ibli\u017en\u00e1 shoda"
+  },
+  "optionShowSize": {
+    "message": "Zobrazit velikost souboru"
+  },
+  "optionTableAutoResize": {
+    "message": "Rozt\u00e1hnout dle \u0161\u00ed\u0159ky"
+  },
+  "optionTableSyncResize": {
+    "message": "Synchronn\u00ed zm\u011bna velikosti"
+  },
+  "phraseAutomatic": {
+    "message": "Automaticky"
+  },
+  "phraseEnable": {
+    "message": "Povolit"
+  },
+  "phraseMultiValues": {
+    "message": "V\u00edce hodnot"
+  },
+  "phraseNever": {
+    "message": "Nikdy"
+  },
+  "phrasePreview": {
+    "message": "N\u00e1hled"
+  },
+  "phraseRegex": {
+    "message": "Regul\u00e1rn\u00ed v\u00fdraz"
+  },
+  "phraseToday": {
+    "message": "Dnes"
+  },
+  "phraseUnknown": {
+    "message": "Nezn\u00e1m\u00e9"
+  },
+  "phraseUnknownSize": {
+    "message": "Nezn\u00e1m\u00e1 velikost"
+  },
+  "phraseVersion": {
+    "message": "Verze"
+  },
+  "phraseYesterday": {
+    "message": "V\u010dera"
+  },
+  "ruleAllTasks": {
+    "message": "V\u0161echny \u00falohy"
+  },
+  "ruleAudio": {
+    "message": "Audio"
+  },
+  "ruleDocument": {
+    "message": "Dokument"
+  },
+  "ruleDownloading": {
+    "message": "Stahov\u00e1n\u00ed"
+  },
+  "ruleFinished": {
+    "message": "Dokon\u010deno"
+  },
+  "ruleImage": {
+    "message": "Obr\u00e1zek"
+  },
+  "ruleInterrupted": {
+    "message": "Nezda\u0159ilo se"
+  },
+  "ruleNew": {
+    "message": "Nov\u00e9 pravidlo"
+  },
+  "ruleOther": {
+    "message": "Jin\u00fd typ"
+  },
+  "ruleRecent": {
+    "message": "Posledn\u00ed"
+  },
+  "ruleRecycled": {
+    "message": "Ko\u0161"
+  },
+  "ruleSmallFiles": {
+    "message": "Mal\u00e9 soubory"
+  },
+  "ruleVideo": {
+    "message": "Video"
+  },
+  "stateDownloading": {
+    "message": "Stahov\u00e1n\u00ed"
+  },
+  "stateError": {
+    "message": "Nezda\u0159ilo se"
+  },
+  "stateFileMiss": {
+    "message": "Soubor chyb\u00ed"
+  },
+  "stateFinished": {
+    "message": "Dokon\u010deno"
+  },
+  "statePaused": {
+    "message": "Pozastaveno"
+  },
+  "stateQueue": {
+    "message": "\u010cek\u00e1n\u00ed"
+  },
+  "statusCopyURL": {
+    "message": "Kop\u00edrov\u00e1n\u00ed URL adres..."
+  },
+  "statusCopyURLDone": {
+    "message": "Adresa URL byla zkop\u00edrov\u00e1na do schr\u00e1nky."
+  },
+  "statusDownloadedSize": {
+    "message": "$1 z $2"
+  },
+  "statusImportDone": {
+    "message": "Import byl \u00fasp\u011b\u0161n\u011b dokon\u010den"
+  },
+  "statusImporting": {
+    "message": "Prob\u00edh\u00e1 import..."
+  },
+  "statusNumDownloading": {
+    "message": "$1 stahov\u00e1n\u00ed"
+  },
+  "statusNumItems": {
+    "message": "Po\u010det polo\u017eek: $1"
+  },
+  "statusReadClipboard": {
+    "message": "\u010cten\u00ed schr\u00e1nky..."
+  },
+  "statusScheduledAutoClear": {
+    "message": "Automatick\u00e9 \u010di\u0161t\u011bn\u00ed \u00faloh bude spu\u0161t\u011bno za  $1 sekund"
+  },
+  "statusSelectedOf": {
+    "message": "Po\u010det vybran\u00fdch polo\u017eek: $1"
+  },
+  "statusTasksCleared": {
+    "message": "Polo\u017eky (celkem $1) byly odstran\u011bny"
+  },
+  "statusTimeLeft": {
+    "message": "Zb\u00fdvaj\u00edc\u00ed \u010das: $1"
+  },
+  "tipAutoClear": {
+    "message": "Automaticky vy\u010distit \u00fakoly, ale zachovat soubory na disku."
+  },
+  "tipBGBlur": {
+    "message": "Rozmaz\u00e1n\u00ed obrazu m\u016f\u017ee sn\u00ed\u017eit GUI odezvu"
+  },
+  "tipBGEnable": {
+    "message": "Vzhledem k probl\u00e9m\u016fm v prohl\u00ed\u017ee\u010di Chrome se zapnut\u00edm obr\u00e1zku na pozad\u00ed zv\u00fd\u0161\u00ed vyu\u017eit\u00ed pam\u011bti. Rozmyslete se, ne\u017e tuto funkci povol\u00edte."
+  },
+  "tipBGURLHasFileAccess": {
+    "message": "Zadejte webovou adresu URL, nebo \u00faplnou cestu k obr\u00e1zku na va\u0161em po\u010d\u00edta\u010di 'file:///'"
+  },
+  "tipBGURLNoFileAccess": {
+    "message": "Zadejte webovou adresu URL, nebo plnou cestu k obr\u00e1zku na va\u0161em po\u010d\u00edta\u010di (pro m\u00edstn\u00ed soubor mus\u00edte nejprve povolit p\u0159\u00edstup k souboru pro Chrono - pro v\u00edce informac\u00ed klepn\u011bte na otazn\u00edk)"
+  },
+  "tipBrowserAction": {
+    "message": "St\u00e1hnout v\u0161echny zdroje na t\u00e9to str\u00e1nce"
+  },
+  "tipBtnBackToManager": {
+    "message": "Zp\u011bt do Spr\u00e1vce stahov\u00e1n\u00ed"
+  },
+  "tipBtnChangeDefaultLocation": {
+    "message": "Zm\u011bnit c\u00edlovou slo\u017eku\u2026"
+  },
+  "tipBtnClear": {
+    "message": "Vymazat"
+  },
+  "tipBtnConfigExtFilters": {
+    "message": "Upravit filtry"
+  },
+  "tipBtnCopyLink": {
+    "message": "Zkop\u00edrovat odkaz"
+  },
+  "tipBtnDelete": {
+    "message": "Smazat"
+  },
+  "tipBtnHelp": {
+    "message": "N\u00e1pov\u011bda"
+  },
+  "tipBtnNewTask": {
+    "message": "Nov\u00fd \u00fakol"
+  },
+  "tipBtnOpenDefaultLocation": {
+    "message": "Otev\u0159\u00edt slo\u017eku sta\u017een\u00fdch soubor\u016f"
+  },
+  "tipBtnOpenFile": {
+    "message": "Otev\u0159\u00edt soubor"
+  },
+  "tipBtnOpenFolder": {
+    "message": "Otev\u0159\u00edt slo\u017eku"
+  },
+  "tipBtnOptions": {
+    "message": "Mo\u017enosti"
+  },
+  "tipBtnPause": {
+    "message": "Pozastavit"
+  },
+  "tipBtnPauseAll": {
+    "message": "Pozastavit v\u0161e"
+  },
+  "tipBtnPopList": {
+    "message": "P\u0159epnout na seznam"
+  },
+  "tipBtnPopSniffer": {
+    "message": "P\u0159epnout na Sniffer"
+  },
+  "tipBtnRecycle": {
+    "message": "P\u0159esunout do ko\u0161e"
+  },
+  "tipBtnRestart": {
+    "message": "Restartovat"
+  },
+  "tipBtnRestore": {
+    "message": "Obnovit"
+  },
+  "tipBtnSort": {
+    "message": "Se\u0159adit"
+  },
+  "tipBtnStart": {
+    "message": "Spustit"
+  },
+  "tipBtnStartAll": {
+    "message": "Spustit v\u0161e"
+  },
+  "tipExtFilterEnable": {
+    "message": "Povolit jako filtr soubor\u016f v Chrono Snifferu"
+  },
+  "tipExtFilterRefName": {
+    "message": "Vnit\u0159n\u00ed n\u00e1zev pro odkazov\u00e1n\u00ed na pravidla v ostatn\u00edch v\u00fdrazech"
+  },
+  "tipNaming": {
+    "message": "Pros\u00edm hledejte v n\u00e1pov\u011bd\u011b informace o pojmenov\u00e1n\u00ed masky."
+  },
+  "tipOptItemRuleMatchMode": {
+    "message": "Vezm\u011bte pros\u00edm na v\u011bdom\u00ed, \u017ee pouze aktivn\u00ed pravidla jsou testov\u00e1na na shodu. V re\u017eimu Nahradit v\u0161echny p\u0159ep\u00ed\u0161e v\u0161echna pravidla."
+  },
+  "tipOptItemSlideDetailsPanel": {
+    "message": "Panel informac\u00ed je tak\u00e9 mo\u017en\u00e9 otev\u0159\u00edt stisknut\u00edm Alt+kliknut\u00ed"
+  },
+  "tipOptNoRuleMatch": {
+    "message": "Pou\u017e\u00edt, kdy\u017e se neshoduje \u017e\u00e1dn\u00e9 pravidlo"
+  },
+  "tipOptSectionOneClick": {
+    "message": "Pokud je povoleno, stahov\u00e1n\u00ed za\u010dne okam\u017eit\u011b po kliknut\u00ed na odkaz, dle v\u00fdchoz\u00edho nastaven\u00ed \u00falohy (viz v\u00fd\u0161e), bez zobrazen\u00ed v\u00fdzvy pro nastaven\u00ed masky Pojmenov\u00e1n\u00ed atd."
+  },
+  "tipOptSectionTaskDefaults": {
+    "message": "Nov\u00e9 v\u00fdchoz\u00ed nastaven\u00ed se pou\u017e\u00edv\u00e1 p\u0159i vkl\u00e1d\u00e1n\u00ed nov\u00e9 \u00falohy, nap\u0159. pro stahov\u00e1n\u00ed na jedno kliknut\u00ed"
+  },
+  "tipRulesActive": {
+    "message": "Pouze aktivn\u00ed pravidla budou pou\u017eita pro porovn\u00e1n\u00ed"
+  },
+  "tipRulesAsFilter": {
+    "message": "Uk\u00e1zat jako filtr \u00faloh ve spr\u00e1vci stahov\u00e1n\u00ed"
+  },
+  "tipRulesRefName": {
+    "message": "Vnit\u0159n\u00ed n\u00e1zev pro odkazov\u00e1n\u00ed na pravidla v jin\u00fdch v\u00fdrazech"
+  },
+  "tipURL": {
+    "message": "M\u016f\u017eete zadat v\u00edce adres URL odd\u011blen\u00fdmi \u0159\u00e1dkami; m\u016f\u017eete za\u010d\u00edt d\u00e1vkov\u00e9 stahov\u00e1n\u00ed pomoc\u00ed d\u00e1vkov\u00e9ho popisova\u010de."
+  },
+  "tipmsgCopySelectedURLs": {
+    "message": "M\u016f\u017eete jednodu\u0161e stisknout $1 pro kop\u00edrov\u00e1n\u00ed adresy URL vybran\u00e9 \u00falohy"
+  },
+  "tipmsgDoubleClick": {
+    "message": "M\u016f\u017eete zm\u011bnit chov\u00e1n\u00ed p\u0159i dvojkliku zde $1"
+  },
+  "tipmsgFitColumnWidth": {
+    "message": "Dvakr\u00e1t klikn\u011bte pro automatick\u00e9 p\u0159izp\u016fsoben\u00ed \u0161\u00ed\u0159ky sloupce"
+  },
+  "tipmsgGridSelection": {
+    "message": "Pou\u017eijte Ctrl/Shift pro v\u00fdb\u011br v\u00edce \u0159\u00e1dk\u016f, nebo stiskn\u011bte $1 pro v\u00fdb\u011br v\u0161ech \u0159\u00e1dk\u016f"
+  },
+  "tipmsgNotifications": {
+    "message": "M\u016f\u017eete zm\u011bnit ozn\u00e1men\u00ed/zvuky v nastaven\u00ed $1"
+  },
+  "tipmsgOpenShortcut": {
+    "message": "Nejjednodu\u0161\u0161\u00ed zp\u016fsob, jak otev\u0159\u00edt $1, je stisknout $2"
+  },
+  "tipmsgSlideDetailsPanel": {
+    "message": "Panel informac\u00ed lze vypnout zde $1"
+  },
+  "tipmsgTaskFilter": {
+    "message": "Ta\u017een\u00edm uspo\u0159\u00e1dat filtry \u00faloh; m\u016f\u017eete tak\u00e9 p\u0159idat sv\u00e9 vlastn\u00ed filtry \u00faloh zde $1"
+  },
+  "titleChangeBG": {
+    "message": "Zm\u011bnit pozad\u00ed"
+  },
+  "titleNewTaskDialog": {
+    "message": "Nov\u00fd \u00fakol"
+  },
+  "titleOptions": {
+    "message": "Mo\u017enosti"
+  },
+  "titleOptionsAbout": {
+    "message": "O"
+  },
+  "titleOptionsFilter": {
+    "message": "Filtry"
+  },
+  "titleOptionsGeneral": {
+    "message": "Obecn\u00e1 nastaven\u00ed"
+  },
+  "titleOptionsHelp": {
+    "message": "N\u00e1pov\u011bda"
+  },
+  "titleOptionsInterface": {
+    "message": "U\u017eivatelsk\u00e9 rozhran\u00ed"
+  },
+  "titleOptionsRules": {
+    "message": "Pravidla"
+  },
+  "titleQuickSelection": {
+    "message": "Rychl\u00e1 volba"
+  },
+  "titleRateShare": {
+    "message": "Hodnotit a sd\u00edlet!"
+  },
+  "titleSniffer": {
+    "message": "Sniffer"
+  },
+  "titleSwitchUI": {
+    "message": "Re\u017eim zobrazen\u00ed"
+  },
+  "titleTaskProps": {
+    "message": "Vlastnosti \u00falohy"
+  },
+  "titleTips": {
+    "message": "Tipy"
+  },
+  "titleUpdateLog": {
+    "message": "Protokol zm\u011bn"
+  },
+  "translateContributors": {
+    "message": "Vil\u00e9m Robotka, Ren\u00e9 Kostka, roller.m, Radek Valenta, adamek.ales.aa, martinwolfcz, kvasnicka.robert, korke, korinek.marta, hellpetros, TheSil etc."
+  },
+  "uilang": {
+    "message": "cs"
+  },
+  "uilangName": {
+    "message": "Czech"
+  },
+  "unitBytes": {
+    "message": "$1 bajt\u016f"
+  },
+  "unitDay": {
+    "message": "$1 den"
+  },
+  "unitDays": {
+    "message": "$1 dn\u00ed"
+  },
+  "unitHour": {
+    "message": "$1\u00a0h"
+  },
+  "unitHours": {
+    "message": "$1\u00a0h"
+  },
+  "unitMinute": {
+    "message": "$1 min"
+  },
+  "unitMinutes": {
+    "message": "$1 min"
+  },
+  "unitSecond": {
+    "message": "$1 sek"
+  },
+  "unitSeconds": {
+    "message": "$1 sek"
+  }
+}

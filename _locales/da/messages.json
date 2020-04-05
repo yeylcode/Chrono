@@ -1,0 +1,1028 @@
+{
+  "btnAbout": {
+    "message": "Om"
+  },
+  "btnAddPaused": {
+    "message": "Tilf\u00f8j sat p\u00e5 pause"
+  },
+  "btnApply": {
+    "message": "Anvend"
+  },
+  "btnBackToManager": {
+    "message": "Tilbage"
+  },
+  "btnCancel": {
+    "message": "Annuller"
+  },
+  "btnClearAll": {
+    "message": "Ryd alle"
+  },
+  "btnClearFailed": {
+    "message": "Ryd afbrudte jobs"
+  },
+  "btnClearFinished": {
+    "message": "Ryd afsluttede jobs"
+  },
+  "btnClearRemoved": {
+    "message": "Ryd jobs med manglende filer"
+  },
+  "btnFAQ": {
+    "message": "Ofte stillede sp\u00f8rgsm\u00e5l"
+  },
+  "btnGotIt": {
+    "message": "Forst\u00e5et!"
+  },
+  "btnImportChromeHistory": {
+    "message": "Importer download historik fra Chrome"
+  },
+  "btnLater": {
+    "message": "Senere"
+  },
+  "btnLoadPreview": {
+    "message": "Indl\u00e6s eksempel"
+  },
+  "btnOpenManager": {
+    "message": "\u00c5ben Download assistent"
+  },
+  "btnPopRemoveFile": {
+    "message": "Og slet fil"
+  },
+  "btnPopRemoveList": {
+    "message": "Fjern fra jobliste"
+  },
+  "btnRate": {
+    "message": "Bed\u00f8m"
+  },
+  "btnShareDone": {
+    "message": "Jeg har allerede gjort det"
+  },
+  "btnStart": {
+    "message": "Start!"
+  },
+  "btnStartAll": {
+    "message": "Download alle!"
+  },
+  "btnTakeMeThere": {
+    "message": "F\u00f8r mig derhen"
+  },
+  "btnUpdateReload": {
+    "message": "Genindl\u00e6s nu"
+  },
+  "chromesysAllowFileAccess": {
+    "message": "Tillad adgang til webadresser p\u00e5 filer"
+  },
+  "chromesysChange": {
+    "message": "Skift..."
+  },
+  "chromesysDownloadLocation": {
+    "message": "Placering for downloads"
+  },
+  "chromesysDownloadSaveAsPrompt": {
+    "message": "Sp\u00f8rg, hvor hver enkelt fil skal gemmes, inden download begynder"
+  },
+  "chromesysDownloadsSection": {
+    "message": "Downloads"
+  },
+  "chromesysFailedGenericDownloadError": {
+    "message": "Downloadfejl"
+  },
+  "chromesysFailedGenericNetworkError": {
+    "message": "Netv\u00e6rksfejl"
+  },
+  "chromesysFailed_CRASH": {
+    "message": "Nedbrud"
+  },
+  "chromesysFailed_FILE_ACCESS_DENIED": {
+    "message": "Utilstr\u00e6kkelige tilladelser"
+  },
+  "chromesysFailed_FILE_BLOCKED": {
+    "message": "Blokeret"
+  },
+  "chromesysFailed_FILE_NAME_TOO_LONG": {
+    "message": "Stien er for lang"
+  },
+  "chromesysFailed_FILE_NO_SPACE": {
+    "message": "Disken er fuld"
+  },
+  "chromesysFailed_FILE_SAME_AS_SOURCE": {
+    "message": "Er allerede downloadet"
+  },
+  "chromesysFailed_FILE_SECURITY_CHECK_FAILED": {
+    "message": "Virusscanningen mislykkedes"
+  },
+  "chromesysFailed_FILE_TOO_LARGE": {
+    "message": "Filen er for stor"
+  },
+  "chromesysFailed_FILE_TOO_SHORT": {
+    "message": "Fil forkortet"
+  },
+  "chromesysFailed_FILE_TRANSIENT_ERROR": {
+    "message": "Systemet er optaget"
+  },
+  "chromesysFailed_FILE_VIRUS_INFECTED": {
+    "message": "Der er fundet en virus"
+  },
+  "chromesysFailed_NETWORK_TIMEOUT": {
+    "message": "Netv\u00e6rkstimeout"
+  },
+  "chromesysFailed_SERVER_BAD_CONTENT": {
+    "message": "Ingen fil"
+  },
+  "chromesysFailed_SERVER_CERT_PROBLEM": {
+    "message": "Ugyldigt certifikat"
+  },
+  "chromesysFailed_SERVER_CONTENT_LENGTH_MISMATCH": {
+    "message": "Filen er ufuldst\u00e6ndig"
+  },
+  "chromesysFailed_SERVER_FAILED": {
+    "message": "Serverproblem"
+  },
+  "chromesysFailed_SERVER_FORBIDDEN": {
+    "message": "Forbudt"
+  },
+  "chromesysFailed_SERVER_UNAUTHORIZED": {
+    "message": "Mangler godkendelse"
+  },
+  "chromesysFailed_SERVER_UNREACHABLE": {
+    "message": "Serveren er utilg\u00e6ngelig"
+  },
+  "chromesysFailed_USER_CANCELED": {
+    "message": "Annulleret"
+  },
+  "chromesysFailed_USER_SHUTDOWN": {
+    "message": "Nedlukning"
+  },
+  "chromesysFontSize": {
+    "message": "Skriftst\u00f8rrelse"
+  },
+  "chromesysLanguageSection": {
+    "message": "Sprog"
+  },
+  "chromesysShowAdvSettings": {
+    "message": "Vis avancerede indstillinger..."
+  },
+  "chromesysWebStore": {
+    "message": "Chrome Webshop"
+  },
+  "confirmBatchDownload": {
+    "message": "Det lader til, at du kommer til at starte batch downloads, her er nogle eksempler:"
+  },
+  "confirmBatchDownloadNaming": {
+    "message": "For batch download, skal du s\u00f8rge for at navngivningsmasken generere forskellige filnavne. Forts\u00e6t alligevel?"
+  },
+  "confirmBtnYes": {
+    "message": "Ja"
+  },
+  "confirmBtnYesFile": {
+    "message": "Ja, fjern ogs\u00e5 fil(er)"
+  },
+  "confirmCantResumeRestart": {
+    "message": "Job $1 kunne ikke genoptages, vil du genstarte den?"
+  },
+  "confirmClearTask": {
+    "message": "Er du sikker p\u00e5, at du vil fjerne $1 elementer?"
+  },
+  "confirmProceed": {
+    "message": "Vil du forts\u00e6tte?"
+  },
+  "confirmRecycleRunning": {
+    "message": "Slet aktive job(s)?"
+  },
+  "confirmRemoveExtFilter": {
+    "message": "Fjern de valgte element(er)?"
+  },
+  "confirmRemoveRule": {
+    "message": "Fjern de valgte regel(er)?"
+  },
+  "confirmRemoveTask": {
+    "message": "Fjern valgte job(s) permanent?"
+  },
+  "confirmReset": {
+    "message": "Handlingen kan ikke fortrydes. Vil du forts\u00e6tte?"
+  },
+  "errorFNameConflict": {
+    "message": "Navngivningskonflikt"
+  },
+  "errorFileNotExist": {
+    "message": "Filen blev ikke fundet"
+  },
+  "errorInvalidNamingMask": {
+    "message": "Ugyldig navngivningsmaske"
+  },
+  "errorInvalidURLs": {
+    "message": "Ugyldig webadresse"
+  },
+  "errorNoID": {
+    "message": "Ikke muligt at tilf\u00f8je nyt job til Chrono, fordi der er for mange jobs tilstede p\u00e5 hentet  filer listen, ryd op i nogle af de gamle jobs, og pr\u00f8v igen."
+  },
+  "errorNone": {
+    "message": "Ingen fejl"
+  },
+  "errorRemovedFromChrome": {
+    "message": "Opgaven kan v\u00e6re blevet fjernet fra Chrome."
+  },
+  "everyXDays": {
+    "message": "Hver $1. dag"
+  },
+  "everyXHours": {
+    "message": "Hver $1. time"
+  },
+  "everyXMinutes": {
+    "message": "Hver $1. minut"
+  },
+  "extDesc": {
+    "message": "Download Assistent"
+  },
+  "extDescBest": {
+    "message": "Den bedste download assistent til Chrome"
+  },
+  "extDescSlogan": {
+    "message": "Download og administrer internettet!"
+  },
+  "extName": {
+    "message": "Chrono Download Manager"
+  },
+  "extsAll": {
+    "message": "Alle"
+  },
+  "extsApp": {
+    "message": "Applikation"
+  },
+  "extsArchive": {
+    "message": "Arkiv"
+  },
+  "extsAudio": {
+    "message": "Lyd"
+  },
+  "extsDocument": {
+    "message": "Dokument"
+  },
+  "extsImage": {
+    "message": "Billede"
+  },
+  "extsNew": {
+    "message": "Nyt Filter"
+  },
+  "extsOthers": {
+    "message": "Andet"
+  },
+  "extsVideo": {
+    "message": "Video"
+  },
+  "fieldAddTime": {
+    "message": "Oprettelsesdato"
+  },
+  "fieldAvgSpeed": {
+    "message": "Gennemsnitsfart"
+  },
+  "fieldDownloadedSize": {
+    "message": "Downloadet"
+  },
+  "fieldElapsedTime": {
+    "message": "Forl\u00f8bet tid"
+  },
+  "fieldFileName": {
+    "message": "Filnavn"
+  },
+  "fieldFileSize": {
+    "message": "Filst\u00f8rrelse"
+  },
+  "fieldFinishTime": {
+    "message": "Sluttid"
+  },
+  "fieldFolder": {
+    "message": "Mappe"
+  },
+  "fieldNaming": {
+    "message": "Navngiv maske"
+  },
+  "fieldProgress": {
+    "message": "Fremskridt"
+  },
+  "fieldRedirection": {
+    "message": "Omdirigering"
+  },
+  "fieldReferer": {
+    "message": "Henvisningsadresse"
+  },
+  "fieldRemainingTime": {
+    "message": "Resterende tid"
+  },
+  "fieldRemarks": {
+    "message": "Bem\u00e6rkninger"
+  },
+  "fieldSpeed": {
+    "message": "Hastighed"
+  },
+  "fieldState": {
+    "message": "Status"
+  },
+  "fieldThreads": {
+    "message": "Tr\u00e5de"
+  },
+  "fieldType": {
+    "message": "Filtype"
+  },
+  "fieldURL": {
+    "message": "Webadresse"
+  },
+  "headExtFilterCaption": {
+    "message": "Vist navn"
+  },
+  "headExtFilterExts": {
+    "message": "Filtypenavn"
+  },
+  "headExtFilterRefName": {
+    "message": "Internt navn"
+  },
+  "headRulesActive": {
+    "message": "Aktiv"
+  },
+  "headRulesAsFilter": {
+    "message": "Tilf\u00f8j jobfilter"
+  },
+  "headRulesCaption": {
+    "message": "Vist navn"
+  },
+  "headRulesCondition": {
+    "message": "Betingelse"
+  },
+  "headRulesRefName": {
+    "message": "Internt navn"
+  },
+  "helpExtFilter": {
+    "message": "* Dobbeltklik for at redigere. \n* Type p\u00e5 tom r\u00e6kke for at tilf\u00f8je et nyt filter. \n* V\u00e6lg r\u00e6kker og tryk p\u00e5 DELETE for at fjerne dem."
+  },
+  "helpRules": {
+    "message": "* Dobbeltklik for at redigere. \n* Skriv p\u00e5 tom r\u00e6kke for at tilf\u00f8je en ny regel. \n* V\u00e6lg r\u00e6kke og tryk p\u00e5 DELETE for at fjerne dem. \n* Hvis du har problemer med at skrive reglerne, henvises til afsnittet Hj\u00e6lp."
+  },
+  "hintSearchDownloads": {
+    "message": "S\u00f8g i downloads"
+  },
+  "labelAutoClear": {
+    "message": "Planl\u00e6g"
+  },
+  "labelBGBlur": {
+    "message": "Sl\u00f8ring"
+  },
+  "labelBGChooseFrom": {
+    "message": "V\u00e6lg billede"
+  },
+  "labelBGConstantColor": {
+    "message": "Ensfarvet"
+  },
+  "labelBGImageURL": {
+    "message": "Webadresse for tilpasset billede"
+  },
+  "labelBGOpacity": {
+    "message": "Gennemsigtighed"
+  },
+  "labelCustomFilter": {
+    "message": "Tilpasset filter"
+  },
+  "menuDAudio": {
+    "message": "Gem lyd som..."
+  },
+  "menuDAudioOneClick": {
+    "message": "Hent lydfilen med \u00e9t-klik"
+  },
+  "menuDImage": {
+    "message": "Gem billede som..."
+  },
+  "menuDImageOneClick": {
+    "message": "Hent billedet med \u00e9t-klik"
+  },
+  "menuDLink": {
+    "message": "Gem link som..."
+  },
+  "menuDLinkOneClick": {
+    "message": "Hent linket med \u00e9t-klik"
+  },
+  "menuDVideo": {
+    "message": "Gem video som ..."
+  },
+  "menuDVideoOneClick": {
+    "message": "Hent videoen med \u00e9t-klik"
+  },
+  "menuGetHelp": {
+    "message": "F\u00e5 hj\u00e6lp"
+  },
+  "menuOpenManager": {
+    "message": "\u00c5ben download assistent"
+  },
+  "menuReportIssue": {
+    "message": "Rapport\u00e9r et problem"
+  },
+  "msgCannotScanResources": {
+    "message": "Kan ikke identificere elementer p\u00e5 denne side."
+  },
+  "msgChromeI18nLanguage": {
+    "message": "Chrono bruger det samme sprog som din Chrome-browser."
+  },
+  "msgEmptyDownloadsList": {
+    "message": "Tom liste"
+  },
+  "msgPreviewErrorReadFile": {
+    "message": "Der opstod en fejl ved l\u00e6sning af filen"
+  },
+  "msgPreviewFailed": {
+    "message": "Eksempelvisningen af filen kunne ikke indl\u00e6ses"
+  },
+  "msgPreviewFileAccess": {
+    "message": "Kan ikke indl\u00e6se den lokale fil til preview, du kan t\u00e6nde denne funktion ved at markere afkrydsningsfeltet $1 under $2 p\u00e5 chrome://extensions."
+  },
+  "msgPreviewLargeFile": {
+    "message": "Det kan tage et stykke tid at indl\u00e6se forh\u00e5ndsvisningen."
+  },
+  "msgPreviewPdfViewer": {
+    "message": "Chrome PDF Viewer er p\u00e5kr\u00e6vet til forh\u00e5ndsvisningen, skal du t\u00e6nde den ved at f\u00f8lge instruktionerne"
+  },
+  "msgRateShare": {
+    "message": "Hvis du har fundet $1 nyttigt, kan du bed\u00f8mme det p\u00e5 $2 og dele det med dine venner!"
+  },
+  "msgSearchNoResults": {
+    "message": "Der blev ikke fundet nogen resultater"
+  },
+  "msgSelectTaskInfo": {
+    "message": "Der er ikke valgt noget element."
+  },
+  "msgTaskAddPaused": {
+    "message": "Job tilf\u00f8jet og sat p\u00e5 pause"
+  },
+  "msgTaskFinish": {
+    "message": "Downloaden blev gennemf\u00f8rt"
+  },
+  "msgTaskInterrupt": {
+    "message": "Download mislykkedes"
+  },
+  "msgTaskStart": {
+    "message": "Job tilf\u00f8jet til k\u00f8"
+  },
+  "msgTextUpdateAvail": {
+    "message": "Venligst genindl\u00e6s udvidelsen for at anvende opdateringen."
+  },
+  "msgTextWelcome": {
+    "message": "F\u00f8r du starter, anbefales det at slukke Chrome's  \"Gem som\" dialogboks, ved at rydde afkrydsningsfeltet under $1.\nDu kan ogs\u00e5 give Chrono adgang fil URL'er for at opn\u00e5 bedre brugeroplevelse, som kan aktiveres af afkrydsningsfeltet $2 under $3. \nHvis du har sp\u00f8rgsm\u00e5l, skal du kigge p\u00e5 Hj\u00e6lp og FAQ siderne, du kan ogs\u00e5 sende e-mails til dev@chronodownloader.net. \nGod forn\u00f8jelse!"
+  },
+  "msgTitleUpdateAvail": {
+    "message": "Ny version tilg\u00e6ngelig"
+  },
+  "msgTitleWelcome": {
+    "message": "Velkommen"
+  },
+  "msgUpdated": {
+    "message": "$1 er blevet opdateret."
+  },
+  "optItemBadgeDownloadNum": {
+    "message": "Vis antallet af aktive jobs ovenp\u00e5 v\u00e6rkt\u00f8jslinje ikonet"
+  },
+  "optItemClearRemoveFile": {
+    "message": "Slet fra disk"
+  },
+  "optItemClearSearch": {
+    "message": "Ryd s\u00f8gefelt ved filterskift"
+  },
+  "optItemClickNotify": {
+    "message": "N\u00e5r du klikker p\u00e5 en meddelelse"
+  },
+  "optItemConcurrentDownloads": {
+    "message": "Samtidige hentninger"
+  },
+  "optItemDblClickAction": {
+    "message": "Dobbeltklik p\u00e5 jobbet"
+  },
+  "optItemDefAddPaused": {
+    "message": "Tilf\u00f8j sat p\u00e5 pause"
+  },
+  "optItemDefFolder": {
+    "message": "Standardplacering"
+  },
+  "optItemDefNaming": {
+    "message": "Standard navngivningsmaske"
+  },
+  "optItemDownloadClipboard": {
+    "message": "Hent URL fra udklipsholder"
+  },
+  "optItemDownloadsPerServer": {
+    "message": "Hentninger per server"
+  },
+  "optItemHideShelf": {
+    "message": "Skjul Chromes downloads hylde / bar"
+  },
+  "optItemMenuDialog": {
+    "message": "Gem link som..."
+  },
+  "optItemMenuOneClick": {
+    "message": "\u00c9t-klik hent linket / billedet"
+  },
+  "optItemNameConflict": {
+    "message": "N\u00e5r filnavn er i konflikt med anden fil"
+  },
+  "optItemNotifyError": {
+    "message": "Vis meddelelse, n\u00e5r der opst\u00e5r fejl"
+  },
+  "optItemNotifyFinish": {
+    "message": "Vis meddelelse, n\u00e5r overf\u00f8rslen er fuldf\u00f8rt"
+  },
+  "optItemNotifyLargePreview": {
+    "message": "Vis stor forh\u00e5ndsvisning for billeder"
+  },
+  "optItemNotifyOneClick": {
+    "message": "Vis meddelelse, n\u00e5r du tilf\u00f8jer et \"\u00c9t-Klik\" job"
+  },
+  "optItemNotifyProgress": {
+    "message": "Vis fremskridt i fil-hentning"
+  },
+  "optItemOverrideChrome": {
+    "message": "Tilsides\u00e6t Chromes oprindelige downloadside og aktiver $1 tastaturgenvejen"
+  },
+  "optItemPopClearClose": {
+    "message": "Luk pop-op liste, efter rydning af jobs"
+  },
+  "optItemPopDeleteAction": {
+    "message": "Tryk p\u00e5 'Slet' knappen"
+  },
+  "optItemPopLikeButtons": {
+    "message": "Vis knapper til sociale medier"
+  },
+  "optItemPopMaxItems": {
+    "message": "Maksimale antal poster p\u00e5 listen over hentede filer"
+  },
+  "optItemPopShowDLFirst": {
+    "message": "Vis aktive jobs f\u00f8rst"
+  },
+  "optItemPreviewAutoplay": {
+    "message": "Autoplay"
+  },
+  "optItemRecycleCancel": {
+    "message": "Annuller jobbet, n\u00e5r det slettes"
+  },
+  "optItemRuleMatchMode": {
+    "message": "Matchtilstand"
+  },
+  "optItemSlideDetailsPanel": {
+    "message": "\"Glide-ind\" panel med detaljer, n\u00e5r du klikker p\u00e5 jobbet"
+  },
+  "optItemSoundError": {
+    "message": "Afspil lyd, n\u00e5r der opst\u00e5r fejl"
+  },
+  "optItemSoundFinish": {
+    "message": "Afspil lyd, n\u00e5r overf\u00f8rslen er fuldf\u00f8rt"
+  },
+  "optItemStartInterrupted": {
+    "message": "Knappen Start kan starte afbrudte jobs"
+  },
+  "optOptionClearAllNotify": {
+    "message": "Rydde alle meddelelser"
+  },
+  "optOptionClearNotify": {
+    "message": "Ryd denne meddelelse"
+  },
+  "optOptionDoNothing": {
+    "message": "G\u00f8r intet"
+  },
+  "optOptionFirstMatch": {
+    "message": "F\u00f8rste korrelation"
+  },
+  "optOptionOpenFile": {
+    "message": "\u00c5bn fil"
+  },
+  "optOptionOpenFolder": {
+    "message": "\u00c5bn mappe"
+  },
+  "optOptionOverwrite": {
+    "message": "Overskriv"
+  },
+  "optOptionPrompt": {
+    "message": "Sp\u00f8rg"
+  },
+  "optOptionRemAsk": {
+    "message": "Sp\u00f8rg"
+  },
+  "optOptionRemFile": {
+    "message": "Slet fra disk uden at bekr\u00e6fte"
+  },
+  "optOptionRemList": {
+    "message": "Fjern fra listen"
+  },
+  "optOptionReplace": {
+    "message": "Erstat"
+  },
+  "optOptionSkipCancel": {
+    "message": "Annuller download"
+  },
+  "optOptionSkipPause": {
+    "message": "S\u00e6t download p\u00e5 pause"
+  },
+  "optOptionStartPause": {
+    "message": "Start eller pause"
+  },
+  "optOptionUniquify": {
+    "message": "G\u00f8r unik"
+  },
+  "optSectionBehaviors": {
+    "message": "Adf\u00e6rd"
+  },
+  "optSectionMenu": {
+    "message": "Menu"
+  },
+  "optSectionMisc": {
+    "message": "Diverse"
+  },
+  "optSectionNetwork": {
+    "message": "Netv\u00e6rk"
+  },
+  "optSectionNotifications": {
+    "message": "Underretninger"
+  },
+  "optSectionOneClick": {
+    "message": "\u00c9t-klik hentning af filer"
+  },
+  "optSectionPopup": {
+    "message": "Popup"
+  },
+  "optSectionPreview": {
+    "message": "Eksempel"
+  },
+  "optSectionTaskDefaults": {
+    "message": "Standard indstillinger for nye jobs"
+  },
+  "optionAddTop": {
+    "message": "Tilf\u00f8j til toppen af \u200b\u200bk\u00f8en"
+  },
+  "optionDisableExtFilters": {
+    "message": "Deaktiver standard filtre"
+  },
+  "optionDontAsk": {
+    "message": "Husk mit valg"
+  },
+  "optionSearchCaseSensitive": {
+    "message": "Der er forskel p\u00e5 store og sm\u00e5 bogstaver"
+  },
+  "optionSearchFuzzyMatch": {
+    "message": "Fuzzy match"
+  },
+  "optionShowSize": {
+    "message": "Vis filst\u00f8rrelse"
+  },
+  "optionTableAutoResize": {
+    "message": "Tilpas koloner til vindue"
+  },
+  "optionTableSyncResize": {
+    "message": "Samtidig tilpasning"
+  },
+  "phraseAutomatic": {
+    "message": "Automatisk"
+  },
+  "phraseEnable": {
+    "message": "Aktiv\u00e9r"
+  },
+  "phraseMultiValues": {
+    "message": "Flere v\u00e6rdier"
+  },
+  "phraseNever": {
+    "message": "Aldrig"
+  },
+  "phrasePreview": {
+    "message": "Vis eksempel"
+  },
+  "phraseRegex": {
+    "message": "Regul\u00e6rt udtryk"
+  },
+  "phraseToday": {
+    "message": "I dag"
+  },
+  "phraseUnknown": {
+    "message": "Ukendt"
+  },
+  "phraseUnknownSize": {
+    "message": "Ukendt st\u00f8rrelse"
+  },
+  "phraseVersion": {
+    "message": "Version"
+  },
+  "phraseYesterday": {
+    "message": "I g\u00e5r"
+  },
+  "ruleAllTasks": {
+    "message": "Alle jobs"
+  },
+  "ruleAudio": {
+    "message": "Lyd"
+  },
+  "ruleDocument": {
+    "message": "Dokument"
+  },
+  "ruleDownloading": {
+    "message": "Downloades"
+  },
+  "ruleFinished": {
+    "message": "Afsluttet"
+  },
+  "ruleImage": {
+    "message": "Billede"
+  },
+  "ruleInterrupted": {
+    "message": "Mislykket"
+  },
+  "ruleNew": {
+    "message": "Ny regel"
+  },
+  "ruleOther": {
+    "message": "Andet"
+  },
+  "ruleRecent": {
+    "message": "Seneste"
+  },
+  "ruleRecycled": {
+    "message": "Papirkurv"
+  },
+  "ruleSmallFiles": {
+    "message": "Sm\u00e5 filer"
+  },
+  "ruleVideo": {
+    "message": "Video"
+  },
+  "stateDownloading": {
+    "message": "Downloades"
+  },
+  "stateError": {
+    "message": "Mislykket"
+  },
+  "stateFileMiss": {
+    "message": "Filen mangler"
+  },
+  "stateFinished": {
+    "message": "Afsluttet"
+  },
+  "statePaused": {
+    "message": "Sat p\u00e5 pause"
+  },
+  "stateQueue": {
+    "message": "Venter"
+  },
+  "statusCopyURL": {
+    "message": "Importerer URL..."
+  },
+  "statusCopyURLDone": {
+    "message": "Webadressen blev kopieret til udklipsholderen"
+  },
+  "statusDownloadedSize": {
+    "message": "$1 af $2"
+  },
+  "statusImportDone": {
+    "message": "Importen er gennemf\u00f8rt"
+  },
+  "statusImporting": {
+    "message": "Importerer ..."
+  },
+  "statusNumDownloading": {
+    "message": "$1 downloader"
+  },
+  "statusNumItems": {
+    "message": "$1 elementer"
+  },
+  "statusReadClipboard": {
+    "message": "L\u00e6ser udklipsholderen..."
+  },
+  "statusScheduledAutoClear": {
+    "message": "Automatisk rydning af jobs vil blive aktiveret i $1 sekunder"
+  },
+  "statusSelectedOf": {
+    "message": "$1 elementer er valgt"
+  },
+  "statusTasksCleared": {
+    "message": "$1 elementer blev fjernet"
+  },
+  "statusTimeLeft": {
+    "message": "$1 tilbage"
+  },
+  "tipAutoClear": {
+    "message": "Ryd automatisk jobs fra listen, men behold filerne p\u00e5 harddisken"
+  },
+  "tipBGBlur": {
+    "message": "Sl\u00f8ringseffekt kan neds\u00e6tte GUI reaktionsevne"
+  },
+  "tipBGEnable": {
+    "message": "P\u00e5 grund af visse forhold i Chrome, vil aktivering af special baggrund \u00f8ge hukommelses forbruget en del. Overvej derfor om dette er hensigtsm\u00e6ssigt, f\u00f8r du aktiverer denne funktion."
+  },
+  "tipBGURLHasFileAccess": {
+    "message": "Indtast en web URL, eller fuld sti af et billede p\u00e5 din computer med pr\u00e6fiks 'file:///'"
+  },
+  "tipBGURLNoFileAccess": {
+    "message": "Indtast en web URL, eller fuld sti af et billede p\u00e5 din computer (for at kunne v\u00e6lge en lokal fil, skal du aktivere fil adgang for Chrono f\u00f8rst. Klik p\u00e5 sp\u00f8rgsm\u00e5lstegnet for at se, hvordan)"
+  },
+  "tipBrowserAction": {
+    "message": "Download alle elementer p\u00e5 denne side"
+  },
+  "tipBtnBackToManager": {
+    "message": "Tilbage til download assistent"
+  },
+  "tipBtnChangeDefaultLocation": {
+    "message": "Skift destinationsmappe..."
+  },
+  "tipBtnClear": {
+    "message": "Ryd jobs"
+  },
+  "tipBtnConfigExtFilters": {
+    "message": "Rediger filtre"
+  },
+  "tipBtnCopyLink": {
+    "message": "Kopi\u00e9r link"
+  },
+  "tipBtnDelete": {
+    "message": "Slet"
+  },
+  "tipBtnHelp": {
+    "message": "Hj\u00e6lp"
+  },
+  "tipBtnNewTask": {
+    "message": "Nyt job"
+  },
+  "tipBtnOpenDefaultLocation": {
+    "message": "\u00c5bn mappen med downloads"
+  },
+  "tipBtnOpenFile": {
+    "message": "\u00c5bn fil"
+  },
+  "tipBtnOpenFolder": {
+    "message": "\u00c5bn mappe"
+  },
+  "tipBtnOptions": {
+    "message": "Valgmuligheder"
+  },
+  "tipBtnPause": {
+    "message": "Pause"
+  },
+  "tipBtnPauseAll": {
+    "message": "Pause alle"
+  },
+  "tipBtnPopList": {
+    "message": "Skift til liste"
+  },
+  "tipBtnPopSniffer": {
+    "message": "Skift til Sniffer"
+  },
+  "tipBtnRecycle": {
+    "message": "Flyt til papirkurven"
+  },
+  "tipBtnRestart": {
+    "message": "Genstart"
+  },
+  "tipBtnRestore": {
+    "message": "Gendan"
+  },
+  "tipBtnSort": {
+    "message": "Sort\u00e9r jobs"
+  },
+  "tipBtnStart": {
+    "message": "Start"
+  },
+  "tipBtnStartAll": {
+    "message": "Start alle"
+  },
+  "tipExtFilterEnable": {
+    "message": "Aktiveret som udvidelses filter i Chrono Sniffer"
+  },
+  "tipExtFilterRefName": {
+    "message": "Internt navn for henvisnings filter i andre udtryk"
+  },
+  "tipNaming": {
+    "message": "Der henvises til Hj\u00e6lp side for brugen af \u200b\u200bNavngivningsmasker."
+  },
+  "tipOptItemRuleMatchMode": {
+    "message": "Bem\u00e6rk, at kun aktive Regler testes for matchning. I Erstat-tilstand, anvendes alle matchede Regler, men sidstn\u00e6vnte regler overskriver de tidligere tilf\u00f8jede."
+  },
+  "tipOptItemSlideDetailsPanel": {
+    "message": "Du kan ogs\u00e5 Alt + klik p\u00e5 jobbet for at \u00e5bne Detaljer Panelet"
+  },
+  "tipOptNoRuleMatch": {
+    "message": "Anvendes, n\u00e5r ingen regel matcher"
+  },
+  "tipOptSectionOneClick": {
+    "message": "Hvis aktiveret, vil download starte med det samme, n\u00e5r du klikker p\u00e5 et link, ved hj\u00e6lp af standardindstillingerne (se ovenfor) og uden f\u00f8rst at vise en dialogboks til indstilling af navngivning mv."
+  },
+  "tipOptSectionTaskDefaults": {
+    "message": "Standardindstillinger der bliver anvendt n\u00e5r du starter et nyt job (ogs\u00e5 ved anvendelse af \"\u00e9t-klik\" hentning af filer)."
+  },
+  "tipRulesActive": {
+    "message": "Kun aktive Regler vil blive brugt til regel matching"
+  },
+  "tipRulesAsFilter": {
+    "message": "Vis som jobfilter i Download Manager"
+  },
+  "tipRulesRefName": {
+    "message": "Intern navn for henvisnings regel i andre udtryk"
+  },
+  "tipURL": {
+    "message": "Du kan indtaste flere webadresser adskilt af nye linjer; kan du starte batch hentninger ved hj\u00e6lp af Batch Beskrivelser."
+  },
+  "tipmsgCopySelectedURLs": {
+    "message": "Du kan blot trykke p\u00e5 $1 for at kopiere webadresser fra de valgte job(s)"
+  },
+  "tipmsgDoubleClick": {
+    "message": "Du kan \u00e6ndre adf\u00e6rd for dobbeltklik under $1"
+  },
+  "tipmsgFitColumnWidth": {
+    "message": "Dobbeltklik p\u00e5 kolonnejusteringen for at justere kolonnebredden automatisk"
+  },
+  "tipmsgGridSelection": {
+    "message": "Brug Ctrl / Shift for at v\u00e6lge flere r\u00e6kker, eller tryk p\u00e5 $1 for at v\u00e6lge alle r\u00e6kker"
+  },
+  "tipmsgNotifications": {
+    "message": "Du kan \u00e6ndre indstillinger for underretninger / lyde under $1"
+  },
+  "tipmsgOpenShortcut": {
+    "message": "Den enkleste m\u00e5de at \u00e5bne $1 er at trykke p\u00e5 $2"
+  },
+  "tipmsgSlideDetailsPanel": {
+    "message": "De  animerede detaljepaneler kan sl\u00e5s fra under $1"
+  },
+  "tipmsgTaskFilter": {
+    "message": "Tr\u00e6k for at \u00e6ndre r\u00e6kkef\u00f8lgen af jobfiltre; du kan ogs\u00e5 tilf\u00f8je dine egne jobfiltre under $1"
+  },
+  "titleChangeBG": {
+    "message": "Skift baggrund"
+  },
+  "titleNewTaskDialog": {
+    "message": "Nyt job"
+  },
+  "titleOptions": {
+    "message": "Valgmuligheder"
+  },
+  "titleOptionsAbout": {
+    "message": "Om"
+  },
+  "titleOptionsFilter": {
+    "message": "Filtre"
+  },
+  "titleOptionsGeneral": {
+    "message": "Generelt"
+  },
+  "titleOptionsHelp": {
+    "message": "Hj\u00e6lp"
+  },
+  "titleOptionsInterface": {
+    "message": "Brugergr\u00e6nseflade"
+  },
+  "titleOptionsRules": {
+    "message": "Regel System"
+  },
+  "titleQuickSelection": {
+    "message": "Hurtigvalg"
+  },
+  "titleRateShare": {
+    "message": "Bed\u00f8m og del!"
+  },
+  "titleSniffer": {
+    "message": "Sniffer"
+  },
+  "titleSwitchUI": {
+    "message": "Skift visningstilstand"
+  },
+  "titleTaskProps": {
+    "message": "Egenskaber for job"
+  },
+  "titleTips": {
+    "message": "Tips"
+  },
+  "titleUpdateLog": {
+    "message": "Opdateringshistorik"
+  },
+  "translateContributors": {
+    "message": "thunder3344"
+  },
+  "uilang": {
+    "message": "da"
+  },
+  "uilangName": {
+    "message": "Danish"
+  },
+  "unitBytes": {
+    "message": "$1 byte"
+  },
+  "unitDay": {
+    "message": "$1 dag"
+  },
+  "unitDays": {
+    "message": "$1 dage"
+  },
+  "unitHour": {
+    "message": "$1 time"
+  },
+  "unitHours": {
+    "message": "$1 timer"
+  },
+  "unitMinute": {
+    "message": "$1 min."
+  },
+  "unitMinutes": {
+    "message": "$1 min."
+  },
+  "unitSecond": {
+    "message": "$1 sek."
+  },
+  "unitSeconds": {
+    "message": "$1 sek."
+  }
+}

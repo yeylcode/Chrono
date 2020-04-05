@@ -1,0 +1,9 @@
+{
+	"extName":{"message": "Chrono Download Manager"},
+    "uilangName":{"message": "Amharic"},
+
+    "chromesysDownloadLocation":{"message": "\u12e8\u121a\u12c8\u122d\u12f5\u1260\u1275 \u1266\u1273\u1366"},
+    "chromesysShowAdvSettings":{"message": "\u12e8\u120b\u1241 \u1245\u1295\u1265\u122e\u127d\u1295 \u12a0\u1233\u12ed..."},
+    "chromesysDownloadsSection":{"message": "\u12e8\u12c8\u1228\u12f1"},
+    "chromesysAllowFileAccess":{"message": "\u1208\u134b\u12ed\u120d \u12e9\u12a0\u122d\u12a4\u120d\u12ce\u127d \u1218\u12f3\u1228\u123b \u134d\u1240\u12f5"}
+}

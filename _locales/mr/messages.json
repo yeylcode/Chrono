@@ -1,0 +1,9 @@
+{
+	"extName":{"message": "Chrono Download Manager"},
+    "uilangName":{"message": "Marathi"},
+
+    "chromesysDownloadLocation":{"message": "\u0921\u093e\u0909\u0928\u0932\u094b\u0921 \u0938\u094d\u0925\u093e\u0928"},
+    "chromesysShowAdvSettings":{"message": "\u092a\u094d\u0930\u0917\u0924 \u0938\u0947\u091f\u093f\u0902\u0917\u094d\u091c \u0926\u0930\u094d\u0936\u0935\u093e..."},
+    "chromesysDownloadsSection":{"message": "\u0921\u093e\u0909\u0928\u0932\u094b\u0921"},
+    "chromesysAllowFileAccess":{"message": "\u092b\u093e\u0907\u0932 URL \u092e\u0927\u094d\u092f\u0947 \u092a\u094d\u0930\u0935\u0947\u0936\u093e\u0938 \u0905\u0928\u0941\u092e\u0924\u0940 \u0926\u094d\u092f\u093e"}
+}

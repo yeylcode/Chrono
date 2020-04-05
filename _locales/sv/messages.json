@@ -1,0 +1,1028 @@
+{
+  "btnAbout": {
+    "message": "Om"
+  },
+  "btnAddPaused": {
+    "message": "L\u00e4gg till pausade"
+  },
+  "btnApply": {
+    "message": "Verkst\u00e4ll"
+  },
+  "btnBackToManager": {
+    "message": "Tillbaka"
+  },
+  "btnCancel": {
+    "message": "Avbryt"
+  },
+  "btnClearAll": {
+    "message": "Rensa alla"
+  },
+  "btnClearFailed": {
+    "message": "Rensa avbrutna uppgifter"
+  },
+  "btnClearFinished": {
+    "message": "Rensa slutf\u00f6rda uppgifter"
+  },
+  "btnClearRemoved": {
+    "message": "Rensa uppgifter d\u00e4r filen saknas"
+  },
+  "btnFAQ": {
+    "message": "Vanliga fr\u00e5gor"
+  },
+  "btnGotIt": {
+    "message": "Uppfattat!"
+  },
+  "btnImportChromeHistory": {
+    "message": "Importhistorik"
+  },
+  "btnLater": {
+    "message": "Senare"
+  },
+  "btnLoadPreview": {
+    "message": "L\u00e4s in f\u00f6rhandsgranskning"
+  },
+  "btnOpenManager": {
+    "message": "\u00d6ppna hanterare"
+  },
+  "btnPopRemoveFile": {
+    "message": "Ta bort filen"
+  },
+  "btnPopRemoveList": {
+    "message": "Ta bort fr\u00e5n listan"
+  },
+  "btnRate": {
+    "message": "S\u00e4tt betyg"
+  },
+  "btnShareDone": {
+    "message": "Jag har redan gjort det"
+  },
+  "btnStart": {
+    "message": "Starta"
+  },
+  "btnStartAll": {
+    "message": "Ladda ner alla"
+  },
+  "btnTakeMeThere": {
+    "message": "Ta mig dit"
+  },
+  "btnUpdateReload": {
+    "message": "L\u00e4s in igen nu"
+  },
+  "chromesysAllowFileAccess": {
+    "message": "Till\u00e5t \u00e5tkomst till webbadresser i filen"
+  },
+  "chromesysChange": {
+    "message": "\u00c4ndra..."
+  },
+  "chromesysDownloadLocation": {
+    "message": "Nedladdningsplats"
+  },
+  "chromesysDownloadSaveAsPrompt": {
+    "message": "Fr\u00e5ga var filerna ska sparas f\u00f6re nedladdning"
+  },
+  "chromesysDownloadsSection": {
+    "message": "Nedladdningar"
+  },
+  "chromesysFailedGenericDownloadError": {
+    "message": "Nedladdningsfel"
+  },
+  "chromesysFailedGenericNetworkError": {
+    "message": "N\u00e4tverksfel"
+  },
+  "chromesysFailed_CRASH": {
+    "message": "Krasch"
+  },
+  "chromesysFailed_FILE_ACCESS_DENIED": {
+    "message": "Otillr\u00e4ckliga beh\u00f6righeter"
+  },
+  "chromesysFailed_FILE_BLOCKED": {
+    "message": "Blockerad"
+  },
+  "chromesysFailed_FILE_NAME_TOO_LONG": {
+    "message": "S\u00f6kv\u00e4gen \u00e4r f\u00f6r l\u00e5ng"
+  },
+  "chromesysFailed_FILE_NO_SPACE": {
+    "message": "Enheten \u00e4r full"
+  },
+  "chromesysFailed_FILE_SAME_AS_SOURCE": {
+    "message": "Har redan laddats ned"
+  },
+  "chromesysFailed_FILE_SECURITY_CHECK_FAILED": {
+    "message": "Viruss\u00f6kningen misslyckades"
+  },
+  "chromesysFailed_FILE_TOO_LARGE": {
+    "message": "Filen \u00e4r f\u00f6r stor"
+  },
+  "chromesysFailed_FILE_TOO_SHORT": {
+    "message": "Filen \u00e4r trunkerad"
+  },
+  "chromesysFailed_FILE_TRANSIENT_ERROR": {
+    "message": "Systemet \u00e4r upptaget"
+  },
+  "chromesysFailed_FILE_VIRUS_INFECTED": {
+    "message": "Ett virus har uppt\u00e4ckts"
+  },
+  "chromesysFailed_NETWORK_TIMEOUT": {
+    "message": "Tidsgr\u00e4ns f\u00f6r n\u00e4tverket"
+  },
+  "chromesysFailed_SERVER_BAD_CONTENT": {
+    "message": "Ingen fil"
+  },
+  "chromesysFailed_SERVER_CERT_PROBLEM": {
+    "message": "D\u00e5ligt certifikat"
+  },
+  "chromesysFailed_SERVER_CONTENT_LENGTH_MISMATCH": {
+    "message": "Filen \u00e4r inte fullst\u00e4ndig"
+  },
+  "chromesysFailed_SERVER_FAILED": {
+    "message": "Serverfel"
+  },
+  "chromesysFailed_SERVER_FORBIDDEN": {
+    "message": "F\u00f6rbjuden"
+  },
+  "chromesysFailed_SERVER_UNAUTHORIZED": {
+    "message": "Auktorisering beh\u00f6vs"
+  },
+  "chromesysFailed_SERVER_UNREACHABLE": {
+    "message": "Servern kan inte n\u00e5s"
+  },
+  "chromesysFailed_USER_CANCELED": {
+    "message": "Avbr\u00f6ts"
+  },
+  "chromesysFailed_USER_SHUTDOWN": {
+    "message": "St\u00e4ngning"
+  },
+  "chromesysFontSize": {
+    "message": "Teckenstorlek"
+  },
+  "chromesysLanguageSection": {
+    "message": "Spr\u00e5k"
+  },
+  "chromesysShowAdvSettings": {
+    "message": "Visa avancerade inst\u00e4llningar ..."
+  },
+  "chromesysWebStore": {
+    "message": "Chrome Web Store"
+  },
+  "confirmBatchDownload": {
+    "message": "Det f\u00f6refaller som om du avser starta en batch-nedladdning. H\u00e4r f\u00f6ljer n\u00e5gra exempel:"
+  },
+  "confirmBatchDownloadNaming": {
+    "message": "F\u00f6r buntnedladdningar m\u00e5ste namnmasken generera olika filnamn. Vill du forts\u00e4tta \u00e4nd\u00e5?"
+  },
+  "confirmBtnYes": {
+    "message": "Ja"
+  },
+  "confirmBtnYesFile": {
+    "message": "Ta bort filen"
+  },
+  "confirmCantResumeRestart": {
+    "message": "Uppgift $1 kunde inte \u00e5terupptas. Ska uppgiften \u00e5terstartas?"
+  },
+  "confirmClearTask": {
+    "message": "Vill du ta bort $1 objekt?"
+  },
+  "confirmProceed": {
+    "message": "Vill du forts\u00e4tta?"
+  },
+  "confirmRecycleRunning": {
+    "message": "\u00c5tervinn uppgifter som k\u00f6rs?"
+  },
+  "confirmRemoveExtFilter": {
+    "message": "Vill du ta bort markerade objekt?"
+  },
+  "confirmRemoveRule": {
+    "message": "Vill du ta bort markerade objekt?"
+  },
+  "confirmRemoveTask": {
+    "message": "Ta bort de valda uppgifterna permanent?"
+  },
+  "confirmReset": {
+    "message": "Det g\u00e5r inte att \u00e5ngra \u00e5tg\u00e4rden. Vill du forts\u00e4tta?"
+  },
+  "errorFNameConflict": {
+    "message": "Namnkonflikt"
+  },
+  "errorFileNotExist": {
+    "message": "Filen hittades inte"
+  },
+  "errorInvalidNamingMask": {
+    "message": "Ogiltigt namn"
+  },
+  "errorInvalidURLs": {
+    "message": "Ogiltig webbadress"
+  },
+  "errorNoID": {
+    "message": "Det gick inte att l\u00e4gga till den nya uppgiften i Chrono eftersom hanteraren inneh\u00e5ller f\u00f6r m\u00e5nga uppgifter. Rensa bort n\u00e5gra uppgifter som inte anv\u00e4nds och f\u00f6rs\u00f6k igen."
+  },
+  "errorNone": {
+    "message": "Inget fel"
+  },
+  "errorRemovedFromChrome": {
+    "message": "Uppgiften kan ha tagits bort fr\u00e5n Chrome."
+  },
+  "everyXDays": {
+    "message": "Efter $1 dagar"
+  },
+  "everyXHours": {
+    "message": "Efter $1 timmar"
+  },
+  "everyXMinutes": {
+    "message": "Efter $1 minuter"
+  },
+  "extDesc": {
+    "message": "Hantera nedladdningar | Ladda ned videor | Ladda ned (flera) bilder"
+  },
+  "extDescBest": {
+    "message": "B\u00e4sta nedladdningshanteraren f\u00f6r Chrome"
+  },
+  "extDescSlogan": {
+    "message": "Ladda ned och hantera webben!"
+  },
+  "extName": {
+    "message": "Chrono nedladdningshanterare"
+  },
+  "extsAll": {
+    "message": "Alla"
+  },
+  "extsApp": {
+    "message": "Program"
+  },
+  "extsArchive": {
+    "message": "Arkivera"
+  },
+  "extsAudio": {
+    "message": "Ljud"
+  },
+  "extsDocument": {
+    "message": "Dokument"
+  },
+  "extsImage": {
+    "message": "Bild"
+  },
+  "extsNew": {
+    "message": "Nytt Filter"
+  },
+  "extsOthers": {
+    "message": "\u00d6vrigt"
+  },
+  "extsVideo": {
+    "message": "Video"
+  },
+  "fieldAddTime": {
+    "message": "Tidpunkt f\u00f6r skapande"
+  },
+  "fieldAvgSpeed": {
+    "message": "Medelhastighet"
+  },
+  "fieldDownloadedSize": {
+    "message": "Nedladdat"
+  },
+  "fieldElapsedTime": {
+    "message": "F\u00f6rfluten tid"
+  },
+  "fieldFileName": {
+    "message": "Filnamn"
+  },
+  "fieldFileSize": {
+    "message": "Filstorlek"
+  },
+  "fieldFinishTime": {
+    "message": "Avslutningstid"
+  },
+  "fieldFolder": {
+    "message": "Mapp"
+  },
+  "fieldNaming": {
+    "message": "Namngivningsmask"
+  },
+  "fieldProgress": {
+    "message": "F\u00f6rlopp"
+  },
+  "fieldRedirection": {
+    "message": "Omdirigering"
+  },
+  "fieldReferer": {
+    "message": "H\u00e4nvisningsadress"
+  },
+  "fieldRemainingTime": {
+    "message": "\u00c5terst\u00e5ende tid"
+  },
+  "fieldRemarks": {
+    "message": "Anm\u00e4rkningar"
+  },
+  "fieldSpeed": {
+    "message": "Snabbhet"
+  },
+  "fieldState": {
+    "message": "Status"
+  },
+  "fieldThreads": {
+    "message": "Tr\u00e5dar"
+  },
+  "fieldType": {
+    "message": "Filtyp"
+  },
+  "fieldURL": {
+    "message": "Webbadress"
+  },
+  "headExtFilterCaption": {
+    "message": "Visningsnamn"
+  },
+  "headExtFilterExts": {
+    "message": "Filnamnstill\u00e4gg"
+  },
+  "headExtFilterRefName": {
+    "message": "Internt namn"
+  },
+  "headRulesActive": {
+    "message": "Aktiv"
+  },
+  "headRulesAsFilter": {
+    "message": "Som uppgiftsfilter"
+  },
+  "headRulesCaption": {
+    "message": "Visningsnamn"
+  },
+  "headRulesCondition": {
+    "message": "Uttryck"
+  },
+  "headRulesRefName": {
+    "message": "Internt namn"
+  },
+  "helpExtFilter": {
+    "message": "* Dubbelklicka f\u00f6r att redigera.\n* Skriv p\u00e5 en blank rad f\u00f6r att l\u00e4gga till nytt filter.\n* V\u00e4lj rader och tryck 'Delete' f\u00f6r att radera dem."
+  },
+  "helpRules": {
+    "message": "* Dubbelklicka f\u00f6r att redigera.\n* Skriv p\u00e5 en blank rad f\u00f6r att l\u00e4gga till en ny regel.\n* V\u00e4lj rader och tryck 'Delete' f\u00f6r att radera dem.\nOm du har problem med regelsyntaxen, l\u00e4s hj\u00e4lptexten om regler."
+  },
+  "hintSearchDownloads": {
+    "message": "S\u00f6k i nedladdningar"
+  },
+  "labelAutoClear": {
+    "message": "Schemal\u00e4gga"
+  },
+  "labelBGBlur": {
+    "message": "Osk\u00e4rpa"
+  },
+  "labelBGChooseFrom": {
+    "message": "V\u00e4lj bild"
+  },
+  "labelBGConstantColor": {
+    "message": "Solid f\u00e4rg"
+  },
+  "labelBGImageURL": {
+    "message": "Webbadress till anpassad bild"
+  },
+  "labelBGOpacity": {
+    "message": "Opacitet"
+  },
+  "labelCustomFilter": {
+    "message": "Anpassat filter"
+  },
+  "menuDAudio": {
+    "message": "Spara ljud som..."
+  },
+  "menuDAudioOneClick": {
+    "message": "Ladda ned ljudet med ett klick"
+  },
+  "menuDImage": {
+    "message": "Spara bild som..."
+  },
+  "menuDImageOneClick": {
+    "message": "Ladda ned bilden med ett klick"
+  },
+  "menuDLink": {
+    "message": "Spara l\u00e4nk som..."
+  },
+  "menuDLinkOneClick": {
+    "message": "Ladda ned l\u00e4nken med ett klick"
+  },
+  "menuDVideo": {
+    "message": "Spara video som..."
+  },
+  "menuDVideoOneClick": {
+    "message": "Ladda ned videon med ett klick"
+  },
+  "menuGetHelp": {
+    "message": "F\u00e5 hj\u00e4lp"
+  },
+  "menuOpenManager": {
+    "message": "\u00d6ppna hanterare"
+  },
+  "menuReportIssue": {
+    "message": "Rapportera ett problem"
+  },
+  "msgCannotScanResources": {
+    "message": "Det g\u00e5r inte att s\u00f6ka efter resurser p\u00e5 den h\u00e4r sidan."
+  },
+  "msgChromeI18nLanguage": {
+    "message": "Chrono anv\u00e4nder samma spr\u00e5k som din Chrome webl\u00e4sare"
+  },
+  "msgEmptyDownloadsList": {
+    "message": "Tom lista"
+  },
+  "msgPreviewErrorReadFile": {
+    "message": "Fel uppstod n\u00e4r filen l\u00e4stes"
+  },
+  "msgPreviewFailed": {
+    "message": "Det gick inte att l\u00e4sa in f\u00f6rhandsgranskningen av filen"
+  },
+  "msgPreviewFileAccess": {
+    "message": "Kan inte ladda lokal fil f\u00f6r f\u00f6rhandsvisning, du kan aktivera den h\u00e4r funktionen genom att markera kryssrutan $1 under $2 p\u00e5 chrome://extensions-sidan."
+  },
+  "msgPreviewLargeFile": {
+    "message": "Det kan ta ett tag att ladda f\u00f6rhandsvisningen."
+  },
+  "msgPreviewPdfViewer": {
+    "message": "Chrome PDF Viewer kr\u00e4vs f\u00f6r f\u00f6rhandsvisningen, v\u00e4nligen s\u00e4tt p\u00e5 den genom att f\u00f6lja anvisningarna"
+  },
+  "msgRateShare": {
+    "message": "Om du hade nytta av $1 kan du ge ett betyg i $2 och dela det med dina v\u00e4nner!"
+  },
+  "msgSearchNoResults": {
+    "message": "Inga resultat hittades"
+  },
+  "msgSelectTaskInfo": {
+    "message": "Inget objekt \u00e4r markerat."
+  },
+  "msgTaskAddPaused": {
+    "message": "Uppgiften lades till och pausades"
+  },
+  "msgTaskFinish": {
+    "message": "H\u00e4mtningen \u00e4r slutf\u00f6rd"
+  },
+  "msgTaskInterrupt": {
+    "message": "H\u00e4mtades inte"
+  },
+  "msgTaskStart": {
+    "message": "Uppgiften lades till i k\u00f6n"
+  },
+  "msgTextUpdateAvail": {
+    "message": "Starta om till\u00e4gget f\u00f6r att slutf\u00f6ra uppdateringen."
+  },
+  "msgTextWelcome": {
+    "message": "Innan du b\u00f6rjar b\u00f6r du st\u00e4nga av dialogrutan Spara som i Chrome. Det g\u00f6r du genom att avmarkera kryssrutan under $1.\nDu kan \u00e4ven till\u00e5ta Chrono att komma \u00e5t filadresser. Det g\u00f6r allt \u00e4nnu smidigare. Du aktiverar detta med kryssrutan $2 under $3.\nL\u00e4s hj\u00e4lpsidan och sidan med svar p\u00e5 vanliga fr\u00e5gor om du har n\u00e5gra fr\u00e5gor. Du kan \u00e4ven skicka e-post till dev@chronodownloader.net.\nMycket n\u00f6je!"
+  },
+  "msgTitleUpdateAvail": {
+    "message": "Ny version finns"
+  },
+  "msgTitleWelcome": {
+    "message": "V\u00e4lkommen!"
+  },
+  "msgUpdated": {
+    "message": "$1 har uppdaterats."
+  },
+  "optItemBadgeDownloadNum": {
+    "message": "Visa antal nedladdningsuppgifter ovanf\u00f6r verktygsf\u00e4ltets ikon"
+  },
+  "optItemClearRemoveFile": {
+    "message": "Radera fr\u00e5n disk"
+  },
+  "optItemClearSearch": {
+    "message": "T\u00f6m s\u00f6krutan n\u00e4r ett filter \u00e4ndras"
+  },
+  "optItemClickNotify": {
+    "message": "Klicka p\u00e5 en notifiering"
+  },
+  "optItemConcurrentDownloads": {
+    "message": "Samtidiga nedladdningar"
+  },
+  "optItemDblClickAction": {
+    "message": "Dubbelklicka p\u00e5 uppgift"
+  },
+  "optItemDefAddPaused": {
+    "message": "L\u00e4gg till pausad"
+  },
+  "optItemDefFolder": {
+    "message": "Standardplats:"
+  },
+  "optItemDefNaming": {
+    "message": "Standardnamnmask"
+  },
+  "optItemDownloadClipboard": {
+    "message": "Ladda ner URL fr\u00e5n klippboken"
+  },
+  "optItemDownloadsPerServer": {
+    "message": "Antal nedladdningar per server"
+  },
+  "optItemHideShelf": {
+    "message": "D\u00f6lj Chromes nedladdningsflik"
+  },
+  "optItemMenuDialog": {
+    "message": "Spara l\u00e4nk som..."
+  },
+  "optItemMenuOneClick": {
+    "message": "Ladda ned l\u00e4nken/bilden med ett klick"
+  },
+  "optItemNameConflict": {
+    "message": "Vid filnamnskonflikt"
+  },
+  "optItemNotifyError": {
+    "message": "Visa notifiering n\u00e4r fel uppst\u00e5r"
+  },
+  "optItemNotifyFinish": {
+    "message": "Visa notifiering n\u00e4r nedladdning slutf\u00f6rts"
+  },
+  "optItemNotifyLargePreview": {
+    "message": "Stor f\u00f6rhandsgranskning av bilder"
+  },
+  "optItemNotifyOneClick": {
+    "message": "Visa notifiering n\u00e4r enkelklicksnedladdning l\u00e4ggs till"
+  },
+  "optItemNotifyProgress": {
+    "message": "Visa framsteg f\u00f6r nedladdningar"
+  },
+  "optItemOverrideChrome": {
+    "message": "Ers\u00e4tt Chromes vanliga nedladdningssida och aktivera snabbknappen $1"
+  },
+  "optItemPopClearClose": {
+    "message": "St\u00e4ng popup-rutan efter att uppgifter rensats"
+  },
+  "optItemPopDeleteAction": {
+    "message": "Klicka p\u00e5 'Delete'-knappen"
+  },
+  "optItemPopLikeButtons": {
+    "message": "Visa knappar f\u00f6r sociala medier"
+  },
+  "optItemPopMaxItems": {
+    "message": "Max objekt i nedlddningslista"
+  },
+  "optItemPopShowDLFirst": {
+    "message": "Visa p\u00e5g\u00e5ende nedladdningar \u00f6verst"
+  },
+  "optItemPreviewAutoplay": {
+    "message": "Automatisk uppspelning"
+  },
+  "optItemRecycleCancel": {
+    "message": "Avbryt uppgift n\u00e4r den l\u00e4ggs i papperskorgen"
+  },
+  "optItemRuleMatchMode": {
+    "message": "Matchningsl\u00e4ge"
+  },
+  "optItemSlideDetailsPanel": {
+    "message": "Visa detaljpanelen n\u00e4r du klickar p\u00e5 en uppgift"
+  },
+  "optItemSoundError": {
+    "message": "Spela upp ett ljud n\u00e4r ett fel uppst\u00e5r"
+  },
+  "optItemSoundFinish": {
+    "message": "Spela upp ett ljud n\u00e4r en nedladdning \u00e4r klar"
+  },
+  "optItemStartInterrupted": {
+    "message": "Startknappen startar \u00e4ven avbrutna uppgifter"
+  },
+  "optOptionClearAllNotify": {
+    "message": "Rensa alla notifieringar"
+  },
+  "optOptionClearNotify": {
+    "message": "Rensa notifiering"
+  },
+  "optOptionDoNothing": {
+    "message": "G\u00f6r ingenting"
+  },
+  "optOptionFirstMatch": {
+    "message": "F\u00f6rsta match"
+  },
+  "optOptionOpenFile": {
+    "message": "\u00d6ppna fil"
+  },
+  "optOptionOpenFolder": {
+    "message": "\u00d6ppna mappen"
+  },
+  "optOptionOverwrite": {
+    "message": "Skriv \u00f6ver"
+  },
+  "optOptionPrompt": {
+    "message": "Fr\u00e5ga"
+  },
+  "optOptionRemAsk": {
+    "message": "Fr\u00e5ga"
+  },
+  "optOptionRemFile": {
+    "message": "Ta bort fr\u00e5n disk utan att bekr\u00e4fta"
+  },
+  "optOptionRemList": {
+    "message": "Ta bort fr\u00e5n listan"
+  },
+  "optOptionReplace": {
+    "message": "Ers\u00e4tt"
+  },
+  "optOptionSkipCancel": {
+    "message": "Avbryt nedladdning"
+  },
+  "optOptionSkipPause": {
+    "message": "Pausa nedladdning"
+  },
+  "optOptionStartPause": {
+    "message": "Starta eller pausa"
+  },
+  "optOptionUniquify": {
+    "message": "G\u00f6r unik"
+  },
+  "optSectionBehaviors": {
+    "message": "Beteende"
+  },
+  "optSectionMenu": {
+    "message": "Meny"
+  },
+  "optSectionMisc": {
+    "message": "Diverse"
+  },
+  "optSectionNetwork": {
+    "message": "N\u00e4tverk"
+  },
+  "optSectionNotifications": {
+    "message": "Aviseringar"
+  },
+  "optSectionOneClick": {
+    "message": "Enklicknedladdning"
+  },
+  "optSectionPopup": {
+    "message": "popup-f\u00f6nster"
+  },
+  "optSectionPreview": {
+    "message": "F\u00f6rhandsgranska"
+  },
+  "optSectionTaskDefaults": {
+    "message": "Standardinst\u00e4llningar f\u00f6r ny uppgift"
+  },
+  "optionAddTop": {
+    "message": "L\u00e4gg till i b\u00f6rjan av k\u00f6n"
+  },
+  "optionDisableExtFilters": {
+    "message": "Filtrera inte p\u00e5 filtyp"
+  },
+  "optionDontAsk": {
+    "message": "Kom ih\u00e5g mitt val"
+  },
+  "optionSearchCaseSensitive": {
+    "message": "Skiftl\u00e4gesk\u00e4nslig"
+  },
+  "optionSearchFuzzyMatch": {
+    "message": "Fuzzy-tr\u00e4ff"
+  },
+  "optionShowSize": {
+    "message": "Visa filstorlek"
+  },
+  "optionTableAutoResize": {
+    "message": "Anpassa kolumner till sk\u00e4rmens bredd"
+  },
+  "optionTableSyncResize": {
+    "message": "Dynamisk breddanpassning"
+  },
+  "phraseAutomatic": {
+    "message": "Automatisk"
+  },
+  "phraseEnable": {
+    "message": "Aktivera"
+  },
+  "phraseMultiValues": {
+    "message": "Multiv\u00e4rde"
+  },
+  "phraseNever": {
+    "message": "Aldrig"
+  },
+  "phrasePreview": {
+    "message": "F\u00f6rhandsgranskning"
+  },
+  "phraseRegex": {
+    "message": "Regulj\u00e4rt uttryck"
+  },
+  "phraseToday": {
+    "message": "Idag"
+  },
+  "phraseUnknown": {
+    "message": "Ok\u00e4nt"
+  },
+  "phraseUnknownSize": {
+    "message": "Ok\u00e4nd storlek"
+  },
+  "phraseVersion": {
+    "message": "Version"
+  },
+  "phraseYesterday": {
+    "message": "Ig\u00e5r"
+  },
+  "ruleAllTasks": {
+    "message": "Alla uppgifter"
+  },
+  "ruleAudio": {
+    "message": "Ljud"
+  },
+  "ruleDocument": {
+    "message": "Dokument"
+  },
+  "ruleDownloading": {
+    "message": "H\u00e4mtas"
+  },
+  "ruleFinished": {
+    "message": "Slutf\u00f6rda"
+  },
+  "ruleImage": {
+    "message": "Bild"
+  },
+  "ruleInterrupted": {
+    "message": "Misslyckades"
+  },
+  "ruleNew": {
+    "message": "Ny regel"
+  },
+  "ruleOther": {
+    "message": "\u00d6vrigt"
+  },
+  "ruleRecent": {
+    "message": "Senaste"
+  },
+  "ruleRecycled": {
+    "message": "Papperskorg"
+  },
+  "ruleSmallFiles": {
+    "message": "Sm\u00e5 filer"
+  },
+  "ruleVideo": {
+    "message": "Video"
+  },
+  "stateDownloading": {
+    "message": "Laddar ned"
+  },
+  "stateError": {
+    "message": "Misslyckades"
+  },
+  "stateFileMiss": {
+    "message": "Fil saknas"
+  },
+  "stateFinished": {
+    "message": "Slutf\u00f6rda"
+  },
+  "statePaused": {
+    "message": "Pausad"
+  },
+  "stateQueue": {
+    "message": "V\u00e4ntar"
+  },
+  "statusCopyURL": {
+    "message": "Kopierar URL..."
+  },
+  "statusCopyURLDone": {
+    "message": "Webbadressen kopierades till Urklipp"
+  },
+  "statusDownloadedSize": {
+    "message": "$1 av $2"
+  },
+  "statusImportDone": {
+    "message": "Importen har slutf\u00f6rts"
+  },
+  "statusImporting": {
+    "message": "Importerar..."
+  },
+  "statusNumDownloading": {
+    "message": "$1 laddar ned"
+  },
+  "statusNumItems": {
+    "message": "$1 objekt"
+  },
+  "statusReadClipboard": {
+    "message": "L\u00e4ser klippboken..."
+  },
+  "statusScheduledAutoClear": {
+    "message": "Uppgifterna rensas automatiskt om $1 sekunder"
+  },
+  "statusSelectedOf": {
+    "message": "$1 objekt har valts"
+  },
+  "statusTasksCleared": {
+    "message": "$1 objekt har tagits bort"
+  },
+  "statusTimeLeft": {
+    "message": "$1 \u00e5terst\u00e5r"
+  },
+  "tipAutoClear": {
+    "message": "Rensa uppgifter automatiskt fr\u00e5n listan, men beh\u00e5ll filerna p\u00e5 disken"
+  },
+  "tipBGBlur": {
+    "message": "Osk\u00e4rpeeffekten kan g\u00f6ra det grafiska gr\u00e4nssnittet l\u00e5ngsammare"
+  },
+  "tipBGEnable": {
+    "message": "P\u00e5 grund av ett visst problem i Chrome \u00f6kar minnesanv\u00e4ndningen rej\u00e4lt om bakgrunden aktiveras. T\u00e4nk p\u00e5 detta innan du aktiverar denna funktion."
+  },
+  "tipBGURLHasFileAccess": {
+    "message": "Angen en vanlig webb-URL eller fullst\u00e4ndig s\u00f6kv\u00e4g till en bild p\u00e5 din lokala dator med prefixet 'file:///' f\u00f6re fils\u00f6kv\u00e4gen."
+  },
+  "tipBGURLNoFileAccess": {
+    "message": "Ange en webbadress eller hela s\u00f6kv\u00e4gen till en bild p\u00e5 datorn (f\u00f6r lokala filer m\u00e5ste du f\u00f6rst aktivera fil\u00e5tkomst f\u00f6r Chrono; klicka p\u00e5 fr\u00e5getecknet om du vill veta hur du ska g\u00f6ra)"
+  },
+  "tipBrowserAction": {
+    "message": "Ladda ned alla resurser p\u00e5 den h\u00e4r sidan"
+  },
+  "tipBtnBackToManager": {
+    "message": "Tillbaka till hanterare"
+  },
+  "tipBtnChangeDefaultLocation": {
+    "message": "\u00c4ndra m\u00e5lmapp ..."
+  },
+  "tipBtnClear": {
+    "message": "Rensa uppgifter"
+  },
+  "tipBtnConfigExtFilters": {
+    "message": "Redigera filter"
+  },
+  "tipBtnCopyLink": {
+    "message": "Kopiera l\u00e4nk"
+  },
+  "tipBtnDelete": {
+    "message": "Ta bort"
+  },
+  "tipBtnHelp": {
+    "message": "Hj\u00e4lp"
+  },
+  "tipBtnNewTask": {
+    "message": "Ny uppgift"
+  },
+  "tipBtnOpenDefaultLocation": {
+    "message": "\u00d6ppna mappen f\u00f6r nedladdningar"
+  },
+  "tipBtnOpenFile": {
+    "message": "\u00d6ppna fil"
+  },
+  "tipBtnOpenFolder": {
+    "message": "\u00d6ppna mappen"
+  },
+  "tipBtnOptions": {
+    "message": "Alternativ"
+  },
+  "tipBtnPause": {
+    "message": "Pausa"
+  },
+  "tipBtnPauseAll": {
+    "message": "Pausa alla"
+  },
+  "tipBtnPopList": {
+    "message": "Byt till lista"
+  },
+  "tipBtnPopSniffer": {
+    "message": "V\u00e4xla till Sniffer"
+  },
+  "tipBtnRecycle": {
+    "message": "Flytta till papperskorgen"
+  },
+  "tipBtnRestart": {
+    "message": "Starta om"
+  },
+  "tipBtnRestore": {
+    "message": "\u00c5terst\u00e4ll"
+  },
+  "tipBtnSort": {
+    "message": "Sortera"
+  },
+  "tipBtnStart": {
+    "message": "Starta"
+  },
+  "tipBtnStartAll": {
+    "message": "Starta alla"
+  },
+  "tipExtFilterEnable": {
+    "message": "Aktivera ett filtypsfilter i Chrono Sniffer"
+  },
+  "tipExtFilterRefName": {
+    "message": "Internt namn f\u00f6r att referera till filtret i andra uttryck"
+  },
+  "tipNaming": {
+    "message": "Se hj\u00e4lpsidan om hur namnmasker anv\u00e4nds."
+  },
+  "tipOptItemRuleMatchMode": {
+    "message": "V.v. notera att endast aktiva regler appliceras. I ers\u00e4ttningsl\u00e4ge appliceras alla matchande regler men t\u00e4nk p\u00e5 att reglerna appliceras i ordning varf\u00f6r senare regler kan omintetg\u00f6ra \u00e4ndringar som regler h\u00f6gre upp i listan gjort."
+  },
+  "tipOptItemSlideDetailsPanel": {
+    "message": "Du kan \u00e4ven alt-klicka p\u00e5 uppgiften och \u00f6ppna detaljpanelen"
+  },
+  "tipOptNoRuleMatch": {
+    "message": "Appliceras n\u00e4r ingen regel matchar"
+  },
+  "tipOptSectionOneClick": {
+    "message": "Aktivera f\u00f6r att starta nedladdningar med standarduppgiftsinst\u00e4llningarna (se ovan) omedelbart n\u00e4r du klickar p\u00e5 en l\u00e4nk, utan dialogruta f\u00f6r att st\u00e4lla in namnmask osv."
+  },
+  "tipOptSectionTaskDefaults": {
+    "message": "Standardinst\u00e4llningar som appliceras n\u00e4r nya uppgifter l\u00e4ggs till, t.ex. vid enkelklicksnedladdning"
+  },
+  "tipRulesActive": {
+    "message": "Endast aktiva regler anv\u00e4nds vid matchning"
+  },
+  "tipRulesAsFilter": {
+    "message": "Visa som uppgiftsfilter i Download Manager"
+  },
+  "tipRulesRefName": {
+    "message": "Internt namn f\u00f6r att referera till regeln i andra uttryck"
+  },
+  "tipURL": {
+    "message": "Du kan ange multipla URL:er \u00e5tskilda med en ny rad; Du kan starta batch-nedladdningar med hj\u00e4lp av batch-beskrivningar."
+  },
+  "tipmsgCopySelectedURLs": {
+    "message": "Du kan kopiera de valda uppgifternas webbadresser genom att trycka p\u00e5 $1"
+  },
+  "tipmsgDoubleClick": {
+    "message": "Du kan \u00e4ndra vad som h\u00e4nder vid dubbelklick under $1"
+  },
+  "tipmsgFitColumnWidth": {
+    "message": "Kolumnbredden anpassas automatiskt om du dubbelklickar p\u00e5 kolumnens storleks\u00e4ndringsreglage"
+  },
+  "tipmsgGridSelection": {
+    "message": "Markera flera rader med Ctrl/Skift eller markera alla med $1"
+  },
+  "tipmsgNotifications": {
+    "message": "Du kan \u00e4ndra aviserings-/(judinst\u00e4llningar under $1"
+  },
+  "tipmsgOpenShortcut": {
+    "message": "Det enklaste s\u00e4ttet att \u00f6ppna $1 \u00e4r att trycka $2"
+  },
+  "tipmsgSlideDetailsPanel": {
+    "message": "Detaljpanelen som glider in i bild kan st\u00e4ngas av under $1"
+  },
+  "tipmsgTaskFilter": {
+    "message": "Ordna om uppgiftsfilter genom att dra dem; du kan \u00e4ven l\u00e4gga till anpassade uppgiftsfilter under $1"
+  },
+  "titleChangeBG": {
+    "message": "Byt bakgrundsbild"
+  },
+  "titleNewTaskDialog": {
+    "message": "Ny uppgift"
+  },
+  "titleOptions": {
+    "message": "Alternativ"
+  },
+  "titleOptionsAbout": {
+    "message": "Om"
+  },
+  "titleOptionsFilter": {
+    "message": "Filter"
+  },
+  "titleOptionsGeneral": {
+    "message": "Allm\u00e4nt"
+  },
+  "titleOptionsHelp": {
+    "message": "Hj\u00e4lp"
+  },
+  "titleOptionsInterface": {
+    "message": "Anv\u00e4ndargr\u00e4nssnitt"
+  },
+  "titleOptionsRules": {
+    "message": "Regler"
+  },
+  "titleQuickSelection": {
+    "message": "Snabbval"
+  },
+  "titleRateShare": {
+    "message": "Betygs\u00e4tt och dela!"
+  },
+  "titleSniffer": {
+    "message": "Sniffer"
+  },
+  "titleSwitchUI": {
+    "message": "Visningsl\u00e4ge"
+  },
+  "titleTaskProps": {
+    "message": "Egenskaper"
+  },
+  "titleTips": {
+    "message": "Tips!"
+  },
+  "titleUpdateLog": {
+    "message": "\u00c4ndringslogg"
+  },
+  "translateContributors": {
+    "message": "mats, Roger Sj\u00f6lander, andnym, magnus, Fredrik Ekstr\u00f6m, therese, david.oksala etc."
+  },
+  "uilang": {
+    "message": "sv"
+  },
+  "uilangName": {
+    "message": "Swedish"
+  },
+  "unitBytes": {
+    "message": "$1 byte"
+  },
+  "unitDay": {
+    "message": "$1 dag"
+  },
+  "unitDays": {
+    "message": "$1 dagar"
+  },
+  "unitHour": {
+    "message": "$1 tim"
+  },
+  "unitHours": {
+    "message": "$1 tim"
+  },
+  "unitMinute": {
+    "message": "$1 min"
+  },
+  "unitMinutes": {
+    "message": "$1 min"
+  },
+  "unitSecond": {
+    "message": "$1 sek"
+  },
+  "unitSeconds": {
+    "message": "$1 sek"
+  }
+}

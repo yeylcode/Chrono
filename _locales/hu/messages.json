@@ -1,0 +1,1028 @@
+{
+  "btnAbout": {
+    "message": "N\u00e9vjegy"
+  },
+  "btnAddPaused": {
+    "message": "Sz\u00fcnetelve Hozz\u00e1ad\u00e1s"
+  },
+  "btnApply": {
+    "message": "Alkalmaz"
+  },
+  "btnBackToManager": {
+    "message": "Vissza"
+  },
+  "btnCancel": {
+    "message": "M\u00e9gse"
+  },
+  "btnClearAll": {
+    "message": "\u00d6sszes t\u00f6rl\u00e9se"
+  },
+  "btnClearFailed": {
+    "message": "Megszak\u00edtott feladatok t\u00f6rl\u00e9se"
+  },
+  "btnClearFinished": {
+    "message": "Befejezett feladatok t\u00f6rl\u00e9se"
+  },
+  "btnClearRemoved": {
+    "message": "Hi\u00e1nyz\u00f3 f\u00e1jlok t\u00f6rl\u00e9se"
+  },
+  "btnFAQ": {
+    "message": "GYIK"
+  },
+  "btnGotIt": {
+    "message": "Siker\u00fclt!"
+  },
+  "btnImportChromeHistory": {
+    "message": "El\u0151zm\u00e9nyek import\u00e1l\u00e1sa"
+  },
+  "btnLater": {
+    "message": "K\u00e9s\u0151bb"
+  },
+  "btnLoadPreview": {
+    "message": "El\u0151n\u00e9zet bet\u00f6lt\u00e9se"
+  },
+  "btnOpenManager": {
+    "message": "Let\u00f6lt\u00e9skezel\u0151 megnyit\u00e1sa"
+  },
+  "btnPopRemoveFile": {
+    "message": "\u00c9s a f\u00e1jl t\u00f6rl\u00e9se"
+  },
+  "btnPopRemoveList": {
+    "message": "Elt\u00e1vol\u00edt\u00e1s a list\u00e1r\u00f3l"
+  },
+  "btnRate": {
+    "message": "\u00c9rt\u00e9kel\u00e9s"
+  },
+  "btnShareDone": {
+    "message": "M\u00e1r megtettem"
+  },
+  "btnStart": {
+    "message": "Ind\u00edt\u00e1s"
+  },
+  "btnStartAll": {
+    "message": "Az \u00f6sszes let\u00f6lt\u00e9se"
+  },
+  "btnTakeMeThere": {
+    "message": "Megn\u00e9zem"
+  },
+  "btnUpdateReload": {
+    "message": "Bet\u00f6lt\u00e9s most"
+  },
+  "chromesysAllowFileAccess": {
+    "message": "F\u00e1jl URL-ekhez val\u00f3 hozz\u00e1f\u00e9r\u00e9s enged\u00e9lyez\u00e9se"
+  },
+  "chromesysChange": {
+    "message": "M\u00f3dos\u00edt\u00e1s..."
+  },
+  "chromesysDownloadLocation": {
+    "message": "Let\u00f6lt\u00e9s helye"
+  },
+  "chromesysDownloadSaveAsPrompt": {
+    "message": "A let\u00f6lt\u00e9s el\u0151tt k\u00e9rdezze meg, hov\u00e1 mentse az adott f\u00e1jlokat"
+  },
+  "chromesysDownloadsSection": {
+    "message": "Let\u00f6lt\u00e9sek"
+  },
+  "chromesysFailedGenericDownloadError": {
+    "message": "Let\u00f6lt\u00e9si hiba"
+  },
+  "chromesysFailedGenericNetworkError": {
+    "message": "H\u00e1l\u00f3zati hiba"
+  },
+  "chromesysFailed_CRASH": {
+    "message": "\u00d6sszeoml\u00e1s"
+  },
+  "chromesysFailed_FILE_ACCESS_DENIED": {
+    "message": "El\u00e9gtelen enged\u00e9lyek"
+  },
+  "chromesysFailed_FILE_BLOCKED": {
+    "message": "Letiltva"
+  },
+  "chromesysFailed_FILE_NAME_TOO_LONG": {
+    "message": "Az el\u00e9r\u00e9si \u00fat t\u00fal hossz\u00fa"
+  },
+  "chromesysFailed_FILE_NO_SPACE": {
+    "message": "A lemez megtelt"
+  },
+  "chromesysFailed_FILE_SAME_AS_SOURCE": {
+    "message": "M\u00e1r le lett t\u00f6ltve"
+  },
+  "chromesysFailed_FILE_SECURITY_CHECK_FAILED": {
+    "message": "A v\u00edruskeres\u00e9s nem siker\u00fclt"
+  },
+  "chromesysFailed_FILE_TOO_LARGE": {
+    "message": "T\u00fal nagym\u00e9ret\u0171 a f\u00e1jl"
+  },
+  "chromesysFailed_FILE_TOO_SHORT": {
+    "message": "A f\u00e1jl csonkult"
+  },
+  "chromesysFailed_FILE_TRANSIENT_ERROR": {
+    "message": "A rendszer foglalt"
+  },
+  "chromesysFailed_FILE_VIRUS_INFECTED": {
+    "message": "Rendszer\u00fcnk v\u00edrust tal\u00e1lt"
+  },
+  "chromesysFailed_NETWORK_TIMEOUT": {
+    "message": "H\u00e1l\u00f3zati id\u0151t\u00fall\u00e9p\u00e9s"
+  },
+  "chromesysFailed_SERVER_BAD_CONTENT": {
+    "message": "Nincs f\u00e1jl"
+  },
+  "chromesysFailed_SERVER_CERT_PROBLEM": {
+    "message": "Helytelen tan\u00fas\u00edtv\u00e1ny"
+  },
+  "chromesysFailed_SERVER_CONTENT_LENGTH_MISMATCH": {
+    "message": "A f\u00e1jl hi\u00e1nyos"
+  },
+  "chromesysFailed_SERVER_FAILED": {
+    "message": "Szerverhiba"
+  },
+  "chromesysFailed_SERVER_FORBIDDEN": {
+    "message": "Tiltott"
+  },
+  "chromesysFailed_SERVER_UNAUTHORIZED": {
+    "message": "Enged\u00e9lyt ig\u00e9nyel"
+  },
+  "chromesysFailed_SERVER_UNREACHABLE": {
+    "message": "A szerver nem \u00e1ll rendelkez\u00e9sre"
+  },
+  "chromesysFailed_USER_CANCELED": {
+    "message": "Megszak\u00edtva"
+  },
+  "chromesysFailed_USER_SHUTDOWN": {
+    "message": "Kikapcsol\u00e1s"
+  },
+  "chromesysFontSize": {
+    "message": "Bet\u0171m\u00e9ret"
+  },
+  "chromesysLanguageSection": {
+    "message": "Nyelv"
+  },
+  "chromesysShowAdvSettings": {
+    "message": "Speci\u00e1lis be\u00e1ll\u00edt\u00e1sok megjelen\u00edt\u00e9se..."
+  },
+  "chromesysWebStore": {
+    "message": "Chrome web\u00e1ruh\u00e1z"
+  },
+  "confirmBatchDownload": {
+    "message": "\u00dagy t\u0171nik k\u00f6tegelt let\u00f6lt\u00e9st szeretne ind\u00edtani, itt van r\u00e1 n\u00e9h\u00e1ny p\u00e9lda:"
+  },
+  "confirmBatchDownloadNaming": {
+    "message": "A k\u00f6tegelt let\u00f6lt\u00e9s \u00e9rdek\u00e9ben gy\u0151z\u0151dj\u00f6n meg r\u00f3la, hogy az elnevez\u00e9si minta k\u00fcl\u00f6nb\u00f6z\u0151 f\u00e1jlneveket gener\u00e1l. Mindenk\u00e9pp folytatja?"
+  },
+  "confirmBtnYes": {
+    "message": "Igen"
+  },
+  "confirmBtnYesFile": {
+    "message": "F\u00e1jl t\u00f6rl\u00e9se"
+  },
+  "confirmCantResumeRestart": {
+    "message": "A $1 feladat sikertelen volt, \u00fajraind\u00edtja?"
+  },
+  "confirmClearTask": {
+    "message": "Biztosan szeretne elt\u00e1vol\u00edtani $1 elemet?"
+  },
+  "confirmProceed": {
+    "message": "Folytatja?"
+  },
+  "confirmRecycleRunning": {
+    "message": "\u00c1thelyezi a folyamatban l\u00e9v\u0151 feladatokat a szem\u00e9tbe?"
+  },
+  "confirmRemoveExtFilter": {
+    "message": "Elt\u00e1vol\u00edtja a kijel\u00f6lt elemeket?"
+  },
+  "confirmRemoveRule": {
+    "message": "Elt\u00e1vol\u00edtja a kijel\u00f6lt elemeket?"
+  },
+  "confirmRemoveTask": {
+    "message": "V\u00e9glegesen t\u00f6rli a kijel\u00f6lt feladato(ka)t?"
+  },
+  "confirmReset": {
+    "message": "A m\u0171veletet nem lehet visszavonni. Folytatja?"
+  },
+  "errorFNameConflict": {
+    "message": "N\u00e9vad\u00e1si \u00fctk\u00f6z\u00e9s"
+  },
+  "errorFileNotExist": {
+    "message": "A f\u00e1jl nem tal\u00e1lhat\u00f3"
+  },
+  "errorInvalidNamingMask": {
+    "message": "\u00c9rv\u00e9nytelen n\u00e9v"
+  },
+  "errorInvalidURLs": {
+    "message": "\u00c9rv\u00e9nytelen URL"
+  },
+  "errorNoID": {
+    "message": "Nem siker\u00fclt hozz\u00e1adni az \u00faj feladatokat a Chronohoz mert t\u00fal sok a feladat a menedzserben, t\u00f6r\u00f6lj\u00f6n  n\u00e9h\u00e1ny nem haszn\u00e1lt feladatot, \u00e9s pr\u00f3b\u00e1lja \u00fajra. "
+  },
+  "errorNone": {
+    "message": "Nincs hiba"
+  },
+  "errorRemovedFromChrome": {
+    "message": "A feladatot m\u00e1r t\u00f6r\u00f6lte a Chrome-b\u00f3l."
+  },
+  "everyXDays": {
+    "message": "Minden $1. napon"
+  },
+  "everyXHours": {
+    "message": "$1 \u00f3r\u00e1nk\u00e9nt"
+  },
+  "everyXMinutes": {
+    "message": "$1 percenk\u00e9nt"
+  },
+  "extDesc": {
+    "message": "Let\u00f6lt\u00e9s Kezel\u0151 | Vide\u00f3 Let\u00f6lt\u0151 | K\u00f6tegelt K\u00e9p Let\u00f6lt\u0151"
+  },
+  "extDescBest": {
+    "message": "A legjobb let\u00f6lt\u00e9skezel\u0151 a Chrome-hoz"
+  },
+  "extDescSlogan": {
+    "message": "T\u00f6ltse le \u00e9s kezelje a tartalmakat!"
+  },
+  "extName": {
+    "message": "Chrono let\u00f6lt\u00e9skezel\u0151"
+  },
+  "extsAll": {
+    "message": "\u00d6sszes"
+  },
+  "extsApp": {
+    "message": "Alkalmaz\u00e1s"
+  },
+  "extsArchive": {
+    "message": "Arch\u00edv"
+  },
+  "extsAudio": {
+    "message": "Hang"
+  },
+  "extsDocument": {
+    "message": "Dokumentum"
+  },
+  "extsImage": {
+    "message": "K\u00e9p"
+  },
+  "extsNew": {
+    "message": "\u00daj sz\u0171r\u0151"
+  },
+  "extsOthers": {
+    "message": "Egy\u00e9b"
+  },
+  "extsVideo": {
+    "message": "Vide\u00f3"
+  },
+  "fieldAddTime": {
+    "message": "Hozz\u00e1ad\u00e1s id\u0151pontja"
+  },
+  "fieldAvgSpeed": {
+    "message": "\u00c1tlagsebess\u00e9g"
+  },
+  "fieldDownloadedSize": {
+    "message": "Let\u00f6ltve"
+  },
+  "fieldElapsedTime": {
+    "message": "Eltelt id\u0151"
+  },
+  "fieldFileName": {
+    "message": "F\u00e1jln\u00e9v"
+  },
+  "fieldFileSize": {
+    "message": "F\u00e1jlm\u00e9ret"
+  },
+  "fieldFinishTime": {
+    "message": "Befejez\u00e9si id\u0151"
+  },
+  "fieldFolder": {
+    "message": "Mappa"
+  },
+  "fieldNaming": {
+    "message": "Elnevez\u00e9si minta"
+  },
+  "fieldProgress": {
+    "message": "Folyamat"
+  },
+  "fieldRedirection": {
+    "message": "\u00c1tir\u00e1ny\u00edt\u00e1s"
+  },
+  "fieldReferer": {
+    "message": "Forr\u00e1s"
+  },
+  "fieldRemainingTime": {
+    "message": "H\u00e1tral\u00e9v\u0151 id\u0151"
+  },
+  "fieldRemarks": {
+    "message": "Megjegyz\u00e9sek"
+  },
+  "fieldSpeed": {
+    "message": "Sebess\u00e9g"
+  },
+  "fieldState": {
+    "message": "\u00c1llapot"
+  },
+  "fieldThreads": {
+    "message": "Sz\u00e1lak"
+  },
+  "fieldType": {
+    "message": "F\u00e1jlt\u00edpus"
+  },
+  "fieldURL": {
+    "message": "URL"
+  },
+  "headExtFilterCaption": {
+    "message": "Megjelen\u00edtend\u0151 n\u00e9v"
+  },
+  "headExtFilterExts": {
+    "message": "F\u00e1jlkiterjeszt\u00e9s"
+  },
+  "headExtFilterRefName": {
+    "message": "Bels\u0151 n\u00e9v"
+  },
+  "headRulesActive": {
+    "message": "Akt\u00edv"
+  },
+  "headRulesAsFilter": {
+    "message": "Mint feladatsz\u0171r\u0151"
+  },
+  "headRulesCaption": {
+    "message": "Megjelen\u00edtend\u0151 n\u00e9v"
+  },
+  "headRulesCondition": {
+    "message": "Felt\u00e9tel"
+  },
+  "headRulesRefName": {
+    "message": "Bels\u0151 n\u00e9v"
+  },
+  "helpExtFilter": {
+    "message": "* Dupla kattint\u00e1ssal szerkeszthet\u0151.\n* \u00cdrjon \u00fcres sorba \u00faj sz\u0171r\u0151 hozz\u00e1ad\u00e1s\u00e1hoz.\n* V\u00e1lasszon ki sorokat \u00e9s nyomjon Delete-t a t\u00f6rl\u00e9s\u00fckh\u00f6z."
+  },
+  "helpRules": {
+    "message": "* Kattintson dupl\u00e1n a szerkeszt\u00e9shez.  \n* \u00cdrjon \u00fcres sorba \u00faj sz\u0171r\u0151 hozz\u00e1ad\u00e1s\u00e1hoz. \n* V\u00e1lasszon ki sorokat \u00e9s nyomjon Delete-t a t\u00f6rl\u00e9s\u00fckh\u00f6z.\n* Ha probl\u00e9m\u00e1ja ad\u00f3dik szab\u00e1ly\u00edr\u00e1s k\u00f6zben, k\u00e9rj\u00fck n\u00e9zze meg a S\u00fag\u00f3t!"
+  },
+  "hintSearchDownloads": {
+    "message": "Let\u00f6lt\u00e9sek keres\u00e9se"
+  },
+  "labelAutoClear": {
+    "message": "\u00dctemez\u00e9s"
+  },
+  "labelBGBlur": {
+    "message": "Hom\u00e1lyos\u00edt\u00e1s"
+  },
+  "labelBGChooseFrom": {
+    "message": "K\u00e9p kiv\u00e1laszt\u00e1sa"
+  },
+  "labelBGConstantColor": {
+    "message": "Egysz\u00edn\u0171"
+  },
+  "labelBGImageURL": {
+    "message": "Egy\u00e9ni k\u00e9p URL"
+  },
+  "labelBGOpacity": {
+    "message": "\u00c1tl\u00e1tszatlans\u00e1g"
+  },
+  "labelCustomFilter": {
+    "message": "Egy\u00e9ni sz\u0171r\u0151"
+  },
+  "menuDAudio": {
+    "message": "Hang ment\u00e9se m\u00e1sk\u00e9nt..."
+  },
+  "menuDAudioOneClick": {
+    "message": "Hang let\u00f6lt\u00e9se egy kattint\u00e1ssal"
+  },
+  "menuDImage": {
+    "message": "K\u00e9p ment\u00e9se m\u00e1sk\u00e9nt..."
+  },
+  "menuDImageOneClick": {
+    "message": "K\u00e9p let\u00f6lt\u00e9se egy kattint\u00e1ssal"
+  },
+  "menuDLink": {
+    "message": "Link ment\u00e9se m\u00e1sk\u00e9nt..."
+  },
+  "menuDLinkOneClick": {
+    "message": "Link let\u00f6lt\u00e9se egy kattint\u00e1ssal"
+  },
+  "menuDVideo": {
+    "message": "Video ment\u00e9se m\u00e1sk\u00e9nt..."
+  },
+  "menuDVideoOneClick": {
+    "message": "Vide\u00f3 let\u00f6lt\u00e9se egy kattint\u00e1ssal"
+  },
+  "menuGetHelp": {
+    "message": "Seg\u00edts\u00e9gk\u00e9r\u00e9s"
+  },
+  "menuOpenManager": {
+    "message": "let\u00f6lt\u00e9skezel\u0151 megnyit\u00e1sa"
+  },
+  "menuReportIssue": {
+    "message": "Hibabejelent\u00e9s"
+  },
+  "msgCannotScanResources": {
+    "message": "Ennek az oldalnak nem lehet felkutatni a tartalmait."
+  },
+  "msgChromeI18nLanguage": {
+    "message": "A Chrono ugyanazt a nyelvet haszn\u00e1lja, mint az \u00d6n Chrome b\u00f6ng\u00e9sz\u0151je"
+  },
+  "msgEmptyDownloadsList": {
+    "message": "\u00dcres lista"
+  },
+  "msgPreviewErrorReadFile": {
+    "message": "Hiba t\u00f6rt\u00e9nt a f\u00e1jl olvas\u00e1sa sor\u00e1n"
+  },
+  "msgPreviewFailed": {
+    "message": "Nem lehetett bet\u00f6lteni a f\u00e1jl el\u0151n\u00e9zet\u00e9t"
+  },
+  "msgPreviewFileAccess": {
+    "message": "Nem lehet bet\u00f6lteni a helyi f\u00e1jlt az el\u0151n\u00e9zethez. Ezt a funkci\u00f3t bekapcsolhatja az $2 $1 -es jel\u00f6l\u0151n\u00e9gyzet bejel\u00f6l\u00e9s\u00e9vel a chrome://extensions oldalon."
+  },
+  "msgPreviewLargeFile": {
+    "message": "Az el\u0151n\u00e9zet bet\u00f6lt\u00e9s\u00e9hez eltarthat egy ideig."
+  },
+  "msgPreviewPdfViewer": {
+    "message": "Az el\u0151n\u00e9zethez Chrome PDF Viewer sz\u00fcks\u00e9ges, k\u00e9rj\u00fck, kapcsolja be az utas\u00edt\u00e1sokat k\u00f6vetve"
+  },
+  "msgRateShare": {
+    "message": "Ha a $1 hasznosnak tal\u00e1lta, k\u00e9rj\u00fck \u00e9rt\u00e9kelje a $2, \u00e9s ossza meg bar\u00e1taival!"
+  },
+  "msgSearchNoResults": {
+    "message": "Nincs tal\u00e1lat"
+  },
+  "msgSelectTaskInfo": {
+    "message": "Nincs kijel\u00f6lve elem."
+  },
+  "msgTaskAddPaused": {
+    "message": "Feladat hozz\u00e1adva, \u00e9s meg\u00e1ll\u00edtva "
+  },
+  "msgTaskFinish": {
+    "message": "A let\u00f6lt\u00e9s befejez\u0151d\u00f6tt"
+  },
+  "msgTaskInterrupt": {
+    "message": "Sikertelen let\u00f6lt\u00e9s"
+  },
+  "msgTaskStart": {
+    "message": "Feladat hozz\u00e1tadva a sorhoz"
+  },
+  "msgTextUpdateAvail": {
+    "message": "A friss\u00edt\u00e9shez k\u00e9rem t\u00f6ltse be \u00fajra a kieg\u00e9sz\u00edt\u0151t."
+  },
+  "msgTextWelcome": {
+    "message": "Miel\u0151tt elkezden\u00e9, k\u00e9rj\u00fck, vigye ezt a k\u00e9t tov\u00e1bbi l\u00e9p\u00e9st a Chrono jobb tapasztalat\u00e1nak biztos\u00edt\u00e1s\u00e1hoz.\n1. Kapcsolja ki a Chrome Ment\u00e9s m\u00e1sk\u00e9nt p\u00e1rbesz\u00e9dablakot, \u00edgy nem fogja megk\u00e9rdezni, hogy hol mentse el a f\u00e1jlt minden egyes let\u00f6lt\u00e9shez. Ehhez t\u00f6r\u00f6lni kell a jel\u00f6l\u0151n\u00e9gyzetet $1 el\u0151tt.\n2. Enged\u00e9lyezd a Chrono sz\u00e1m\u00e1ra, hogy hozz\u00e1f\u00e9rjen a f\u00e1jl URL-jeihez a gyors f\u00e1jlel\u0151n\u00e9zethez, az $3 -as $2 jel\u00f6l\u0151n\u00e9gyzet bejel\u00f6l\u00e9s\u00e9vel.\nHa b\u00e1rmilyen k\u00e9rd\u00e9se van, k\u00e9rj\u00fck, tekintse meg a S\u00fag\u00f3 oldalt \u00e9s a GYIK oldalt."
+  },
+  "msgTitleUpdateAvail": {
+    "message": "\u00daj verzi\u00f3 \u00e9rhet\u0151 el"
+  },
+  "msgTitleWelcome": {
+    "message": "\u00dcdv\u00f6z\u00f6lj\u00fck!"
+  },
+  "msgUpdated": {
+    "message": "A(z) $1 friss\u00edtve."
+  },
+  "optItemBadgeDownloadNum": {
+    "message": "Let\u00f6lt\u00e9si feladatok sz\u00e1m\u00e1nak megjelen\u00edt\u00e9se fent a toolbar ikonon"
+  },
+  "optItemClearRemoveFile": {
+    "message": "F\u00e1jl t\u00f6rl\u00e9se a lemezr\u0151l"
+  },
+  "optItemClearSearch": {
+    "message": "Ki\u00fcr\u00edti a keres\u0151 dobozt amikor a sz\u0171r\u0151 megv\u00e1ltozik"
+  },
+  "optItemClickNotify": {
+    "message": "Az \u00e9rtes\u00edt\u00e9sre kattintva"
+  },
+  "optItemConcurrentDownloads": {
+    "message": "Egyidej\u0171 let\u00f6lt\u00e9sek"
+  },
+  "optItemDblClickAction": {
+    "message": "Dupla kattint\u00e1s a feladaton"
+  },
+  "optItemDefAddPaused": {
+    "message": "Sz\u00fcnetelve hozz\u00e1ad\u00e1s"
+  },
+  "optItemDefFolder": {
+    "message": "Alap\u00e9rtelmezett hely"
+  },
+  "optItemDefNaming": {
+    "message": "Alap\u00e9rtelmezett elnevez\u00e9si minta"
+  },
+  "optItemDownloadClipboard": {
+    "message": "Let\u00f6lt\u00e9si URL a v\u00e1g\u00f3lapr\u00f3l"
+  },
+  "optItemDownloadsPerServer": {
+    "message": "Szerverenk\u00e9nti let\u00f6lt\u00e9sek sz\u00e1ma"
+  },
+  "optItemHideShelf": {
+    "message": "A Chrome let\u00f6lt\u00e9si s\u00e1vj\u00e1nak elrejt\u00e9se"
+  },
+  "optItemMenuDialog": {
+    "message": "Link ment\u00e9se m\u00e1sk\u00e9nt..."
+  },
+  "optItemMenuOneClick": {
+    "message": "Link/k\u00e9p egykattint\u00e1sos let\u00f6lt\u00e9se"
+  },
+  "optItemNameConflict": {
+    "message": "F\u00e1jlnevek \u00fctk\u00f6z\u00e9se eset\u00e9n"
+  },
+  "optItemNotifyError": {
+    "message": "\u00c9rtes\u00edt\u00e9s megjelen\u00edt\u00e9se, ha hiba t\u00f6rt\u00e9nt"
+  },
+  "optItemNotifyFinish": {
+    "message": "\u00c9rtes\u00edt\u00e9s megjelen\u00edt\u00e9se, ha a let\u00f6lt\u00e9s befejez\u0151d\u00f6tt"
+  },
+  "optItemNotifyLargePreview": {
+    "message": "Nagy el\u0151k\u00e9p megjelen\u00edt\u00e9se a k\u00e9pekr\u0151l"
+  },
+  "optItemNotifyOneClick": {
+    "message": "\u00c9rtes\u00edt\u00e9s megjelen\u00edt\u00e9se, ha egykattint\u00e1sos let\u00f6lt\u00e9s lett hozz\u00e1adva"
+  },
+  "optItemNotifyProgress": {
+    "message": "Let\u00f6lt\u00e9s el\u0151rehalad\u00e1s\u00e1nak mutat\u00e1sa"
+  },
+  "optItemOverrideChrome": {
+    "message": "A Chrome eredeti let\u00f6lt\u00e9s oldal\u00e1nak fel\u00fclb\u00edr\u00e1l\u00e1sa \u00e9s $1 gyorsbillenty\u0171 enged\u00e9lyez\u00e9se"
+  },
+  "optItemPopClearClose": {
+    "message": "A feladatok t\u00f6rl\u00e9se ut\u00e1n z\u00e1rja be a felugr\u00f3 let\u00f6lt\u00e9si list\u00e1t"
+  },
+  "optItemPopDeleteAction": {
+    "message": "Kattints a 'T\u00f6rl\u00e9s' gombra"
+  },
+  "optItemPopLikeButtons": {
+    "message": "Mutassa a k\u00f6z\u00f6ss\u00e9gi m\u00e9dia nyom\u00f3gombjait"
+  },
+  "optItemPopMaxItems": {
+    "message": "Maximum elem a let\u00f6lt\u00e9si list\u00e1ban"
+  },
+  "optItemPopShowDLFirst": {
+    "message": "Let\u00f6lt\u00e9s alatt \u00e1ll\u00f3 feladatok az elej\u00e9re"
+  },
+  "optItemPreviewAutoplay": {
+    "message": "Automatikus lej\u00e1tsz\u00e1s"
+  },
+  "optItemRecycleCancel": {
+    "message": "\u00dajrahasznos\u00edt\u00e1s eset\u00e9n a feladat \u00e9rv\u00e9nytelen\u00edt\u00e9se"
+  },
+  "optItemRuleMatchMode": {
+    "message": "Egyez\u00e9si m\u00f3d"
+  },
+  "optItemSlideDetailsPanel": {
+    "message": "Kics\u00faszik a R\u00e9szletek Panel amikor r\u00e1kattint a feladatra"
+  },
+  "optItemSoundError": {
+    "message": "Hang lej\u00e1tsz\u00e1sa amikor hiba t\u00f6rt\u00e9nik"
+  },
+  "optItemSoundFinish": {
+    "message": "Hang lej\u00e1tsz\u00e1sa amikor a let\u00f6lt\u00e9s elk\u00e9sz\u00fclt"
+  },
+  "optItemStartInterrupted": {
+    "message": "Ind\u00edt\u00e1s gomb elind\u00edthatja a megszak\u00edtott feladatokat"
+  },
+  "optOptionClearAllNotify": {
+    "message": "T\u00f6r\u00f6lje az \u00f6sszes \u00e9rtes\u00edt\u00e9st"
+  },
+  "optOptionClearNotify": {
+    "message": "T\u00f6r\u00f6lje az \u00e9rtes\u00edt\u00e9st"
+  },
+  "optOptionDoNothing": {
+    "message": "Nincs funkci\u00f3juk"
+  },
+  "optOptionFirstMatch": {
+    "message": "Els\u0151 egyez\u00e9s"
+  },
+  "optOptionOpenFile": {
+    "message": "F\u00e1jl megnyit\u00e1sa"
+  },
+  "optOptionOpenFolder": {
+    "message": "Mappa megnyit\u00e1sa"
+  },
+  "optOptionOverwrite": {
+    "message": "Fel\u00fcl\u00edr\u00e1s"
+  },
+  "optOptionPrompt": {
+    "message": "K\u00e9r\u00e9s"
+  },
+  "optOptionRemAsk": {
+    "message": "K\u00e9r\u00e9s"
+  },
+  "optOptionRemFile": {
+    "message": "T\u00f6rl\u00e9s a lemezr\u0151l meger\u0151s\u00edt\u00e9s n\u00e9lk\u00fcl"
+  },
+  "optOptionRemList": {
+    "message": "Elt\u00e1vol\u00edt\u00e1s a list\u00e1r\u00f3l"
+  },
+  "optOptionReplace": {
+    "message": "Csere"
+  },
+  "optOptionSkipCancel": {
+    "message": "Let\u00f6lt\u00e9s megszak\u00edt\u00e1sa"
+  },
+  "optOptionSkipPause": {
+    "message": "Sz\u00fcneteltet\u00e9s"
+  },
+  "optOptionStartPause": {
+    "message": "Ind\u00edt\u00e1sa vagy sz\u00fcneteltet\u00e9se"
+  },
+  "optOptionUniquify": {
+    "message": "Nevezze \u00e1t"
+  },
+  "optSectionBehaviors": {
+    "message": "Viselked\u00e9s"
+  },
+  "optSectionMenu": {
+    "message": "Men\u00fc"
+  },
+  "optSectionMisc": {
+    "message": "Egy\u00e9b"
+  },
+  "optSectionNetwork": {
+    "message": "H\u00e1l\u00f3zat"
+  },
+  "optSectionNotifications": {
+    "message": "\u00c9rtes\u00edt\u00e9sek"
+  },
+  "optSectionOneClick": {
+    "message": "Egykattint\u00e1sos let\u00f6lt\u00e9s"
+  },
+  "optSectionPopup": {
+    "message": "El\u0151ugr\u00f3 ablak"
+  },
+  "optSectionPreview": {
+    "message": "El\u0151n\u00e9zet"
+  },
+  "optSectionTaskDefaults": {
+    "message": "\u00daj feladat alap\u00e9rtelmez\u00e9sei"
+  },
+  "optionAddTop": {
+    "message": "Hozz\u00e1ad\u00e1s a sor elej\u00e9re"
+  },
+  "optionDisableExtFilters": {
+    "message": "B\u0151v\u00edtm\u00e9ny sz\u0171r\u0151k letilt\u00e1sa"
+  },
+  "optionDontAsk": {
+    "message": "A v\u00e1laszt\u00e1s ment\u00e9se"
+  },
+  "optionSearchCaseSensitive": {
+    "message": "A kis- \u00e9s nagybet\u0171 k\u00fcl\u00f6nb\u00f6z\u0151"
+  },
+  "optionSearchFuzzyMatch": {
+    "message": "R\u00e9szleges egyez\u00e9s"
+  },
+  "optionShowSize": {
+    "message": "F\u00e1jlm\u00e9ret megjelen\u00edt\u00e9se"
+  },
+  "optionTableAutoResize": {
+    "message": "\u00c1tm\u00e9retez\u00e9s k\u00e9perny\u0151h\u00f6z igaz\u00edtva"
+  },
+  "optionTableSyncResize": {
+    "message": "Tartalom egyidej\u0171 \u00e1tm\u00e9retez\u00e9se"
+  },
+  "phraseAutomatic": {
+    "message": "Automatikus"
+  },
+  "phraseEnable": {
+    "message": "Enged\u00e9lyez\u00e9s"
+  },
+  "phraseMultiValues": {
+    "message": "T\u00f6bb \u00e9rt\u00e9k"
+  },
+  "phraseNever": {
+    "message": "Soha"
+  },
+  "phrasePreview": {
+    "message": "El\u0151n\u00e9zet"
+  },
+  "phraseRegex": {
+    "message": "Szab\u00e1lyos kifejez\u00e9s"
+  },
+  "phraseToday": {
+    "message": "Ma"
+  },
+  "phraseUnknown": {
+    "message": "Ismeretlen"
+  },
+  "phraseUnknownSize": {
+    "message": "Ismeretlen m\u00e9ret"
+  },
+  "phraseVersion": {
+    "message": "Verzi\u00f3"
+  },
+  "phraseYesterday": {
+    "message": "Tegnap"
+  },
+  "ruleAllTasks": {
+    "message": "Minden feladat"
+  },
+  "ruleAudio": {
+    "message": "Hang"
+  },
+  "ruleDocument": {
+    "message": "Dokumentum"
+  },
+  "ruleDownloading": {
+    "message": "Let\u00f6lt\u00e9s folyamatban"
+  },
+  "ruleFinished": {
+    "message": "Befejezett"
+  },
+  "ruleImage": {
+    "message": "K\u00e9p"
+  },
+  "ruleInterrupted": {
+    "message": "Sikertelen"
+  },
+  "ruleNew": {
+    "message": "\u00daj szab\u00e1ly"
+  },
+  "ruleOther": {
+    "message": "Egy\u00e9b"
+  },
+  "ruleRecent": {
+    "message": "Leg\u00fajabb"
+  },
+  "ruleRecycled": {
+    "message": "Kuka"
+  },
+  "ruleSmallFiles": {
+    "message": "Kis f\u00e1jlok"
+  },
+  "ruleVideo": {
+    "message": "Vide\u00f3"
+  },
+  "stateDownloading": {
+    "message": "Let\u00f6lt\u00e9s folyamatban"
+  },
+  "stateError": {
+    "message": "Sikertelen"
+  },
+  "stateFileMiss": {
+    "message": "Hi\u00e1nyz\u00f3 f\u00e1jl"
+  },
+  "stateFinished": {
+    "message": "Befejezett"
+  },
+  "statePaused": {
+    "message": "Sz\u00fcnetel"
+  },
+  "stateQueue": {
+    "message": "V\u00e1rakoz\u00e1s"
+  },
+  "statusCopyURL": {
+    "message": "URL m\u00e1sol\u00e1sa..."
+  },
+  "statusCopyURLDone": {
+    "message": "URL a v\u00e1g\u00f3lapra m\u00e1solva"
+  },
+  "statusDownloadedSize": {
+    "message": "$1, \u00f6sszesen: $2"
+  },
+  "statusImportDone": {
+    "message": "Az import\u00e1l\u00e1s sikeresen befejez\u0151d\u00f6tt"
+  },
+  "statusImporting": {
+    "message": "Import\u00e1l\u00e1s..."
+  },
+  "statusNumDownloading": {
+    "message": "$1 let\u00f6lt\u00e9s"
+  },
+  "statusNumItems": {
+    "message": "$1 elem"
+  },
+  "statusReadClipboard": {
+    "message": "V\u00e1g\u00f3lap olvas\u00e1sa..."
+  },
+  "statusScheduledAutoClear": {
+    "message": "Automatikus feladat t\u00f6rl\u00e9se $1 m\u00e1sodperc m\u00falva indul "
+  },
+  "statusSelectedOf": {
+    "message": "$1 elem kijel\u00f6lve"
+  },
+  "statusTasksCleared": {
+    "message": "$1 elem elt\u00e1vol\u00edtva"
+  },
+  "statusTimeLeft": {
+    "message": "$1 van h\u00e1tra"
+  },
+  "tipAutoClear": {
+    "message": "Feladatok automatikus t\u00f6rl\u00e9se, de a merevlemezen megtart\u00e1sa "
+  },
+  "tipBGBlur": {
+    "message": "Elmos\u00f3d\u00e1sa hat\u00e1sa cs\u00f6kkenheti a  GUI (Graphic User Interfac) v\u00e1laszk\u00e9szs\u00e9get"
+  },
+  "tipBGEnable": {
+    "message": "Mivel bizonyos Chrome probl\u00e9m\u00e1k miatt  ,a h\u00e1tt\u00e9r haszn\u00e1lat  n\u00f6veli a mem\u00f3ria mennyis\u00e9g\u00e9t, ezt vedd figyelembet, miel\u0151tt ezt a funkci\u00f3t alkalmazn\u00e1 ."
+  },
+  "tipBGURLHasFileAccess": {
+    "message": "Adjon meg egy webes URL-t, vagy egy k\u00e9p teljes el\u00e9r\u00e9si \u00fatvonal\u00e1t a sz\u00e1m\u00edt\u00f3g\u00e9pen el\u0151tagk\u00e9nt  'file:///'"
+  },
+  "tipBGURLNoFileAccess": {
+    "message": "Adjon meg egy webes URL-t, vagy egy k\u00e9p teljes el\u00e9r\u00e9si \u00fatvonal\u00e1t a sz\u00e1m\u00edt\u00f3g\u00e9pen (ha helyi f\u00e1jlt, akkor enged\u00e9lyezze a f\u00e1jl hozz\u00e1f\u00e9r\u00e9s a Chrononak els\u0151nek  , kattintson a k\u00e9rd\u0151jelre, hogy l\u00e1ssa  milyen)"
+  },
+  "tipBrowserAction": {
+    "message": "Az oldal \u00f6sszes elem\u00e9nek let\u00f6lt\u00e9se"
+  },
+  "tipBtnBackToManager": {
+    "message": "Vissza a Kezel\u0151h\u00f6z"
+  },
+  "tipBtnChangeDefaultLocation": {
+    "message": "C\u00e9lmappa m\u00f3dos\u00edt\u00e1sa\u2026"
+  },
+  "tipBtnClear": {
+    "message": "T\u00f6rl\u00e9s"
+  },
+  "tipBtnConfigExtFilters": {
+    "message": "Sz\u0171r\u0151k szerkeszt\u00e9se"
+  },
+  "tipBtnCopyLink": {
+    "message": "Link m\u00e1sol\u00e1sa"
+  },
+  "tipBtnDelete": {
+    "message": "T\u00f6rl\u00e9s"
+  },
+  "tipBtnHelp": {
+    "message": "S\u00fag\u00f3"
+  },
+  "tipBtnNewTask": {
+    "message": "\u00daj feladat"
+  },
+  "tipBtnOpenDefaultLocation": {
+    "message": "Let\u00f6lt\u00e9sek mappa megnyit\u00e1sa"
+  },
+  "tipBtnOpenFile": {
+    "message": "F\u00e1jl megnyit\u00e1sa"
+  },
+  "tipBtnOpenFolder": {
+    "message": "Mappa megnyit\u00e1sa"
+  },
+  "tipBtnOptions": {
+    "message": "Be\u00e1ll\u00edt\u00e1sok"
+  },
+  "tipBtnPause": {
+    "message": "Sz\u00fcnet"
+  },
+  "tipBtnPauseAll": {
+    "message": "\u00d6sszes sz\u00fcneteltet\u00e9se"
+  },
+  "tipBtnPopList": {
+    "message": "V\u00e1lt\u00e1s a let\u00f6lt\u00e9sek list\u00e1ra"
+  },
+  "tipBtnPopSniffer": {
+    "message": "V\u00e1lt\u00e1s a Keres\u0151"
+  },
+  "tipBtnRecycle": {
+    "message": "\u00c1thelyez\u00e9s a kuk\u00e1ba"
+  },
+  "tipBtnRestart": {
+    "message": "\u00dajraind\u00edt\u00e1s"
+  },
+  "tipBtnRestore": {
+    "message": "Vissza\u00e1ll\u00edt\u00e1s"
+  },
+  "tipBtnSort": {
+    "message": "Rendez\u00e9s"
+  },
+  "tipBtnStart": {
+    "message": "Ind\u00edt\u00e1s"
+  },
+  "tipBtnStartAll": {
+    "message": "Az \u00f6sszes elind\u00edt\u00e1sa"
+  },
+  "tipExtFilterEnable": {
+    "message": "Enged\u00e9lyez, mint b\u0151v\u00edtm\u00e9nysz\u0171r\u0151t a Chrono Keres\u0151"
+  },
+  "tipExtFilterRefName": {
+    "message": "Bels\u0151 megnevez\u00e9s a hivatkoz\u00e1si sz\u0171r\u0151h\u00f6z egy\u00e9b kifejez\u00e9sekben"
+  },
+  "tipNaming": {
+    "message": "K\u00e9rj\u00fck, olvassa el S\u00fag\u00f3oldalunkat, elnevez\u00e9si minta haszn\u00e1lat\u00e1hoz ."
+  },
+  "tipOptItemRuleMatchMode": {
+    "message": "Figyelem, csak az akt\u00edv szab\u00e1lyokat teszteltek hasonl\u00f3s\u00e1gra. A Csere m\u00f3dban, minden hasonl\u00f3s\u00e1g  szab\u00e1ly alkalmazva, de ez ut\u00f3bbi szab\u00e1lyok fel\u00fcl\u00edrj\u00e1k a kor\u00e1bbiakat."
+  },
+  "tipOptItemSlideDetailsPanel": {
+    "message": "Alt+gombnyom\u00e1sra is megnyithat\u00f3 a R\u00e9szletek ablakt\u00e1bla."
+  },
+  "tipOptNoRuleMatch": {
+    "message": "Alkalmazva ha nincs egyez\u0151 Szab\u00e1ly"
+  },
+  "tipOptSectionOneClick": {
+    "message": "Ha enged\u00e9lyezi, akkor a let\u00f6lt\u00e9s a linkre kattintva azonnal elindul alap\u00e9rtelmezett be\u00e1ll\u00edt\u00e1sokkal (l\u00e1sd fent) an\u00e9lk\u00fcl, hogy megjelenne a let\u00f6lt\u00e9s be\u00e1ll\u00edt\u00e1sai ablak."
+  },
+  "tipOptSectionTaskDefaults": {
+    "message": "Alkalmazand\u00f3 alapbe\u00e1ll\u00edt\u00e1sok \u00faj feladatok hozz\u00e1ad\u00e1sakor, pl. az egykattint\u00e1sos let\u00f6lt\u00e9shez"
+  },
+  "tipRulesActive": {
+    "message": "Csak az akt\u00edv szab\u00e1lyokat lehet ellen\u0151rizni."
+  },
+  "tipRulesAsFilter": {
+    "message": "Feladatsz\u0171r\u0151k\u00e9nt mutassa a Let\u00f6lt\u00e9skezel\u0151ben"
+  },
+  "tipRulesRefName": {
+    "message": "Bels\u0151 n\u00e9v ennek a szab\u00e1lynak a m\u00e1s kifejez\u00e9sekben t\u00f6rt\u00e9n\u0151 hivatkoz\u00e1s\u00e1ra"
+  },
+  "tipURL": {
+    "message": "Be\u00edrhat t\u00f6bb URL-t elv\u00e1lasztva \u00faj vonalakkal; Elind\u00edthatja a k\u00f6tegelt let\u00f6lt\u00e9seket a Batch Descriptors haszn\u00e1lat\u00e1val."
+  },
+  "tipmsgCopySelectedURLs": {
+    "message": "Egyszer\u0171en nyomja meg a $1 billenty\u0171kombin\u00e1ci\u00f3t , hogy masolja az URL-eket a kiv\u00e1lasztott feladat (ok)-nak"
+  },
+  "tipmsgDoubleClick": {
+    "message": "Megv\u00e1ltoztathatja a dupla kattint\u00e1s viselked\u00e9st  $1 alatt"
+  },
+  "tipmsgFitColumnWidth": {
+    "message": "Kattintson dupl\u00e1n az oszlop sz\u00e9less\u00e9g be\u00e1ll\u00edt\u00e1s\u00e1hoz, hogy be\u00e1ll\u00edtsa az oszlop sz\u00e9less\u00e9g\u00e9t automatikusan "
+  },
+  "tipmsgGridSelection": {
+    "message": "A Ctrl / Shift haszn\u00e1lat\u00e1val  t\u00f6bb sort is kiv\u00e1laszthat, vagy nyomjuk meg a $1 -t , hogy jel\u00f6lje ki az \u00f6sszes sort"
+  },
+  "tipmsgNotifications": {
+    "message": "Megv\u00e1ltoztatni \u00e9rtes\u00edt\u00e9seket / hangok be\u00e1ll\u00edt\u00e1sait $1alatt"
+  },
+  "tipmsgOpenShortcut": {
+    "message": "A $2 billenty\u0171kombin\u00e1ci\u00f3 megnyithatja az $1-t"
+  },
+  "tipmsgSlideDetailsPanel": {
+    "message": "A cs\u00fasz\u00f3 r\u00e9szletek panel kikapcsolhat\u00f3 $1  alatt"
+  },
+  "tipmsgTaskFilter": {
+    "message": "Feladat sz\u0171r\u0151k \u00e1trendez\u00e9se h\u00faz\u00e1ssal ; egy\u00e9ni feladat sz\u0171r\u0151ket is hozz\u00e1adhat a $1 alatt"
+  },
+  "titleChangeBG": {
+    "message": "H\u00e1tt\u00e9r m\u00f3dos\u00edt\u00e1sa"
+  },
+  "titleNewTaskDialog": {
+    "message": "\u00daj feladat"
+  },
+  "titleOptions": {
+    "message": "Be\u00e1ll\u00edt\u00e1sok"
+  },
+  "titleOptionsAbout": {
+    "message": "N\u00e9vjegy"
+  },
+  "titleOptionsFilter": {
+    "message": "Sz\u0171r\u0151k"
+  },
+  "titleOptionsGeneral": {
+    "message": "\u00c1ltal\u00e1nos"
+  },
+  "titleOptionsHelp": {
+    "message": "S\u00fag\u00f3"
+  },
+  "titleOptionsInterface": {
+    "message": "Kezel\u0151fel\u00fclet"
+  },
+  "titleOptionsRules": {
+    "message": "Szab\u00e1lyok"
+  },
+  "titleQuickSelection": {
+    "message": "Gyors v\u00e1laszt\u00e1s"
+  },
+  "titleRateShare": {
+    "message": "Szavazz \u00e9s megoszt\u00e1s!"
+  },
+  "titleSniffer": {
+    "message": "Keres\u0151"
+  },
+  "titleSwitchUI": {
+    "message": "Megjelen\u00edt\u00e9si m\u00f3d"
+  },
+  "titleTaskProps": {
+    "message": "Feladat tulajdons\u00e1gai"
+  },
+  "titleTips": {
+    "message": "Tippek"
+  },
+  "titleUpdateLog": {
+    "message": "V\u00e1ltoz\u00e1snapl\u00f3"
+  },
+  "translateContributors": {
+    "message": "kisjoska, balodano93, F3dayy, marcell, daniel.gerstenbrand, gabor.sepsi, blazsej78, xTremePower, Gomba L\u00e1szl\u00f3, hlorand, \u00c1d\u00e1m Szab\u00f3, secur2014, Szil\u00e1rd Maron, sep.rgbg etc."
+  },
+  "uilang": {
+    "message": "hu"
+  },
+  "uilangName": {
+    "message": "Magyar"
+  },
+  "unitBytes": {
+    "message": "$1 b\u00e1jt"
+  },
+  "unitDay": {
+    "message": "$1 nap"
+  },
+  "unitDays": {
+    "message": "$1 nap"
+  },
+  "unitHour": {
+    "message": "$1 \u00f3ra"
+  },
+  "unitHours": {
+    "message": "$1 \u00f3ra"
+  },
+  "unitMinute": {
+    "message": "$1 perc"
+  },
+  "unitMinutes": {
+    "message": "$1 perc"
+  },
+  "unitSecond": {
+    "message": "$1 mp"
+  },
+  "unitSeconds": {
+    "message": "$1 mp"
+  }
+}

@@ -1,0 +1,1028 @@
+{
+  "btnAbout": {
+    "message": "\u95dc\u65bc"
+  },
+  "btnAddPaused": {
+    "message": "\u52a0\u5165\u4e26\u66ab\u505c"
+  },
+  "btnApply": {
+    "message": "\u5957\u7528"
+  },
+  "btnBackToManager": {
+    "message": "\u8fd4\u56de"
+  },
+  "btnCancel": {
+    "message": "\u53d6\u6d88"
+  },
+  "btnClearAll": {
+    "message": "\u5168\u90e8\u6e05\u9664"
+  },
+  "btnClearFailed": {
+    "message": "\u6e05\u9664\u5df2\u5931\u6557\u4efb\u52d9"
+  },
+  "btnClearFinished": {
+    "message": "\u6e05\u9664\u5df2\u5b8c\u6210\u7684\u4efb\u52d9"
+  },
+  "btnClearRemoved": {
+    "message": "\u6e05\u9664\u4e0d\u5b58\u5728\u6a94\u6848"
+  },
+  "btnFAQ": {
+    "message": "\u5e38\u898b\u554f\u984c"
+  },
+  "btnGotIt": {
+    "message": "\u6211\u77ad\u89e3\u4e86\uff01"
+  },
+  "btnImportChromeHistory": {
+    "message": "\u5f9eChrome\u532f\u5165\u4e0b\u8f09\u7d00\u9304"
+  },
+  "btnLater": {
+    "message": "\u7a0d\u5f8c"
+  },
+  "btnLoadPreview": {
+    "message": "\u8f09\u5165\u9810\u89bd\u756b\u9762"
+  },
+  "btnOpenManager": {
+    "message": "\u958b\u555f\u7ba1\u7406\u5668"
+  },
+  "btnPopRemoveFile": {
+    "message": "\u4e26\u522a\u9664\u6a94\u6848"
+  },
+  "btnPopRemoveList": {
+    "message": "\u5f9e\u6e05\u55ae\u4e2d\u79fb\u9664"
+  },
+  "btnRate": {
+    "message": "\u8a55\u5206"
+  },
+  "btnShareDone": {
+    "message": "\u6211\u5df2\u7d93\u505a\u4e86"
+  },
+  "btnStart": {
+    "message": "\u958b\u59cb"
+  },
+  "btnStartAll": {
+    "message": "\u5168\u90e8\u4e0b\u8f09"
+  },
+  "btnTakeMeThere": {
+    "message": "\u7acb\u5373\u524d\u5f80"
+  },
+  "btnUpdateReload": {
+    "message": "\u7acb\u5373\u91cd\u65b0\u8f09\u5165"
+  },
+  "chromesysAllowFileAccess": {
+    "message": "\u5141\u8a31\u5b58\u53d6\u6a94\u6848\u7db2\u5740"
+  },
+  "chromesysChange": {
+    "message": "\u8b8a\u66f4..."
+  },
+  "chromesysDownloadLocation": {
+    "message": "\u6a94\u6848\u4e0b\u8f09\u5132\u5b58\u4f4d\u7f6e"
+  },
+  "chromesysDownloadSaveAsPrompt": {
+    "message": "\u4e0b\u8f09\u6bcf\u500b\u6a94\u6848\u524d\u5148\u8a62\u554f\u5132\u5b58\u4f4d\u7f6e"
+  },
+  "chromesysDownloadsSection": {
+    "message": "\u4e0b\u8f09"
+  },
+  "chromesysFailedGenericDownloadError": {
+    "message": "\u4e0b\u8f09\u932f\u8aa4"
+  },
+  "chromesysFailedGenericNetworkError": {
+    "message": "\u7db2\u8def\u932f\u8aa4"
+  },
+  "chromesysFailed_CRASH": {
+    "message": "\u7576\u6a5f"
+  },
+  "chromesysFailed_FILE_ACCESS_DENIED": {
+    "message": "\u6b0a\u9650\u4e0d\u8db3"
+  },
+  "chromesysFailed_FILE_BLOCKED": {
+    "message": "\u5df2\u5c01\u9396"
+  },
+  "chromesysFailed_FILE_NAME_TOO_LONG": {
+    "message": "\u8def\u5f91\u540d\u7a31\u904e\u9577"
+  },
+  "chromesysFailed_FILE_NO_SPACE": {
+    "message": "\u78c1\u789f\u7a7a\u9593\u5df2\u6eff"
+  },
+  "chromesysFailed_FILE_SAME_AS_SOURCE": {
+    "message": "\u5df2\u4e0b\u8f09"
+  },
+  "chromesysFailed_FILE_SECURITY_CHECK_FAILED": {
+    "message": "\u75c5\u6bd2\u6383\u63cf\u5931\u6557"
+  },
+  "chromesysFailed_FILE_TOO_LARGE": {
+    "message": "\u6a94\u6848\u904e\u5927"
+  },
+  "chromesysFailed_FILE_TOO_SHORT": {
+    "message": "\u6a94\u6848\u5df2\u906d\u622a\u65b7"
+  },
+  "chromesysFailed_FILE_TRANSIENT_ERROR": {
+    "message": "\u7cfb\u7d71\u5fd9\u788c\u4e2d"
+  },
+  "chromesysFailed_FILE_VIRUS_INFECTED": {
+    "message": "\u7cfb\u7d71\u5075\u6e2c\u5230\u75c5\u6bd2"
+  },
+  "chromesysFailed_NETWORK_TIMEOUT": {
+    "message": "\u7db2\u8def\u903e\u6642"
+  },
+  "chromesysFailed_SERVER_BAD_CONTENT": {
+    "message": "\u6c92\u6709\u6a94\u6848"
+  },
+  "chromesysFailed_SERVER_CERT_PROBLEM": {
+    "message": "\u932f\u8aa4\u7684\u6191\u8b49"
+  },
+  "chromesysFailed_SERVER_CONTENT_LENGTH_MISMATCH": {
+    "message": "\u6a94\u6848\u672a\u5b8c\u6210\u4e0b\u8f09"
+  },
+  "chromesysFailed_SERVER_FAILED": {
+    "message": "\u4f3a\u670d\u5668\u554f\u984c"
+  },
+  "chromesysFailed_SERVER_FORBIDDEN": {
+    "message": "\u5df2\u7981\u6b62"
+  },
+  "chromesysFailed_SERVER_UNAUTHORIZED": {
+    "message": "\u9700\u8981\u6388\u6b0a"
+  },
+  "chromesysFailed_SERVER_UNREACHABLE": {
+    "message": "\u7121\u6cd5\u9023\u4e0a\u4f3a\u670d\u5668"
+  },
+  "chromesysFailed_USER_CANCELED": {
+    "message": "\u5df2\u53d6\u6d88"
+  },
+  "chromesysFailed_USER_SHUTDOWN": {
+    "message": "\u95dc\u9589"
+  },
+  "chromesysFontSize": {
+    "message": "\u5b57\u578b\u5927\u5c0f"
+  },
+  "chromesysLanguageSection": {
+    "message": "\u8a9e\u8a00"
+  },
+  "chromesysShowAdvSettings": {
+    "message": "\u986f\u793a\u9032\u968e\u8a2d\u5b9a..."
+  },
+  "chromesysWebStore": {
+    "message": "Chrome \u7dda\u4e0a\u61c9\u7528\u7a0b\u5f0f\u5546\u5e97"
+  },
+  "confirmBatchDownload": {
+    "message": "\u4f3c\u4e4e\u4f60\u5c07\u8981\u555f\u52d5\u6279\u6b21\u4e0b\u8f09\uff0c\u5728\u6b64\u7bc4\u4f8b\u5982\u4e0b\uff1a"
+  },
+  "confirmBatchDownloadNaming": {
+    "message": "\u5c0d\u65bc\u6279\u6b21\u4e0b\u8f09\uff0c\u8acb\u78ba\u8a8d\u547d\u540d\u898f\u5247\u78ba\u4fdd\u6bcf\u9805\u6a94\u6848\u552f\u4e00\u6027\u3002\u662f\u5426\u4ecd\u7e7c\u7e8c\u57f7\u884c\uff1f"
+  },
+  "confirmBtnYes": {
+    "message": "\u662f"
+  },
+  "confirmBtnYesFile": {
+    "message": "\u662f\uff0c\u4e26\u522a\u9664\u6a94\u6848"
+  },
+  "confirmCantResumeRestart": {
+    "message": "\u4efb\u52d9$1\u56de\u5fa9\u5931\u6557\uff0c\u662f\u5426\u91cd\u555f\uff1f"
+  },
+  "confirmClearTask": {
+    "message": "\u78ba\u5b9a\u8981\u79fb\u9664$1\u500b\u9805\u76ee\u55ce\uff1f"
+  },
+  "confirmProceed": {
+    "message": "\u8981\u7e7c\u7e8c\u55ce\uff1f"
+  },
+  "confirmRecycleRunning": {
+    "message": "\u78ba\u5b9a\u8981\u5c07\u6b63\u5728\u57f7\u884c\u4efb\u52d9\u79fb\u81f3\u5783\u573e\u6876 ?"
+  },
+  "confirmRemoveExtFilter": {
+    "message": "\u8981\u79fb\u9664\u6240\u9078\u53d6\u9805\u76ee\u55ce\uff1f"
+  },
+  "confirmRemoveRule": {
+    "message": "\u8981\u79fb\u9664\u6240\u9078\u53d6\u9805\u76ee\u55ce\uff1f"
+  },
+  "confirmRemoveTask": {
+    "message": "\u78ba\u5b9a\u6c38\u4e45\u522a\u9664\u9078\u53d6\u4efb\u52d9?"
+  },
+  "confirmReset": {
+    "message": "\u9019\u9805\u4f5c\u696d\u7121\u6cd5\u9084\u539f\uff0c\u78ba\u5b9a\u8981\u7e7c\u7e8c\u55ce\uff1f"
+  },
+  "errorFNameConflict": {
+    "message": "\u547d\u540d\u885d\u7a81"
+  },
+  "errorFileNotExist": {
+    "message": "\u627e\u4e0d\u5230\u6a94\u6848"
+  },
+  "errorInvalidNamingMask": {
+    "message": "\u540d\u7a31\u7121\u6548"
+  },
+  "errorInvalidURLs": {
+    "message": "\u7db2\u5740\u7121\u6548"
+  },
+  "errorNoID": {
+    "message": "\u7531\u65bcChrono\u5167\u5df2\u5b58\u6709\u592a\u591a\u4efb\u52d9\uff0c\u4ee5\u81f3\u65bc\u7121\u6cd5\u65b0\u589e\u4efb\u52d9\uff0c\u8acb\u5c07\u672a\u4f7f\u7528\u4efb\u52d9\u6e05\u9664\u5f8c\u91cd\u8a66"
+  },
+  "errorNone": {
+    "message": "\u6c92\u6709\u932f\u8aa4"
+  },
+  "errorRemovedFromChrome": {
+    "message": "\u4efb\u52d9\u53ef\u80fd\u5df2\u5f9eChrome\u4e2d\u79fb\u9664"
+  },
+  "everyXDays": {
+    "message": "\u6bcf\u9694$1\u5929"
+  },
+  "everyXHours": {
+    "message": "\u6bcf\u9694$1\u5c0f\u6642"
+  },
+  "everyXMinutes": {
+    "message": "\u6bcf\u9694$1\u5206"
+  },
+  "extDesc": {
+    "message": "\u4e0b\u8f09\u7ba1\u7406\u5668 | \u5f71\u7247\u4e0b\u8f09 | \u6279\u6b21\u5716\u7247\u4e0b\u8f09"
+  },
+  "extDescBest": {
+    "message": "Chrome\u7684\u6700\u4f73\u4e0b\u8f09\u5668"
+  },
+  "extDescSlogan": {
+    "message": "\u4e0b\u8f09\u53ca\u7ba1\u7406\u6574\u500b\u7db2\u8def!"
+  },
+  "extName": {
+    "message": "Chrono\u4e0b\u8f09\u7ba1\u7406\u5668"
+  },
+  "extsAll": {
+    "message": "\u5168\u90e8"
+  },
+  "extsApp": {
+    "message": "\u61c9\u7528\u7a0b\u5f0f"
+  },
+  "extsArchive": {
+    "message": "\u5c01\u5b58\u6a94"
+  },
+  "extsAudio": {
+    "message": "\u97f3\u8a0a"
+  },
+  "extsDocument": {
+    "message": "\u6587\u4ef6"
+  },
+  "extsImage": {
+    "message": "\u5716\u7247"
+  },
+  "extsNew": {
+    "message": "\u65b0\u7be9\u9078\u5668"
+  },
+  "extsOthers": {
+    "message": "\u5176\u4ed6"
+  },
+  "extsVideo": {
+    "message": "\u5f71\u7247"
+  },
+  "fieldAddTime": {
+    "message": "\u5efa\u7acb\u6642\u9593"
+  },
+  "fieldAvgSpeed": {
+    "message": "\u5e73\u5747\u901f\u5ea6"
+  },
+  "fieldDownloadedSize": {
+    "message": "\u5df2\u4e0b\u8f09"
+  },
+  "fieldElapsedTime": {
+    "message": "\u7d93\u904e\u6642\u9593"
+  },
+  "fieldFileName": {
+    "message": "\u6a94\u6848\u540d\u7a31"
+  },
+  "fieldFileSize": {
+    "message": "\u6a94\u6848\u5927\u5c0f"
+  },
+  "fieldFinishTime": {
+    "message": "\u5b8c\u6210\u6642\u9593"
+  },
+  "fieldFolder": {
+    "message": "\u8cc7\u6599\u593e"
+  },
+  "fieldNaming": {
+    "message": "\u547d\u540d\u898f\u5247"
+  },
+  "fieldProgress": {
+    "message": "\u9032\u5ea6"
+  },
+  "fieldRedirection": {
+    "message": "\u91cd\u65b0\u5c0e\u5411"
+  },
+  "fieldReferer": {
+    "message": "\u53c3\u7167\u7db2\u5740"
+  },
+  "fieldRemainingTime": {
+    "message": "\u5269\u9918\u6642\u9593"
+  },
+  "fieldRemarks": {
+    "message": "\u610f\u898b"
+  },
+  "fieldSpeed": {
+    "message": "\u901f\u5ea6"
+  },
+  "fieldState": {
+    "message": "\u72c0\u614b"
+  },
+  "fieldThreads": {
+    "message": "\u4e0b\u8f09\u57f7\u884c\u7dd2"
+  },
+  "fieldType": {
+    "message": "\u6a94\u6848\u985e\u578b"
+  },
+  "fieldURL": {
+    "message": "\u7db2\u5740"
+  },
+  "headExtFilterCaption": {
+    "message": "\u986f\u793a\u540d\u7a31"
+  },
+  "headExtFilterExts": {
+    "message": "\u526f\u6a94\u540d"
+  },
+  "headExtFilterRefName": {
+    "message": "\u5167\u90e8\u540d\u7a31"
+  },
+  "headRulesActive": {
+    "message": "\u6709\u6548"
+  },
+  "headRulesAsFilter": {
+    "message": "\u7528\u4f5c\u4efb\u52d9\u7be9\u9078\u5668"
+  },
+  "headRulesCaption": {
+    "message": "\u986f\u793a\u540d\u7a31"
+  },
+  "headRulesCondition": {
+    "message": "\u689d\u4ef6"
+  },
+  "headRulesRefName": {
+    "message": "\u5167\u90e8\u540d\u7a31"
+  },
+  "helpExtFilter": {
+    "message": "*\u96d9\u64ca\u5df2\u7de8\u8f2f\u5167\u5bb9\n*\u5728\u7a7a\u767d\u5217\u8f38\u5165\u5167\u5bb9\uff0c\u4ee5\u65b0\u589e\u7be9\u9078\u5668\n*\u6b32\u522a\u9664\u9805\u76ee\uff0c\u8acb\u9078\u53d6\u5217\u4e26\u9ede\u64ca\u522a\u9664\u9215"
+  },
+  "helpRules": {
+    "message": "*\u96d9\u64ca\u5df2\u7de8\u8f2f\u5167\u5bb9 \n*\u5728\u7a7a\u767d\u5217\u8f38\u5165\u5167\u5bb9\uff0c\u4ee5\u65b0\u589e\u7be9\u9078\u5668\n*\u6b32\u522a\u9664\u9805\u76ee\uff0c\u8acb\u9078\u53d6\u5217\u4e26\u9ede\u64ca\u522a\u9664\u9215\n*\u5982\u679c\u5728\u7de8\u8f2f\u689d\u4ef6\u5f0f\u6709\u554f\u984c\uff0c\u76e1\u8acb\u53c3\u95b1\"\u5e6b\u52a9\""
+  },
+  "hintSearchDownloads": {
+    "message": "\u641c\u5c0b\u4e0b\u8f09\u5167\u5bb9"
+  },
+  "labelAutoClear": {
+    "message": "\u8a2d\u5b9a\u6642\u9593"
+  },
+  "labelBGBlur": {
+    "message": "\u6a21\u7cca"
+  },
+  "labelBGChooseFrom": {
+    "message": "\u9078\u64c7\u5716\u7247"
+  },
+  "labelBGConstantColor": {
+    "message": "\u7d14\u8272"
+  },
+  "labelBGImageURL": {
+    "message": "\u81ea\u8a02\u5716\u7247\u7db2\u5740"
+  },
+  "labelBGOpacity": {
+    "message": "\u900f\u660e\u5ea6"
+  },
+  "labelCustomFilter": {
+    "message": "\u81ea\u8a02\u7be9\u9078\u5668"
+  },
+  "menuDAudio": {
+    "message": "\u5c07\u97f3\u8a0a\u53e6\u5b58\u70ba..."
+  },
+  "menuDAudioOneClick": {
+    "message": "\u4e00\u9375\u4e0b\u8f09\u97f3\u8a0a"
+  },
+  "menuDImage": {
+    "message": "\u53e6\u5b58\u5716\u6a94..."
+  },
+  "menuDImageOneClick": {
+    "message": "\u4e00\u9375\u4e0b\u8f09\u5716\u7247"
+  },
+  "menuDLink": {
+    "message": "\u53e6\u5b58\u9023\u7d50\u70ba..."
+  },
+  "menuDLinkOneClick": {
+    "message": "\u4e00\u9375\u4e0b\u8f09\u9023\u7d50"
+  },
+  "menuDVideo": {
+    "message": "\u5c07\u5f71\u7247\u53e6\u5b58\u70ba..."
+  },
+  "menuDVideoOneClick": {
+    "message": "\u4e00\u9375\u4e0b\u8f09\u5f71\u7247"
+  },
+  "menuGetHelp": {
+    "message": "\u67e5\u770b\u8aaa\u660e"
+  },
+  "menuOpenManager": {
+    "message": "\u958b\u555f\u7ba1\u7406\u5668"
+  },
+  "menuReportIssue": {
+    "message": "\u56de\u5831\u554f\u984c"
+  },
+  "msgCannotScanResources": {
+    "message": "\u7121\u6cd5\u6383\u63cf\u8a72\u9801\u9762\u7684\u8cc7\u6e90"
+  },
+  "msgChromeI18nLanguage": {
+    "message": "Chrono\u4f7f\u7528\u8207Chrome\u700f\u89bd\u5668\u76f8\u540c\u7684\u8a9e\u8a00"
+  },
+  "msgEmptyDownloadsList": {
+    "message": "\u7a7a\u767d\u6e05\u55ae\u6aa2\u8996"
+  },
+  "msgPreviewErrorReadFile": {
+    "message": "\u8b80\u53d6\u6a94\u6848\u6642\u767c\u751f\u932f\u8aa4"
+  },
+  "msgPreviewFailed": {
+    "message": "\u7121\u6cd5\u8f09\u5165\u6a94\u6848\u9810\u89bd\u756b\u9762"
+  },
+  "msgPreviewFileAccess": {
+    "message": "\u7121\u6cd5\u52a0\u8f09\u672c\u5730\u6a94\u6848\u9032\u884c\u9810\u89bd\uff0c\u60a8\u53ef\u4ee5\u5728chrome://extensions\u9801\u9762\u4e0a\u9078\u4e2d$2\u4e0b\u7684$1\u8907\u9078\u6846\u4f86\u6253\u958b\u6b64\u529f\u80fd\u3002"
+  },
+  "msgPreviewLargeFile": {
+    "message": "\u52a0\u8f09\u9810\u89bd\u53ef\u80fd\u9700\u8981\u4e00\u6bb5\u6642\u9593\u3002"
+  },
+  "msgPreviewPdfViewer": {
+    "message": "\u9700\u8981\u555f\u7528Chrome PDF\u67e5\u770b\u5668\u4ee5\u52a0\u8f09\u9810\u89bd\uff0c\u8acb\u6309\u7167\u8aaa\u660e\u9032\u884c\u64cd\u4f5c"
+  },
+  "msgRateShare": {
+    "message": "\u5982\u679c\u4f60\u559c\u6b61$1\uff0c\u8acb\u5728$2\u70ba\u6211\u5011\u8a55\u5206\uff0c\u4e26\u5206\u4eab\u7d66\u4f60\u7684\u670b\u53cb\uff01"
+  },
+  "msgSearchNoResults": {
+    "message": "\u627e\u4e0d\u5230\u7d50\u679c"
+  },
+  "msgSelectTaskInfo": {
+    "message": "\u672a\u9078\u53d6\u4efb\u4f55\u9805\u76ee\u3002"
+  },
+  "msgTaskAddPaused": {
+    "message": "\u4efb\u52d9\u5df2\u65b0\u589e\u4e26\u66ab\u505c"
+  },
+  "msgTaskFinish": {
+    "message": "\u4e0b\u8f09\u5b8c\u6210"
+  },
+  "msgTaskInterrupt": {
+    "message": "\u4e0b\u8f09\u5931\u6557"
+  },
+  "msgTaskStart": {
+    "message": "\u4efb\u52d9\u5df2\u589e\u52a0\u81f3\u968a\u5217"
+  },
+  "msgTextUpdateAvail": {
+    "message": "\u8acb\u91cd\u65b0\u8f09\u5165Chrono\uff0c\u4ee5\u5957\u7528\u66f4\u65b0\u3002"
+  },
+  "msgTextWelcome": {
+    "message": "\u5728\u958b\u59cb\u524d\uff0c\u8acb\u5b8c\u6210\u5982\u4e0b\u8a2d\u7f6e\u4ee5\u7372\u53d6\u66f4\u512a\u8cea\u7684\u4f7f\u7528\u8005\u9ad4\u9a57\u3002\n1\u3001\u95dc\u9589\u700f\u89bd\u5668\u7684\u53e6\u5b58\u65b0\u6a94\u5c0d\u8a71\u6846\uff0c\u9019\u6a23\u4e0d\u7528\u5728\u6bcf\u6b21\u4e0b\u8f09\u524d\u9078\u64c7\u4fdd\u5b58\u4f4d\u7f6e\u3002\u5177\u9ad4\u505a\u6cd5\u662f\u6e05\u9664 $1 \u524d\u7684\u8907\u9078\u6846\u3002\n2\u3001\u8b93Chrono\u53d6\u5f97\u6a94\u6848URL\u6b0a\u9650\u4ee5\u555f\u7528\u6a94\u6848\u5feb\u901f\u9810\u89bd\u529f\u80fd\uff0c\u5177\u9ad4\u6b65\u9a5f\u662f\uff1a\u6253\u958b$3\uff0c\u627e\u5230Chrono\u4e0b\u8f09\u7ba1\u7406\u5668\uff0c\u52fe\u9078 $2 \u524d\u7684\u8907\u9078\u6846\u3002\n\u5982\u679c\u4f60\u6709\u4efb\u4f55\u554f\u984c\uff0c\u8acb\u81f3\u8aaa\u660e\u8207\u5e38\u898b\u554f\u984c\u9801\u9762\u5c0b\u6c42\u5354\u52a9\u3002"
+  },
+  "msgTitleUpdateAvail": {
+    "message": "\u73fe\u5df2\u63a8\u51fa\u65b0\u7248\u672c"
+  },
+  "msgTitleWelcome": {
+    "message": "\u6b61\u8fce\u4f7f\u7528\uff01"
+  },
+  "msgUpdated": {
+    "message": "\u300c$1\u300d\u5df2\u66f4\u65b0\u3002"
+  },
+  "optItemBadgeDownloadNum": {
+    "message": "\u5728\u901a\u77e5\u5217\u5716\u793a\u986f\u793a\u6b63\u5728\u4e0b\u8f09\u4efb\u52d9\u6578\u91cf"
+  },
+  "optItemClearRemoveFile": {
+    "message": "\u5f9e\u78c1\u789f\u522a\u9664"
+  },
+  "optItemClearSearch": {
+    "message": "\u7be9\u9078\u5668\u8b8a\u66f4\u6642\uff0c\u6e05\u9664\u641c\u5c0b\u6846"
+  },
+  "optItemClickNotify": {
+    "message": "\u9ede\u64ca\u901a\u77e5"
+  },
+  "optItemConcurrentDownloads": {
+    "message": "\u540c\u6642\u4e0b\u8f09\u6578\u91cf"
+  },
+  "optItemDblClickAction": {
+    "message": "\u96d9\u64ca\u4efb\u52d9"
+  },
+  "optItemDefAddPaused": {
+    "message": "\u52a0\u5165\u4e26\u66ab\u505c"
+  },
+  "optItemDefFolder": {
+    "message": "\u9810\u8a2d\u4f4d\u7f6e"
+  },
+  "optItemDefNaming": {
+    "message": "\u9810\u8a2d\u547d\u540d\u898f\u5247"
+  },
+  "optItemDownloadClipboard": {
+    "message": "\u4e0b\u8f09\u526a\u8cbc\u7c3f\u4e2d\u7684\u9023\u7d50"
+  },
+  "optItemDownloadsPerServer": {
+    "message": "\u6bcf\u53f0\u4f3a\u670d\u5668\u6700\u5927\u4e0b\u8f09\u6578\u91cf"
+  },
+  "optItemHideShelf": {
+    "message": "\u96b1\u85cfChrome\u7684\u4e0b\u8f09\u5217"
+  },
+  "optItemMenuDialog": {
+    "message": "\u53e6\u5b58\u9023\u7d50\u70ba..."
+  },
+  "optItemMenuOneClick": {
+    "message": "\u4e00\u9375\u4e0b\u8f09\u9023\u7d50\u6216\u5716\u7247"
+  },
+  "optItemNameConflict": {
+    "message": "\u7576\u6a94\u540d\u885d\u7a81\u6642"
+  },
+  "optItemNotifyError": {
+    "message": "\u932f\u8aa4\u767c\u751f\u6642\uff0c\u986f\u793a\u901a\u77e5"
+  },
+  "optItemNotifyFinish": {
+    "message": "\u4e0b\u8f09\u5b8c\u6210\u6642\uff0c\u986f\u793a\u901a\u77e5"
+  },
+  "optItemNotifyLargePreview": {
+    "message": "\u986f\u793a\u5716\u7247\u5927\u578b\u9810\u89bd"
+  },
+  "optItemNotifyOneClick": {
+    "message": "\u65b0\u589e\u4e00\u9375\u4e0b\u8f09\u4efb\u52d9\u6642\uff0c\u986f\u793a\u901a\u77e5"
+  },
+  "optItemNotifyProgress": {
+    "message": "\u986f\u793a\u4e0b\u8f09\u9032\u5ea6"
+  },
+  "optItemOverrideChrome": {
+    "message": "\u53d6\u4ee3Chrome\u9810\u8a2d\u4e0b\u8f09\u9801\u9762\uff0c\u4e26\u555f\u7528$1\u5feb\u6377\u9375"
+  },
+  "optItemPopClearClose": {
+    "message": "\u6e05\u9664\u4efb\u52d9\u5f8c\u95dc\u9589\u5f48\u51fa\u8996\u7a97"
+  },
+  "optItemPopDeleteAction": {
+    "message": "\u9ede\u64ca\"\u522a\u9664\"\u9215"
+  },
+  "optItemPopLikeButtons": {
+    "message": "\u986f\u793a\u793e\u4ea4\u7db2\u7ad9\u6309\u9215"
+  },
+  "optItemPopMaxItems": {
+    "message": "\u4e0b\u8f09\u6e05\u55ae\u6700\u5927\u986f\u793a\u9805\u76ee"
+  },
+  "optItemPopShowDLFirst": {
+    "message": "\u6b63\u5728\u4e0b\u8f09\u4efb\u52d9\u7f6e\u9802"
+  },
+  "optItemPreviewAutoplay": {
+    "message": "\u81ea\u52d5\u64ad\u653e\u5f71\u7247\u6216\u97f3\u8a0a"
+  },
+  "optItemRecycleCancel": {
+    "message": "\u7576\u4efb\u52d9\u79fb\u81f3\u5783\u573e\u6876\u6642\uff0c\u5c07\u5176\u53d6\u6d88"
+  },
+  "optItemRuleMatchMode": {
+    "message": "\u6bd4\u5c0d\u6a21\u5f0f"
+  },
+  "optItemSlideDetailsPanel": {
+    "message": "\u9ede\u64ca\u4efb\u52d9\u6642\uff0c\u986f\u793a\u8a73\u7d30\u9762\u677f"
+  },
+  "optItemSoundError": {
+    "message": "\u932f\u8aa4\u767c\u751f\uff0c\u64ad\u653e\u63d0\u793a\u97f3"
+  },
+  "optItemSoundFinish": {
+    "message": "\u4e0b\u8f09\u5b8c\u6210\u6642\uff0c\u64ad\u653e\u63d0\u793a\u97f3"
+  },
+  "optItemStartInterrupted": {
+    "message": "\u4e0b\u8f09\u6309\u9215\u53ef\u555f\u52d5\u5df2\u5931\u6557\u4efb\u52d9"
+  },
+  "optOptionClearAllNotify": {
+    "message": "\u6e05\u9664\u6240\u6709\u901a\u77e5"
+  },
+  "optOptionClearNotify": {
+    "message": "\u6e05\u9664\u901a\u77e5"
+  },
+  "optOptionDoNothing": {
+    "message": "\u4e0d\u57f7\u884c\u4efb\u4f55\u52d5\u4f5c"
+  },
+  "optOptionFirstMatch": {
+    "message": "\u7b2c\u4e00\u500b\u5339\u914d"
+  },
+  "optOptionOpenFile": {
+    "message": "\u958b\u555f\u6a94\u6848"
+  },
+  "optOptionOpenFolder": {
+    "message": "\u958b\u555f\u8cc7\u6599\u593e"
+  },
+  "optOptionOverwrite": {
+    "message": "\u8986\u5beb"
+  },
+  "optOptionPrompt": {
+    "message": "\u8a62\u554f"
+  },
+  "optOptionRemAsk": {
+    "message": "\u8a62\u554f"
+  },
+  "optOptionRemFile": {
+    "message": "\u5f9e\u78c1\u789f\u522a\u9664\uff0c\u4f46\u4e0d\u78ba\u8a8d"
+  },
+  "optOptionRemList": {
+    "message": "\u5f9e\u6e05\u55ae\u4e2d\u79fb\u9664"
+  },
+  "optOptionReplace": {
+    "message": "\u53d6\u4ee3"
+  },
+  "optOptionSkipCancel": {
+    "message": "\u53d6\u6d88\u4e0b\u8f09"
+  },
+  "optOptionSkipPause": {
+    "message": "\u8df3\u904e\u4e26\u66ab\u505c"
+  },
+  "optOptionStartPause": {
+    "message": "\u958b\u59cb\u6216\u66ab\u505c"
+  },
+  "optOptionUniquify": {
+    "message": "\u81ea\u52d5\u66f4\u6539\u6a94\u540d"
+  },
+  "optSectionBehaviors": {
+    "message": "\u884c\u70ba"
+  },
+  "optSectionMenu": {
+    "message": "\u9078\u55ae"
+  },
+  "optSectionMisc": {
+    "message": "\u5176\u4ed6"
+  },
+  "optSectionNetwork": {
+    "message": "\u7db2\u8def"
+  },
+  "optSectionNotifications": {
+    "message": "\u901a\u77e5"
+  },
+  "optSectionOneClick": {
+    "message": "\u4e00\u9375\u4e0b\u8f09"
+  },
+  "optSectionPopup": {
+    "message": "\u5f48\u51fa\u5f0f\u8996\u7a97"
+  },
+  "optSectionPreview" : {
+    "message": "\u9810\u89bd"
+  },
+  "optSectionTaskDefaults": {
+    "message": "\u65b0\u589e\u4efb\u52d9\u9810\u8a2d\u8a2d\u5b9a"
+  },
+  "optionAddTop": {
+    "message": "\u52a0\u5165\u81f3\u968a\u5217\u7f6e\u9802"
+  },
+  "optionDisableExtFilters": {
+    "message": "\u505c\u7528\u526f\u6a94\u540d\u7be9\u9078"
+  },
+  "optionDontAsk": {
+    "message": "\u8a18\u4f4f\u6211\u7684\u9078\u64c7"
+  },
+  "optionSearchCaseSensitive": {
+    "message": "\u5340\u5206\u5927\u5c0f\u5beb"
+  },
+  "optionSearchFuzzyMatch": {
+    "message": "\u6a21\u7cca\u6bd4\u5c0d"
+  },
+  "optionShowSize": {
+    "message": "\u986f\u793a\u6a94\u6848\u5927\u5c0f"
+  },
+  "optionTableAutoResize": {
+    "message": "\u81ea\u52d5\u5206\u914d\u6b04\u5bec"
+  },
+  "optionTableSyncResize": {
+    "message": "\u540c\u6b65\u8abf\u6574\u6b04\u5bec"
+  },
+  "phraseAutomatic": {
+    "message": "\u81ea\u52d5"
+  },
+  "phraseEnable": {
+    "message": "\u555f\u7528"
+  },
+  "phraseMultiValues": {
+    "message": "\u591a\u91cd\u503c"
+  },
+  "phraseNever": {
+    "message": "\u6c38\u4e0d"
+  },
+  "phrasePreview": {
+    "message": "\u9810\u89bd"
+  },
+  "phraseRegex": {
+    "message": "\u898f\u5247\u904b\u7b97\u5f0f"
+  },
+  "phraseToday": {
+    "message": "\u4eca\u5929"
+  },
+  "phraseUnknown": {
+    "message": "\u672a\u77e5"
+  },
+  "phraseUnknownSize": {
+    "message": "\u672a\u77e5\u7684\u5927\u5c0f"
+  },
+  "phraseVersion": {
+    "message": "\u7248\u672c"
+  },
+  "phraseYesterday": {
+    "message": "\u6628\u5929"
+  },
+  "ruleAllTasks": {
+    "message": "\u6240\u6709\u4efb\u52d9"
+  },
+  "ruleAudio": {
+    "message": "\u97f3\u8a0a"
+  },
+  "ruleDocument": {
+    "message": "\u6587\u4ef6"
+  },
+  "ruleDownloading": {
+    "message": "\u4e0b\u8f09\u4e2d"
+  },
+  "ruleFinished": {
+    "message": "\u5df2\u5b8c\u6210"
+  },
+  "ruleImage": {
+    "message": "\u5716\u7247"
+  },
+  "ruleInterrupted": {
+    "message": "\u5931\u6557"
+  },
+  "ruleNew": {
+    "message": "\u65b0\u589e\u7684\u898f\u5247"
+  },
+  "ruleOther": {
+    "message": "\u5176\u4ed6"
+  },
+  "ruleRecent": {
+    "message": "\u6700\u8fd1"
+  },
+  "ruleRecycled": {
+    "message": "\u5783\u573e\u6876"
+  },
+  "ruleSmallFiles": {
+    "message": "\u5c0f\u578b\u6a94\u6848"
+  },
+  "ruleVideo": {
+    "message": "\u5f71\u7247"
+  },
+  "stateDownloading": {
+    "message": "\u4e0b\u8f09\u4e2d"
+  },
+  "stateError": {
+    "message": "\u5931\u6557"
+  },
+  "stateFileMiss": {
+    "message": "\u6a94\u6848\u907a\u5931"
+  },
+  "stateFinished": {
+    "message": "\u5df2\u5b8c\u6210"
+  },
+  "statePaused": {
+    "message": "\u5df2\u66ab\u505c"
+  },
+  "stateQueue": {
+    "message": "\u7b49\u5019\u4e2d"
+  },
+  "statusCopyURL": {
+    "message": "\u6b63\u5728\u8907\u88fd\u9023\u7d50..."
+  },
+  "statusCopyURLDone": {
+    "message": "\u5df2\u5c07\u7db2\u5740\u8907\u88fd\u5230\u526a\u8cbc\u7c3f"
+  },
+  "statusDownloadedSize": {
+    "message": "$1\uff0c\u7e3d\u5171 $2"
+  },
+  "statusImportDone": {
+    "message": "\u5df2\u6210\u529f\u532f\u5165"
+  },
+  "statusImporting": {
+    "message": "\u532f\u5165\u4e2d..."
+  },
+  "statusNumDownloading": {
+    "message": "$1 \u4e0b\u8f09\u4e2d"
+  },
+  "statusNumItems": {
+    "message": "$1\u500b\u9805\u76ee"
+  },
+  "statusReadClipboard": {
+    "message": "\u6b63\u5728\u8b80\u53d6\u526a\u8cbc\u7c3f..."
+  },
+  "statusScheduledAutoClear": {
+    "message": "$1\u79d2\u5f8c\u5c07\u81ea\u52d5\u6e05\u9664\u4efb\u52d9"
+  },
+  "statusSelectedOf": {
+    "message": "\u5df2\u9078\u53d6$1\u500b\u9805\u76ee"
+  },
+  "statusTasksCleared": {
+    "message": "\u5df2\u79fb\u9664$1\u500b\u9805\u76ee"
+  },
+  "statusTimeLeft": {
+    "message": "\u5269\u9918$1"
+  },
+  "tipAutoClear": {
+    "message": "\u81ea\u52d5\u5c07\u4efb\u52d9\u5f9e\u6e05\u55ae\u4e2d\u79fb\u9664\uff0c\u4e26\u4fdd\u7559\u6a94\u6848"
+  },
+  "tipBGBlur": {
+    "message": "\u6a21\u7cca\u6548\u679c\u53ef\u80fd\u5c0e\u81f4GUI\u53cd\u61c9\u964d\u4f4e"
+  },
+  "tipBGEnable": {
+    "message": "\u7531\u65bcChrome\u672c\u8eab\u554f\u984c\uff0c\u555f\u7528\u80cc\u666f\u5f8c\uff0c\u53ef\u80fd\u5c0e\u81f4\u8edf\u9ad4\u5360\u7528\u66f4\u591a\u8a18\u61b6\u9ad4\u3002"
+  },
+  "tipBGURLHasFileAccess": {
+    "message": "\u8f38\u5165\u7db2\u5740\uff0c\u6216\u8f38\u5165\u672c\u6a5f\u96fb\u8166\u5716\u7247\u6a94\u6848\u8def\u5f91\uff08\u4ee5file:///\u4e3a\u524d\u7f00\uff09"
+  },
+  "tipBGURLNoFileAccess": {
+    "message": "\u8f38\u5165\u7db2\u5740\uff0c\u6216\u8f38\u5165\u672c\u6a5f\u96fb\u8166\u5716\u7247\u6a94\u6848\u8def\u5f91(\u4f7f\u7528\u672c\u5730\u7aef\u6a94\u6848\u6642\uff0c\u5fc5\u9808\u555f\u7528Chrono\u6a94\u6848\u5b58\u53d6\u6b0a\u9650\uff0c\u8a73\u8acb\u8acb\u9ede\u64ca\u63d0\u793a\u7b26\u865f)"
+  },
+  "tipBrowserAction": {
+    "message": "\u4e0b\u8f09\u672c\u9801\u6240\u6709\u8cc7\u6e90"
+  },
+  "tipBtnBackToManager": {
+    "message": "\u8fd4\u56de\u7ba1\u7406\u5668"
+  },
+  "tipBtnChangeDefaultLocation": {
+    "message": "\u8b8a\u66f4\u76ee\u6a19\u8cc7\u6599\u593e\u2026"
+  },
+  "tipBtnClear": {
+    "message": "\u6e05\u9664\u4efb\u52d9"
+  },
+  "tipBtnConfigExtFilters": {
+    "message": "\u7de8\u8f2f\u7be9\u9078\u5668"
+  },
+  "tipBtnCopyLink": {
+    "message": "\u8907\u88fd\u9023\u7d50"
+  },
+  "tipBtnDelete": {
+    "message": "\u522a\u9664"
+  },
+  "tipBtnHelp": {
+    "message": "\u8aaa\u660e"
+  },
+  "tipBtnNewTask": {
+    "message": "\u65b0\u589e\u5de5\u4f5c"
+  },
+  "tipBtnOpenDefaultLocation": {
+    "message": "\u958b\u555f\u4e0b\u8f09\u5167\u5bb9\u8cc7\u6599\u593e"
+  },
+  "tipBtnOpenFile": {
+    "message": "\u958b\u555f\u6a94\u6848"
+  },
+  "tipBtnOpenFolder": {
+    "message": "\u958b\u555f\u8cc7\u6599\u593e"
+  },
+  "tipBtnOptions": {
+    "message": "\u9078\u9805"
+  },
+  "tipBtnPause": {
+    "message": "\u66ab\u505c"
+  },
+  "tipBtnPauseAll": {
+    "message": "\u5168\u90e8\u66ab\u505c"
+  },
+  "tipBtnPopList": {
+    "message": "\u5207\u63db\u70ba\u6e05\u55ae"
+  },
+  "tipBtnPopSniffer": {
+    "message": "\u5207\u63db\u81f3\u8cc7\u6e90\u76e3\u6e2c\u5668"
+  },
+  "tipBtnRecycle": {
+    "message": "\u79fb\u81f3\u5783\u573e\u6876"
+  },
+  "tipBtnRestart": {
+    "message": "\u91cd\u65b0\u958b\u59cb"
+  },
+  "tipBtnRestore": {
+    "message": "\u9084\u539f"
+  },
+  "tipBtnSort": {
+    "message": "\u6392\u5e8f"
+  },
+  "tipBtnStart": {
+    "message": "\u958b\u59cb"
+  },
+  "tipBtnStartAll": {
+    "message": "\u5168\u90e8\u958b\u59cb"
+  },
+  "tipExtFilterEnable": {
+    "message": "\u5728Chrono\u8cc7\u6e90\u76e3\u6e2c\u5668\u4e2d\u555f\u7528\u526f\u6a94\u540d\u7be9\u9078\u5668"
+  },
+  "tipExtFilterRefName": {
+    "message": "\u5728\u5176\u4ed6\u689d\u4ef6\u5f0f\u4e2d\u5f15\u7528\u7684\u5167\u90e8\u540d\u7a31"
+  },
+  "tipNaming": {
+    "message": "\u8acb\u53c3\u95b1\u547d\u540d\u898f\u5247\u8aaa\u660e\u9801\u9762"
+  },
+  "tipOptItemRuleMatchMode": {
+    "message": "\u8acb\u6ce8\u610f\uff0c\u50c5\u5728\u898f\u5247\u555f\u7528\u6642\u624d\u6703\u88ab\u7528\u4f5c\u898f\u5247\u5339\u914d\u3002\u5728\u53d6\u4ee3\u6a21\u5f0f\u4e0b\uff0c\u6240\u6709\u898f\u5247\u90fd\u6703\u88ab\u5957\u7528\uff0c\u4f46\u662f\u4e4b\u5f8c\u5efa\u7acb\u7684\u898f\u5247\u5c07\u6703\u53d6\u4ee3\u4e4b\u524d\u7684\u898f\u5247\u3002"
+  },
+  "tipOptItemSlideDetailsPanel": {
+    "message": "\u53ef\u4ee5\u4f7f\u7528Alt + \u5de6\u9375\uff0c\u958b\u555f\u8a73\u7d30\u8cc7\u8a0a"
+  },
+  "tipOptNoRuleMatch": {
+    "message": "\u5728\u898f\u5247\u5339\u914d\u7121\u7d50\u679c\u6642\u5957\u7528"
+  },
+  "tipOptSectionOneClick": {
+    "message": "\u5982\u679c\u555f\u7528\u6b64\u9078\u9805\uff0c\u7576\u4f60\u9ede\u64ca\u9023\u7d50\u6642\uff0c\u5c07\u81ea\u52d5\u4e0b\u8f09\u4e26\u5957\u7528\u9810\u8a2d\u4efb\u52d9\u8a2d\u5b9a\uff0c\u4e0d\u6703\u8df3\u51fa\u4e0b\u8f09\u5c0d\u8a71\u6846\u3002\u6ce8\u610f\u4f60\u53ef\u80fd\u9084\u6703\u770b\u5230Chrome\u5167\u5efa\u7684\u6587\u4ef6\u5c0d\u8a71\u6846\uff0c\u8acb\u9ede\u64ca\u63d0\u793a\u67e5\u770b\u5982\u4f55\u5c07\u5176\u95dc\u9589\u3002"
+  },
+  "tipOptSectionTaskDefaults": {
+    "message": "\u4e0b\u6b21\u65b0\u589e\u4efb\u52d9\u6642\uff0c\u5c07\u5957\u7528\u9810\u8a2d\u8a2d\u5b9a\uff0c\u4f8b\u5982\uff1a\u5957\u7528\u4e00\u9375\u4e0b\u8f09"
+  },
+  "tipRulesActive": {
+    "message": "\u53ea\u6709\u555f\u7528\u7684\u898f\u5247\u624d\u6703\u7528\u65bc\u898f\u5247\u5339\u914d"
+  },
+  "tipRulesAsFilter": {
+    "message": "\u65bc\u4e0b\u8f09\u7ba1\u7406\u5668\u986f\u793a\u4efb\u52d9\u7be9\u9078\u5668"
+  },
+  "tipRulesRefName": {
+    "message": "\u5728\u5176\u4ed6\u689d\u4ef6\u5f0f\u4e2d\u5f15\u7528\u8a72\u898f\u5247\u6240\u4f7f\u7528\u7684\u5167\u90e8\u540d\u7a31"
+  },
+  "tipURL": {
+    "message": "\u53ef\u5728\u65b0\u7684\u4e00\u884c\u8f38\u5165\u591a\u689d\u7db2\u5740\uff1b\u53ef\u8f38\u5165\u6279\u6b21\u4e0b\u8f09\u689d\u4ef6\u4ee5\u555f\u52d5\u6279\u6b21\u4e0b\u8f09"
+  },
+  "tipmsgCopySelectedURLs": {
+    "message": "\u6309$1\u8907\u88fd\u9078\u53d6\u9805\u76ee\u9023\u7d50"
+  },
+  "tipmsgDoubleClick": {
+    "message": "\u8b8a\u66f4\u96d9\u64ca\u52d5\u4f5c\uff1a$1"
+  },
+  "tipmsgFitColumnWidth": {
+    "message": "\u96d9\u64ca\u6b04\u4f4d\u7e2e\u653e\u5de5\u5177\uff0c\u81ea\u52d5\u8abf\u6574\u6b04\u5bec"
+  },
+  "tipmsgGridSelection": {
+    "message": "\u4f7f\u7528Ctrl\u3001Shift\u9078\u53d6\u591a\u500b\u9805\u76ee\uff0c\u6216\u6309$1\u5168\u9078"
+  },
+  "tipmsgNotifications": {
+    "message": "\u8b8a\u66f4\u901a\u77e5\u3001\u97f3\u6548\u8a2d\u5b9a\uff1a$1"
+  },
+  "tipmsgOpenShortcut": {
+    "message": "\u4f7f\u7528\u5feb\u6377\u9375$2\uff0c\u5feb\u901f\u958b\u555f$1"
+  },
+  "tipmsgSlideDetailsPanel": {
+    "message": "\u95dc\u9589\u8a73\u7d30\u8cc7\u8a0a\uff1a$1"
+  },
+  "tipmsgTaskFilter": {
+    "message": "\u62d6\u66f3\u4e26\u91cd\u65b0\u6392\u5217\u4efb\u52d9\u7be9\u9078\u5668\uff1b\u81ea\u8a02\u4efb\u52d9\u7be9\u9078\u5668\uff1a$1"
+  },
+  "titleChangeBG": {
+    "message": "\u8b8a\u66f4\u80cc\u666f"
+  },
+  "titleNewTaskDialog": {
+    "message": "\u65b0\u589e\u5de5\u4f5c"
+  },
+  "titleOptions": {
+    "message": "\u9078\u9805"
+  },
+  "titleOptionsAbout": {
+    "message": "\u95dc\u65bc"
+  },
+  "titleOptionsFilter": {
+    "message": "\u526f\u6a94\u540d\u7be9\u9078\u5668"
+  },
+  "titleOptionsGeneral": {
+    "message": "\u4e00\u822c\u8a2d\u5b9a"
+  },
+  "titleOptionsHelp": {
+    "message": "\u8aaa\u660e"
+  },
+  "titleOptionsInterface": {
+    "message": "\u4f7f\u7528\u8005\u4ecb\u9762"
+  },
+  "titleOptionsRules": {
+    "message": "\u898f\u5247\u7cfb\u7d71"
+  },
+  "titleQuickSelection": {
+    "message": "\u5feb\u901f\u9078\u53d6"
+  },
+  "titleRateShare": {
+    "message": "\u5206\u4eab\u8207\u8a55\u5206"
+  },
+  "titleSniffer": {
+    "message": "\u8cc7\u6e90\u76e3\u6e2c\u5668"
+  },
+  "titleSwitchUI": {
+    "message": "\u5207\u63db\u986f\u793a\u6a21\u5f0f"
+  },
+  "titleTaskProps": {
+    "message": "\u4efb\u52d9\u5c6c\u6027"
+  },
+  "titleTips": {
+    "message": "\u63d0\u793a"
+  },
+  "titleUpdateLog": {
+    "message": "\u8b8a\u66f4\u7d00\u9304"
+  },
+  "translateContributors": {
+    "message": "David, Coin and michael870523"
+  },
+  "uilang": {
+    "message": "zh-TW"
+  },
+  "uilangName": {
+    "message": "Chinese (Traditional)"
+  },
+  "unitBytes": {
+    "message": "$1\u500b\u4f4d\u5143\u7d44"
+  },
+  "unitDay": {
+    "message": "$1\u5929"
+  },
+  "unitDays": {
+    "message": "$1\u5929"
+  },
+  "unitHour": {
+    "message": "$1\u5c0f\u6642"
+  },
+  "unitHours": {
+    "message": "$1\u5c0f\u6642"
+  },
+  "unitMinute": {
+    "message": "$1\u5206\u9418"
+  },
+  "unitMinutes": {
+    "message": "$1\u5206\u9418"
+  },
+  "unitSecond": {
+    "message": "$1\u79d2"
+  },
+  "unitSeconds": {
+    "message": "$1\u79d2"
+  }
+}

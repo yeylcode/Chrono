@@ -1,0 +1,1028 @@
+{
+  "btnAbout": {
+    "message": "Acerca de"
+  },
+  "btnAddPaused": {
+    "message": "Adicionar Pausado"
+  },
+  "btnApply": {
+    "message": "Aplicar"
+  },
+  "btnBackToManager": {
+    "message": "Anterior"
+  },
+  "btnCancel": {
+    "message": "Cancelar"
+  },
+  "btnClearAll": {
+    "message": "Limpar tudo"
+  },
+  "btnClearFailed": {
+    "message": "Limpar tarefas interrompidas"
+  },
+  "btnClearFinished": {
+    "message": "Limpar tarefas conclu\u00eddas"
+  },
+  "btnClearRemoved": {
+    "message": "Limpar ficheiro desaparecido"
+  },
+  "btnFAQ": {
+    "message": "Perguntas frequentes"
+  },
+  "btnGotIt": {
+    "message": "Entendido!"
+  },
+  "btnImportChromeHistory": {
+    "message": "Importar hist\u00f3rico"
+  },
+  "btnLater": {
+    "message": "Mais tarde"
+  },
+  "btnLoadPreview": {
+    "message": "Carregar pr\u00e9-visualiza\u00e7\u00e3o"
+  },
+  "btnOpenManager": {
+    "message": "Abrir Gestor"
+  },
+  "btnPopRemoveFile": {
+    "message": "E eliminar ficheiro"
+  },
+  "btnPopRemoveList": {
+    "message": "Remover da lista"
+  },
+  "btnRate": {
+    "message": "Classificar"
+  },
+  "btnShareDone": {
+    "message": "J\u00e1 fiz"
+  },
+  "btnStart": {
+    "message": "Iniciar"
+  },
+  "btnStartAll": {
+    "message": "Transferir tudo"
+  },
+  "btnTakeMeThere": {
+    "message": "Ir para a aplica\u00e7\u00e3o"
+  },
+  "btnUpdateReload": {
+    "message": "Atualizar agora"
+  },
+  "chromesysAllowFileAccess": {
+    "message": "Permitir acesso a URLs de ficheiro"
+  },
+  "chromesysChange": {
+    "message": "Alterar..."
+  },
+  "chromesysDownloadLocation": {
+    "message": "Localiza\u00e7\u00e3o da transfer\u00eancia"
+  },
+  "chromesysDownloadSaveAsPrompt": {
+    "message": "Perguntar onde guardar cada ficheiro antes da transfer\u00eancia"
+  },
+  "chromesysDownloadsSection": {
+    "message": "Transfer\u00eancias"
+  },
+  "chromesysFailedGenericDownloadError": {
+    "message": "Erro de transfer\u00eancia"
+  },
+  "chromesysFailedGenericNetworkError": {
+    "message": "Erro de rede"
+  },
+  "chromesysFailed_CRASH": {
+    "message": "Falha"
+  },
+  "chromesysFailed_FILE_ACCESS_DENIED": {
+    "message": "Permiss\u00f5es insuficientes"
+  },
+  "chromesysFailed_FILE_BLOCKED": {
+    "message": "Bloqueado"
+  },
+  "chromesysFailed_FILE_NAME_TOO_LONG": {
+    "message": "Caminho demasiado longo"
+  },
+  "chromesysFailed_FILE_NO_SPACE": {
+    "message": "Disco cheio"
+  },
+  "chromesysFailed_FILE_SAME_AS_SOURCE": {
+    "message": "J\u00e1 transferido"
+  },
+  "chromesysFailed_FILE_SECURITY_CHECK_FAILED": {
+    "message": "Falha ao analisar v\u00edrus"
+  },
+  "chromesysFailed_FILE_TOO_LARGE": {
+    "message": "Ficheiro demasiado grande"
+  },
+  "chromesysFailed_FILE_TOO_SHORT": {
+    "message": "Ficheiro truncado"
+  },
+  "chromesysFailed_FILE_TRANSIENT_ERROR": {
+    "message": "Sistema ocupado"
+  },
+  "chromesysFailed_FILE_VIRUS_INFECTED": {
+    "message": "V\u00edrus detetado"
+  },
+  "chromesysFailed_NETWORK_TIMEOUT": {
+    "message": "Limite de tempo da rede"
+  },
+  "chromesysFailed_SERVER_BAD_CONTENT": {
+    "message": "Sem ficheiro"
+  },
+  "chromesysFailed_SERVER_CERT_PROBLEM": {
+    "message": "Certificado incorreto"
+  },
+  "chromesysFailed_SERVER_CONTENT_LENGTH_MISMATCH": {
+    "message": "Ficheiro incompleto"
+  },
+  "chromesysFailed_SERVER_FAILED": {
+    "message": "Problema no servidor"
+  },
+  "chromesysFailed_SERVER_FORBIDDEN": {
+    "message": "Proibido"
+  },
+  "chromesysFailed_SERVER_UNAUTHORIZED": {
+    "message": "Necessita de autoriza\u00e7\u00e3o"
+  },
+  "chromesysFailed_SERVER_UNREACHABLE": {
+    "message": "Servidor inacess\u00edvel"
+  },
+  "chromesysFailed_USER_CANCELED": {
+    "message": "Cancelado"
+  },
+  "chromesysFailed_USER_SHUTDOWN": {
+    "message": "Encerrar"
+  },
+  "chromesysFontSize": {
+    "message": "Tamanho do tipo de letra"
+  },
+  "chromesysLanguageSection": {
+    "message": "Idioma"
+  },
+  "chromesysShowAdvSettings": {
+    "message": "Mostrar defini\u00e7\u00f5es avan\u00e7adas..."
+  },
+  "chromesysWebStore": {
+    "message": "Chrome Web Store"
+  },
+  "confirmBatchDownload": {
+    "message": "Parece que est\u00e1s para iniciar downloads do grupo, aqui est\u00e3o alguns exemplos:"
+  },
+  "confirmBatchDownloadNaming": {
+    "message": "Para a transfer\u00eancia em lote, certifique-se que a m\u00e1scara gerar\u00e1 nomes de ficheiros diferentes. Deseja continuar?"
+  },
+  "confirmBtnYes": {
+    "message": "Sim"
+  },
+  "confirmBtnYesFile": {
+    "message": "Eliminar ficheiro"
+  },
+  "confirmCantResumeRestart": {
+    "message": "Tarefa $1 n\u00e3o consegue recomesar, desejas reiniciar-lo?"
+  },
+  "confirmClearTask": {
+    "message": "Tem a certeza de que pretende remover $1 itens?"
+  },
+  "confirmProceed": {
+    "message": "Continuar?"
+  },
+  "confirmRecycleRunning": {
+    "message": "Reciclar tarefas em execu\u00e7\u00e3o?"
+  },
+  "confirmRemoveExtFilter": {
+    "message": "Remover os itens seleccionados?"
+  },
+  "confirmRemoveRule": {
+    "message": "Remover os itens seleccionados?"
+  },
+  "confirmRemoveTask": {
+    "message": "Remover permanentemente tarefas selecionadas?"
+  },
+  "confirmReset": {
+    "message": "N\u00e3o \u00e9 poss\u00edvel anular a opera\u00e7\u00e3o. Pretende continuar?"
+  },
+  "errorFNameConflict": {
+    "message": "Conflito de nomes"
+  },
+  "errorFileNotExist": {
+    "message": "Ficheiro n\u00e3o encontrado"
+  },
+  "errorInvalidNamingMask": {
+    "message": "Nome inv\u00e1lido"
+  },
+  "errorInvalidURLs": {
+    "message": "URL inv\u00e1lido"
+  },
+  "errorNoID": {
+    "message": "Falha ao adicionar nova tarefa para o Chrono porque existem muitas tarefas no gestor, limpe algumas tarefas n\u00e3o utilizadas e tente novamente."
+  },
+  "errorNone": {
+    "message": "Sem erros"
+  },
+  "errorRemovedFromChrome": {
+    "message": "A tarefa pode ter sido removida do Chrome."
+  },
+  "everyXDays": {
+    "message": "A cada $1 dias"
+  },
+  "everyXHours": {
+    "message": "A cada $1 horas"
+  },
+  "everyXMinutes": {
+    "message": "A cada $1 minutos"
+  },
+  "extDesc": {
+    "message": "Gestor de Downloads | Download de V\u00eddeos | Download de Imagens em Bloco"
+  },
+  "extDescBest": {
+    "message": "O melhor gestor de transfer\u00eancias para o Chrome"
+  },
+  "extDescSlogan": {
+    "message": "Fa\u00e7a o download e gira a Web!"
+  },
+  "extName": {
+    "message": "Gestor de transfer\u00eancias Chrono"
+  },
+  "extsAll": {
+    "message": "Todos"
+  },
+  "extsApp": {
+    "message": "Aplica\u00e7\u00e3o"
+  },
+  "extsArchive": {
+    "message": "Arquivar"
+  },
+  "extsAudio": {
+    "message": "\u00c1udio"
+  },
+  "extsDocument": {
+    "message": "Documento"
+  },
+  "extsImage": {
+    "message": "Imagem"
+  },
+  "extsNew": {
+    "message": "Novo Filtro"
+  },
+  "extsOthers": {
+    "message": "Outro"
+  },
+  "extsVideo": {
+    "message": "V\u00eddeo"
+  },
+  "fieldAddTime": {
+    "message": "Hora da cria\u00e7\u00e3o"
+  },
+  "fieldAvgSpeed": {
+    "message": "Velocidade m\u00e9dia"
+  },
+  "fieldDownloadedSize": {
+    "message": "Transferido"
+  },
+  "fieldElapsedTime": {
+    "message": "Tempo decorrido"
+  },
+  "fieldFileName": {
+    "message": "Nome do ficheiro"
+  },
+  "fieldFileSize": {
+    "message": "Tamanho do ficheiro"
+  },
+  "fieldFinishTime": {
+    "message": "Hor\u00e1rio de conclus\u00e3o"
+  },
+  "fieldFolder": {
+    "message": "Pasta"
+  },
+  "fieldNaming": {
+    "message": "M\u00e1scara de Nomes"
+  },
+  "fieldProgress": {
+    "message": "Progresso"
+  },
+  "fieldRedirection": {
+    "message": "Redireccionamento"
+  },
+  "fieldReferer": {
+    "message": "Referenciador"
+  },
+  "fieldRemainingTime": {
+    "message": "Tempo restante"
+  },
+  "fieldRemarks": {
+    "message": "Observa\u00e7\u00f5es"
+  },
+  "fieldSpeed": {
+    "message": "Velocidade"
+  },
+  "fieldState": {
+    "message": "Estado"
+  },
+  "fieldThreads": {
+    "message": "T\u00f3picos"
+  },
+  "fieldType": {
+    "message": "Tipo"
+  },
+  "fieldURL": {
+    "message": "URL"
+  },
+  "headExtFilterCaption": {
+    "message": "Nome a apresentar"
+  },
+  "headExtFilterExts": {
+    "message": "Extens\u00e3o de Ficheiro"
+  },
+  "headExtFilterRefName": {
+    "message": "Nome interno"
+  },
+  "headRulesActive": {
+    "message": "Ativa"
+  },
+  "headRulesAsFilter": {
+    "message": "Como Tarefas Filtro"
+  },
+  "headRulesCaption": {
+    "message": "Nome a apresentar"
+  },
+  "headRulesCondition": {
+    "message": "Condi\u00e7\u00e3o"
+  },
+  "headRulesRefName": {
+    "message": "Nome interno"
+  },
+  "helpExtFilter": {
+    "message": "* Clique duas vezes para editar.\n* Degite em linha vazia para adicionar um novo filtro. \n* Selecionar linhas e pressione a tecla DELETE para remov\u00ea-los."
+  },
+  "helpRules": {
+    "message": "* Duplo clique para editar. \n* Escreva em linha vazia para adicionar uma nova regra. \n* Seleccionar linhas e pressione a tecla DELETE para remov\u00ea-las. \n* Se voc\u00ea tem problemas em escrever as regras, por favor consulte a sec\u00e7\u00e3o de Ajuda."
+  },
+  "hintSearchDownloads": {
+    "message": "Pesquisar transfer\u00eancias"
+  },
+  "labelAutoClear": {
+    "message": "Programa\u00e7\u00e3o"
+  },
+  "labelBGBlur": {
+    "message": "Efeito esbatido"
+  },
+  "labelBGChooseFrom": {
+    "message": "Escolher imagem"
+  },
+  "labelBGConstantColor": {
+    "message": "Cor s\u00f3lida"
+  },
+  "labelBGImageURL": {
+    "message": "URL da imagem personalizada"
+  },
+  "labelBGOpacity": {
+    "message": "Opacidade"
+  },
+  "labelCustomFilter": {
+    "message": "Filtro personalizado"
+  },
+  "menuDAudio": {
+    "message": "Guardar \u00e1udio como..."
+  },
+  "menuDAudioOneClick": {
+    "message": "Download o audio com um click"
+  },
+  "menuDImage": {
+    "message": "Guardar imagem como..."
+  },
+  "menuDImageOneClick": {
+    "message": "Download da imagem com um click"
+  },
+  "menuDLink": {
+    "message": "Guardar link como..."
+  },
+  "menuDLinkOneClick": {
+    "message": "Download do link com um click"
+  },
+  "menuDVideo": {
+    "message": "Guardar v\u00eddeo como..."
+  },
+  "menuDVideoOneClick": {
+    "message": "Download do video com um click"
+  },
+  "menuGetHelp": {
+    "message": "Obter ajuda"
+  },
+  "menuOpenManager": {
+    "message": "Abrir gestor"
+  },
+  "menuReportIssue": {
+    "message": "Comunicar um problema"
+  },
+  "msgCannotScanResources": {
+    "message": "N\u00e3o \u00e9 poss\u00edvel detectar recursos para esta p\u00e1gina."
+  },
+  "msgChromeI18nLanguage": {
+    "message": "Chrono usa a mesma linguagem que o  seu navegador Chrome."
+  },
+  "msgEmptyDownloadsList": {
+    "message": "Lista de tarefas vazia"
+  },
+  "msgPreviewErrorReadFile": {
+    "message": "Erro ao ler o ficheiro"
+  },
+  "msgPreviewFailed": {
+    "message": "N\u00e3o foi poss\u00edvel carregar a pr\u00e9-visualiza\u00e7\u00e3o do ficheiro"
+  },
+  "msgPreviewFileAccess": {
+    "message": "N\u00e3o \u00e9 poss\u00edvel carregar o arquivo local para visualiza\u00e7\u00e3o, voc\u00ea pode ativar esse recurso marcando a caixa de sele\u00e7\u00e3o $1 sob $2 na p\u00e1gina chrome://extensions."
+  },
+  "msgPreviewLargeFile": {
+    "message": "Pode demorar um pouco para carregar a pr\u00e9-visualiza\u00e7\u00e3o."
+  },
+  "msgPreviewPdfViewer": {
+    "message": "O Chrome PDF Viewer \u00e9 necess\u00e1rio para a pr\u00e9-visualiza\u00e7\u00e3o, por favor, ligue-o seguindo as instru\u00e7\u00f5es"
+  },
+  "msgRateShare": {
+    "message": "Se achou o $1 \u00fatil, por favor classifique-o na $2 e partilhe com os seus amigos !"
+  },
+  "msgSearchNoResults": {
+    "message": "N\u00e3o foram encontrados resultados"
+  },
+  "msgSelectTaskInfo": {
+    "message": "Nenhum item selecionado."
+  },
+  "msgTaskAddPaused": {
+    "message": "Tarefa adicionada e pausada"
+  },
+  "msgTaskFinish": {
+    "message": "Transfer\u00eancia conclu\u00edda"
+  },
+  "msgTaskInterrupt": {
+    "message": "A transfer\u00eancia falhou"
+  },
+  "msgTaskStart": {
+    "message": "Tarefa adicionada \u00e0 fila"
+  },
+  "msgTextUpdateAvail": {
+    "message": "Recarregue extens\u00e3o para aplicar a atualiza\u00e7\u00e3o."
+  },
+  "msgTextWelcome": {
+    "message": "Antes de come\u00e7ar, \u00e9 recomendado desligar di\u00e1logo seguro do Chrome , desmarcando a caixa de sele\u00e7\u00e3o sob $1.\nVoc\u00ea tamb\u00e9m pode permitir que Chrono, acesse URLs de arquivos para obter uma melhor experi\u00eancia para o usu\u00e1rio, que pode ser ativado pela caixa de sele\u00e7\u00e3o $2 em cima de $3.\nSe voc\u00ea tem alguma d\u00favida, por favor, verifique a p\u00e1gina de Ajuda e a pagina FAQ, tamb\u00e9m podes enviar e-mails para dev@chronodownloader.net\nAproveite!"
+  },
+  "msgTitleUpdateAvail": {
+    "message": "Nova vers\u00e3o dispon\u00edvel"
+  },
+  "msgTitleWelcome": {
+    "message": "Bem-vindo!"
+  },
+  "msgUpdated": {
+    "message": "O $1 foi atualizado."
+  },
+  "optItemBadgeDownloadNum": {
+    "message": "Mostrar numero de tarefas transferidas em cima do \u00edcone da barra de ferramentas"
+  },
+  "optItemClearRemoveFile": {
+    "message": "Eliminar do disco"
+  },
+  "optItemClearSearch": {
+    "message": "Limpar a caixa de pesquisa quando o filtro mudar"
+  },
+  "optItemClickNotify": {
+    "message": "Ao clicar numa notifica\u00e7\u00e3o"
+  },
+  "optItemConcurrentDownloads": {
+    "message": "Downloads simult\u00e2neos"
+  },
+  "optItemDblClickAction": {
+    "message": "Duplo clique na tarefa"
+  },
+  "optItemDefAddPaused": {
+    "message": "Adicionar pausa"
+  },
+  "optItemDefFolder": {
+    "message": "Localiza\u00e7\u00e3o predefinida"
+  },
+  "optItemDefNaming": {
+    "message": "M\u00e1scara de nomes padr\u00e3o"
+  },
+  "optItemDownloadClipboard": {
+    "message": "Transferir URL da \u00e1rea de transfer\u00eancia"
+  },
+  "optItemDownloadsPerServer": {
+    "message": "Downloads por servidor"
+  },
+  "optItemHideShelf": {
+    "message": "Esconder plataforma/barra  de downloads do Chrome"
+  },
+  "optItemMenuDialog": {
+    "message": "Guardar link como..."
+  },
+  "optItemMenuOneClick": {
+    "message": "Download o link/imagem com um click"
+  },
+  "optItemNameConflict": {
+    "message": "Quando nome de ficheiro conflicte"
+  },
+  "optItemNotifyError": {
+    "message": "Mostrar notifica\u00e7\u00e3o quando ocorre erro"
+  },
+  "optItemNotifyFinish": {
+    "message": "Mostrar notifica\u00e7\u00e3o quando o download for conclu\u00eddo"
+  },
+  "optItemNotifyLargePreview": {
+    "message": "Mostrar visualiza\u00e7\u00e3o grande para imagens"
+  },
+  "optItemNotifyOneClick": {
+    "message": "Mostrar notifica\u00e7\u00e3o quando for adicionado o download com Um Click"
+  },
+  "optItemNotifyProgress": {
+    "message": "Mostrar o progresso do download"
+  },
+  "optItemOverrideChrome": {
+    "message": "Substituir a p\u00e1gina de downloads original do Chrome e habilitar o atalho de teclado $1"
+  },
+  "optItemPopClearClose": {
+    "message": "Fechar pop-up depois de limpar as tarefas"
+  },
+  "optItemPopDeleteAction": {
+    "message": "Clicar no bot\u00e3o \"Apagar\""
+  },
+  "optItemPopLikeButtons": {
+    "message": "Mostrar bot\u00f5es de m\u00eddia social"
+  },
+  "optItemPopMaxItems": {
+    "message": "N\u00famero m\u00e1ximo de itens na lista de downloads "
+  },
+  "optItemPopShowDLFirst": {
+    "message": "Mostrar as tarefas de download primeiro"
+  },
+  "optItemPreviewAutoplay": {
+    "message": "Reprodu\u00e7\u00e3o autom\u00e1tica"
+  },
+  "optItemRecycleCancel": {
+    "message": "Cancelar a tarefa quando ela \u00e9 reciclada"
+  },
+  "optItemRuleMatchMode": {
+    "message": "Modo de correspond\u00eancia"
+  },
+  "optItemSlideDetailsPanel": {
+    "message": "Deslize no Painel de Detalhes ao clicar na tarefa"
+  },
+  "optItemSoundError": {
+    "message": "Reproduzir som quando ocorrerem erros"
+  },
+  "optItemSoundFinish": {
+    "message": "Reproduzir som quando o download for conclu\u00eddo"
+  },
+  "optItemStartInterrupted": {
+    "message": "Bot\u00e3o come\u00e7ar pode iniciar tarefas interrompidas"
+  },
+  "optOptionClearAllNotify": {
+    "message": "Limpar todas as notifica\u00e7\u00f5es"
+  },
+  "optOptionClearNotify": {
+    "message": "Limpar essa notifica\u00e7\u00e3o"
+  },
+  "optOptionDoNothing": {
+    "message": "Desativados"
+  },
+  "optOptionFirstMatch": {
+    "message": "Primeira partida"
+  },
+  "optOptionOpenFile": {
+    "message": "Abrir ficheiro"
+  },
+  "optOptionOpenFolder": {
+    "message": "Abrir pasta"
+  },
+  "optOptionOverwrite": {
+    "message": "Substituir"
+  },
+  "optOptionPrompt": {
+    "message": "Perguntar"
+  },
+  "optOptionRemAsk": {
+    "message": "Perguntar"
+  },
+  "optOptionRemFile": {
+    "message": "Eliminar do disco sem confirma\u00e7\u00e3o"
+  },
+  "optOptionRemList": {
+    "message": "Remover da lista"
+  },
+  "optOptionReplace": {
+    "message": "Substituir"
+  },
+  "optOptionSkipCancel": {
+    "message": "Cancelar transf."
+  },
+  "optOptionSkipPause": {
+    "message": "Interromper transf."
+  },
+  "optOptionStartPause": {
+    "message": "Iniciar ou interromper"
+  },
+  "optOptionUniquify": {
+    "message": "Torn\u00e1-lo \u00fanico"
+  },
+  "optSectionBehaviors": {
+    "message": "Comportamento"
+  },
+  "optSectionMenu": {
+    "message": "Menu"
+  },
+  "optSectionMisc": {
+    "message": "Diversos"
+  },
+  "optSectionNetwork": {
+    "message": "Rede"
+  },
+  "optSectionNotifications": {
+    "message": "Notifica\u00e7\u00f5es"
+  },
+  "optSectionOneClick": {
+    "message": "Downloads com Um Click"
+  },
+  "optSectionPopup": {
+    "message": "Pop-up"
+  },
+  "optSectionPreview": {
+    "message": "Pr\u00e9-visualizar"
+  },
+  "optSectionTaskDefaults": {
+    "message": "Novos Padr\u00f5es de tarefas"
+  },
+  "optionAddTop": {
+    "message": "Adicionar ao in\u00edcio da fila"
+  },
+  "optionDisableExtFilters": {
+    "message": "Desactivar filtro de extens\u00f5es"
+  },
+  "optionDontAsk": {
+    "message": "Lembrar a minha escolha"
+  },
+  "optionSearchCaseSensitive": {
+    "message": "Sens\u00edvel a mai\u00fasculas e min\u00fasculas"
+  },
+  "optionSearchFuzzyMatch": {
+    "message": "Correspond\u00eancia semelhante"
+  },
+  "optionShowSize": {
+    "message": "Mostrar tam. de fich."
+  },
+  "optionTableAutoResize": {
+    "message": "For\u00e7ar ajuste de colunas"
+  },
+  "optionTableSyncResize": {
+    "message": "Redimensionamento S\u00edncrono"
+  },
+  "phraseAutomatic": {
+    "message": "Autom\u00e1ticas"
+  },
+  "phraseEnable": {
+    "message": "Ativar"
+  },
+  "phraseMultiValues": {
+    "message": "Valor m\u00faltiplo"
+  },
+  "phraseNever": {
+    "message": "Nunca"
+  },
+  "phrasePreview": {
+    "message": "Pr\u00e9-visualizar"
+  },
+  "phraseRegex": {
+    "message": "Express\u00e3o regular"
+  },
+  "phraseToday": {
+    "message": "Hoje"
+  },
+  "phraseUnknown": {
+    "message": "Desconhecido"
+  },
+  "phraseUnknownSize": {
+    "message": "Tamanho desconhecido"
+  },
+  "phraseVersion": {
+    "message": "Vers\u00e3o"
+  },
+  "phraseYesterday": {
+    "message": "Ontem"
+  },
+  "ruleAllTasks": {
+    "message": "Todas as Tarefas"
+  },
+  "ruleAudio": {
+    "message": "\u00c1udio"
+  },
+  "ruleDocument": {
+    "message": "Documento"
+  },
+  "ruleDownloading": {
+    "message": "A transferir"
+  },
+  "ruleFinished": {
+    "message": "Conclu\u00eddo"
+  },
+  "ruleImage": {
+    "message": "Imagem"
+  },
+  "ruleInterrupted": {
+    "message": "Falhou"
+  },
+  "ruleNew": {
+    "message": "Nova regra"
+  },
+  "ruleOther": {
+    "message": "Outro"
+  },
+  "ruleRecent": {
+    "message": "Recente"
+  },
+  "ruleRecycled": {
+    "message": "Lixo"
+  },
+  "ruleSmallFiles": {
+    "message": "Ficheiros Pequenos"
+  },
+  "ruleVideo": {
+    "message": "V\u00eddeo"
+  },
+  "stateDownloading": {
+    "message": "A transferir"
+  },
+  "stateError": {
+    "message": "Falhou"
+  },
+  "stateFileMiss": {
+    "message": "Ficheiro em falta"
+  },
+  "stateFinished": {
+    "message": "Conclu\u00eddo"
+  },
+  "statePaused": {
+    "message": "Em pausa"
+  },
+  "stateQueue": {
+    "message": "A aguardar"
+  },
+  "statusCopyURL": {
+    "message": "Copiando URL..."
+  },
+  "statusCopyURLDone": {
+    "message": "URL copiado para a \u00e1rea de transfer\u00eancia"
+  },
+  "statusDownloadedSize": {
+    "message": "$1 de $2"
+  },
+  "statusImportDone": {
+    "message": "Importa\u00e7\u00e3o conclu\u00edda com sucesso"
+  },
+  "statusImporting": {
+    "message": "A importar..."
+  },
+  "statusNumDownloading": {
+    "message": "$1 a transferir"
+  },
+  "statusNumItems": {
+    "message": "$1 itens"
+  },
+  "statusReadClipboard": {
+    "message": "Lendo o clipboard..."
+  },
+  "statusScheduledAutoClear": {
+    "message": "Limpeza de tarefas autom\u00e1tica ir\u00e1 executar em $1 segundos"
+  },
+  "statusSelectedOf": {
+    "message": "$1 itens selecionados"
+  },
+  "statusTasksCleared": {
+    "message": "$1 itens removidos"
+  },
+  "statusTimeLeft": {
+    "message": "Faltam $1"
+  },
+  "tipAutoClear": {
+    "message": "Limpa automaticamente ficheiros da lista mas mant\u00e9m-nos no disco"
+  },
+  "tipBGBlur": {
+    "message": "O efeito de desfocagem poder\u00e1 reduzir a capacidade de resposta da IGU (Interface Gr\u00e1fica do Utilizador)."
+  },
+  "tipBGEnable": {
+    "message": "Devido a determinado assunto do Chrome, permitindo a exibi\u00e7\u00e3o de fundo vai aumentar muito o uso de mem\u00f3ria, mantenha isso em mente antes de activar esse recurso."
+  },
+  "tipBGURLHasFileAccess": {
+    "message": "Inserir URL, ou caminho completo de uma imagem em seu computador com o prefixo 'file: ///'"
+  },
+  "tipBGURLNoFileAccess": {
+    "message": "Inserir URL, ou caminho completo de uma imagem em seu computador (para arquivos local, voc\u00ea precisa habilitar o acesso de arquivo primeiramente para Chrono , clique no ponto de interroga\u00e7\u00e3o para ver como fazer isso)"
+  },
+  "tipBrowserAction": {
+    "message": "Transferir todos recursos da p\u00e1gina"
+  },
+  "tipBtnBackToManager": {
+    "message": "Voltar ao Gestor"
+  },
+  "tipBtnChangeDefaultLocation": {
+    "message": "Alterar a pasta de destino..."
+  },
+  "tipBtnClear": {
+    "message": "Limpar"
+  },
+  "tipBtnConfigExtFilters": {
+    "message": "Editar filtros"
+  },
+  "tipBtnCopyLink": {
+    "message": "Copiar link"
+  },
+  "tipBtnDelete": {
+    "message": "Eliminar"
+  },
+  "tipBtnHelp": {
+    "message": "Ajuda"
+  },
+  "tipBtnNewTask": {
+    "message": "Nova tarefa"
+  },
+  "tipBtnOpenDefaultLocation": {
+    "message": "Abrir a pasta de transfer\u00eancias"
+  },
+  "tipBtnOpenFile": {
+    "message": "Abrir ficheiro"
+  },
+  "tipBtnOpenFolder": {
+    "message": "Abrir pasta"
+  },
+  "tipBtnOptions": {
+    "message": "Op\u00e7\u00f5es"
+  },
+  "tipBtnPause": {
+    "message": "Interromper"
+  },
+  "tipBtnPauseAll": {
+    "message": "Interromper tudo"
+  },
+  "tipBtnPopList": {
+    "message": "Vista de lista"
+  },
+  "tipBtnPopSniffer": {
+    "message": "Mudar para Sniffer"
+  },
+  "tipBtnRecycle": {
+    "message": "Mover para o lixo"
+  },
+  "tipBtnRestart": {
+    "message": "Reiniciar"
+  },
+  "tipBtnRestore": {
+    "message": "Restaurar"
+  },
+  "tipBtnSort": {
+    "message": "Ordenar"
+  },
+  "tipBtnStart": {
+    "message": "Iniciar"
+  },
+  "tipBtnStartAll": {
+    "message": "Iniciar tudo"
+  },
+  "tipExtFilterEnable": {
+    "message": "Ativado como filtro de extens\u00f5es em Chrono Sniffer"
+  },
+  "tipExtFilterRefName": {
+    "message": "Nome interno para referenciar filtro em outras express\u00f5es"
+  },
+  "tipNaming": {
+    "message": "Por favor, consulte a p\u00e1gina de ajuda para o uso de Nomea\u00e7\u00e3o de M\u00e1scara."
+  },
+  "tipOptItemRuleMatchMode": {
+    "message": "Por favor, note que apenas Regras ativas s\u00e3o testados para correspond\u00eancia. No modo de substitui\u00e7\u00e3o, todas as regras correspondentes s\u00e3o aplicadas, mas elas ir\u00e3o substituir as anteriores."
+  },
+  "tipOptItemSlideDetailsPanel": {
+    "message": "Tu podes tamb\u00e9m precionar  Alt + clique tarefa para ver Detalhes do Painel"
+  },
+  "tipOptNoRuleMatch": {
+    "message": "Aplicada quando nenhuma regra corresponder"
+  },
+  "tipOptSectionOneClick": {
+    "message": "Se ativado, o download come\u00e7ar\u00e1 imediatamente quando clicar num link, usando as configura\u00e7\u00f5es de tarefas padr\u00e3o (veja acima), sem solicitar um di\u00e1logo para definir a Nomea\u00e7\u00e3o de M\u00e1scara etc."
+  },
+  "tipOptSectionTaskDefaults": {
+    "message": "As configura\u00e7\u00f5es padr\u00e3o a serem aplicadas ao adicionar novas tarefas, i.e aplicada para  downloads de Um Click"
+  },
+  "tipRulesActive": {
+    "message": "Apenas regras ativas ser\u00e3o utilizadas para o mapeamento"
+  },
+  "tipRulesAsFilter": {
+    "message": "Mostrar filtro de tarefas no Download Manager"
+  },
+  "tipRulesRefName": {
+    "message": "Nome interno para referenciar a regra em outras express\u00f5es"
+  },
+  "tipURL": {
+    "message": "Voc\u00ea pode inserir v\u00e1rios URLs separados por novas linhas; voc\u00ea pode come\u00e7ar downloads em lote, utilizando os descritores em lote."
+  },
+  "tipmsgCopySelectedURLs": {
+    "message": "Voc\u00ea pode simplesmente pressionar $1 para copiar URLs de tarefa selecionada (s)"
+  },
+  "tipmsgDoubleClick": {
+    "message": "Voc\u00ea pode mudar o comportamento do duplo-clique sob $1"
+  },
+  "tipmsgFitColumnWidth": {
+    "message": "Carregue duas vezes em ajuste de coluna para ajustar a largura da coluna automaticamente."
+  },
+  "tipmsgGridSelection": {
+    "message": "Utilize Ctrl/Shift para selecinar v\u00e1rias linhas ou pressione $1 para selecionar todas as linhas."
+  },
+  "tipmsgNotifications": {
+    "message": "Voc\u00ea pode alterar as configura\u00e7\u00f5es de notifica\u00e7\u00f5es / sons em $1"
+  },
+  "tipmsgOpenShortcut": {
+    "message": "A maneira mais simples de abrir o $1 \u00e9 pressionando $2"
+  },
+  "tipmsgSlideDetailsPanel": {
+    "message": "O painel de detalhes deslizante pode ser desligado sob $1"
+  },
+  "tipmsgTaskFilter": {
+    "message": "Arraste para re-ordenar Filtros de Tarefas; tamb\u00e9m pode adicionar os seus Filtros personalizados por menos de $1"
+  },
+  "titleChangeBG": {
+    "message": "Mudar imagem de fundo"
+  },
+  "titleNewTaskDialog": {
+    "message": "Nova tarefa"
+  },
+  "titleOptions": {
+    "message": "Op\u00e7\u00f5es"
+  },
+  "titleOptionsAbout": {
+    "message": "Acerca de"
+  },
+  "titleOptionsFilter": {
+    "message": "Filtros"
+  },
+  "titleOptionsGeneral": {
+    "message": "Geral"
+  },
+  "titleOptionsHelp": {
+    "message": "Ajuda"
+  },
+  "titleOptionsInterface": {
+    "message": "Interface do utilizador"
+  },
+  "titleOptionsRules": {
+    "message": "Regras"
+  },
+  "titleQuickSelection": {
+    "message": "Selec\u00e7\u00e3o R\u00e1pida"
+  },
+  "titleRateShare": {
+    "message": "Avaliar e partilhar!"
+  },
+  "titleSniffer": {
+    "message": "Sniffer"
+  },
+  "titleSwitchUI": {
+    "message": "Modo de apresenta\u00e7\u00e3o"
+  },
+  "titleTaskProps": {
+    "message": "Propriedades da Tarefa"
+  },
+  "titleTips": {
+    "message": "Sugest\u00f5es"
+  },
+  "titleUpdateLog": {
+    "message": "Registo de altera\u00e7\u00f5es"
+  },
+  "translateContributors": {
+    "message": "Valter Gon\u00e7alves, Figas, peripheriko, carlosrente88, karlanga, iggy1eco, Fernando Rocha, cml.importtuner etc."
+  },
+  "uilang": {
+    "message": "pt"
+  },
+  "uilangName": {
+    "message": "Portuguese"
+  },
+  "unitBytes": {
+    "message": "$1 bytes"
+  },
+  "unitDay": {
+    "message": "$1 dia"
+  },
+  "unitDays": {
+    "message": "$1 dias"
+  },
+  "unitHour": {
+    "message": "$1 hora"
+  },
+  "unitHours": {
+    "message": "$1 horas"
+  },
+  "unitMinute": {
+    "message": "$1 min."
+  },
+  "unitMinutes": {
+    "message": "$1 min."
+  },
+  "unitSecond": {
+    "message": "$1 seg"
+  },
+  "unitSeconds": {
+    "message": "$1 seg."
+  }
+}

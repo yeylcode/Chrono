@@ -1,0 +1,9 @@
+{
+	"extName":{"message": "Chrono Download Manager"},
+    "uilangName":{"message": "Catalan"},
+
+    "chromesysDownloadLocation":{"message": "Ubicaci\u00f3 de baixades"},
+    "chromesysShowAdvSettings":{"message": "Mostra la configuraci\u00f3 avan\u00e7ada..."},
+    "chromesysDownloadsSection":{"message": "Baixades"},
+    "chromesysAllowFileAccess":{"message": "Permet l'acc\u00e9s als URL de fitxer"}
+}

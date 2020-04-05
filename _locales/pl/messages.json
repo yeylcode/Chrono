@@ -1,0 +1,1028 @@
+{
+  "btnAbout": {
+    "message": "o Chrono"
+  },
+  "btnAddPaused": {
+    "message": "Dodaj wstrzymane"
+  },
+  "btnApply": {
+    "message": "Zastosuj"
+  },
+  "btnBackToManager": {
+    "message": "Wstecz"
+  },
+  "btnCancel": {
+    "message": "Anuluj"
+  },
+  "btnClearAll": {
+    "message": "Wyczy\u015b\u0107 wszystko"
+  },
+  "btnClearFailed": {
+    "message": "Wyczy\u015b\u0107 zadania przerwane"
+  },
+  "btnClearFinished": {
+    "message": "Wyczy\u015b\u0107 uko\u0144czone zadania"
+  },
+  "btnClearRemoved": {
+    "message": "Wyczy\u015b\u0107 zadania z brakuj\u0105cymi plikami"
+  },
+  "btnFAQ": {
+    "message": "Najcz\u0119stsze pytania"
+  },
+  "btnGotIt": {
+    "message": "Rozumiem!"
+  },
+  "btnImportChromeHistory": {
+    "message": "Importuj histori\u0119 pobierania z Chrome"
+  },
+  "btnLater": {
+    "message": "P\u00f3\u017aniej"
+  },
+  "btnLoadPreview": {
+    "message": "Za\u0142aduj podgl\u0105d"
+  },
+  "btnOpenManager": {
+    "message": "Otw\u00f3rz menad\u017cera"
+  },
+  "btnPopRemoveFile": {
+    "message": "I usu\u0144 plik"
+  },
+  "btnPopRemoveList": {
+    "message": "Usu\u0144 z listy"
+  },
+  "btnRate": {
+    "message": "Oce\u0144"
+  },
+  "btnShareDone": {
+    "message": "To zosta\u0142o ju\u017c zrobione"
+  },
+  "btnStart": {
+    "message": "Rozpocznij!"
+  },
+  "btnStartAll": {
+    "message": "Pobierz wszystko"
+  },
+  "btnTakeMeThere": {
+    "message": "Otw\u00f3rz"
+  },
+  "btnUpdateReload": {
+    "message": "Za\u0142aduj ponownie teraz"
+  },
+  "chromesysAllowFileAccess": {
+    "message": "Zezwalaj na dost\u0119p do adres\u00f3w URL plik\u00f3w"
+  },
+  "chromesysChange": {
+    "message": "Zmie\u0144..."
+  },
+  "chromesysDownloadLocation": {
+    "message": "Zapisuj pobrane pliki w"
+  },
+  "chromesysDownloadSaveAsPrompt": {
+    "message": "Pytaj przed pobraniem, gdzie zapisa\u0107 ka\u017cdy plik"
+  },
+  "chromesysDownloadsSection": {
+    "message": "Pobrane pliki"
+  },
+  "chromesysFailedGenericDownloadError": {
+    "message": "B\u0142\u0105d pobierania"
+  },
+  "chromesysFailedGenericNetworkError": {
+    "message": "B\u0142\u0105d sieci"
+  },
+  "chromesysFailed_CRASH": {
+    "message": "Awaria"
+  },
+  "chromesysFailed_FILE_ACCESS_DENIED": {
+    "message": "Niewystarczaj\u0105ce uprawnienia"
+  },
+  "chromesysFailed_FILE_BLOCKED": {
+    "message": "Zablokowane"
+  },
+  "chromesysFailed_FILE_NAME_TOO_LONG": {
+    "message": "Zbyt d\u0142uga \u015bcie\u017cka"
+  },
+  "chromesysFailed_FILE_NO_SPACE": {
+    "message": "Dysk pe\u0142ny"
+  },
+  "chromesysFailed_FILE_SAME_AS_SOURCE": {
+    "message": "Ju\u017c pobrany"
+  },
+  "chromesysFailed_FILE_SECURITY_CHECK_FAILED": {
+    "message": "Skanowanie antywirusowe nie powiod\u0142o si\u0119"
+  },
+  "chromesysFailed_FILE_TOO_LARGE": {
+    "message": "Plik jest za du\u017cy"
+  },
+  "chromesysFailed_FILE_TOO_SHORT": {
+    "message": "Plik obci\u0119ty"
+  },
+  "chromesysFailed_FILE_TRANSIENT_ERROR": {
+    "message": "System zaj\u0119ty"
+  },
+  "chromesysFailed_FILE_VIRUS_INFECTED": {
+    "message": "Wykryto wirusa"
+  },
+  "chromesysFailed_NETWORK_TIMEOUT": {
+    "message": "Przekroczono czas oczekiwania na sie\u0107"
+  },
+  "chromesysFailed_SERVER_BAD_CONTENT": {
+    "message": "Brak pliku"
+  },
+  "chromesysFailed_SERVER_CERT_PROBLEM": {
+    "message": "Z\u0142y certyfikat"
+  },
+  "chromesysFailed_SERVER_CONTENT_LENGTH_MISMATCH": {
+    "message": "Plik niekompletny"
+  },
+  "chromesysFailed_SERVER_FAILED": {
+    "message": "Problem z serwerem"
+  },
+  "chromesysFailed_SERVER_FORBIDDEN": {
+    "message": "Zabroniony"
+  },
+  "chromesysFailed_SERVER_UNAUTHORIZED": {
+    "message": "Wymaga autoryzacji"
+  },
+  "chromesysFailed_SERVER_UNREACHABLE": {
+    "message": "Serwer niedost\u0119pny"
+  },
+  "chromesysFailed_USER_CANCELED": {
+    "message": "Anulowano"
+  },
+  "chromesysFailed_USER_SHUTDOWN": {
+    "message": "Wy\u0142\u0105czenie"
+  },
+  "chromesysFontSize": {
+    "message": "Rozmiar czcionki"
+  },
+  "chromesysLanguageSection": {
+    "message": "J\u0119zyk"
+  },
+  "chromesysShowAdvSettings": {
+    "message": "Poka\u017c ustawienia zaawansowane..."
+  },
+  "chromesysWebStore": {
+    "message": "Chrome Web Store"
+  },
+  "confirmBatchDownload": {
+    "message": "Wydaje si\u0119, \u017ce masz zamiar rozpocz\u0105\u0107 pobieranie partii, oto kilka przyk\u0142ad\u00f3w:"
+  },
+  "confirmBatchDownloadNaming": {
+    "message": "Przy pobieraniu partiami, nale\u017cy upewni\u0107 si\u0119, \u017ce maska \u200b\u200bnazewnictwa b\u0119dzie generowa\u0107 r\u00f3\u017cne nazwy plik\u00f3w.  Kontynuowa\u0107?"
+  },
+  "confirmBtnYes": {
+    "message": "Tak"
+  },
+  "confirmBtnYesFile": {
+    "message": "Tak, r\u00f3wnie\u017c usun\u0105\u0107 plik (i)"
+  },
+  "confirmCantResumeRestart": {
+    "message": "Nie uda\u0142o si\u0119 wznowi\u0107 zadania $1, uruchomi\u0107 ponownie?"
+  },
+  "confirmClearTask": {
+    "message": "Czy na pewno chcesz usun\u0105\u0107 $1\u00a0elementu?"
+  },
+  "confirmProceed": {
+    "message": "Czy chcesz kontynuowa\u0107?"
+  },
+  "confirmRecycleRunning": {
+    "message": "Przenie\u015b\u0107 do kosza dzia\u0142aj\u0105ce zadanie ?"
+  },
+  "confirmRemoveExtFilter": {
+    "message": "Czy usun\u0105\u0107 wybrane elementy?"
+  },
+  "confirmRemoveRule": {
+    "message": "Czy usun\u0105\u0107 wybrane elementy?"
+  },
+  "confirmRemoveTask": {
+    "message": "Trwale usun\u0105\u0107 wybrane zadanie (-a)?"
+  },
+  "confirmReset": {
+    "message": "Operacji nie mo\u017cna cofn\u0105\u0107. Czy chcesz kontynuowa\u0107?"
+  },
+  "errorFNameConflict": {
+    "message": "Konflikt nazw"
+  },
+  "errorFileNotExist": {
+    "message": "Nie znaleziono pliku"
+  },
+  "errorInvalidNamingMask": {
+    "message": "Nieprawid\u0142owa nazwa"
+  },
+  "errorInvalidURLs": {
+    "message": "Nieprawid\u0142owy URL"
+  },
+  "errorNoID": {
+    "message": "Nie uda\u0142o si\u0119 doda\u0107 nowego zadania do Chrono, poniewa\u017c jest zbyt wiele aktywnych zada\u0144, oczy\u015bci\u0107 niekt\u00f3re nieu\u017cywane zadania i spr\u00f3buj ponownie."
+  },
+  "errorNone": {
+    "message": "Brak b\u0142\u0119d\u00f3w"
+  },
+  "errorRemovedFromChrome": {
+    "message": "Zadanie mog\u0142o zosta\u0107 usuni\u0119te z chrome."
+  },
+  "everyXDays": {
+    "message": "Co $1 dni"
+  },
+  "everyXHours": {
+    "message": "Co $1 godz."
+  },
+  "everyXMinutes": {
+    "message": "Co $1 min"
+  },
+  "extDesc": {
+    "message": "Menad\u017cer pobierania | Pobieranie film\u00f3w |Pobieranie zdj\u0119\u0107"
+  },
+  "extDescBest": {
+    "message": "Najlepszy menad\u017cer pobierania dla Google Chrome"
+  },
+  "extDescSlogan": {
+    "message": "Pobieraj i zarz\u0105dzaj sieci\u0105!"
+  },
+  "extName": {
+    "message": "Chrono menad\u017cer pobierania"
+  },
+  "extsAll": {
+    "message": "Wszystkie"
+  },
+  "extsApp": {
+    "message": "Aplikacja"
+  },
+  "extsArchive": {
+    "message": "Archiwum"
+  },
+  "extsAudio": {
+    "message": "Audio"
+  },
+  "extsDocument": {
+    "message": "Dokument"
+  },
+  "extsImage": {
+    "message": "Obraz"
+  },
+  "extsNew": {
+    "message": "Nowy Filtr"
+  },
+  "extsOthers": {
+    "message": "Inne"
+  },
+  "extsVideo": {
+    "message": "Wideo"
+  },
+  "fieldAddTime": {
+    "message": "Data i godzina utworzenia"
+  },
+  "fieldAvgSpeed": {
+    "message": "\u015arednia szybko\u015b\u0107"
+  },
+  "fieldDownloadedSize": {
+    "message": "Pobrano"
+  },
+  "fieldElapsedTime": {
+    "message": "Up\u0142yn\u0119\u0142o"
+  },
+  "fieldFileName": {
+    "message": "Nazwa pliku"
+  },
+  "fieldFileSize": {
+    "message": "Rozmiar pliku"
+  },
+  "fieldFinishTime": {
+    "message": "Godzina zako\u0144czenia"
+  },
+  "fieldFolder": {
+    "message": "Folder"
+  },
+  "fieldNaming": {
+    "message": "Maska nazywania"
+  },
+  "fieldProgress": {
+    "message": "Post\u0119p"
+  },
+  "fieldRedirection": {
+    "message": "Przekierowanie"
+  },
+  "fieldReferer": {
+    "message": "Strona odsy\u0142aj\u0105ca"
+  },
+  "fieldRemainingTime": {
+    "message": "Pozosta\u0142y czas"
+  },
+  "fieldRemarks": {
+    "message": "Uwagi"
+  },
+  "fieldSpeed": {
+    "message": "Szybko\u015b\u0107"
+  },
+  "fieldState": {
+    "message": "Stan"
+  },
+  "fieldThreads": {
+    "message": "W\u0105tki"
+  },
+  "fieldType": {
+    "message": "Typ pliku"
+  },
+  "fieldURL": {
+    "message": "Adres URL"
+  },
+  "headExtFilterCaption": {
+    "message": "Wy\u015bwietlana nazwa"
+  },
+  "headExtFilterExts": {
+    "message": "Rozszerzenie pliku"
+  },
+  "headExtFilterRefName": {
+    "message": "Nazwa wewn\u0119trzna"
+  },
+  "headRulesActive": {
+    "message": "Aktywna"
+  },
+  "headRulesAsFilter": {
+    "message": "Jako filtr zada\u0144"
+  },
+  "headRulesCaption": {
+    "message": "Wy\u015bwietlana nazwa"
+  },
+  "headRulesCondition": {
+    "message": "Wyra\u017cenie"
+  },
+  "headRulesRefName": {
+    "message": "Nazwa wewn\u0119trzna"
+  },
+  "helpExtFilter": {
+    "message": "* Kliknij dwukrotnie, aby edytowa\u0107. \n* Pisz w wolnym miejscu aby doda\u0107 nowy filtr\n* Wybierz wiersze i naci\u015bnij klawisz DELETE, aby je usun\u0105\u0107."
+  },
+  "helpRules": {
+    "message": "* Kliknij dwukrotnie, aby edytowa\u0107. \n* Pisz w pustym polu aby doda\u0107 now\u0105 zasad\u0119\n* Wybierz wiersze i naci\u015bnij klawisz DELETE, aby je usun\u0105\u0107. \n* Je\u015bli masz problemy w pisaniu zasad, prosimy zapozna\u0107 si\u0119 z sekcji Pomoc."
+  },
+  "hintSearchDownloads": {
+    "message": "Przeszukaj pobrane pliki"
+  },
+  "labelAutoClear": {
+    "message": "Harmonogram"
+  },
+  "labelBGBlur": {
+    "message": "Rozmycie"
+  },
+  "labelBGChooseFrom": {
+    "message": "Wybierz obraz"
+  },
+  "labelBGConstantColor": {
+    "message": "Jednolity kolor"
+  },
+  "labelBGImageURL": {
+    "message": "Adres URL niestandardowego obrazu"
+  },
+  "labelBGOpacity": {
+    "message": "Przezroczysto\u015b\u0107"
+  },
+  "labelCustomFilter": {
+    "message": "Niestandardowe filtry"
+  },
+  "menuDAudio": {
+    "message": "Zapisz element audio jako..."
+  },
+  "menuDAudioOneClick": {
+    "message": "Pobierz audio jednym klikni\u0119ciem"
+  },
+  "menuDImage": {
+    "message": "Zapisz grafik\u0119 jako..."
+  },
+  "menuDImageOneClick": {
+    "message": "Pobierz zdj\u0119cie jednym klikni\u0119ciem"
+  },
+  "menuDLink": {
+    "message": "Zapisz link jako..."
+  },
+  "menuDLinkOneClick": {
+    "message": "Pobierz link jednym klikni\u0119ciem"
+  },
+  "menuDVideo": {
+    "message": "Zapisz film wideo jako..."
+  },
+  "menuDVideoOneClick": {
+    "message": "Pobierz film jednym klikni\u0119ciem"
+  },
+  "menuGetHelp": {
+    "message": "Pomoc"
+  },
+  "menuOpenManager": {
+    "message": "Otw\u00f3rz menad\u017cera"
+  },
+  "menuReportIssue": {
+    "message": "Zg\u0142o\u015b problem"
+  },
+  "msgCannotScanResources": {
+    "message": "Nie mo\u017cna sprawdzi\u0107 zasob\u00f3w tej strony."
+  },
+  "msgChromeI18nLanguage": {
+    "message": "Chrono u\u017cywa tego samego j\u0119zyka, co przegl\u0105darka Chrome."
+  },
+  "msgEmptyDownloadsList": {
+    "message": "Pusta lista"
+  },
+  "msgPreviewErrorReadFile": {
+    "message": "B\u0142\u0105d odczytu pliku"
+  },
+  "msgPreviewFailed": {
+    "message": "Nie uda\u0142o si\u0119 za\u0142adowa\u0107 podgl\u0105du pliku"
+  },
+  "msgPreviewFileAccess": {
+    "message": "\u0141adowanie podgl\u0105du lokalnego pliku nie powiod\u0142o si\u0119. Mo\u017cesz w\u0142\u0105czy\u0107 t\u0119 funkcj\u0119 zaznaczaj\u0105c $1 w sekcji $2 na stronie chrome://extensions."
+  },
+  "msgPreviewLargeFile": {
+    "message": "\u0141adowanie podgl\u0105du mo\u017ce chwile zaj\u0105\u0107."
+  },
+  "msgPreviewPdfViewer": {
+    "message": "Wy\u015bwietlanie podgl\u0105du wymaga w\u0142\u0105czenia rozszerzenia Chrome PDF Viewer. Aby tego dokona\u0107, post\u0119puj zgodnie z poni\u017csz\u0105 instrukcj\u0105."
+  },
+  "msgRateShare": {
+    "message": "Je\u015bli uzna\u0142e\u015b $1 za u\u017cyteczny, prosz\u0119 oce\u0144 go na $2 i podziel si\u0119 nim z przyjaci\u00f3\u0142mi!"
+  },
+  "msgSearchNoResults": {
+    "message": "Nie znaleziono wynik\u00f3w"
+  },
+  "msgSelectTaskInfo": {
+    "message": "Nie wybrano \u017cadnego elementu."
+  },
+  "msgTaskAddPaused": {
+    "message": "Zadanie dodane do kolejki i wstrzymane"
+  },
+  "msgTaskFinish": {
+    "message": "Pobieranie zako\u0144czone"
+  },
+  "msgTaskInterrupt": {
+    "message": "B\u0142\u0105d pobierania"
+  },
+  "msgTaskStart": {
+    "message": "Zadanie dodane do kolejki"
+  },
+  "msgTextUpdateAvail": {
+    "message": "Za\u0142aduj rozszerzenie aby zastosowania aktualizacjie."
+  },
+  "msgTextWelcome": {
+    "message": "Przed rozpocz\u0119ciem zaleca si\u0119 wy\u0142\u0105czenie pytania Zapisz Jako, przez odznaczenie opcji w $1.\nMo\u017cesz r\u00f3wnie\u017c pozwoli\u0107 Chrono na dost\u0119p do adres\u00f3w by zwi\u0119kszy\u0107 przyjemno\u015b\u0107 u\u017cytkowania przez w\u0142\u0105czenie $2 opcji w $3.\nJe\u017celi masz jakie\u015b pytania przejrzyj stron\u0119 pomocy, oraz stron\u0119 najcz\u0119\u015bciej zadawanych pyta\u0144, pisz r\u00f3wnie\u017c na dev@chronodownloader.net.\nEnjoy!"
+  },
+  "msgTitleUpdateAvail": {
+    "message": "Dost\u0119pna nowa wersja"
+  },
+  "msgTitleWelcome": {
+    "message": "Witamy"
+  },
+  "msgUpdated": {
+    "message": "$1 zosta\u0142a zaktualizowana."
+  },
+  "optItemBadgeDownloadNum": {
+    "message": "Poka\u017c liczb\u0119 aktywnych pobiera\u0144 na pasku zada\u0144"
+  },
+  "optItemClearRemoveFile": {
+    "message": "Usu\u0144 z dysku"
+  },
+  "optItemClearSearch": {
+    "message": "Wyczy\u015b\u0107 pole wyszukiwania, gdy zmianniono filtry"
+  },
+  "optItemClickNotify": {
+    "message": "Klikni\u0119cie na zg\u0142oszenia"
+  },
+  "optItemConcurrentDownloads": {
+    "message": "Aktualne pobierania"
+  },
+  "optItemDblClickAction": {
+    "message": "Podw\u00f3jne klikni\u0119cie zadania"
+  },
+  "optItemDefAddPaused": {
+    "message": "Dodaj Wstrzymane"
+  },
+  "optItemDefFolder": {
+    "message": "Domy\u015blna lokalizacja"
+  },
+  "optItemDefNaming": {
+    "message": "Domy\u015blna maska nazywania"
+  },
+  "optItemDownloadClipboard": {
+    "message": "Pobierz adresy URL ze schowka"
+  },
+  "optItemDownloadsPerServer": {
+    "message": "Pobierania na serwer"
+  },
+  "optItemHideShelf": {
+    "message": "Ukryj standardowy pasek pobierania Chrome"
+  },
+  "optItemMenuDialog": {
+    "message": "Zapisz link jako..."
+  },
+  "optItemMenuOneClick": {
+    "message": "Pobierz jednym klikni\u0119ciem link/zdj\u0119cie"
+  },
+  "optItemNameConflict": {
+    "message": "Gdy konflikty nazw plik\u00f3w"
+  },
+  "optItemNotifyError": {
+    "message": "Poka\u017c powiadomienie, gdy wyst\u0105pi b\u0142\u0105d"
+  },
+  "optItemNotifyFinish": {
+    "message": "Poka\u017c powiadomienia, gdy zako\u0144czeniu pobierania"
+  },
+  "optItemNotifyLargePreview": {
+    "message": "Poka\u017c du\u017cy podgl\u0105d zdj\u0119\u0107"
+  },
+  "optItemNotifyOneClick": {
+    "message": "Poka\u017c powiadomienie, gdy dodano pobieranie jednym klikni\u0119ciem"
+  },
+  "optItemNotifyProgress": {
+    "message": "Poka\u017c post\u0119p pobierania"
+  },
+  "optItemOverrideChrome": {
+    "message": "Zast\u0105p oryginaln\u0105 stron\u0119 pobierania Chrome oraz skr\u00f3t $1"
+  },
+  "optItemPopClearClose": {
+    "message": "Zamknij okienko po usuni\u0119ciu zadania"
+  },
+  "optItemPopDeleteAction": {
+    "message": "Kliknij przycisk 'usu\u0144'"
+  },
+  "optItemPopLikeButtons": {
+    "message": "Pokazuj przyciski medi\u00f3w spo\u0142eczno\u015bciowych"
+  },
+  "optItemPopMaxItems": {
+    "message": "Maksymalnia ilo\u015b\u0107 pozycji na li\u015bcie pobiera\u0144"
+  },
+  "optItemPopShowDLFirst": {
+    "message": "Pierwsze poka\u017c zadania pobierane"
+  },
+  "optItemPreviewAutoplay": {
+    "message": "Autoodtwarzanie"
+  },
+  "optItemRecycleCancel": {
+    "message": "Anuluj zadanie, gdy jest w koszu"
+  },
+  "optItemRuleMatchMode": {
+    "message": "Tryb dopasowania"
+  },
+  "optItemSlideDetailsPanel": {
+    "message": "Wysu\u0144 pasek szczeg\u00f3\u0142\u00f3w po klikni\u0119ciu zadania"
+  },
+  "optItemSoundError": {
+    "message": "Odtw\u00f3rz d\u017awi\u0119k, gdy wyst\u0105pi b\u0142\u0105d"
+  },
+  "optItemSoundFinish": {
+    "message": "Odtw\u00f3rz d\u017awi\u0119k po zako\u0144czeniu pobierania"
+  },
+  "optItemStartInterrupted": {
+    "message": "Przycisk Start mo\u017ce rozpocz\u0105\u0107 przerwane zadania"
+  },
+  "optOptionClearAllNotify": {
+    "message": "Usu\u0144 wszystkie powiadomienia"
+  },
+  "optOptionClearNotify": {
+    "message": "Usu\u0144 powiadomienie"
+  },
+  "optOptionDoNothing": {
+    "message": "Nic nie r\u00f3b"
+  },
+  "optOptionFirstMatch": {
+    "message": "Pierwsze dopasowanie"
+  },
+  "optOptionOpenFile": {
+    "message": "Otw\u00f3rz plik"
+  },
+  "optOptionOpenFolder": {
+    "message": "Otw\u00f3rz folder"
+  },
+  "optOptionOverwrite": {
+    "message": "Zast\u0105p"
+  },
+  "optOptionPrompt": {
+    "message": "Pytaj"
+  },
+  "optOptionRemAsk": {
+    "message": "Pytaj"
+  },
+  "optOptionRemFile": {
+    "message": "Usu\u0144 z dysku bez potwierdzania"
+  },
+  "optOptionRemList": {
+    "message": "Usu\u0144 z listy"
+  },
+  "optOptionReplace": {
+    "message": "Zast\u0105p"
+  },
+  "optOptionSkipCancel": {
+    "message": "Pomi\u0144 i anuluj"
+  },
+  "optOptionSkipPause": {
+    "message": "Pomi\u0144 i wstrzymaj"
+  },
+  "optOptionStartPause": {
+    "message": "Rozpocznij lub wstrzymaj"
+  },
+  "optOptionUniquify": {
+    "message": "Stw\u00f3rz unikatow\u0105 nazw\u0119 pliku"
+  },
+  "optSectionBehaviors": {
+    "message": "Zachowanie"
+  },
+  "optSectionMenu": {
+    "message": "Menu"
+  },
+  "optSectionMisc": {
+    "message": "Inne"
+  },
+  "optSectionNetwork": {
+    "message": "Sie\u0107"
+  },
+  "optSectionNotifications": {
+    "message": "Powiadomienia"
+  },
+  "optSectionOneClick": {
+    "message": "Pobieranie jednym klikni\u0119ciem"
+  },
+  "optSectionPopup": {
+    "message": "Pop-up"
+  },
+  "optSectionPreview": {
+    "message": "Podgl\u0105d"
+  },
+  "optSectionTaskDefaults": {
+    "message": "Nowe ustawienia domy\u015blne zadania"
+  },
+  "optionAddTop": {
+    "message": "Dodaj do pocz\u0105tku kolejki"
+  },
+  "optionDisableExtFilters": {
+    "message": "Wy\u0142\u0105cz Filtry wtyczki"
+  },
+  "optionDontAsk": {
+    "message": "Zapami\u0119taj m\u00f3j wyb\u00f3r"
+  },
+  "optionSearchCaseSensitive": {
+    "message": "Rozr\u00f3\u017cnianie wielko\u015bci liter"
+  },
+  "optionSearchFuzzyMatch": {
+    "message": "Odpowiednik przybli\u017cony"
+  },
+  "optionShowSize": {
+    "message": "Poka\u017c rozmiar pliku"
+  },
+  "optionTableAutoResize": {
+    "message": "Wymu\u015b  zsuni\u0119cie kolumn"
+  },
+  "optionTableSyncResize": {
+    "message": "Synchronizacja zmiany rozmiaru"
+  },
+  "phraseAutomatic": {
+    "message": "automatyczne"
+  },
+  "phraseEnable": {
+    "message": "W\u0142\u0105cz"
+  },
+  "phraseMultiValues": {
+    "message": "Liczba wielowarto\u015bciowa"
+  },
+  "phraseNever": {
+    "message": "Nigdy"
+  },
+  "phrasePreview": {
+    "message": "Podgl\u0105d"
+  },
+  "phraseRegex": {
+    "message": "Wyra\u017cenie regularne"
+  },
+  "phraseToday": {
+    "message": "Dzisiaj"
+  },
+  "phraseUnknown": {
+    "message": "Nieznane"
+  },
+  "phraseUnknownSize": {
+    "message": "Rozmiar nieznany"
+  },
+  "phraseVersion": {
+    "message": "Wersja"
+  },
+  "phraseYesterday": {
+    "message": "Wczoraj"
+  },
+  "ruleAllTasks": {
+    "message": "Wszystkie zadania"
+  },
+  "ruleAudio": {
+    "message": "Audio"
+  },
+  "ruleDocument": {
+    "message": "Dokument"
+  },
+  "ruleDownloading": {
+    "message": "Pobieram"
+  },
+  "ruleFinished": {
+    "message": "Zako\u0144czone"
+  },
+  "ruleImage": {
+    "message": "Obraz"
+  },
+  "ruleInterrupted": {
+    "message": "Niepowodzenie"
+  },
+  "ruleNew": {
+    "message": "Nowa regu\u0142a"
+  },
+  "ruleOther": {
+    "message": "Inne"
+  },
+  "ruleRecent": {
+    "message": "Ostatnie"
+  },
+  "ruleRecycled": {
+    "message": "Kosz"
+  },
+  "ruleSmallFiles": {
+    "message": "Ma\u0142e Pliki"
+  },
+  "ruleVideo": {
+    "message": "Wideo"
+  },
+  "stateDownloading": {
+    "message": "Pobieram"
+  },
+  "stateError": {
+    "message": "Niepowodzenie"
+  },
+  "stateFileMiss": {
+    "message": "Brak pliku"
+  },
+  "stateFinished": {
+    "message": "Zako\u0144czone"
+  },
+  "statePaused": {
+    "message": "Wstrzymane"
+  },
+  "stateQueue": {
+    "message": "Oczekiwanie"
+  },
+  "statusCopyURL": {
+    "message": "Kopiuj\u0119 adres URL..."
+  },
+  "statusCopyURLDone": {
+    "message": "URL skopiowany do schowka"
+  },
+  "statusDownloadedSize": {
+    "message": "$1 z $2"
+  },
+  "statusImportDone": {
+    "message": "Importowanie zako\u0144czone pomy\u015blnie"
+  },
+  "statusImporting": {
+    "message": "Importowanie..."
+  },
+  "statusNumDownloading": {
+    "message": "$1 pobieranie"
+  },
+  "statusNumItems": {
+    "message": "Liczba element\u00f3w: $1"
+  },
+  "statusReadClipboard": {
+    "message": "Odczytuj\u0119 schowek..."
+  },
+  "statusScheduledAutoClear": {
+    "message": "Automatyczne czyszczenie zada\u0144 zostanie rozpocz\u0119te za $1 sekund"
+  },
+  "statusSelectedOf": {
+    "message": "Wybrane elementy: $1"
+  },
+  "statusTasksCleared": {
+    "message": "Usuni\u0119te elementy: $1"
+  },
+  "statusTimeLeft": {
+    "message": "Pozosta\u0142o: $1"
+  },
+  "tipAutoClear": {
+    "message": "Automatycznie czy\u015bci list\u0119 zada\u0144 ale pozostawia pliki na dysku"
+  },
+  "tipBGBlur": {
+    "message": "Efekt rozmycia mo\u017ce zmniejszy\u0107 p\u0142ynno\u015b\u0107 dzia\u0142ania interfejsu"
+  },
+  "tipBGEnable": {
+    "message": "Przez b\u0142\u0105d przegl\u0105darki zmiana t\u0142a zwi\u0119kszy u\u017cywanie pami\u0119ci, pami\u0119taj o tym w\u0142\u0105czaj\u0105c t\u0105 opcj\u0119"
+  },
+  "tipBGURLHasFileAccess": {
+    "message": "Wpisz adres URL witryny internetowej lub pe\u0142n\u0105 \u015bcie\u017ck\u0119 obrazu w komputerze poprzedzony 'file:///'"
+  },
+  "tipBGURLNoFileAccess": {
+    "message": "Wpisz adres URL witryny internetowej lub pe\u0142n\u0105 \u015bcie\u017ck\u0119 obrazu na komputerze (dla lokalnego pliku, musisz najpierw w\u0142\u0105czy\u0107 dost\u0119p do plik\u00f3w dla Chrono , kliknij na znak zapytania, aby zobaczy\u0107, jak)"
+  },
+  "tipBrowserAction": {
+    "message": "Pobieraj wszystko z tej strony"
+  },
+  "tipBtnBackToManager": {
+    "message": "Powr\u00f3t do menad\u017cera"
+  },
+  "tipBtnChangeDefaultLocation": {
+    "message": "Zmie\u0144 folder docelowy..."
+  },
+  "tipBtnClear": {
+    "message": "Wyczy\u015b\u0107 zadania"
+  },
+  "tipBtnConfigExtFilters": {
+    "message": "Edytuj filtry"
+  },
+  "tipBtnCopyLink": {
+    "message": "Skopiuj link"
+  },
+  "tipBtnDelete": {
+    "message": "Usu\u0144"
+  },
+  "tipBtnHelp": {
+    "message": "Pomoc"
+  },
+  "tipBtnNewTask": {
+    "message": "Nowe zadanie"
+  },
+  "tipBtnOpenDefaultLocation": {
+    "message": "Otw\u00f3rz folder pobierania"
+  },
+  "tipBtnOpenFile": {
+    "message": "Otw\u00f3rz plik"
+  },
+  "tipBtnOpenFolder": {
+    "message": "Otw\u00f3rz folder"
+  },
+  "tipBtnOptions": {
+    "message": "Opcje"
+  },
+  "tipBtnPause": {
+    "message": "Wstrzymaj"
+  },
+  "tipBtnPauseAll": {
+    "message": "Wstrzymaj wszystkie"
+  },
+  "tipBtnPopList": {
+    "message": "Widok listy"
+  },
+  "tipBtnPopSniffer": {
+    "message": "Prze\u0142\u0105cz na Sniffer"
+  },
+  "tipBtnRecycle": {
+    "message": "Przenie\u015b do kosza"
+  },
+  "tipBtnRestart": {
+    "message": "Uruchom ponownie"
+  },
+  "tipBtnRestore": {
+    "message": "Przywr\u00f3\u0107"
+  },
+  "tipBtnSort": {
+    "message": "Sortuj zadania"
+  },
+  "tipBtnStart": {
+    "message": "Rozpocznij"
+  },
+  "tipBtnStartAll": {
+    "message": "Rozpocznij wszystkie"
+  },
+  "tipExtFilterEnable": {
+    "message": "W\u0142\u0105czona jako rozszerzenia filtra w Chrono Sniffer"
+  },
+  "tipExtFilterRefName": {
+    "message": "Nazwa wewn\u0119trzna odniesienia filtru w innych wyra\u017ceniach"
+  },
+  "tipNaming": {
+    "message": "Skorzystaj z strony pomocy aby dowiedzie\u0107 si\u0119 wi\u0119cej o zasadach nazywania"
+  },
+  "tipOptItemRuleMatchMode": {
+    "message": "Prosz\u0119 pami\u0119ta\u0107, \u017ce tylko Zasady aktywne s\u0105 testowane pod k\u0105tem dopasowania. W trybie Zamie\u0144 wszystkie dopasowane Regu\u0142y s\u0105 stosowane, ale ostatnie przepisy zast\u0105pi\u0105 dawne wersje."
+  },
+  "tipOptItemSlideDetailsPanel": {
+    "message": "Mo\u017cesz klikn\u0105\u0107 z altem na zadaniu aby uzyska\u0107 szczeg\u00f3\u0142y"
+  },
+  "tipOptNoRuleMatch": {
+    "message": "Przepis stosuje si\u0119, gdy nie pasuje \u017cadna zasada"
+  },
+  "tipOptSectionOneClick": {
+    "message": "Je\u015bli opcja jest w\u0142\u0105czona, pobieranie rozpocznie si\u0119 natychmiast po klikni\u0119ciu na odno\u015bnik, przy u\u017cyciu domy\u015blnych ustawie\u0144 zadania (patrz wy\u017cej), bez okna dialogowego ustawie\u0144 Maski Nazywania itp"
+  },
+  "tipOptSectionTaskDefaults": {
+    "message": "Ustawienia domy\u015blne, kt\u00f3re nale\u017cy stosowa\u0107 w przypadku dodawania nowych zada\u0144, np stosowane do pobierania jednym klikni\u0119ciem"
+  },
+  "tipRulesActive": {
+    "message": "Tylko czynne regu\u0142y b\u0119d\u0105 wykorzystywane do dopasowania regu\u0142y"
+  },
+  "tipRulesAsFilter": {
+    "message": "Pokazuj jako filtr zada\u0144 w mened\u017cerze pobierania"
+  },
+  "tipRulesRefName": {
+    "message": "Nazwa wewn\u0119trzne odniesie\u0144 regu\u0142 w innych wyra\u017ceniach"
+  },
+  "tipURL": {
+    "message": "Mo\u017cesz doda\u0107 kilka adres\u00f3w ka\u017cdy od nowej linii; mo\u017cesz uruchamia\u0107 \u015bci\u0105ganie partiami u\u017cywaj\u0105c Batch Descriptors"
+  },
+  "tipmsgCopySelectedURLs": {
+    "message": "Mo\u017cesz wcisn\u0105\u0107 $1, aby skopiowa\u0107 adresy URL wybranego zadania (s)"
+  },
+  "tipmsgDoubleClick": {
+    "message": "Mo\u017cesz zmieni\u0107 zachowanie podw\u00f3jnego klikni\u0119cia pod $1"
+  },
+  "tipmsgFitColumnWidth": {
+    "message": "Kliknij dwukrotnie w zmian\u0119 szeroko\u015bci kolumn aby ustawi\u0107 j\u0105 automatycznie"
+  },
+  "tipmsgGridSelection": {
+    "message": "U\u017cyj Ctrl / Shift, aby zaznaczy\u0107 wiele wierszy, lub naci\u015bnij $1, aby zaznaczy\u0107 wszystkie wiersze"
+  },
+  "tipmsgNotifications": {
+    "message": "Mo\u017cesz zmieni\u0107 ustawienia powiadomie\u0144/D\u017awi\u0119ku  w $1"
+  },
+  "tipmsgOpenShortcut": {
+    "message": "Mo\u017cesz otworzy\u0107 $1 skr\u00f3tem $2"
+  },
+  "tipmsgSlideDetailsPanel": {
+    "message": "Przesuwany panel szczeg\u00f3\u0142\u00f3w mo\u017ce by\u0107 wy\u0142\u0105czony w $1"
+  },
+  "tipmsgTaskFilter": {
+    "message": "Przeci\u0105gnij, aby zmieni\u0107 kolejno\u015b\u0107 filtr\u00f3w zadania; mo\u017cna r\u00f3wnie\u017c doda\u0107 niestandardowe filtry zada\u0144 pod $1"
+  },
+  "titleChangeBG": {
+    "message": "Zmie\u0144 t\u0142o"
+  },
+  "titleNewTaskDialog": {
+    "message": "Nowe zadanie"
+  },
+  "titleOptions": {
+    "message": "Opcje"
+  },
+  "titleOptionsAbout": {
+    "message": "o Chrono"
+  },
+  "titleOptionsFilter": {
+    "message": "Filtry"
+  },
+  "titleOptionsGeneral": {
+    "message": "Og\u00f3lne"
+  },
+  "titleOptionsHelp": {
+    "message": "Pomoc"
+  },
+  "titleOptionsInterface": {
+    "message": "Interfejs"
+  },
+  "titleOptionsRules": {
+    "message": "Regu\u0142y"
+  },
+  "titleQuickSelection": {
+    "message": "Szybki wyb\u00f3r"
+  },
+  "titleRateShare": {
+    "message": "Oce\u0144 i podziel si\u0119!"
+  },
+  "titleSniffer": {
+    "message": "Sniffer"
+  },
+  "titleSwitchUI": {
+    "message": "Tryb wy\u015bwietlania"
+  },
+  "titleTaskProps": {
+    "message": "W\u0142a\u015bciwo\u015bci"
+  },
+  "titleTips": {
+    "message": "Wskaz\u00f3wki"
+  },
+  "titleUpdateLog": {
+    "message": "Historia zmian"
+  },
+  "translateContributors": {
+    "message": "mopserdak, Piter432, nosteres, slawomirkisiel, matssi etc."
+  },
+  "uilang": {
+    "message": "pl"
+  },
+  "uilangName": {
+    "message": "Polish"
+  },
+  "unitBytes": {
+    "message": "$1\u00a0B"
+  },
+  "unitDay": {
+    "message": "$1 dzie\u0144"
+  },
+  "unitDays": {
+    "message": "$1 dni"
+  },
+  "unitHour": {
+    "message": "$1 godz."
+  },
+  "unitHours": {
+    "message": "$1\u00a0godz."
+  },
+  "unitMinute": {
+    "message": "$1 min"
+  },
+  "unitMinutes": {
+    "message": "$1 min"
+  },
+  "unitSecond": {
+    "message": "$1 sekund(y)"
+  },
+  "unitSeconds": {
+    "message": "$1 s"
+  }
+}

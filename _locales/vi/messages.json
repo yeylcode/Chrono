@@ -1,0 +1,1028 @@
+{
+  "btnAbout": {
+    "message": "Gi\u1edbi thi\u1ec7u"
+  },
+  "btnAddPaused": {
+    "message": "Th\u00eam v\u00e0 t\u1ea1m d\u1eebng"
+  },
+  "btnApply": {
+    "message": "\u00c1p d\u1ee5ng"
+  },
+  "btnBackToManager": {
+    "message": "Quay l\u1ea1i"
+  },
+  "btnCancel": {
+    "message": "H\u1ee7y"
+  },
+  "btnClearAll": {
+    "message": "D\u1ecdn t\u1ea5t c\u1ea3"
+  },
+  "btnClearFailed": {
+    "message": "D\u1ecdn c\u00f4ng vi\u1ec7c b\u1ecb gi\u00e1n \u0111o\u1ea1n"
+  },
+  "btnClearFinished": {
+    "message": "D\u1ecdn c\u00f4ng vi\u1ec7c \u0111\u00e3 ho\u00e0n th\u00e0nh"
+  },
+  "btnClearRemoved": {
+    "message": "D\u1ecdn t\u1eadp tin \u0111\u00e3 m\u1ea5t"
+  },
+  "btnFAQ": {
+    "message": "C\u00e2u h\u1ecfi th\u01b0\u1eddng g\u1eb7p"
+  },
+  "btnGotIt": {
+    "message": "B\u1ecf qua!"
+  },
+  "btnImportChromeHistory": {
+    "message": "L\u1ecbch s\u1eed nh\u1eadp"
+  },
+  "btnLater": {
+    "message": "Sau"
+  },
+  "btnLoadPreview": {
+    "message": "T\u1ea3i xem tr\u01b0\u1edbc"
+  },
+  "btnOpenManager": {
+    "message": "M\u1edf tr\u00ecnh qu\u1ea3n l\u00fd"
+  },
+  "btnPopRemoveFile": {
+    "message": "X\u00f3a t\u1ec7p"
+  },
+  "btnPopRemoveList": {
+    "message": "X\u00f3a kh\u1ecfi danh s\u00e1ch"
+  },
+  "btnRate": {
+    "message": "X\u1ebfp h\u1ea1ng"
+  },
+  "btnShareDone": {
+    "message": "T\u00f4i \u0111\u00e3 l\u00e0m r\u1ed3i"
+  },
+  "btnStart": {
+    "message": "B\u0103\u0301t \u0111\u00e2\u0300u"
+  },
+  "btnStartAll": {
+    "message": "T\u1ea3i xu\u1ed1ng t\u1ea5t c\u1ea3"
+  },
+  "btnTakeMeThere": {
+    "message": "\u0110\u01b0a t\u00f4i t\u1edbi \u0111\u00f3"
+  },
+  "btnUpdateReload": {
+    "message": "T\u1ea3i l\u1ea1i b\u00e2y gi\u1edd"
+  },
+  "chromesysAllowFileAccess": {
+    "message": "Cho ph\u00e9p truy c\u1eadp v\u00e0o c\u00e1c URL c\u1ee7a t\u1ec7p"
+  },
+  "chromesysChange": {
+    "message": "Thay \u0111\u1ed5i..."
+  },
+  "chromesysDownloadLocation": {
+    "message": "V\u1ecb tr\u00ed t\u1ea3i xu\u1ed1ng"
+  },
+  "chromesysDownloadSaveAsPrompt": {
+    "message": "H\u1ecfi v\u1ecb tr\u00ed l\u01b0u t\u1eebng t\u1ec7p tr\u01b0\u1edbc khi t\u1ea3i xu\u1ed1ng"
+  },
+  "chromesysDownloadsSection": {
+    "message": "T\u1ea3i xu\u1ed1ng"
+  },
+  "chromesysFailedGenericDownloadError": {
+    "message": "L\u1ed7i t\u1ea3i xu\u1ed1ng"
+  },
+  "chromesysFailedGenericNetworkError": {
+    "message": "L\u1ed7i m\u1ea1ng"
+  },
+  "chromesysFailed_CRASH": {
+    "message": "L\u1ed7i"
+  },
+  "chromesysFailed_FILE_ACCESS_DENIED": {
+    "message": "Kh\u00f4ng \u0111\u1ee7 quy\u1ec1n"
+  },
+  "chromesysFailed_FILE_BLOCKED": {
+    "message": "B\u1ecb ch\u1eb7n"
+  },
+  "chromesysFailed_FILE_NAME_TOO_LONG": {
+    "message": "\u0110\u01b0\u1eddng d\u1eabn qu\u00e1 d\u00e0i"
+  },
+  "chromesysFailed_FILE_NO_SPACE": {
+    "message": "\u0110\u0129a \u0111\u1ea7y"
+  },
+  "chromesysFailed_FILE_SAME_AS_SOURCE": {
+    "message": "\u0110\u00e3 t\u1ea3i xu\u1ed1ng"
+  },
+  "chromesysFailed_FILE_SECURITY_CHECK_FAILED": {
+    "message": "Qu\u00e9t vi-r\u00fat kh\u00f4ng th\u00e0nh c\u00f4ng"
+  },
+  "chromesysFailed_FILE_TOO_LARGE": {
+    "message": "T\u1ec7p qu\u00e1 l\u1edbn"
+  },
+  "chromesysFailed_FILE_TOO_SHORT": {
+    "message": "T\u1ec7p b\u1ecb c\u1eaft b\u1edbt"
+  },
+  "chromesysFailed_FILE_TRANSIENT_ERROR": {
+    "message": "H\u1ec7 th\u1ed1ng \u0111ang b\u1eadn"
+  },
+  "chromesysFailed_FILE_VIRUS_INFECTED": {
+    "message": "\u0110\u00e3 ph\u00e1t hi\u1ec7n th\u1ea5y vi-r\u00fat"
+  },
+  "chromesysFailed_NETWORK_TIMEOUT": {
+    "message": "H\u1ebft th\u1eddi gian ch\u1edd m\u1ea1ng"
+  },
+  "chromesysFailed_SERVER_BAD_CONTENT": {
+    "message": "Kh\u00f4ng c\u00f3 t\u1ec7p n\u00e0o"
+  },
+  "chromesysFailed_SERVER_CERT_PROBLEM": {
+    "message": "Ch\u1ee9ng ch\u1ec9 kh\u00f4ng h\u1ee3p l\u1ec7"
+  },
+  "chromesysFailed_SERVER_CONTENT_LENGTH_MISMATCH": {
+    "message": "T\u1ec7p kh\u00f4ng ho\u00e0n ch\u1ec9nh"
+  },
+  "chromesysFailed_SERVER_FAILED": {
+    "message": "S\u1ef1 c\u1ed1 m\u00e1y ch\u1ee7"
+  },
+  "chromesysFailed_SERVER_FORBIDDEN": {
+    "message": "B\u1ecb c\u1ea5m"
+  },
+  "chromesysFailed_SERVER_UNAUTHORIZED": {
+    "message": "C\u1ea7n c\u1ea5p ph\u00e9p"
+  },
+  "chromesysFailed_SERVER_UNREACHABLE": {
+    "message": "M\u00e1y ch\u1ee7 kh\u00f4ng truy c\u1eadp \u0111\u01b0\u1ee3c"
+  },
+  "chromesysFailed_USER_CANCELED": {
+    "message": "\u0110\u00e3 h\u1ee7y"
+  },
+  "chromesysFailed_USER_SHUTDOWN": {
+    "message": "T\u1eaft"
+  },
+  "chromesysFontSize": {
+    "message": "C\u1ee1 ch\u1eef"
+  },
+  "chromesysLanguageSection": {
+    "message": "Ng\u00f4n ng\u1eef"
+  },
+  "chromesysShowAdvSettings": {
+    "message": "Hi\u1ec3n th\u1ecb c\u00e0i \u0111\u1eb7t n\u00e2ng cao..."
+  },
+  "chromesysWebStore": {
+    "message": "C\u1eeda h\u00e0ng Chrome tr\u1ef1c tuy\u1ebfn"
+  },
+  "confirmBatchDownload": {
+    "message": "C\u00f3 v\u1ebb nh\u01b0 b\u1ea1n s\u1ebd b\u1eaft \u0111\u1ea7u t\u1ea3i h\u00e0ng lo\u1ea1t, \u0111\u00e2y l\u00e0 m\u1ed9t \u00edt v\u00ed d\u1ee5:"
+  },
+  "confirmBatchDownloadNaming": {
+    "message": "\u0110\u1ec3 t\u1ea3i h\u00e0ng lo\u1ea1t, h\u00e3y ch\u1eafc ch\u1eafn r\u1eb1ng t\u00ean m\u1eb7t n\u1ea1 s\u1ebd t\u1ea1o ra t\u00ean c\u00e1c t\u1eadp tin kh\u00e1c nhau. V\u1eabn ti\u1ebfp t\u1ee5c?"
+  },
+  "confirmBtnYes": {
+    "message": "Co\u0301"
+  },
+  "confirmBtnYesFile": {
+    "message": "X\u00f3a t\u1ec7p"
+  },
+  "confirmCantResumeRestart": {
+    "message": "Ti\u1ebfp t\u1ee5c c\u00f4ng vi\u1ec7c $1 b\u1ecb th\u1ea5t b\u1ea1i, kh\u1edfi \u0111\u1ed9ng l\u1ea1i?"
+  },
+  "confirmClearTask": {
+    "message": "B\u1ea1n c\u00f3 ch\u1eafc ch\u1eafn mu\u1ed1n x\u00f3a $1 m\u1ee5c kh\u00f4ng?"
+  },
+  "confirmProceed": {
+    "message": "Ti\u00ea\u0301p t\u1ee5c?"
+  },
+  "confirmRecycleRunning": {
+    "message": "C\u00f4ng vi\u1ec7c t\u00e1i s\u1eed d\u1ee5ng \u0111ang ch\u1ea1y?"
+  },
+  "confirmRemoveExtFilter": {
+    "message": "X\u00f3a c\u00e1c m\u1ee5c \u0111\u01b0\u1ee3c ch\u1ecdn?"
+  },
+  "confirmRemoveRule": {
+    "message": "X\u00f3a c\u00e1c m\u1ee5c \u0111\u01b0\u1ee3c ch\u1ecdn?"
+  },
+  "confirmRemoveTask": {
+    "message": "V\u0129nh vi\u1ec5n lo\u1ea1i b\u1ecf c\u00f4ng vi\u1ec7c \u0111\u01b0\u1ee3c ch\u1ecdn?"
+  },
+  "confirmReset": {
+    "message": "Kh\u00f4ng th\u1ec3 ho\u00e0n t\u00e1c thao t\u00e1c. B\u1ea1n c\u00f3 mu\u1ed1n ti\u1ebfp t\u1ee5c kh\u00f4ng?"
+  },
+  "errorFNameConflict": {
+    "message": "\u0110\u1eb7t t\u00ean xung \u0111\u1ed9t"
+  },
+  "errorFileNotExist": {
+    "message": "Kh\u00f4ng t\u00ecm th\u1ea5y t\u1ec7p"
+  },
+  "errorInvalidNamingMask": {
+    "message": "T\u00ean kh\u00f4ng h\u1ee3p l\u1ec7"
+  },
+  "errorInvalidURLs": {
+    "message": "URL kh\u00f4ng h\u1ee3p l\u1ec7"
+  },
+  "errorNoID": {
+    "message": "Th\u1ea5t b\u1ea1i th\u00eam c\u00f4ng vi\u1ec7c m\u1edbi t\u1edbi Chrono v\u00ec c\u00f3 qu\u00e1 nhi\u1ec1u c\u00f4ng vi\u1ec7c trong ph\u1ea7n qu\u1ea3n l\u00fd, b\u1ecf m\u1ed9t s\u1ed1 c\u00f4ng vi\u1ec7c kh\u00f4ng s\u1eed d\u1ee5ng v\u00e0 th\u1eed l\u1ea1i."
+  },
+  "errorNone": {
+    "message": "Kh\u00f4ng c\u00f3 l\u1ed7i"
+  },
+  "errorRemovedFromChrome": {
+    "message": "C\u00f4ng vi\u1ec7c \u0111\u00e3 b\u1ecb lo\u1ea1i b\u1ecf t\u1eeb Chrome."
+  },
+  "everyXDays": {
+    "message": "C\u1ee9 $1 ng\u00e0y m\u1ed9t l\u1ea7n"
+  },
+  "everyXHours": {
+    "message": "C\u1ee9 $1 gi\u01a1\u0300 m\u00f4\u0323t l\u00e2\u0300n"
+  },
+  "everyXMinutes": {
+    "message": "C\u1ee9 $1 ph\u00fat m\u1ed9t l\u1ea7n"
+  },
+  "extDesc": {
+    "message": " Qu\u1ea3n l\u00fd t\u1ea3i v\u1ec1 | T\u1ea3i phim | T\u1ea3i \u1ea3nh"
+  },
+  "extDescBest": {
+    "message": "Tr\u00ecnh qu\u1ea3n l\u00fd t\u1ea3i xu\u1ed1ng t\u1ed1t nh\u1ea5t cho Chrome"
+  },
+  "extDescSlogan": {
+    "message": "T\u1ea3i v\u00e0 Qu\u1ea3n l\u00fd Web!"
+  },
+  "extName": {
+    "message": "Tr\u00ecnh Qu\u1ea3n L\u00fd T\u1ea3i v\u1ec1 Chrono"
+  },
+  "extsAll": {
+    "message": "T\u1ea5t c\u1ea3"
+  },
+  "extsApp": {
+    "message": "\u1ee8ng d\u1ee5ng"
+  },
+  "extsArchive": {
+    "message": "L\u01b0u tr\u1eef"
+  },
+  "extsAudio": {
+    "message": "\u00c2m thanh"
+  },
+  "extsDocument": {
+    "message": "T\u00e0i li\u1ec7u"
+  },
+  "extsImage": {
+    "message": "H\u00ecnh \u1ea3nh"
+  },
+  "extsNew": {
+    "message": "b\u1ed9 l\u1ecdc m\u1edbi"
+  },
+  "extsOthers": {
+    "message": "Kh\u00e1c"
+  },
+  "extsVideo": {
+    "message": "Video"
+  },
+  "fieldAddTime": {
+    "message": "Th\u1eddi gian t\u1ea1o"
+  },
+  "fieldAvgSpeed": {
+    "message": "T\u1ed1c \u0111\u1ed9 trung b\u00ecnh"
+  },
+  "fieldDownloadedSize": {
+    "message": "\u0110\u00e3 t\u1ea3i xu\u1ed1ng"
+  },
+  "fieldElapsedTime": {
+    "message": "Th\u1eddi gian \u0111\u00e3 tr\u00f4i qua"
+  },
+  "fieldFileName": {
+    "message": "T\u00ean t\u1ec7p"
+  },
+  "fieldFileSize": {
+    "message": "K\u00edch th\u01b0\u1edbc t\u1ec7p"
+  },
+  "fieldFinishTime": {
+    "message": "Th\u1eddi gian Ho\u00e0n th\u00e0nh"
+  },
+  "fieldFolder": {
+    "message": "Th\u01b0 m\u1ee5c"
+  },
+  "fieldNaming": {
+    "message": "T\u00ean m\u1eb7t n\u1ea1"
+  },
+  "fieldProgress": {
+    "message": "Ti\u1ebfn \u0111\u1ed9"
+  },
+  "fieldRedirection": {
+    "message": "Chuy\u1ec3n h\u01b0\u1edbng"
+  },
+  "fieldReferer": {
+    "message": "Li\u00ean k\u1ebft gi\u1edbi thi\u1ec7u"
+  },
+  "fieldRemainingTime": {
+    "message": "Th\u1eddi gian c\u00f2n l\u1ea1i"
+  },
+  "fieldRemarks": {
+    "message": "B\u00ecnh lu\u1eadn"
+  },
+  "fieldSpeed": {
+    "message": "T\u1ed1c \u0111\u1ed9"
+  },
+  "fieldState": {
+    "message": "Tr\u1ea1ng th\u00e1i"
+  },
+  "fieldThreads": {
+    "message": "Lu\u1ed3ng"
+  },
+  "fieldType": {
+    "message": "Lo\u1ea1i t\u1ec7p"
+  },
+  "fieldURL": {
+    "message": "URL"
+  },
+  "headExtFilterCaption": {
+    "message": "T\u00ean hi\u1ec3n th\u1ecb"
+  },
+  "headExtFilterExts": {
+    "message": "\u0110u\u00f4i t\u1ec7p"
+  },
+  "headExtFilterRefName": {
+    "message": "T\u00ean n\u1ed9i b\u1ed9"
+  },
+  "headRulesActive": {
+    "message": "\u0110ang hoa\u0323t \u0111\u00f4\u0323ng"
+  },
+  "headRulesAsFilter": {
+    "message": "Nh\u01b0 B\u1ed9 L\u1ecdc C\u00f4ng Vi\u1ec7c"
+  },
+  "headRulesCaption": {
+    "message": "T\u00ean hi\u1ec3n th\u1ecb"
+  },
+  "headRulesCondition": {
+    "message": "\u0110i\u1ec1u ki\u1ec7n"
+  },
+  "headRulesRefName": {
+    "message": "T\u00ean n\u1ed9i b\u1ed9"
+  },
+  "helpExtFilter": {
+    "message": "* Nh\u1ea5n-k\u00e9p \u0111\u1ec3 ch\u1ec9nh s\u1eeda. \n* Nh\u1eadp tr\u00ean d\u00f2ng tr\u1ed1ng \u0111\u1ec3 th\u00eam m\u1ed9t b\u1ed9 l\u1ecdc m\u1edbi. \n* Ch\u1ecdn h\u00e0ng v\u00e0 nh\u1ea5n DELETE \u0111\u1ec3 lo\u1ea1i b\u1ecf ch\u00fang."
+  },
+  "helpRules": {
+    "message": "* Nh\u1ea5n-k\u00e9p \u0111\u1ec3 ch\u1ec9nh s\u1eeda. \n* Nh\u1eadp tr\u00ean d\u00f2ng tr\u1ed1ng \u0111\u1ec3 th\u00eam m\u1ed9t b\u1ed9 l\u1ecdc m\u1edbi. \n* Ch\u1ecdn h\u00e0ng v\u00e0 nh\u1ea5n DELETE \u0111\u1ec3 lo\u1ea1i b\u1ecf ch\u00fang.\n* N\u1ebfu b\u1ea1n g\u1eb7p v\u1ea5n \u0111\u1ec1 trong vi\u1ec7c vi\u1ebft c\u00e1c Quy T\u1eafc, vui l\u00f2ng tham kh\u1ea3o ph\u1ea7n Tr\u1ee3 gi\u00fap."
+  },
+  "hintSearchDownloads": {
+    "message": "T\u00ecm ki\u1ebfm t\u1ea3i xu\u1ed1ng"
+  },
+  "labelAutoClear": {
+    "message": "L\u1ecbch bi\u1ec3u"
+  },
+  "labelBGBlur": {
+    "message": "L\u00e0m m\u1edd"
+  },
+  "labelBGChooseFrom": {
+    "message": "Ch\u1ecdn h\u00ecnh \u1ea3nh"
+  },
+  "labelBGConstantColor": {
+    "message": "M\u00e0u \u0111\u1eb7c"
+  },
+  "labelBGImageURL": {
+    "message": "URL t\u00f9y ch\u1ec9nh"
+  },
+  "labelBGOpacity": {
+    "message": "\u0110\u1ed9 m\u1edd"
+  },
+  "labelCustomFilter": {
+    "message": "B\u1ed9 l\u1ecdc t\u00f9y ch\u1ec9nh"
+  },
+  "menuDAudio": {
+    "message": "L\u01b0u \u00e2m thanh th\u00e0nh..."
+  },
+  "menuDAudioOneClick": {
+    "message": "T\u1ea3i xu\u1ed1ng \u00e2m thanh n\u00e0y v\u1edbi 1-click"
+  },
+  "menuDImage": {
+    "message": "L\u01b0u h\u00ecnh \u1ea3nh th\u00e0nh..."
+  },
+  "menuDImageOneClick": {
+    "message": "T\u1ea3i xu\u1ed1ng \u1ea3nh n\u00e0y v\u1edbi 1-click"
+  },
+  "menuDLink": {
+    "message": "L\u01b0u li\u00ean k\u1ebft th\u00e0nh..."
+  },
+  "menuDLinkOneClick": {
+    "message": "T\u1ea3i xu\u1ed1ng li\u00ean k\u1ebft n\u00e0y v\u1edbi 1-click"
+  },
+  "menuDVideo": {
+    "message": "L\u01b0u video th\u00e0nh..."
+  },
+  "menuDVideoOneClick": {
+    "message": "T\u1ea3i xu\u1ed1ng video n\u00e0y v\u1edbi 1-click"
+  },
+  "menuGetHelp": {
+    "message": "Y\u00eau c\u1ea7u tr\u1ee3 gi\u00fap"
+  },
+  "menuOpenManager": {
+    "message": "M\u1edf tr\u00ecnh qu\u1ea3n l\u00fd"
+  },
+  "menuReportIssue": {
+    "message": "B\u00e1o c\u00e1o s\u1ef1 c\u1ed1"
+  },
+  "msgCannotScanResources": {
+    "message": "Kh\u00f4ng th\u1ec3 qu\u00e9t t\u00e0i nguy\u00ean tr\u00ean trang n\u00e0y."
+  },
+  "msgChromeI18nLanguage": {
+    "message": "Chrono s\u1eed d\u1ee5ng c\u00f9ng ng\u00f4n ng\u1eef nh\u01b0 tr\u00ecnh duy\u1ec7t Chrome."
+  },
+  "msgEmptyDownloadsList": {
+    "message": "Danh s\u00e1ch tr\u1ed1ng"
+  },
+  "msgPreviewErrorReadFile": {
+    "message": "L\u1ed7i khi \u0111\u1ecdc t\u1ec7p"
+  },
+  "msgPreviewFailed": {
+    "message": "Kh\u00f4ng th\u1ec3 t\u1ea3i b\u1ea3n xem tr\u01b0\u1edbc t\u1ec7p"
+  },
+  "msgPreviewFileAccess": {
+    "message": "Kh\u00f4ng th\u1ec3 t\u1ea3i t\u1ec7p c\u1ee5c b\u1ed9 \u0111\u1ec3 xem tr\u01b0\u1edbc, b\u1ea1n c\u00f3 th\u1ec3 b\u1eadt t\u00ednh n\u0103ng n\u00e0y b\u1eb1ng c\u00e1ch ch\u1ecdn h\u1ed9p ki\u1ec3m $1 d\u01b0\u1edbi $2 tr\u00ean trang chrome://extensions."
+  },
+  "msgPreviewLargeFile": {
+    "message": "C\u00f3 th\u1ec3 m\u1ea5t m\u1ed9t l\u00fac \u0111\u1ec3 t\u1ea3i b\u1ea3n xem tr\u01b0\u1edbc."
+  },
+  "msgPreviewPdfViewer": {
+    "message": "Tr\u00ecnh duy\u1ec7t PDF c\u1ee7a Chrome \u0111\u01b0\u1ee3c y\u00eau c\u1ea7u cho b\u1ea3n xem tr\u01b0\u1edbc, vui l\u00f2ng b\u1eadt n\u00f3 b\u1eb1ng c\u00e1ch l\u00e0m theo c\u00e1c h\u01b0\u1edbng d\u1eabn"
+  },
+  "msgRateShare": {
+    "message": "N\u1ebfu b\u1ea1n th\u1ea5y $1 h\u1eefu \u00edch, xin vui l\u00f2ng \u0111\u00e1nh gi\u00e1 n\u00f3 tr\u00ean $2 v\u00e0 chia s\u1ebb n\u00f3 v\u1edbi b\u1ea1n b\u00e8 c\u1ee7a b\u1ea1n!"
+  },
+  "msgSearchNoResults": {
+    "message": "Kh\u00f4ng t\u00ecm th\u1ea5y k\u1ebft qu\u1ea3"
+  },
+  "msgSelectTaskInfo": {
+    "message": "B\u1ea1n ch\u01b0a ch\u1ecdn m\u1ee5c n\u00e0o."
+  },
+  "msgTaskAddPaused": {
+    "message": "C\u00f4ng vi\u1ec7c \u0111\u00e3 \u0111\u01b0\u1ee3c th\u00eam v\u00e0o v\u00e0 \u0111\u00e3 d\u1eebng"
+  },
+  "msgTaskFinish": {
+    "message": "\u0110\u00e3 ho\u00e0n t\u1ea5t t\u1ea3i xu\u1ed1ng"
+  },
+  "msgTaskInterrupt": {
+    "message": "Kh\u00f4ng t\u1ea3i xu\u1ed1ng \u0111\u01b0\u1ee3c"
+  },
+  "msgTaskStart": {
+    "message": "C\u00f4ng vi\u1ec7c \u0111\u00e3 \u0111\u01b0\u1ee3c th\u00eam v\u00e0o h\u00e0ng \u0111\u1ee3i"
+  },
+  "msgTextUpdateAvail": {
+    "message": "H\u00e3y t\u1ea3i l\u1ea1i ph\u1ea7n m\u1edf r\u1ed9ng \u0111\u1ec3 \u00e1p d\u1ee5ng b\u1ea3n c\u1eadp nh\u1eadt."
+  },
+  "msgTextWelcome": {
+    "message": "Tr\u01b0\u1edbc khi b\u1eaft \u0111\u1ea7u, \u0111\u1ec1 ngh\u1ecb t\u1eaft h\u1ed9p tho\u1ea1i L\u01b0u Nh\u01b0 c\u1ee7a Chrome , b\u1eb1ng c\u00e1ch x\u00f3a h\u1ed9p ki\u1ec3m d\u01b0\u1edbi $1.\nB\u1ea1n c\u0169ng c\u00f3 th\u1ec3 cho ph\u00e9p Chrono truy c\u1eadp  t\u1eadp tin URL \u0111\u1ec3 c\u00f3 \u0111\u01b0\u1ee3c nh\u1eefng tr\u1ea3i nghi\u1ec7m t\u1ed1t h\u01a1n, c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c k\u00edch ho\u1ea1t b\u1eb1ng c\u00e1ch ch\u1ecdn h\u1ed9p ki\u1ec3m $2 d\u01b0\u1edbi $3. \nN\u1ebfu b\u1ea1n c\u00f3 b\u1ea5t k\u1ef3 c\u00e2u h\u1ecfi n\u00e0o, xin vui l\u00f2ng xem trang Tr\u1ee3 gi\u00fap v\u00e0 trang H\u1ecfi \u0111\u00e1p, b\u1ea1n c\u0169ng c\u00f3 th\u1ec3 g\u1eedi email \u0111\u1ebfn dev@chronodownloader.net. \nTh\u00e2n!"
+  },
+  "msgTitleUpdateAvail": {
+    "message": "\u0110\u00e3 c\u00f3 phi\u00ean b\u1ea3n m\u1edbi"
+  },
+  "msgTitleWelcome": {
+    "message": "Xin ch\u00e0o!"
+  },
+  "msgUpdated": {
+    "message": "\u0110a\u0303 c\u00e2\u0323p nh\u00e2\u0323t $1."
+  },
+  "optItemBadgeDownloadNum": {
+    "message": "Hi\u1ec3n th\u1ecb s\u1ed1 c\u00f4ng vi\u1ec7c t\u1ea3i tr\u00ean \u0111\u1ea7u c\u1ee7a bi\u1ec3u t\u01b0\u1ee3ng thanh c\u00f4ng c\u1ee5"
+  },
+  "optItemClearRemoveFile": {
+    "message": "X\u00f3a kh\u1ecfi \u0111\u0129a"
+  },
+  "optItemClearSearch": {
+    "message": "D\u1ecdn h\u1ed9p t\u00ecm ki\u1ebfm khi thay \u0111\u1ed5i b\u1ed9 l\u1ecdc"
+  },
+  "optItemClickNotify": {
+    "message": "Nh\u1ea5p chu\u1ed9t v\u00e0o th\u00f4ng b\u00e1o"
+  },
+  "optItemConcurrentDownloads": {
+    "message": "T\u1ea3i c\u00f9ng l\u00fac"
+  },
+  "optItemDblClickAction": {
+    "message": "Nh\u1ea5n-k\u00e9p v\u00e0o nhi\u1ec7m v\u1ee5"
+  },
+  "optItemDefAddPaused": {
+    "message": "Th\u00eam v\u00e0 t\u1ea1m d\u1eebng"
+  },
+  "optItemDefFolder": {
+    "message": "V\u1ecb tr\u00ed m\u1eb7c \u0111\u1ecbnh"
+  },
+  "optItemDefNaming": {
+    "message": "T\u00ean M\u1eb7t N\u1ea1 M\u1eb7c \u0110\u1ecbnh"
+  },
+  "optItemDownloadClipboard": {
+    "message": "T\u1ea3i URL t\u1eeb b\u1ea3ng t\u1ea1m"
+  },
+  "optItemDownloadsPerServer": {
+    "message": "T\u1ea3i m\u1ed7i m\u00e1y ch\u1ee7"
+  },
+  "optItemHideShelf": {
+    "message": "\u1ea8n k\u1ec7/thanh t\u1ea3i c\u1ee7a Chrome"
+  },
+  "optItemMenuDialog": {
+    "message": "L\u01b0u li\u00ean k\u1ebft th\u00e0nh..."
+  },
+  "optItemMenuOneClick": {
+    "message": "T\u1ea3i xu\u1ed1ng li\u00ean k\u1ebft n\u00e0y v\u1edbi 1-click"
+  },
+  "optItemNameConflict": {
+    "message": "Khi m\u00e2u thu\u1eabn t\u00ean t\u1eadp tin"
+  },
+  "optItemNotifyError": {
+    "message": "Hi\u1ec3n th\u1ecb th\u00f4ng b\u00e1o khi l\u1ed7i x\u1ea3y ra"
+  },
+  "optItemNotifyFinish": {
+    "message": "Hi\u1ec3n th\u1ecb th\u00f4ng b\u00e1o khi t\u1ea3i v\u1ec1 ho\u00e0n t\u1ea5t"
+  },
+  "optItemNotifyLargePreview": {
+    "message": "Hi\u1ec3n th\u1ecb xem tr\u01b0\u1edbc \u1ea3nh l\u1edbn"
+  },
+  "optItemNotifyOneClick": {
+    "message": "Hi\u1ec3n th\u1ecb th\u00f4ng b\u00e1o khi th\u00eam t\u1ea3i b\u1eb1ng 1-Click"
+  },
+  "optItemNotifyProgress": {
+    "message": "Hi\u1ec3n th\u1ecb ti\u1ebfn \u0111\u1ed9 t\u1ea3i"
+  },
+  "optItemOverrideChrome": {
+    "message": "\u0110\u00e8 l\u00ean trang t\u1ea3i g\u1ed1c c\u1ee7a Chrome v\u00e0 k\u00edch ho\u1ea1t ph\u00edm t\u1eaft $1"
+  },
+  "optItemPopClearClose": {
+    "message": "\u0110\u00f3ng c\u1eeda s\u1ed5 b\u1eadt l\u00ean sau khi d\u1ecdn c\u00e1c c\u00f4ng vi\u1ec7c"
+  },
+  "optItemPopDeleteAction": {
+    "message": "Nh\u1ea5n n\u00fat \"Delete\""
+  },
+  "optItemPopLikeButtons": {
+    "message": "Hi\u1ec3n th\u1ecb n\u00fat truy\u1ec1n th\u00f4ng x\u00e3 h\u1ed9i"
+  },
+  "optItemPopMaxItems": {
+    "message": "T\u1ed1i \u0111a s\u1ed1 m\u1ee5c trong danh s\u00e1ch t\u1ea3i"
+  },
+  "optItemPopShowDLFirst": {
+    "message": "Hi\u1ec3n th\u1ecb c\u00e1c t\u00e1c v\u1ee5 ho\u1ea1t \u0111\u1ed9ng \u0111\u1ea7u ti\u00ean"
+  },
+  "optItemPreviewAutoplay": {
+    "message": "T\u1ef1 \u0111\u1ed9ng ph\u00e1t"
+  },
+  "optItemRecycleCancel": {
+    "message": "H\u1ee7y b\u1ecf c\u00e1c c\u00f4ng vi\u1ec7c khi n\u00f3 \u0111\u01b0\u1ee3c t\u00e1i s\u1eed d\u1ee5ng"
+  },
+  "optItemRuleMatchMode": {
+    "message": "Ch\u1ebf \u0111\u1ed9 kh\u1edbp"
+  },
+  "optItemSlideDetailsPanel": {
+    "message": "Tr\u01b0\u1ee3t v\u00e0o B\u1ea3ng Chi ti\u1ebft khi b\u1ea5m v\u00e0o c\u00f4ng vi\u1ec7c"
+  },
+  "optItemSoundError": {
+    "message": "B\u1eadt \u00e2m thanh khi c\u00f3 l\u1ed7i x\u1ea3y ra"
+  },
+  "optItemSoundFinish": {
+    "message": "B\u1eadt \u00e2m thanh khi t\u1ea3i v\u1ec1 ho\u00e0n t\u1ea5t"
+  },
+  "optItemStartInterrupted": {
+    "message": "N\u00fat b\u1eaft \u0111\u1ea7u c\u00f3 th\u1ec3 b\u1eaft \u0111\u1ea7u c\u00f4ng vi\u1ec7c b\u1ecb gi\u00e1n \u0111o\u1ea1n"
+  },
+  "optOptionClearAllNotify": {
+    "message": "X\u00f3a t\u1ea5t c\u1ea3 c\u00e1c th\u00f4ng b\u00e1o"
+  },
+  "optOptionClearNotify": {
+    "message": "X\u00f3a th\u00f4ng b\u00e1o \u0111\u00f3"
+  },
+  "optOptionDoNothing": {
+    "message": "Kh\u00f4ng l\u00e0m g\u00ec"
+  },
+  "optOptionFirstMatch": {
+    "message": "Tr\u00f9ng Kh\u1edbp \u0111\u1ea7u ti\u00ean"
+  },
+  "optOptionOpenFile": {
+    "message": "M\u1edf t\u1ec7p"
+  },
+  "optOptionOpenFolder": {
+    "message": "M\u1edf th\u01b0 m\u1ee5c"
+  },
+  "optOptionOverwrite": {
+    "message": "Ghi \u0111\u00e8"
+  },
+  "optOptionPrompt": {
+    "message": "Y\u00eau c\u1ea7u"
+  },
+  "optOptionRemAsk": {
+    "message": "Y\u00eau c\u1ea7u"
+  },
+  "optOptionRemFile": {
+    "message": "X\u00f3a kh\u1ecfi \u0111\u0129a m\u00e0 kh\u00f4ng c\u1ea7n x\u00e1c nh\u1eadn"
+  },
+  "optOptionRemList": {
+    "message": "X\u00f3a kh\u1ecfi danh s\u00e1ch"
+  },
+  "optOptionReplace": {
+    "message": "Thay th\u1ebf"
+  },
+  "optOptionSkipCancel": {
+    "message": "H\u1ee7y t\u1ea3i xu\u1ed1ng"
+  },
+  "optOptionSkipPause": {
+    "message": "T\u1ea1m d\u1eebng t\u1ea3i xu\u1ed1ng"
+  },
+  "optOptionStartPause": {
+    "message": "B\u1eaft \u0111\u1ea7u ho\u1eb7c t\u1ea1m d\u1eebng"
+  },
+  "optOptionUniquify": {
+    "message": "T\u00ednh duy nh\u1ea5t"
+  },
+  "optSectionBehaviors": {
+    "message": "H\u00e0nh vi"
+  },
+  "optSectionMenu": {
+    "message": "Menu"
+  },
+  "optSectionMisc": {
+    "message": "Kh\u00e1c"
+  },
+  "optSectionNetwork": {
+    "message": "M\u1ea1ng"
+  },
+  "optSectionNotifications": {
+    "message": "Th\u00f4ng b\u00e1o"
+  },
+  "optSectionOneClick": {
+    "message": "T\u1ea3i v\u1ec1 1-click"
+  },
+  "optSectionPopup": {
+    "message": "C\u1eeda s\u1ed5 b\u1eadt l\u00ean"
+  },
+  "optSectionPreview": {
+    "message": "Xem tr\u01b0\u1edbc"
+  },
+  "optSectionTaskDefaults": {
+    "message": "M\u1eb7c \u0111\u1ecbnh cho c\u00f4ng vi\u1ec7c m\u1edbi"
+  },
+  "optionAddTop": {
+    "message": "Th\u00eam v\u00e0o \u0111\u1ea7u h\u00e0ng \u0111\u1ee3i"
+  },
+  "optionDisableExtFilters": {
+    "message": "T\u1eaft b\u1ed9 l\u1ecdc ph\u1ea7n m\u1edf r\u1ed9ng"
+  },
+  "optionDontAsk": {
+    "message": "Nh\u1edb l\u1ef1a ch\u1ecdn c\u1ee7a t\u00f4i"
+  },
+  "optionSearchCaseSensitive": {
+    "message": "Ph\u00e2n bi\u1ec7t ch\u1eef hoa / ch\u1eef th\u01b0\u1eddng"
+  },
+  "optionSearchFuzzyMatch": {
+    "message": "K\u1ebft qu\u1ea3 tr\u00f9ng kh\u1edbp t\u01b0\u01a1ng \u0111\u1ed1i"
+  },
+  "optionShowSize": {
+    "message": "Hi\u1ec3n th\u1ecb k\u00edch th\u01b0\u1edbc t\u1ec7p"
+  },
+  "optionTableAutoResize": {
+    "message": "Bu\u1ed9c c\u00e1c c\u1ed9t ph\u1ea3i kh\u1edbp"
+  },
+  "optionTableSyncResize": {
+    "message": "Thay \u0111\u1ed5i k\u00edch th\u01b0\u1edbc \u0111\u1ed3ng b\u1ed9"
+  },
+  "phraseAutomatic": {
+    "message": "T\u1ef1 \u0111\u1ed9ng"
+  },
+  "phraseEnable": {
+    "message": "B\u1eadt"
+  },
+  "phraseMultiValues": {
+    "message": "Nhi\u1ec1u gi\u00e1 tr\u1ecb"
+  },
+  "phraseNever": {
+    "message": "Ch\u01b0a bao gi\u1edd"
+  },
+  "phrasePreview": {
+    "message": "Xem tr\u01b0\u1edbc"
+  },
+  "phraseRegex": {
+    "message": "C\u1ee5m t\u1eeb th\u00f4ng d\u1ee5ng"
+  },
+  "phraseToday": {
+    "message": "H\u00f4m nay"
+  },
+  "phraseUnknown": {
+    "message": "Kh\u00f4ng x\u00e1c \u0111\u1ecbnh"
+  },
+  "phraseUnknownSize": {
+    "message": "Ki\u0301ch th\u01b0\u01a1\u0301c kh\u00f4ng xa\u0301c \u0111i\u0323nh"
+  },
+  "phraseVersion": {
+    "message": "Phi\u00ean b\u1ea3n"
+  },
+  "phraseYesterday": {
+    "message": "H\u00f4m qua"
+  },
+  "ruleAllTasks": {
+    "message": "T\u1ea5t c\u1ea3 t\u00e1c v\u1ee5"
+  },
+  "ruleAudio": {
+    "message": "\u00c2m thanh"
+  },
+  "ruleDocument": {
+    "message": "T\u00e0i li\u1ec7u"
+  },
+  "ruleDownloading": {
+    "message": "\u0110ang t\u1ea3i xu\u1ed1ng"
+  },
+  "ruleFinished": {
+    "message": "\u0110\u00e3 ho\u00e0n t\u1ea5t"
+  },
+  "ruleImage": {
+    "message": "H\u00ecnh \u1ea3nh"
+  },
+  "ruleInterrupted": {
+    "message": "Kh\u00f4ng th\u00e0nh c\u00f4ng"
+  },
+  "ruleNew": {
+    "message": "Quy t\u1eafc m\u1edbi"
+  },
+  "ruleOther": {
+    "message": "Kh\u00e1c"
+  },
+  "ruleRecent": {
+    "message": "G\u1ea7n \u0111\u00e2y"
+  },
+  "ruleRecycled": {
+    "message": "Th\u00f9ng r\u00e1c"
+  },
+  "ruleSmallFiles": {
+    "message": "C\u00e1c t\u1eadp tin nh\u1ecf"
+  },
+  "ruleVideo": {
+    "message": "Video"
+  },
+  "stateDownloading": {
+    "message": "\u0110ang t\u1ea3i xu\u1ed1ng"
+  },
+  "stateError": {
+    "message": "Kh\u00f4ng th\u00e0nh c\u00f4ng"
+  },
+  "stateFileMiss": {
+    "message": "Thi\u1ebfu t\u1ec7p"
+  },
+  "stateFinished": {
+    "message": "\u0110\u00e3 ho\u00e0n t\u1ea5t"
+  },
+  "statePaused": {
+    "message": "B\u1ecb t\u1ea1m d\u1eebng"
+  },
+  "stateQueue": {
+    "message": "\u0110ang ch\u1edd"
+  },
+  "statusCopyURL": {
+    "message": "\u0110ang sao ch\u00e9p URL..."
+  },
+  "statusCopyURLDone": {
+    "message": "\u0110\u00e3 sao ch\u00e9p URL sang khay nh\u1edb t\u1ea1m"
+  },
+  "statusDownloadedSize": {
+    "message": "$1 c\u1ee7a $2"
+  },
+  "statusImportDone": {
+    "message": "\u0110\u00e3 nh\u1eadp th\u00e0nh c\u00f4ng"
+  },
+  "statusImporting": {
+    "message": "\u0110ang nh\u1eadp..."
+  },
+  "statusNumDownloading": {
+    "message": "$1 \u0111ang t\u1ea3i xu\u1ed1ng"
+  },
+  "statusNumItems": {
+    "message": "$1 m\u1ee5c"
+  },
+  "statusReadClipboard": {
+    "message": "\u0110ang \u0111\u1ecdc b\u1ea3ng nh\u1edb t\u1ea1m..."
+  },
+  "statusScheduledAutoClear": {
+    "message": "T\u1ef1 \u0111\u1ed9ng d\u1ecdn c\u00f4ng vi\u1ec7c s\u1ebd ch\u1ea1y trong $1 gi\u00e2y"
+  },
+  "statusSelectedOf": {
+    "message": "\u0110\u00e3 ch\u1ecdn $1 m\u1ee5c"
+  },
+  "statusTasksCleared": {
+    "message": "\u0110\u00e3 x\u00f3a $1 m\u1ee5c"
+  },
+  "statusTimeLeft": {
+    "message": "C\u00f2n $1"
+  },
+  "tipAutoClear": {
+    "message": "T\u1ef1 \u0111\u1ed9ng d\u1ecdn c\u00f4ng vi\u1ec7c t\u1eeb danh s\u00e1ch, nh\u01b0ng gi\u1eef c\u00e1c t\u1eadp tin l\u1ea1i tr\u00ean \u0111\u0129a"
+  },
+  "tipBGBlur": {
+    "message": "Hi\u1ec7u \u1ee9ng l\u00e0m m\u1edd c\u00f3 th\u1ec3 l\u00e0m gi\u1ea3m ph\u1ea3n h\u1ed3i c\u1ee7a GUI"
+  },
+  "tipBGEnable": {
+    "message": "Do v\u1ea5n \u0111\u1ec1 n\u00e0o \u0111\u00f3 c\u1ee7a Chrome, b\u1eadt h\u00ecnh n\u1ec1n s\u1ebd t\u0103ng vi\u1ec7c s\u1eed d\u1ee5ng b\u1ed9 nh\u1edb l\u00ean r\u1ea5t nhi\u1ec1u, nh\u1edb k\u1ef9 \u0111i\u1ec1u n\u00e0y tr\u01b0\u1edbc khi b\u1ea1n k\u00edch ho\u1ea1t t\u00ednh n\u0103ng n\u00e0y."
+  },
+  "tipBGURLHasFileAccess": {
+    "message": "Nh\u1eadp m\u1ed9t li\u00ean k\u1ebft URL, ho\u1eb7c \u0111\u01b0\u1eddng d\u1eabn \u0111\u1ea7y \u0111\u1ee7 c\u1ee7a m\u1ed9t h\u00ecnh \u1ea3nh tr\u00ean m\u00e1y t\u00ednh c\u1ee7a b\u1ea1n b\u1eaft \u0111\u1ea7u b\u1eb1ng 'file:///'"
+  },
+  "tipBGURLNoFileAccess": {
+    "message": "Nh\u1eadp m\u1ed9t li\u00ean k\u1ebft URL, ho\u1eb7c \u0111\u01b0\u1eddng d\u1eabn \u0111\u1ea7y \u0111\u1ee7 c\u1ee7a m\u1ed9t h\u00ecnh \u1ea3nh tr\u00ean m\u00e1y t\u00ednh c\u1ee7a b\u1ea1n (nh\u01b0 t\u1eadp tin trong m\u00e1y, b\u1ea1n c\u1ea7n k\u00edch ho\u1ea1t truy c\u1eadp t\u1eadp tin cho Chrono tr\u01b0\u1edbc, nh\u1ea5p v\u00e0o d\u1ea5u h\u1ecfi \u0111\u1ec3 xem nh\u01b0 th\u1ebf n\u00e0o)"
+  },
+  "tipBrowserAction": {
+    "message": "T\u1ea3i t\u1ea5t c\u1ea3 t\u00e0i nguy\u00ean \u1edf trang n\u00e0y"
+  },
+  "tipBtnBackToManager": {
+    "message": "Quay v\u1ec1 tr\u00ecnh qu\u1ea3n l\u00fd"
+  },
+  "tipBtnChangeDefaultLocation": {
+    "message": "Thay \u0111\u1ed5i th\u01b0 m\u1ee5c \u0111\u00edch..."
+  },
+  "tipBtnClear": {
+    "message": "D\u1ecdn c\u00f4ng vi\u1ec7c"
+  },
+  "tipBtnConfigExtFilters": {
+    "message": "Ch\u1ec9nh s\u01b0\u0309a B\u1ed9 l\u1ecdc"
+  },
+  "tipBtnCopyLink": {
+    "message": "Sao ch\u00e9p li\u00ean k\u1ebft"
+  },
+  "tipBtnDelete": {
+    "message": "X\u00f3a"
+  },
+  "tipBtnHelp": {
+    "message": "Tr\u1ee3 gi\u00fap"
+  },
+  "tipBtnNewTask": {
+    "message": "T\u1ea1o t\u00e1c v\u1ee5 M\u1edbi"
+  },
+  "tipBtnOpenDefaultLocation": {
+    "message": "M\u1edf th\u01b0 m\u1ee5c t\u1ea3i xu\u1ed1ng"
+  },
+  "tipBtnOpenFile": {
+    "message": "M\u1edf t\u1ec7p"
+  },
+  "tipBtnOpenFolder": {
+    "message": "M\u1edf th\u01b0 m\u1ee5c"
+  },
+  "tipBtnOptions": {
+    "message": "T\u00f9y ch\u1ecdn"
+  },
+  "tipBtnPause": {
+    "message": "T\u1ea1m d\u1eebng"
+  },
+  "tipBtnPauseAll": {
+    "message": "T\u1ea1m d\u1eebng t\u1ea5t c\u1ea3"
+  },
+  "tipBtnPopList": {
+    "message": "Chuy\u1ec3n sang Danh s\u00e1ch"
+  },
+  "tipBtnPopSniffer": {
+    "message": "Chuy\u1ec3n sang Sniffer"
+  },
+  "tipBtnRecycle": {
+    "message": "Chuy\u1ec3n v\u00e0o th\u00f9ng r\u00e1c"
+  },
+  "tipBtnRestart": {
+    "message": "Kh\u1edfi \u0111\u1ed9ng l\u1ea1i"
+  },
+  "tipBtnRestore": {
+    "message": "Ph\u1ee5c h\u1ed3i"
+  },
+  "tipBtnSort": {
+    "message": "S\u1eafp x\u1ebfp"
+  },
+  "tipBtnStart": {
+    "message": "B\u0103\u0301t \u0111\u00e2\u0300u"
+  },
+  "tipBtnStartAll": {
+    "message": "B\u1eaft \u0111\u1ea7u t\u1ea5t c\u1ea3"
+  },
+  "tipExtFilterEnable": {
+    "message": "K\u00edch ho\u1ea1t nh\u01b0 b\u1ed9 l\u1ecdc m\u1edf r\u1ed9ng trong Chrono Sniffer"
+  },
+  "tipExtFilterRefName": {
+    "message": "T\u00ean n\u1ed9i b\u1ed9 \u0111\u1ec3 tham kh\u1ea3o b\u1ed9 l\u1ecdc trong c\u00e1c bi\u1ec3u th\u1ee9c kh\u00e1c"
+  },
+  "tipNaming": {
+    "message": "H\u00e3y tham kh\u1ea3o trang Tr\u1ee3 Gi\u00fap \u0111\u1ec3 h\u1ecdc c\u00e1ch s\u1eed d\u1ee5ng T\u00ean M\u1eb7t n\u1ea1."
+  },
+  "tipOptItemRuleMatchMode": {
+    "message": "Xin l\u01b0u \u00fd r\u1eb1ng ch\u1ec9 c\u00f3 c\u00e1c Quy T\u1eafc ho\u1ea1t \u0111\u1ed9ng th\u00ec \u0111\u00e3 \u0111\u01b0\u1ee3c ki\u1ec3m tra ph\u00f9 h\u1ee3p. Trong ch\u1ebf \u0111\u1ed9 thay th\u1ebf, t\u1ea5t c\u1ea3 c\u00e1c Quy T\u1eafc ph\u00f9 h\u1ee3p \u0111\u00e3 \u0111\u01b0\u1ee3c \u00e1p d\u1ee5ng, nh\u01b0ng sau \u0111\u00f3 c\u00e1c Quy T\u1eafc s\u1ebd ghi \u0111\u00e8 l\u00ean c\u00e1i c\u0169."
+  },
+  "tipOptItemSlideDetailsPanel": {
+    "message": "B\u1ea1n c\u0169ng c\u00f3 th\u1ec3 b\u1ea5m Alt + nh\u1ea5n v\u00e0o c\u00f4ng vi\u1ec7c \u0111\u1ec3 m\u1edf B\u1ea3ng chi ti\u1ebft"
+  },
+  "tipOptNoRuleMatch": {
+    "message": "\u00c1p d\u1ee5ng khi kh\u00f4ng c\u00f3 Quy T\u1eafc ph\u00f9 h\u1ee3p"
+  },
+  "tipOptSectionOneClick": {
+    "message": "N\u1ebfu b\u1eadt, tr\u00ecnh t\u1ea3i xu\u1ed1ng s\u1ebd t\u1ea3i v\u1ec1 ngay l\u1eadp t\u1ee9c khi b\u1ea1n nh\u1ea5n chu\u1ed9t v\u00e0o li\u00ean k\u1ebft, s\u1eed d\u1ee5ng c\u00e1c thi\u1ebft l\u1eadp m\u1eb7c \u0111\u1ecbnh (\u0111\u00e3 n\u00eau tr\u00ean), m\u00e0 kh\u00f4ng hi\u1ec7n h\u1ed9p tho\u1ea1i \u0111\u1ec3 thi\u1ebft l\u1eadp m\u1eb7t n\u1ea1 \u0111\u1eb7t t\u00ean, v.v."
+  },
+  "tipOptSectionTaskDefaults": {
+    "message": "Thi\u1ebft l\u1eadp m\u1eb7c \u0111\u1ecbnh \u0111\u01b0\u1ee3c \u00e1p d\u1ee5ng khi th\u00eam c\u00f4ng vi\u1ec7c m\u1edbi, v\u00ed d\u1ee5 nh\u01b0 \u00e1p d\u1ee5ng cho 1-Click t\u1ea3i v\u1ec1"
+  },
+  "tipRulesActive": {
+    "message": "Ch\u1ec9 c\u00e1c quy t\u1eafc ho\u1ea1t \u0111\u1ed9ng s\u1ebd \u0111\u01b0\u1ee3c s\u1eed d\u1ee5ng trong Quy t\u1eafc ph\u00f9 h\u1ee3p"
+  },
+  "tipRulesAsFilter": {
+    "message": "Hi\u1ec3n th\u1ecb nh\u01b0 b\u1ed9 l\u1ecdc c\u00f4ng vi\u1ec7c trong Qu\u1ea3n L\u00fd T\u1ea3i Xu\u1ed1ng"
+  },
+  "tipRulesRefName": {
+    "message": "T\u00ean n\u1ed9i b\u1ed9 \u0111\u1ec3 tham kh\u1ea3o quy t\u1eafc trong c\u00e1c bi\u1ec3u th\u1ee9c kh\u00e1c"
+  },
+  "tipURL": {
+    "message": "B\u1ea1n c\u00f3 th\u1ec3 nh\u1eadp nhi\u1ec1u URL ng\u0103n c\u00e1ch b\u1edfi xu\u1ed1ng d\u00f2ng; b\u1ea1n c\u00f3 th\u1ec3 b\u1eaft \u0111\u1ea7u t\u1ea3i h\u00e0ng lo\u1ea1t b\u1eb1ng c\u00e1ch s\u1eed d\u1ee5ng M\u00f4 T\u1ea3 H\u00e0ng Lo\u1ea1t."
+  },
+  "tipmsgCopySelectedURLs": {
+    "message": "B\u1ea1n c\u00f3 th\u1ec3 \u0111\u01a1n gi\u1ea3n l\u00e0 nh\u1ea5n $1 \u0111\u1ec3 sao ch\u00e9p URL c\u00e1c c\u00f4ng vi\u1ec7c \u0111\u01b0\u1ee3c ch\u1ecdn"
+  },
+  "tipmsgDoubleClick": {
+    "message": "B\u1ea1n c\u00f3 th\u1ec3 thay \u0111\u1ed5i h\u00e0nh vi nh\u1ea5n-k\u00e9p d\u01b0\u1edbi $1"
+  },
+  "tipmsgFitColumnWidth": {
+    "message": "Nh\u1ea5n-k\u00e9p v\u00e0o thay \u0111\u1ed5i k\u00edch th\u01b0\u1edbc c\u1ed9t \u0111\u1ec3 \u0111i\u1ec1u ch\u1ec9nh \u0111\u1ed9 r\u1ed9ng c\u1ed9t m\u1ed9t c\u00e1ch t\u1ef1 \u0111\u1ed9ng"
+  },
+  "tipmsgGridSelection": {
+    "message": "S\u1eed d\u1ee5ng Ctrl/Shift \u0111\u1ec3 ch\u1ecdn nhi\u1ec1u h\u00e0ng, ho\u1eb7c nh\u1ea5n $1 \u0111\u1ec3 ch\u1ecdn t\u1ea5t c\u1ea3 c\u00e1c h\u00e0ng"
+  },
+  "tipmsgNotifications": {
+    "message": "B\u1ea1n c\u00f3 th\u1ec3 thay \u0111\u1ed5i c\u00e0i \u0111\u1eb7t th\u00f4ng b\u00e1o/\u00e2m thanh d\u01b0\u1edbi $1"
+  },
+  "tipmsgOpenShortcut": {
+    "message": "C\u00e1ch \u0111\u01a1n gi\u1ea3n nh\u1ea5t \u0111\u1ec3 m\u1edf $1 l\u00e0 nh\u1ea5n $2"
+  },
+  "tipmsgSlideDetailsPanel": {
+    "message": "B\u1ea3ng chi ti\u1ebft tr\u01b0\u1ee3t c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c t\u1eaft d\u01b0\u1edbi $1"
+  },
+  "tipmsgTaskFilter": {
+    "message": "K\u00e9o v\u00e0o \u0111\u1ec3 s\u1eafp x\u1ebfp l\u1ea1i c\u00e1c b\u1ed9 l\u1ecdc c\u00f4ng vi\u1ec7c; b\u1ea1n c\u0169ng c\u00f3 th\u1ec3 th\u00eam c\u00e1c B\u1ed9 L\u1ecdc C\u00f4ng Vi\u1ec7c t\u00f9y ch\u1ec9nh d\u01b0\u1edbi $1"
+  },
+  "titleChangeBG": {
+    "message": "Thay \u0111\u1ed5i h\u00ecnh n\u1ec1n"
+  },
+  "titleNewTaskDialog": {
+    "message": "T\u1ea1o t\u00e1c v\u1ee5 M\u1edbi"
+  },
+  "titleOptions": {
+    "message": "T\u00f9y ch\u1ecdn"
+  },
+  "titleOptionsAbout": {
+    "message": "Gi\u1edbi thi\u1ec7u"
+  },
+  "titleOptionsFilter": {
+    "message": "B\u1ed9 l\u1ecdc"
+  },
+  "titleOptionsGeneral": {
+    "message": "Chung"
+  },
+  "titleOptionsHelp": {
+    "message": "Tr\u1ee3 gi\u00fap"
+  },
+  "titleOptionsInterface": {
+    "message": "Giao di\u1ec7n ng\u01b0\u1eddi d\u00f9ng"
+  },
+  "titleOptionsRules": {
+    "message": "Quy t\u1eafc"
+  },
+  "titleQuickSelection": {
+    "message": "Ch\u1ecdn Nhanh"
+  },
+  "titleRateShare": {
+    "message": "\u0110\u00e1nh gi\u00e1 v\u00e0 chia s\u1ebb!"
+  },
+  "titleSniffer": {
+    "message": "Sniffer"
+  },
+  "titleSwitchUI": {
+    "message": "Ch\u1ebf \u0111\u1ed9 hi\u1ec3n th\u1ecb"
+  },
+  "titleTaskProps": {
+    "message": "Thu\u1ed9c t\u00ednh"
+  },
+  "titleTips": {
+    "message": "M\u1eb9o"
+  },
+  "titleUpdateLog": {
+    "message": "Nh\u1eadt k\u00fd thay \u0111\u1ed5i"
+  },
+  "translateContributors": {
+    "message": "'Name, What is it?', quexuantung2001, pnhoang96, anh.nguyen-le, Nam Nguy\u1ec5n, tthoamt etc."
+  },
+  "uilang": {
+    "message": "vi"
+  },
+  "uilangName": {
+    "message": "Vietnamese"
+  },
+  "unitBytes": {
+    "message": "$1 byte"
+  },
+  "unitDay": {
+    "message": "$1 ng\u00e0y"
+  },
+  "unitDays": {
+    "message": "$1 ng\u00e0y"
+  },
+  "unitHour": {
+    "message": "$1 gi\u1edd"
+  },
+  "unitHours": {
+    "message": "$1 gi\u1edd"
+  },
+  "unitMinute": {
+    "message": "$1 ph\u00fat"
+  },
+  "unitMinutes": {
+    "message": "$1 ph\u00fat"
+  },
+  "unitSecond": {
+    "message": "$1 gi\u00e2y"
+  },
+  "unitSeconds": {
+    "message": "$1 gi\u00e2y"
+  }
+}

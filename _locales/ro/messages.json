@@ -1,0 +1,9 @@
+{
+	"extName":{"message": "Chrono Download Manager"},
+    "uilangName":{"message": "Romanian"},
+
+    "chromesysDownloadLocation":{"message": "Loca\u021bia de desc\u0103rcare"},
+    "chromesysShowAdvSettings":{"message": "Afi\u0219a\u021bi set\u0103rile avansate..."},
+    "chromesysDownloadsSection":{"message": "Desc\u0103rc\u0103ri"},
+    "chromesysAllowFileAccess":{"message": "Permite accesul la adresele URL de fi\u0219iere"}
+}

@@ -1,0 +1,9 @@
+{
+	"extName":{"message": "Chrono Download Manager"},
+    "uilangName":{"message": "Latvian"},
+
+    "chromesysDownloadLocation":{"message": "Lejupiel\u0101des atra\u0161an\u0101s vieta"},
+    "chromesysShowAdvSettings":{"message": "R\u0101d\u012bt papildu iestat\u012bjumus..."},
+    "chromesysDownloadsSection":{"message": "Lejupiel\u0101des"},
+    "chromesysAllowFileAccess":{"message": "At\u013caut piek\u013cuvi faila vietr\u0101\u017eiem URL"}
+}
