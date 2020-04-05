@@ -1,2 +1,2 @@
 # Chrono
-Chrono, It was removed from Chrome Web Store
+Chrono, It was removed from Chrome Web Store.Back Up.
